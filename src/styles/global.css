@@ -1,0 +1,212 @@
+:root {
+  --bg: #f6f4ee;
+  --ink: #16181d;
+  --muted: #6b6f7a;
+  --line: #dcd8cd;
+  --card: #ffffff;
+  --accent: #4b5b8a;
+  --accent-ink: #ffffff;
+  --chip: #eceae2;
+  --max: 1200px;
+  --font: -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { color-scheme: light; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 15px;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.wrap { max-width: var(--max); margin: 0 auto; padding: 0 20px; }
+
+/* Header ------------------------------------------------------------- */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.site-header .wrap {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+}
+.brand {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-size: 1.15rem;
+}
+.brand span { color: var(--accent); }
+.nav a { margin-left: 22px; font-weight: 500; color: var(--muted); }
+.nav a[aria-current] { color: var(--ink); }
+
+/* Page title + filters ------------------------------------------------ */
+.page-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 36px 0 12px;
+}
+h1 { margin: 0; font-size: 2rem; letter-spacing: -0.03em; font-weight: 800; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip {
+  border: 1px solid var(--line);
+  background: var(--chip);
+  border-radius: 999px;
+  padding: 4px 11px;
+  font-size: 0.82rem;
+  cursor: pointer;
+  font-family: inherit;
+  color: var(--ink);
+}
+.chip[aria-pressed='true'] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+.chip:hover { text-decoration: none; filter: brightness(0.97); }
+
+/* Festivals ------------------------------------------------------------ */
+.festivals { padding: 8px 0 4px; }
+.festivals-head {
+  margin: 0 0 10px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.festival-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 12px;
+}
+.festival {
+  display: block;
+  border-radius: 10px;
+  padding: 14px 16px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  border: 1px solid var(--accent);
+}
+.festival:hover { text-decoration: none; filter: brightness(1.08); }
+.festival[hidden] { display: none; }
+.festival-dates { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.85; }
+.festival-name { font-size: 1.15rem; font-weight: 800; letter-spacing: -0.01em; margin: 4px 0 2px; }
+.festival-meta { font-size: 0.85rem; opacity: 0.9; }
+.festival-sample { font-size: 0.8rem; opacity: 0.75; margin-top: 6px; }
+
+/* Days ---------------------------------------------------------------- */
+.day { padding: 22px 0 8px; }
+.day-head {
+  position: sticky;
+  top: 56px;
+  z-index: 5;
+  background: var(--bg);
+  padding: 8px 0;
+  margin: 0 0 12px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  border-bottom: 1px solid var(--line);
+}
+.day-head small { color: var(--muted); font-weight: 500; margin-left: 8px; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 18px;
+}
+
+/* Card ---------------------------------------------------------------- */
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.card[hidden] { display: none; }
+.card .art {
+  aspect-ratio: 16 / 9;
+  background: #2a2d36;
+  overflow: hidden;
+}
+.card .art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.card .art.poster img { object-fit: cover; object-position: center 20%; }
+.card .art .placeholder {
+  height: 100%;
+  display: grid;
+  place-items: center;
+  color: #9aa0b0;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+.card .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 4px; flex: 1; }
+.card .title { font-size: 1.08rem; font-weight: 700; letter-spacing: -0.01em; line-height: 1.2; }
+.card .note { color: var(--accent); font-size: 0.85rem; font-weight: 600; }
+.card .meta { color: var(--muted); font-size: 0.85rem; }
+.card .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 2px; }
+.tag {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 4px;
+  background: var(--ink);
+  color: #fff;
+}
+.tag.format { background: #b2432f; }
+.card .venue { margin-top: auto; padding-top: 8px; font-weight: 600; font-size: 0.9rem; }
+.card .venue a:hover { color: var(--accent); }
+.times { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.times a {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 4px 9px;
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+  background: var(--chip);
+}
+.times a:hover { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); text-decoration: none; }
+
+.empty {
+  padding: 60px 0;
+  color: var(--muted);
+  text-align: center;
+}
+.empty code { background: var(--chip); padding: 2px 6px; border-radius: 4px; }
+
+/* Footer --------------------------------------------------------------- */
+.site-footer {
+  margin-top: 60px;
+  padding: 28px 0 40px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+.site-footer a { color: var(--ink); }
+
+/* About ---------------------------------------------------------------- */
+.prose { max-width: 680px; padding: 24px 0; font-size: 1.05rem; line-height: 1.6; }
+.prose h1 { margin-bottom: 18px; }
+.prose p { margin: 0 0 16px; }
+
+@media (max-width: 600px) {
+  h1 { font-size: 1.6rem; }
+  .grid { grid-template-columns: 1fr; }
+}

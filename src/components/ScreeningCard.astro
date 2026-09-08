@@ -1,0 +1,36 @@
+---
+import { runtime, time12, type Card } from '../lib/schedule';
+
+interface Props {
+  card: Card;
+}
+const { card } = Astro.props;
+const { film, venue } = card;
+const art = film.backdrop ?? film.poster;
+const meta = [film.year, film.genre, runtime(film.runtime)].filter(Boolean).join(', ');
+---
+
+<article class="card" data-venue={venue.id}>
+  <div class:list={['art', { poster: !film.backdrop && film.poster }]}>
+    {art ? <img src={art} alt={film.title} loading="lazy" /> : <div class="placeholder">No image</div>}
+  </div>
+  <div class="body">
+    <div class="title">{film.title}</div>
+    {card.note ? <div class="note">{card.note}</div> : null}
+    {card.format ? <div class="tags"><span class="tag format">{card.format}</span></div> : null}
+    {film.director ? <div class="meta">{film.director}</div> : null}
+    {meta ? <div class="meta">{meta}</div> : null}
+    <div class="venue">
+      {venue.url ? <a href={venue.url} target="_blank" rel="noopener">{venue.name}</a> : venue.name}
+    </div>
+    <div class="times">
+      {card.times.map((t) =>
+        t.url ? (
+          <a href={t.url} target="_blank" rel="noopener">{time12(t.time)}</a>
+        ) : (
+          <a>{time12(t.time)}</a>
+        ),
+      )}
+    </div>
+  </div>
+</article>

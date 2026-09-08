@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-09-08T18:59:11.001Z",
+  "films": {
+    "tmdb:149": {
+      "key": "tmdb:149",
+      "title": "Akira",
+      "year": 1988,
+      "tmdbId": 149,
+      "releaseDate": "1988-07-16"
+    }
+  },
+  "screenings": [
+    {
+      "id": "roxie:2026-09-10:19:00:tmdb:149",
+      "venueId": "roxie",
+      "filmKey": "tmdb:149",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "url": "https://roxie.com/film/akira/",
+      "source": "roxie"
+    }
+  ],
+  "festivals": []
+}

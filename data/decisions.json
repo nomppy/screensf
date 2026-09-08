@@ -1,0 +1,323 @@
+{
+  "filipinana": {
+    "decision": "include",
+    "title": "Filipiñana",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:37:20.383Z"
+  },
+  "american doctor": {
+    "decision": "include",
+    "title": "American Doctor",
+    "tmdbId": 1596332,
+    "decidedAt": "2026-09-08T18:37:29.126Z"
+  },
+  "union county": {
+    "decision": "include",
+    "title": "Union County",
+    "tmdbId": 1482938,
+    "decidedAt": "2026-09-08T18:37:32.141Z"
+  },
+  "mary oliver saved by the beauty of the world": {
+    "decision": "include",
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "tmdbId": 1631822,
+    "decidedAt": "2026-09-08T18:37:38.686Z"
+  },
+  "teenage sex and death at camp miasma": {
+    "decision": "include",
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "tmdbId": 1240889,
+    "decidedAt": "2026-09-08T18:38:28.433Z"
+  },
+  "barrio triste": {
+    "decision": "include",
+    "title": "Barrio triste",
+    "tmdbId": 1310573,
+    "decidedAt": "2026-09-08T18:38:42.994Z"
+  },
+  "roxie first looks 14": {
+    "decision": "exclude",
+    "title": "Roxie First Looks #14",
+    "decidedAt": "2026-09-08T18:38:47.307Z"
+  },
+  "big cheese": {
+    "decision": "include",
+    "title": "The Big Cheese",
+    "tmdbId": 252493,
+    "decidedAt": "2026-09-08T18:39:55.916Z"
+  },
+  "samurai and the prisoner": {
+    "decision": "include",
+    "title": "The Samurai and the Prisoner",
+    "tmdbId": 1620313,
+    "decidedAt": "2026-09-08T18:40:01.208Z"
+  },
+  "barbara forever": {
+    "decision": "include",
+    "title": "Barbara Forever",
+    "tmdbId": 1596326,
+    "decidedAt": "2026-09-08T18:40:09.124Z"
+  },
+  "larry reed a life in light and shadow": {
+    "decision": "include",
+    "title": "Larry Reed: A Life in Light and Shadow",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:40:31.181Z"
+  },
+  "brailled it": {
+    "decision": "include",
+    "title": "Brailled It",
+    "tmdbId": 1610748,
+    "decidedAt": "2026-09-08T18:40:45.060Z"
+  },
+  "oldest person in the world": {
+    "decision": "include",
+    "title": "The Oldest Person In The World",
+    "tmdbId": 1596302,
+    "decidedAt": "2026-09-08T18:40:48.148Z"
+  },
+  "re vision my name aint suzie": {
+    "decision": "include",
+    "title": "Re:Vision: My Name Ain’t Suzie",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:10.840Z"
+  },
+  "re vision valley of the bees": {
+    "decision": "include",
+    "title": "Re:Vision: Valley of the Bees",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:18.238Z"
+  },
+  "re vision dakan": {
+    "decision": "include",
+    "title": "Re:Vision: Dakan",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:20.349Z"
+  },
+  "re vision the outcasts": {
+    "decision": "include",
+    "title": "Re:Vision: The Outcasts",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:24.828Z"
+  },
+  "re vision i am with a monk": {
+    "decision": "include",
+    "title": "Re:Vision: I Am With A Monk",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:43.948Z"
+  },
+  "dreamers and i": {
+    "decision": "include",
+    "title": "The Dreamers And I",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:47.673Z"
+  },
+  "re vision araya": {
+    "decision": "include",
+    "title": "Re:Vision: Araya",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:50.042Z"
+  },
+  "re vision the dislocation of amber": {
+    "decision": "include",
+    "title": "Re:Vision: The Dislocation of Amber",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:51.659Z"
+  },
+  "re vision gehenu lamai the girls": {
+    "decision": "include",
+    "title": "Re:Vision: Gehenu Lamai (The Girls)",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:54.103Z"
+  },
+  "re vision lepers and sex aka santo vs the riders of terror": {
+    "decision": "include",
+    "title": "Re:Vision: Lepers & Sex AKA Santo vs The Riders of Terror",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:57.598Z"
+  },
+  "re vision tri": {
+    "decision": "include",
+    "title": "Re:Vision: Tri",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:41:59.965Z"
+  },
+  "re vision the waiting room": {
+    "decision": "include",
+    "title": "Re:Vision: The Waiting Room",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:42:01.872Z"
+  },
+  "re vision the garden of eden": {
+    "decision": "include",
+    "title": "Re:Vision: The Garden of Eden",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:42:03.989Z"
+  },
+  "re vision 8 girls in a boat": {
+    "decision": "include",
+    "title": "Re:Vision: 8 Girls in a Boat",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:42:05.593Z"
+  },
+  "re vision melody of murder": {
+    "decision": "include",
+    "title": "Re:Vision: Melody of Murder",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:42:07.141Z"
+  },
+  "zoe presents memorex rexsexex y mas": {
+    "decision": "include",
+    "title": "Zoé Presents: Memorex + Rexsexex y Más",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:42:27.411Z"
+  },
+  "akira": {
+    "decision": "include",
+    "title": "Akira 4K ~ 1:30 PM, 4:30 PM &amp; 7:30 PM (Subtitled)",
+    "tmdbId": 149,
+    "decidedAt": "2026-09-08T18:43:09.737Z"
+  },
+  "cocoon one summer of girlhood": {
+    "decision": "include",
+    "title": "cocoon – One Summer of Girlhood ~ 5 PM (Subtitled) ",
+    "tmdbId": 1452267,
+    "decidedAt": "2026-09-08T18:43:21.432Z"
+  },
+  "boorman and the devil": {
+    "decision": "include",
+    "title": "Boorman and the Devil ~ 7:30 PM (Q&amp;A W/ Doc Interviewee Joseph McBride and Critic G. Allen Johnson)",
+    "tmdbId": 1517111,
+    "decidedAt": "2026-09-08T18:43:28.502Z"
+  },
+  "twin peaks fest season 1 ep 1 northwest passage": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Season 1, Ep. 1 (Northwest Passage) ~ 6 PM",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:43:46.834Z"
+  },
+  "twin peaks fest the return ep 1 and amp 2 my log has a message for you the stars turn and a time presents itself": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: The Return, Ep. 1 &amp; 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself) ~ 7 PM ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:43:49.587Z"
+  },
+  "twin peaks fest season 1 ep 2 and amp 3 traces to nowhere zen or the skill to catch a killer": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Season 1, Ep. 2 &amp; 3 (Traces to Nowhere/Zen, Or the Skill To Catch a Killer) ~ 8 PM ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:43:55.174Z"
+  },
+  "twin peaks fest season 1 ep 4 and amp 5 rest in pain the one armed man": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Season 1, Ep. 4 &amp; 5 (Rest in Pain/The One-Armed Man) ~ 1 PM",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:43:57.574Z"
+  },
+  "twin peaks fest season 1 ep 6 7 and amp 8 coopers dreams the realization the last evening": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Season 1, Ep. 6, 7, &amp; 8 (Cooper's Dreams/The Realization/The Last Evening) ~ 3 PM ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:00.046Z"
+  },
+  "twin peaks fest season 2 ep 1 may the giant be with you": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Season 2, Ep. 1 (May The Giant Be With You) ~ 6 PM ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:03.225Z"
+  },
+  "twin peaks fest music of the red room performed by marc capelle": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Music of the Red Room (Performed by Marc Capelle) ~ 7 PM",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:05.832Z"
+  },
+  "twin peaks fest the return ep 8 gotta light": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: The Return, Ep. 8 (Gotta Light) ~ 8 PM  ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:47.251Z"
+  },
+  "twin peaks fest fire walk with me": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Fire Walk With Me ~ 8 PM ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:50.220Z"
+  },
+  "twin peaks fest season 2 ep 6 and amp 7 demons lonely souls": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Season 2, Ep. 6 &amp; 7 (Demons/Lonely Souls) ~ 2 PM ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:52.557Z"
+  },
+  "twin peaks fest season 2 ep 8 and amp 9 drive with a dead girl arbitrary law": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Season 2, Ep. 8 &amp; 9 (Drive with a Dead Girl/Arbitrary Law) ~ 4 PM ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:55.341Z"
+  },
+  "twin peaks fest the return ep 1 2 and amp 8 my log has a message for you the stars turn and a time presents itself gotta light": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: The Return, Ep. 1, 2, &amp; 8 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself/Gotta Light?) ~ 6 PM ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:57.599Z"
+  },
+  "twin peaks fest season 2 ep 22 beyond life and death": {
+    "decision": "include",
+    "title": "TWIN PEAKS FEST: Season 2, Ep. 22 (Beyond Life and Death) ~ 8:45 PM",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:44:59.753Z"
+  },
+  "super shangri la": {
+    "decision": "include",
+    "title": "Super Shangri-La ~ 7 PM  ",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:45:32.573Z"
+  },
+  "twilight": {
+    "decision": "include",
+    "title": "Twilight (1999) ~ 4:30 PM &amp; 7:30 PM (Presented on 35mm by Odyssey Film Institute)",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:46:11.715Z"
+  },
+  "comedy night at the balboa headliner scott capurro": {
+    "decision": "exclude",
+    "title": " Comedy Night at the Balboa (Headliner Scott Capurro) ~ Doors at 7:30 PM/Show at 8 PM",
+    "decidedAt": "2026-09-08T18:46:54.447Z"
+  },
+  "last picture shows": {
+    "decision": "exclude",
+    "title": "The Last Picture Shows ~ 7:30 PM (Director Rustin Thompson in Person) ",
+    "decidedAt": "2026-09-08T18:46:58.599Z"
+  },
+  "bea arthur the documentary": {
+    "decision": "include",
+    "title": "Bea Arthur: The Documentary ~ 7:30 PM (Director Dan Watt in Person) ",
+    "tmdbId": 1765982,
+    "decidedAt": "2026-09-08T18:47:23.259Z"
+  },
+  "9 to 5": {
+    "decision": "include",
+    "title": "9 to 5",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:48:52.752Z"
+  },
+  "finn wolfhard": {
+    "decision": "include",
+    "title": "Finn Wolfhard",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:48:55.916Z"
+  },
+  "claudio simonettis goblin performs the live score to tenebre": {
+    "decision": "include",
+    "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre",
+    "tmdbId": null,
+    "decidedAt": "2026-09-08T18:48:57.454Z"
+  },
+  "cameron winter at carnegie hall": {
+    "decision": "include",
+    "title": "Cameron Winter at Carnegie Hall",
+    "tmdbId": 1597242,
+    "decidedAt": "2026-09-08T18:49:04.926Z"
+  }
+}

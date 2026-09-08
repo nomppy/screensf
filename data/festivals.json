@@ -1,0 +1,12 @@
+{
+  "_comment": "Titles, notes or URLs matching any pattern (case-insensitive regex) are treated as festival programming: no TMDB lookup, no prompt, folded into one entry per festival per venue. Add a festival's name here when a venue lists it without the word 'festival'.",
+  "patterns": [
+    "\\bfestivals?\\b",
+    "\\bfest\\b",
+    "\\bfest\\s*20\\d\\d\\b",
+    "indiefest|docfest|frameline|cinequest|sffilm|noir city|mostly british|silent film|animation show of shows|cinema italia|berlin & beyond|arab film|jewish film|caamfest|3rd i|hong kong cinema|another hole in the head|midnites for maniacs",
+    "\\bshorts?\\s+(program|block|night|showcase|competition)\\b",
+    "\\bmixtape\\b",
+    "twin peaks fest|vampire film fest"
+  ]
+}

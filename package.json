@@ -1,0 +1,25 @@
+{
+  "name": "screenbay",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "sync": "node scripts/sync.ts",
+    "add": "node scripts/add.ts",
+    "watchlist": "node scripts/watchlist.ts",
+    "check": "node --check scripts/sync.ts && node --check scripts/review.ts && node --check scripts/add.ts && node --check scripts/watchlist.ts",
+    "demo": "cp data/sample.json data/screenings.json",
+    "review": "node scripts/review.ts",
+    "sync:prompt": "node scripts/sync.ts --prompt"
+  },
+  "dependencies": {
+    "astro": "^5.12.0",
+    "cheerio": "^1.0.0"
+  }
+}

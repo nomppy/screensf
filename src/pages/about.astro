@@ -1,0 +1,28 @@
+---
+import Layout from '../components/Layout.astro';
+import { SITE_NAME } from '../lib/schedule';
+import venues from '../../data/venues.json';
+const tracked = venues.filter((v) => v.enabled);
+---
+
+<Layout title="About" current="about">
+  <div class="prose">
+    <h1>About</h1>
+    <p>
+      {SITE_NAME} is a guide to repertory listings and special screenings at the Bay Area's independent
+      theaters: one page, every day, arranged by showtime.
+    </p>
+    <p>
+      Wide-release blockbusters are left off on purpose. If it is playing at every multiplex in the region, you
+      do not need us to find it.
+    </p>
+    <p>
+      Currently tracking {tracked.map((v, i) => (
+        <>
+          <a href={v.url}>{v.name}</a>{i < tracked.length - 2 ? ', ' : i === tracked.length - 2 ? ' and ' : ''}
+        </>
+      ))}.
+    </p>
+    <p>Listings are gathered from the venues' own calendars and checked by hand. Film details and artwork come from TMDB.</p>
+  </div>
+</Layout>

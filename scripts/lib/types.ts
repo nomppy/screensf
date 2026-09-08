@@ -1,0 +1,104 @@
+export interface Venue {
+  id: string;
+  name: string;
+  shortName: string;
+  city: string;
+  url: string;
+  enabled: boolean;
+  scraper?: string;
+  calendarUrl?: string;
+}
+
+/** A single showtime as scraped from a venue, before any TMDB enrichment. */
+export interface RawScreening {
+  venueId: string;
+  /** Title exactly as the venue lists it. */
+  rawTitle: string;
+  /** Local date, YYYY-MM-DD (America/Los_Angeles). */
+  date: string;
+  /** Local time, HH:MM 24h. */
+  time: string;
+  /** Venue's event page or ticket link. */
+  url: string;
+  /** Free text the venue attached: Q&A, live score, etc. */
+  note?: string;
+  /** Projection format if the venue states it: 35mm, 70mm, 16mm, 4K, DCP. */
+  format?: string;
+}
+
+export interface Film {
+  key: string;
+  title: string;
+  year?: number;
+  director?: string;
+  runtime?: number;
+  genre?: string;
+  poster?: string;
+  backdrop?: string;
+  tmdbId?: number;
+  popularity?: number;
+  releaseDate?: string;
+  /** Present when TMDB placed this film in the US "now playing" list at sync time. */
+  nowPlaying?: boolean;
+}
+
+export interface Screening {
+  id: string;
+  venueId: string;
+  filmKey: string;
+  date: string;
+  time: string;
+  url: string;
+  note?: string;
+  format?: string;
+  source: string;
+}
+
+export interface Festival {
+  key: string;
+  name: string;
+  venueId: string;
+  startDate: string;
+  endDate: string;
+  url: string;
+  /** Number of individual showtimes folded into this entry. */
+  showtimes: number;
+  /** A few of the film titles listed under the festival, for the card. */
+  sample: string[];
+}
+
+export interface ScheduleData {
+  generatedAt: string | null;
+  films: Record<string, Film>;
+  screenings: Screening[];
+  festivals?: Festival[];
+}
+
+export type Decision = 'include' | 'exclude';
+
+export interface DecisionRecord {
+  decision: Decision;
+  title: string;
+  /** Overrides the TMDB pick when the user chose an alternative match. */
+  tmdbId?: number | null;
+  decidedAt: string;
+}
+
+export interface TmdbMovie {
+  id: number;
+  title: string;
+  original_title?: string;
+  release_date?: string;
+  popularity?: number;
+  vote_count?: number;
+  poster_path?: string | null;
+  backdrop_path?: string | null;
+  genre_ids?: number[];
+  overview?: string;
+}
+
+export interface TmdbDetails extends TmdbMovie {
+  runtime?: number;
+  genres?: { id: number; name: string }[];
+  credits?: { crew?: { job: string; name: string }[] };
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "roxie",
+    "name": "Roxie Theater",
+    "shortName": "Roxie",
+    "city": "San Francisco",
+    "url": "https://roxie.com",
+    "enabled": true
+  },
+  {
+    "id": "balboa",
+    "name": "Balboa Theater",
+    "shortName": "Balboa",
+    "city": "San Francisco",
+    "url": "https://www.balboamovies.com",
+    "enabled": true,
+    "scraper": "cinemasf",
+    "calendarUrl": "https://www.balboamovies.com/calendar-of-events"
+  },
+  {
+    "id": "vogue",
+    "name": "Vogue Theatre",
+    "shortName": "Vogue",
+    "city": "San Francisco",
+    "url": "https://voguemovies.com",
+    "enabled": false,
+    "scraper": "cinemasf",
+    "calendarUrl": "https://voguemovies.com/calendar-of-events"
+  },
+  {
+    "id": "4star",
+    "name": "4 Star Theater",
+    "shortName": "4 Star",
+    "city": "San Francisco",
+    "url": "https://www.4-star-movies.com",
+    "enabled": false,
+    "scraper": "cinemasf",
+    "calendarUrl": "https://www.4-star-movies.com/calendar-of-events"
+  },
+  {
+    "id": "castro",
+    "name": "Castro Theatre",
+    "shortName": "Castro",
+    "city": "San Francisco",
+    "url": "https://thecastro.com",
+    "enabled": true
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-09-07T18:00:00.000Z",
+  "films": {
+    "tmdb:149": {
+      "key": "tmdb:149",
+      "title": "Akira",
+      "year": 1988,
+      "director": "Katsuhiro Otomo",
+      "runtime": 124,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+      "tmdbId": 149
+    },
+    "t:hole:1998": {
+      "key": "t:hole:1998",
+      "title": "The Hole",
+      "year": 1998,
+      "director": "Tsai Ming-liang",
+      "runtime": 95,
+      "genre": "Drama"
+    },
+    "t:legend:1985": {
+      "key": "t:legend:1985",
+      "title": "Legend",
+      "year": 1985,
+      "director": "Ridley Scott",
+      "runtime": 94,
+      "genre": "Fantasy"
+    },
+    "t:creature from the black lagoon:1954": {
+      "key": "t:creature from the black lagoon:1954",
+      "title": "Creature from the Black Lagoon",
+      "year": 1954,
+      "director": "Jack Arnold",
+      "runtime": 79,
+      "genre": "Horror"
+    }
+  },
+  "screenings": [
+    { "id": "balboa:2026-09-07:13:30:tmdb:149", "venueId": "balboa", "filmKey": "tmdb:149", "date": "2026-09-07", "time": "13:30", "url": "https://www.balboamovies.com/calendar-of-events/akira-september-7", "format": "4K", "note": "Presented with English subtitles in a new 4K restoration", "source": "balboa" },
+    { "id": "balboa:2026-09-07:16:30:tmdb:149", "venueId": "balboa", "filmKey": "tmdb:149", "date": "2026-09-07", "time": "16:30", "url": "https://www.balboamovies.com/calendar-of-events/akira-september-7", "format": "4K", "source": "balboa" },
+    { "id": "balboa:2026-09-07:19:30:tmdb:149", "venueId": "balboa", "filmKey": "tmdb:149", "date": "2026-09-07", "time": "19:30", "url": "https://www.balboamovies.com/calendar-of-events/akira-september-7", "format": "4K", "source": "balboa" },
+    { "id": "balboa:2026-09-07:19:00:t:creature from the black lagoon:1954", "venueId": "balboa", "filmKey": "t:creature from the black lagoon:1954", "date": "2026-09-07", "time": "19:00", "url": "https://www.balboamovies.com/calendar-of-events/creature-from-the-black-lagoon-september-7", "format": "3D", "note": "Anaglyph 3-D", "source": "balboa" },
+    { "id": "roxie:2026-09-08:20:15:t:hole:1998", "venueId": "roxie", "filmKey": "t:hole:1998", "date": "2026-09-08", "time": "20:15", "url": "https://roxie.com/film/the-hole-newly-struck-35mm-print/", "format": "35mm", "note": "Newly struck 35mm print; final screening", "source": "roxie" },
+    { "id": "balboa:2026-09-08:19:00:tmdb:149", "venueId": "balboa", "filmKey": "tmdb:149", "date": "2026-09-08", "time": "19:00", "url": "https://www.balboamovies.com/calendar-of-events/akira-september-7", "format": "4K", "source": "balboa" },
+    { "id": "castro:2026-09-09:19:30:t:legend:1985", "venueId": "castro", "filmKey": "t:legend:1985", "date": "2026-09-09", "time": "19:30", "url": "https://thecastro.com/events/legend-260909", "note": "Honoring Tim Curry, hosted by Peaches Christ", "source": "castro" },
+    { "id": "balboa:2026-09-09:19:00:tmdb:149", "venueId": "balboa", "filmKey": "tmdb:149", "date": "2026-09-09", "time": "19:00", "url": "https://www.balboamovies.com/calendar-of-events/akira-september-7", "format": "4K", "source": "balboa" },
+    { "id": "balboa:2026-09-10:19:00:tmdb:149", "venueId": "balboa", "filmKey": "tmdb:149", "date": "2026-09-10", "time": "19:00", "url": "https://www.balboamovies.com/calendar-of-events/akira-september-7", "format": "4K", "source": "balboa" }
+  ]
+}

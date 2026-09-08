@@ -1,0 +1,45 @@
+---
+import '../styles/global.css';
+import { SITE_NAME, SITE_TAGLINE, generatedAt } from '../lib/schedule';
+
+interface Props {
+  title?: string;
+  current?: 'schedule' | 'about';
+}
+const { title, current = 'schedule' } = Astro.props;
+const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
+const updated = generatedAt
+  ? new Date(generatedAt).toLocaleString('en-US', { timeZone: 'America/Los_Angeles', dateStyle: 'medium', timeStyle: 'short' })
+  : null;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={SITE_TAGLINE} />
+    <meta name="theme-color" content="#4b5b8a" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <a class="brand" href="/">Screen <span>Bay</span></a>
+        <nav class="nav">
+          <a href="/" aria-current={current === 'schedule' ? 'page' : undefined}>Schedule</a>
+          <a href="/about" aria-current={current === 'about' ? 'page' : undefined}>About</a>
+        </nav>
+      </div>
+    </header>
+    <main class="wrap">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap">
+        {updated ? <span>Listings updated {updated} PT. </span> : null}
+        Film data and images from <a href="https://www.themoviedb.org/">TMDB</a>. Always confirm showtimes with the venue.
+      </div>
+    </footer>
+  </body>
+</html>
