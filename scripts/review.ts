@@ -365,11 +365,9 @@ const PAGE = /* html */ `<!doctype html>
   <div class="counts" id="counts">loading…</div>
   <div class="tabs" id="tabs">
     <button class="chip" data-tab="pending" aria-pressed="true">Pending</button>
-    <button class="chip" data-tab="autoin" aria-pressed="false" title="Included by the classifier without asking (repertory, or settled releases). Exclude here to override.">Auto-included</button>
-    <button class="chip" data-tab="autoout" aria-pressed="false" title="Dropped by the classifier without asking (wide releases, first-run bookings). Include here to override.">Auto-excluded</button>
-    <button class="chip" data-tab="included" aria-pressed="false">Included</button>
+    <button class="chip" data-tab="included" aria-pressed="false" title="Everything on the site with a TMDB match: your decisions and the classifier's automatic includes (grey badge)">Included</button>
     <button class="chip" data-tab="titleonly" aria-pressed="false">Title only</button>
-    <button class="chip" data-tab="excluded" aria-pressed="false">Excluded</button>
+    <button class="chip" data-tab="excluded" aria-pressed="false" title="Everything kept off the site: your decisions and the classifier's automatic excludes (grey badge)">Excluded</button>
     <button class="chip" data-tab="edited" aria-pressed="false">Edited</button>
     <button class="chip" data-tab="all" aria-pressed="false">All</button>
   </div>
@@ -519,6 +517,8 @@ function inTab(i) {
   if (t==='all') return true;
   if (t==='pending') return st==='pending' || state.recent.has(i.key);
   if (t==='edited') return !!(i.decision && (i.decision.edits || i.decision.image));
+  if (t==='included') return st==='included' || st==='autoin';
+  if (t==='excluded') return st==='excluded' || st==='autoout';
   return st===t;
 }
 function visible() { return state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i) && (state.reason==='all' || reasonGroup(i.reason)===state.reason)); }
@@ -634,7 +634,8 @@ function updateCounts() {
   const n = { pending:0, autoin:0, autoout:0, included:0, titleonly:0, excluded:0, edited:0 };
   for (const i of state.items) { n[statusOf(i)]++; if (i.decision && (i.decision.edits || i.decision.image)) n.edited++; }
   $('#counts').textContent = n.pending+' pending · '+(n.included+n.titleonly+n.excluded)+' decided by you · '+(n.autoin+n.autoout)+' by the classifier';
-  const labels = { pending:'Pending', autoin:'Auto-included', autoout:'Auto-excluded', included:'Included', titleonly:'Title only', excluded:'Excluded', edited:'Edited' };
+  n.included += n.autoin; n.excluded += n.autoout;
+  const labels = { pending:'Pending', included:'Included', titleonly:'Title only', excluded:'Excluded', edited:'Edited' };
   $('#tabs').querySelectorAll('button').forEach(b => { const t=b.dataset.tab; if (labels[t]) b.textContent = labels[t]+' '+n[t]; });
 }
 let toastTimer = null;
