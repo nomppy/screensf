@@ -432,8 +432,8 @@ const previewArt = (i) => { const u=U(i); if (u.art) return { src:u.art, label:(
 const EDIT_FIELDS = ['title','year','director','runtime','genre','overview'];
 /** Compare the venue's director/year with the selected TMDB film: surname match, year within one. */
 function agreement(h, f) {
-  const surname = (n) => n.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z ]+/g,' ').trim().split(/\s+/).pop();
-  const names = (s) => String(s).split(/,|&|\band\b|\//i).map(x=>x.trim()).filter(Boolean);
+  const surname = (n) => n.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLowerCase().replace(/[^a-z ]+/g,' ').trim().split(/\\s+/).pop();
+  const names = (s) => String(s).split(/,|&|\\band\\b|[/]/i).map(x=>x.trim()).filter(Boolean);
   const out = [];
   if (h.director && f.director) { const ok = names(h.director).some(a => names(f.director).some(b => surname(a)===surname(b))); out.push(ok ? '<span class="agree ok" title="Venue and TMDB name the same director">✓ director</span>' : '<span class="agree bad" title="Venue lists a different director">✗ director</span>'); }
   if (h.year && f.year) { const ok = Math.abs(h.year-f.year)<=1; out.push(ok ? '<span class="agree ok" title="Year matches the venue listing">✓ year</span>' : '<span class="agree bad" title="Venue lists '+h.year+'">✗ year</span>'); }
