@@ -88,7 +88,7 @@ Keyboard shortcuts (press `h` `j` `k` `l` with nothing focused to focus the firs
 | `n` | Exclude |
 | `u` | Undo the focused card's decision, or the last decision made |
 
-You are never asked about the same title twice. A second chip row filters by the classifier's reason (No TMDB match, Uncertain match, Now playing, New release, and so on) with counts for the current tab and venue. The header tabs filter by status: Pending, Included, Title only, Excluded, Edited (a hand-edited card or a custom artwork pick), and All, each with a count. Open a decided card from any of them and use Undo, or change the selection and press Save changes.
+You are never asked about the same title twice. A second chip row filters by the classifier's reason (No TMDB match, Uncertain match, Now playing, New release, and so on) with counts for the current tab and venue. The header tabs filter by status: Pending, Auto-included and Auto-excluded (the classifier's own calls, which never reach Pending; press Include or Exclude on one to override it), Included, Title only, Excluded, Edited (a hand-edited card or a custom artwork pick), and All, each with a count. Open a decided card from any of them and use Undo, or change the selection and press Save changes.
 
 **Rebuild now** in the header regenerates `data/screenings.json` from the last sync plus your decisions. This already happens automatically after every decision, so you only need it if a rebuild failed (the terminal running `npm run review` prints the error).
 

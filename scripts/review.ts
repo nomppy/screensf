@@ -141,9 +141,7 @@ const server = createServer(async (req, res) => {
       const snap = loadResolved();
       if (!snap) return json(res, 200, { error: 'No snapshot yet. Run `npm run sync` first.' });
       const decisions = loadDecisions();
-      const items = snap.items
-        .filter((i) => i.action === 'ask' || decisions[i.key])
-        .map((i) => view(i, decisions[i.key]));
+      const items = snap.items.map((i) => view(i, decisions[i.key]));
       const autoIncluded = snap.items.filter((i) => i.action === 'include' && !decisions[i.key]).length;
       const autoExcluded = snap.items.filter((i) => i.action === 'exclude' && !decisions[i.key]).length;
       return json(res, 200, { generatedAt: snap.generatedAt, venues: snap.venues, items, autoIncluded, autoExcluded, lastBuild, building });
@@ -297,6 +295,8 @@ const PAGE = /* html */ `<!doctype html>
   .sidecap b { color:#dfe2ea; font-weight:600 }
   .badge { position:absolute; top:8px; left:8px; font-size:.7rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; padding:3px 7px; border-radius:5px; color:#fff; background:var(--ok); z-index:1 }
   .badge.exclude { background:var(--no) }
+  .badge.auto { background:#5b6270 }
+  .item.auto.include { border-color:color-mix(in srgb,var(--ok) 45%,var(--line)) } .item.auto.exclude { border-color:color-mix(in srgb,var(--no) 45%,var(--line)); opacity:.85 }
   .body { padding:16px 18px 16px; display:flex; flex-direction:column; gap:9px; min-width:0 }
   .venue { font-size:.78rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--accent) }
   .raw { font-weight:700; font-size:1.3rem; line-height:1.2; letter-spacing:-.01em }
@@ -365,6 +365,8 @@ const PAGE = /* html */ `<!doctype html>
   <div class="counts" id="counts">loading…</div>
   <div class="tabs" id="tabs">
     <button class="chip" data-tab="pending" aria-pressed="true">Pending</button>
+    <button class="chip" data-tab="autoin" aria-pressed="false" title="Included by the classifier without asking (repertory, or settled releases). Exclude here to override.">Auto-included</button>
+    <button class="chip" data-tab="autoout" aria-pressed="false" title="Dropped by the classifier without asking (wide releases, first-run bookings). Include here to override.">Auto-excluded</button>
     <button class="chip" data-tab="included" aria-pressed="false">Included</button>
     <button class="chip" data-tab="titleonly" aria-pressed="false">Title only</button>
     <button class="chip" data-tab="excluded" aria-pressed="false">Excluded</button>
@@ -511,7 +513,7 @@ function renderVenues() {
   $('#venues').querySelectorAll('button').forEach(b => b.onclick = () => { state.venue=b.dataset.venue; state.recent.clear(); render(); renderVenues(); });
 }
 /** Decision status of an item: pending, included, titleonly or excluded. */
-function statusOf(i) { const d=i.decision; if (!d) return 'pending'; if (d.decision==='exclude') return 'excluded'; return d.tmdbId===null ? 'titleonly' : 'included'; }
+function statusOf(i) { const d=i.decision; if (!d) return i.action==='ask' ? 'pending' : i.action==='include' ? 'autoin' : 'autoout'; if (d.decision==='exclude') return 'excluded'; return d.tmdbId===null ? 'titleonly' : 'included'; }
 function inTab(i) {
   const t = state.tab, st = statusOf(i);
   if (t==='all') return true;
@@ -558,6 +560,7 @@ function card(i) {
     + aopts.map(o => thumb(o.src, o.label, 'data-art="'+(o.id===null?'':esc(o.id))+'"', (u.art||null)===o.id, null, o.wide)).join('')
     + '<div class="inline"><input type="url" placeholder="…or paste an image URL" value="'+esc(u.custom)+'"><button class="chip">Preview</button></div></div>';
   const decidedLabel = d ? (d.decision==='exclude' ? 'excluded' : d.tmdbId===null ? 'included, title only' : 'included') : '';
+  const auto = !d && i.action!=='ask' ? i.action : null;
   const times = i.showtimes.slice(0,6).map(s=>'<span>'+fmtDate(s.date)+' '+fmtTime(s.time)+'</span>').join(' · ') + (i.showtimes.length>6?' · +'+(i.showtimes.length-6)+' more':'');
   const isDirty = dirty(i), s = shownDetails(i), edited = hasEdits(i);
   const incLabel = f ? (isDirty ? 'Save changes' : '✓ Include as “'+esc(s.title)+'”') : (isDirty ? 'Save changes' : '✓ Include, title only');
@@ -572,8 +575,8 @@ function card(i) {
     + '<label class="full">Description<textarea data-edit="overview"'+(('overview' in u.edits)?' class="changed"':'')+'>'+esc(s.overview)+'</textarea></label>'
     + '<div class="row"><span>Edits apply on the site once you press Include. Clear a field to hide it.</span><span class="spacer"></span><button class="chip" data-reset-edits'+(edited?'':' disabled')+'>Reset'+(f?' to TMDB':'')+'</button><button class="chip" data-close-editor>Done</button></div>'
     + '</div>' : '';
-  return '<article class="item '+(d?'decided '+d.decision:'')+'" tabindex="0" data-key="'+esc(i.key)+'">'
-   + '<div class="side"><div class="poster" title="View full size (o)">'+(art?'<img src="'+esc(art.src)+'" alt="">':'<div class="none">no artwork</div>')+(d?'<span class="badge '+d.decision+'">'+decidedLabel+'</span>':'')+(art?'<span class="zoom">⤢ full size</span>':'')+'</div>'
+  return '<article class="item '+(d?'decided '+d.decision:auto?'auto '+auto:'')+'" tabindex="0" data-key="'+esc(i.key)+'">'
+   + '<div class="side"><div class="poster" title="View full size (o)">'+(art?'<img src="'+esc(art.src)+'" alt="">':'<div class="none">no artwork</div>')+(d?'<span class="badge '+d.decision+'">'+decidedLabel+'</span>':auto?'<span class="badge auto">auto-'+(auto==='include'?'included':'excluded')+'</span>':'')+(art?'<span class="zoom">⤢ full size</span>':'')+'</div>'
    + '<div class="sidecap">'+(art?'Preview: <b>'+esc(art.label)+'</b>':'Nothing to show on the site card')+(f&&f.poster&&art&&art.src!==f.poster?'<br>Click the poster to view all images at full size.':'')+'</div></div>'
    + '<div class="body">'
    + '<div class="venue">'+esc(venueName(i.venueId))+'</div>'
@@ -586,7 +589,7 @@ function card(i) {
    + (f ? '<a href="https://www.themoviedb.org/movie/'+f.tmdbId+'" target="_blank" rel="noopener">TMDB ↗</a>' : '') + '</div>'
    + '<div class="overview'+(u.open?' open':'')+'" data-show="overview" title="Click to expand"'+(s.overview?'':' hidden')+'>'+esc(s.overview)+'</div>'
    + editor
-   + '<div class="reason"><b>Why it was flagged:</b> '+esc(i.reason)+'</div>'
+   + '<div class="reason"><b>'+(auto?'Classifier:':'Why it was flagged:')+'</b> '+esc(i.reason)+(auto?' <span class="hint">· press Include or Exclude to override</span>':'')+'</div>'
    + '<div class="times">'+times+'</div>'
    + '<div class="actions">'
    + '<button class="yes'+(isDirty?' dirty':'')+'" data-act="include"'+(d&&d.decision==='include'&&!isDirty?' disabled':'')+'>'+incLabel+'</button>'
@@ -628,10 +631,10 @@ async function undo(i) {
   if (state.tab!=='pending' && state.tab!=='all') { const el=cardEl(i); if (el) el.style.opacity='.4'; }
 }
 function updateCounts() {
-  const n = { pending:0, included:0, titleonly:0, excluded:0, edited:0 };
+  const n = { pending:0, autoin:0, autoout:0, included:0, titleonly:0, excluded:0, edited:0 };
   for (const i of state.items) { n[statusOf(i)]++; if (i.decision && (i.decision.edits || i.decision.image)) n.edited++; }
-  $('#counts').textContent = n.pending+' pending · '+(n.included+n.titleonly+n.excluded)+' decided · '+state.autoIncluded+' auto-included · '+state.autoExcluded+' auto-excluded by the classifier';
-  const labels = { pending:'Pending', included:'Included', titleonly:'Title only', excluded:'Excluded', edited:'Edited' };
+  $('#counts').textContent = n.pending+' pending · '+(n.included+n.titleonly+n.excluded)+' decided by you · '+(n.autoin+n.autoout)+' by the classifier';
+  const labels = { pending:'Pending', autoin:'Auto-included', autoout:'Auto-excluded', included:'Included', titleonly:'Title only', excluded:'Excluded', edited:'Edited' };
   $('#tabs').querySelectorAll('button').forEach(b => { const t=b.dataset.tab; if (labels[t]) b.textContent = labels[t]+' '+n[t]; });
 }
 let toastTimer = null;
