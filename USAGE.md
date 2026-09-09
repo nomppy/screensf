@@ -5,8 +5,8 @@ A step-by-step walkthrough for running Screen SF day to day. The [README](README
 ## 1. First run
 
 ```sh
-git clone https://github.com/nomppy/screenbay.git
-cd screenbay
+git clone https://github.com/nomppy/screensf.git
+cd screensf
 npm install
 cp .env.example .env
 ```
@@ -120,7 +120,7 @@ The site runs for the price of the domain. Cloudflare Pages hosts the static bui
 
 ### 7a. Cloudflare Pages (one time)
 
-1. In the Cloudflare dashboard go to **Workers & Pages → Create → Pages → Connect to Git** and pick the `nomppy/screensf` repository (still `screenbay` on GitHub until you rename it there; Cloudflare follows renames).
+1. In the Cloudflare dashboard go to **Workers & Pages → Create → Pages → Connect to Git** and pick the `nomppy/screensf` repository.
 2. Build settings: framework preset **Astro**, build command `npm run build`, output directory `dist`.
 3. Under **Environment variables** add `NODE_VERSION` = `22`. Nothing else is needed; the build reads `data/screenings.json` from the repo and never calls TMDB.
 4. Save and deploy. The first build gives you a `*.pages.dev` URL.
