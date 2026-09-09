@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T11:29:22.402Z",
+  "generatedAt": "2026-09-09T11:51:27.349Z",
   "films": {
     "tmdb:11229": {
       "key": "tmdb:11229",
@@ -29,18 +29,15 @@
       "releaseDate": "2026-07-03",
       "overview": "From a lonely childhood to literary fame, her life was shaped by devotion to nature, paying attention, and the long journey toward learning to love and to be loved.  If poetry had a pop icon, Mary Oliver would be it."
     },
-    "tmdb:473729": {
-      "key": "tmdb:473729",
-      "title": "The Other Gods: A Tale of the Dream Cycle",
-      "year": 2006,
-      "director": "Mike Boas",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/5Fo9k3pJgtS7y2eU6Xm28MKcwOg.jpg",
-      "tmdbId": 473729,
-      "popularity": 1.287,
-      "releaseDate": "2006-10-06",
-      "overview": "A prophet who longed to look upon his deities. A daunting journey to a mountain peak. A confrontation with gods too powerful to name.  This is the story that inspired Peter Rhodes, who worked as a filmmaker and artist during the 1920s. Few people know of his work, and it's only through luck and perseverance that we have been able to track down the elements for this \"lost\" film. Rhodes' films were created using silhouette animation, a technique perfectly suited to depict Lovecraft's mythic Dreamland stories. The filmmaker's involvement in New York City's occult and literary scenes provided him with a select audience for his work. Rhodes was especially influenced through his relationships with occultist Aleister Crowley and writer H.P. Lovecraft, but it was personal tragedy that moved him to produce \"The Other Gods: A Tale of the Dream Cycle,\" his most powerful film."
+    "t:cycle of love": {
+      "key": "t:cycle of love",
+      "title": "The Cycle of Love",
+      "year": 2026,
+      "director": "Orlando von Einsiedel",
+      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
+      "runtime": 95,
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
     },
     "tmdb:16306": {
       "key": "tmdb:16306",
@@ -59,35 +56,11 @@
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "runtime": 100,
       "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:1596332": {
-      "key": "tmdb:1596332",
-      "title": "American Doctor",
-      "year": 2026,
-      "director": "Poh Si Teng",
-      "runtime": 91,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yzNoanH2Jfn5bj7d6reKeaAbd4S.jpg",
-      "tmdbId": 1596332,
-      "popularity": 2.9386,
-      "releaseDate": "2026-08-14",
-      "overview": "When three heroic American doctors — Palestinian, Jewish, and Zoroastrian — enter Gaza to save lives in the middle of a genocide, they find themselves caught between medicine and politics, risking everything to expose the truth."
-    },
-    "tmdb:1310573": {
-      "key": "tmdb:1310573",
-      "title": "Barrio Triste",
-      "year": 2025,
-      "director": "STILLZ",
-      "runtime": 84,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/w2zymRakHhwKUnRCLPKrBiL8inL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/302FswmkEMEVp7lSBjBLs1oIFZm.jpg",
-      "tmdbId": 1310573,
-      "popularity": 4.3069,
-      "releaseDate": "2026-07-10",
-      "overview": "On the outskirts of Medellín, Colombia in the late 1980s, local residents report strange lights descending from the sky. When a reporter arrives to investigate, a ragtag group of teens from a lawless neighbourhood storm the scene and steal his camera. In the hands of its new owners, the device records a mesmerising plunge into their frantic existence."
     },
     "tmdb:22500": {
       "key": "tmdb:22500",
@@ -131,18 +104,15 @@
       "releaseDate": "2005-03-30",
       "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth."
     },
-    "tmdb:252493": {
-      "key": "tmdb:252493",
+    "t:big cheese": {
+      "key": "t:big cheese",
       "title": "The Big Cheese",
-      "year": 1930,
-      "director": "John Foster",
-      "runtime": 9,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/vsBHl34fXcakfWgSRd2URMQs7hJ.jpg",
-      "tmdbId": 252493,
-      "popularity": 0.6729,
-      "releaseDate": "1930-10-25",
-      "overview": "Comical character piece climaxing in a boxing match. Set in the rough, tough city; apparently the Bowery, if we let the music tell us. With one of those Mickey Mice that bugged the big \"D\"."
+      "year": 2026,
+      "director": "Sara Joe Wolansky",
+      "overview": "Guests will receive complimentary cheese samples courtesy of Bi-Rite Market and a coupon for 10% off cheese at Bi-Rite upon entry.\n\nFollowing the film, join Sam Mogannam of Bi-Rite and Ray Bair of Cheese Plus for a conversation about all things cheese, moderated by Sigfried “Ziggy” von Frankenberg-Leu, West Coast Sales Manager for Market to Monger",
+      "runtime": 87,
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/4-6.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/4-6.jpg"
     },
     "tmdb:1620313": {
       "key": "tmdb:1620313",
@@ -245,6 +215,8 @@
     "t:larry reed a life in light and shadow": {
       "key": "t:larry reed a life in light and shadow",
       "title": "Larry Reed: A Life in Light and Shadow",
+      "overview": "Join us at the Roxie Theater for a special screening honoring the life and work of Larry Reed (1944–2026), master of Balinese shadow theater, theater and film director, and founder of ShadowLight Productions.",
+      "runtime": 90,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Larry-Reed-3.jpeg"
     },
     "tmdb:829": {
@@ -319,16 +291,27 @@
     "t:re vision my name aint suzie": {
       "key": "t:re vision my name aint suzie",
       "title": "Re:Vision: My Name Ain’t Suzie",
+      "director": "Angie Chen",
+      "overview": "In My Name Ain’t Suzie, Angie Chen offers a powerful rebuke to the colonial imagination of films such as The World of Suzie Wong (1960), bringing post-war Hong Kong to life on her own terms. Shui-Mei (Patricia Ha), a “salt water girl” from the outskirts of the city, finds a way out of poverty in the Red Light district of Wan Chai. Over the years, she rises through the ranks, discovering a world of equal hardship and sisterly camaraderie, where colorful characters abound – among them Jimmy (Anthony Wong, in his debut role), a mixed-race kid looking for his father in the crowd of thirsty American sailors.",
+      "runtime": 101,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/5-13.jpg"
     },
     "t:re vision valley of the bees": {
       "key": "t:re vision valley of the bees",
       "title": "Re:Vision: Valley of the Bees",
+      "year": 1968,
+      "director": "František Vláčil",
+      "overview": "While his name lacks the recognition of other Eastern European filmmakers, writer / director / occasional actor František Vláčil could be considered among the greatest motion picture practitioners on the strength of his adaptation of Marketa Lazarová alone. Yet his follow-up, The Valley of the Bees [Údolí včel], is a similarly stunning period-piece of archetypal drama (and, like its predecessor and other works by the filmmaker, features an extraordinary score by Zdeněk Liška).",
+      "runtime": 117,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/08/5-3.jpg"
     },
     "t:re vision dakan": {
       "key": "t:re vision dakan",
       "title": "Re:Vision: Dakan",
+      "year": 1997,
+      "director": "Mohamed Camara",
+      "overview": "Dakan follows two young men, Manga and Sori, as they navigate young love of a kind their families cannot abide. Seen by Manga’s mother as a mental illness, and Sori’s father as a weakness to overcome, both men struggle to live the “right way”. Self-denial, tradition and superstition merge in attempts to rid the young lovers of their passions.",
+      "runtime": 107,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/1-21.jpg"
     },
     "tmdb:916": {
@@ -348,61 +331,109 @@
     "t:re vision the outcasts": {
       "key": "t:re vision the outcasts",
       "title": "Re:Vision: The Outcasts",
+      "year": 1982,
+      "director": "Robert Wynne-Simmons",
+      "overview": "Written and directed by Robert Wynne-Simmons (writer of folk-horror masterpiece Blood on Satan’s Claw), and starring legendary Irish actors Cyril Cusack and Mick Lally, The Outcasts was the first major feature film funded in Ireland in forty years. Set in the earlier 1800s, an era of great poverty and no little superstition in pre-Famine Ireland, The Outcasts centers Maura (Mary Ryan), one of three daughters, a peculiar young woman largely ostracized by her rural Irish community due to her “abnormal” behavior. In great need of an ally, Maura aligns herself with the much feared Scarf Michael, whose power over the locals seems to tap into a world beyond our own.",
+      "runtime": 110,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/3-23.jpg"
     },
     "t:re vision i am with a monk": {
       "key": "t:re vision i am with a monk",
       "title": "Re:Vision: I Am With A Monk",
+      "year": 1984,
+      "director": "Kom Akkadej",
+      "overview": "Two legendary Thai actors, Sombat Methanee and Sorapong Chatree, form an unlikely duo of a wanderer on the run and reluctant monk, facing danger at every turn. Khom Akadet’s 1980s actioner is thrilling not only in its fight scenes, but also in the careful registers between.",
+      "runtime": 126,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-23.jpg"
     },
     "t:dreamers and i": {
       "key": "t:dreamers and i",
       "title": "The Dreamers And I",
+      "year": 2025,
+      "director": "Kenji Yamamota",
+      "overview": "Three immigrant entrepreneurs arrive in the U.S. to make their high-tech dreams come true. Carlos de la Lama-Noriega from Spain is the founder of Startup Embassy, a so-called hacker house that offers an affordable, welcoming live/work community of like-minded geeks as they labor in obscurity. Habibe Turfan, a materials scientist from Turkey, is working on her dream project, which she calls Stealth Startup. AI engineer Lucas Gozálvez, also from Spain, is CEO of another startup, Caleida, and the recent author of “The Hunger Games of Coding: Will AI Replace Developers or Trigger a Brutal Surge in Demand.”",
+      "runtime": 74,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/09/4.jpg"
     },
     "t:re vision araya": {
       "key": "t:re vision araya",
       "title": "Re:Vision: Araya",
+      "year": 1958,
+      "director": "Margot Benacerraf",
+      "overview": "Araya captures nearly five-hundred years of history condensed into a speculative single day (albeit filmed with her cinematographer Giuseppe Nisoli over four weeks, from September to October), with a tripartite structure following the lives of three families in three nearby villages.",
+      "runtime": 102,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-20.jpg"
     },
     "t:re vision the dislocation of amber": {
       "key": "t:re vision the dislocation of amber",
       "title": "Re:Vision: The Dislocation of Amber",
+      "year": 1972,
+      "director": "Hussein Shariffe",
+      "overview": "In The Dislocation of Amber, director Hussein Shariffe uses abandoned areas of the Sudanese city of Suakin to stage abstracted, ambiguous performances. His actors move through corners, windows, doorways like shadows of this once thriving port, now fallen to ruin. Lacerating sunshine and intense color dominate the frame, while musician Abdel-Aziz Dawoud chants the words of the Sufi poem “The Wine Ode” by Ibn Al-Faridh. Shariffe himself said this about Suakin in 1974 — “Only faint traces of its ancient affluence are apparent today … a dimmed reflection in a cracked mirror; empty eyes with the stars in a different house, laughter in another room.”",
+      "runtime": 53,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/1-25.jpg"
     },
     "t:re vision gehenu lamai the girls": {
       "key": "t:re vision gehenu lamai the girls",
       "title": "Re:Vision: Gehenu Lamai (The Girls)",
+      "year": 1978,
+      "director": "Sumitra Peries",
+      "overview": "Sumitra Peries’s Gehenu Lamai [The Girls] —the first feature directed by a woman in Sri Lanka—is a close observation of a life shrinking. So much weight is placed on girls worldwide, and the girls of Gehenu Lamai are no different. Expected to care-give, earn, and behave respectably no matter the cost, the central girls of the film, sisters Kusum and Soma, bear much responsibility. Despite very different approaches to their constraints, some outcomes cannot be avoided.",
+      "runtime": 125,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/3-18.jpg"
     },
     "t:re vision lepers and sex aka santo vs the riders of terror": {
       "key": "t:re vision lepers and sex aka santo vs the riders of terror",
       "title": "Re:Vision: Lepers & Sex AKA Santo vs The Riders of Terror",
+      "year": 1970,
+      "director": "René Cardona",
+      "overview": "Mexico’s legendary Calderon film empire’s most famous and longest-running series was that of El Santo, the silver-masked wrestling hero (Rodolfo Guzman), who starred in some 50-odd productions from 1959 to the mid-1980s. But one of the most gonzo – and seldom seen – entries in the series is Los Leprosos y el Sexo with our hero battling a murderous mob of escaped lepers in a small town, resulting in a Western-cum-horror-cum-action picture, but with a twist.",
+      "runtime": 98,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/Untitled-design-8.jpg"
     },
     "t:re vision tri": {
       "key": "t:re vision tri",
       "title": "Re:Vision: Tri",
+      "year": 1965,
+      "director": "Aleksandar Petrović",
+      "overview": "Featuring searingly unforgettable black and white cinematography by Tomislav Pinter, Tri is structured as a triptych with stories set at the beginning, middle and end of the Second World War in Yugoslavia (1941-1944). The protagonist is a partisan portrayed by Velimir Bata Živojinović though according to the director, “The real protagonist of this film is death. In this film, it appears in three forms – as punishment, as victim, and as an expression of the senselessness of war. One needs to be against war, but one needs to be against war as a matter of principle, against anybody who wages war, and also against those who create reasons for war.” — Robert Byrne",
+      "runtime": 90,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-28.jpg"
     },
     "t:re vision the waiting room": {
       "key": "t:re vision the waiting room",
       "title": "Re:Vision: The Waiting Room",
+      "year": 1973,
+      "director": "Karen Sperling",
+      "overview": "Filmmaker Karen Sperling writes, directs, produces, and stars in The Waiting Room (1973), a groundbreaking film created by a 35-woman film crew working in the deserted wing of a psychiatric facility on Manhattan’s Ward Island. This renegade psychodrama captures the depths of feminine ambivalence in the shadow of a looming specter — compulsory domesticity. The ‘waiting room’ manifests as quotidian and institutional anterooms in which a young woman mulls over a marriage proposal. Belonging squarely to the quasi Brechtian feminist avant-garde forged by Yvonne Rainer, Chantal Akerman, and Cecelia Condit, The Waiting Room has remarkably gone unseen for 50 years.",
+      "runtime": 96,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/08/1-7.jpg"
     },
     "t:re vision the garden of eden": {
       "key": "t:re vision the garden of eden",
       "title": "Re:Vision: The Garden of Eden",
+      "year": 1928,
+      "director": "Lewis Milestone",
+      "overview": "The Garden of Eden is best described as either a pre-pre-code or a proto-screwball comedy. Technically it is a silent film, but skimpy costumes, gender play, and sexual innuendo undeniably identify it as a film confidently striding headlong into the early 1930s. Further evidence is provided by the Film Daily reviewer who complained at the time, “It is utterly absurd and cheap pandering to dirty-minded people who gloat over an undressed woman” and by Montreal censors that demanded the last reel be eliminated entirely. Fortunately, the archived prints at George Eastman Museum and the Library of Congress, which form the basis of this restoration, eluded the censors’ wrath and you will have the pleasure of seeing the scandalous footage that Canadian audiences were denied. — Robert Byrne",
+      "runtime": 99,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-26.jpg"
     },
     "t:re vision 8 girls in a boat": {
       "key": "t:re vision 8 girls in a boat",
       "title": "Re:Vision: 8 Girls in a Boat",
+      "year": 1934,
+      "director": "Richard Wallace",
+      "overview": "At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a star pupil and stroke seat on the rowing team, but her clandestine affair with a young chemist from another college leads her into trouble when she discovers she’s pregnant. As Christa’s attention in school slips, she incurs the discipline of the team’s steely coach, Hannah (Kay Johnson), who removes her from the boat and threatens expulsion. Worse, Christa’s businessman father (Walter Connelly) objects to marriage between Christa and David over concerns that David’s studies doom him to a life of poverty. How will Christa and her coming baby keep an even keel through all this choppy water?",
+      "runtime": 93,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-19.jpg"
     },
     "t:re vision melody of murder": {
       "key": "t:re vision melody of murder",
       "title": "Re:Vision: Melody of Murder",
+      "year": 1944,
+      "director": "Bodil Ipsen",
+      "overview": "At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a star pupil and stroke seat on the rowing team, but her clandestine affair with a young chemist from another college leads her into trouble when she discovers she’s pregnant. As Christa’s attention in school slips, she incurs the discipline of the team’s steely coach, Hannah (Kay Johnson), who removes her from the boat and threatens expulsion. Worse, Christa’s businessman father (Walter Connelly) objects to marriage between Christa and David over concerns that David’s studies doom him to a life of poverty. How will Christa and her coming baby keep an even keel through all this choppy water?",
+      "runtime": 124,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/Untitled-design-2-1.jpg"
     },
     "tmdb:1431004": {
@@ -517,6 +548,10 @@
     "t:zoe presents memorex rexsexex y mas": {
       "key": "t:zoe presents memorex rexsexex y mas",
       "title": "Zoé Presents: Memorex + Rexsexex y Más",
+      "year": 2026,
+      "director": "Rodrigo Guardiola",
+      "overview": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was far\nmore than an unprecedented record for Mexican rock; it was a historic and intimate gathering between a\nband that has soundtracked entire universes and a multigenerational fanbase that is more devoted than\never. This is the story of what vibrated on stage and what was kept in the hearts of the fans: an unfiltered\nbreakdown of the absolute magnetism, nostalgia, and enduring relevance of Zoé.",
+      "runtime": 182,
       "backdrop": "https://roxie.com/wp-content/uploads/2026/08/1-11.jpg"
     },
     "tmdb:149": {
@@ -621,27 +656,8 @@
     "t:super shangri la": {
       "key": "t:super shangri la",
       "title": "Super Shangri-La",
+      "overview": "Strange movies presented by Kai Wada Roath at the haunted & historic Balboa theater in San Francisco!",
       "backdrop": "https://images.squarespace-cdn.com/content/v1/616e038bb792dc0e9cf1381e/1724559545169-SLXWUO9BY6JJJY5V6Q4P/SuperShang.jpg"
-    },
-    "t:twilight:1999": {
-      "key": "t:twilight:1999",
-      "title": "Twilight",
-      "year": 1999,
-      "backdrop": "https://images.squarespace-cdn.com/content/v1/616e038bb792dc0e9cf1381e/1643965717768-53O6KDN7XQ1QPE237LF2/Twilightpostermedium+copy.jpg"
-    },
-    "tmdb:1423191": {
-      "key": "tmdb:1423191",
-      "title": "Resident Evil",
-      "year": 2026,
-      "director": "Zach Cregger",
-      "runtime": 94,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mRM28tIIm8y0gKy9GKYGwotxuPM.jpg",
-      "tmdbId": 1423191,
-      "popularity": 41.967,
-      "releaseDate": "2026-09-16",
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
     },
     "tmdb:11178": {
       "key": "tmdb:11178",
@@ -725,6 +741,20 @@
       "popularity": 24.0427,
       "releaseDate": "2004-04-30",
       "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George."
+    },
+    "tmdb:1285895": {
+      "key": "tmdb:1285895",
+      "title": "Late Fame",
+      "year": 2025,
+      "director": "Kent Jones",
+      "runtime": 97,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
+      "tmdbId": 1285895,
+      "popularity": 2.6412,
+      "releaseDate": "2026-08-07",
+      "overview": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
     },
     "tmdb:2280": {
       "key": "tmdb:2280",
@@ -963,6 +993,20 @@
       "releaseDate": "1992-03-20",
       "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story."
     },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+    },
     "tmdb:3107": {
       "key": "tmdb:3107",
       "title": "Destroy All Monsters",
@@ -977,6 +1021,33 @@
       "releaseDate": "1968-08-01",
       "overview": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
     },
+    "tmdb:1410939": {
+      "key": "tmdb:1410939",
+      "title": "Dire Duplicity",
+      "year": 2026,
+      "director": "Neil Breen",
+      "runtime": 93,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/jN5J4x2KzA9v8qtt2TnTTqCh5BY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4mlkSfmJgB8Br1H3YQlWGedlv6O.jpg",
+      "tmdbId": 1410939,
+      "popularity": 2.4597,
+      "overview": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
+    },
+    "tmdb:1308858": {
+      "key": "tmdb:1308858",
+      "title": "Dreams in Nightmares",
+      "year": 2024,
+      "director": "Shatara Michelle Ford",
+      "runtime": 128,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/j5dxzoXeQB9pmOnO0TjSoMDceSk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mIzA2MOTiPP8mE4afzfxa0580V2.jpg",
+      "tmdbId": 1308858,
+      "popularity": 1.123,
+      "releaseDate": "2026-08-21",
+      "overview": "After an abrupt layoff, Z embarks on a trip across the Midwestern United States in search of a friend who has seemingly disappeared off the grid. Traveling with her two closest friends, these three queer black femmes find their priorities tested as shapeshifting threats in each city expose (inter)personal and ideological fractures."
+    },
     "tmdb:1368": {
       "key": "tmdb:1368",
       "title": "First Blood",
@@ -990,6 +1061,21 @@
       "popularity": 21.1565,
       "releaseDate": "1982-10-22",
       "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers."
+    },
+    "tmdb:1422011": {
+      "key": "tmdb:1422011",
+      "title": "It Ends",
+      "year": 2025,
+      "director": "Alexander Ullom",
+      "runtime": 89,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/6dfAGvZWbJnzWfSZ8gxFj63BNAH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+      "tmdbId": 1422011,
+      "popularity": 7.9542,
+      "releaseDate": "2026-08-21",
+      "nowPlaying": true,
+      "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it."
     },
     "tmdb:9353": {
       "key": "tmdb:9353",
@@ -1201,6 +1287,14 @@
       "releaseDate": "1988-11-11",
       "overview": "Spike Fumo is an Italian kid apsiring to be a boxer. He falls in love with a rich girl, who turns out to be the daughter of a Mafia boss. Spike is threatened to leave Bensonhurst by the mob, and then goes to a poverty-stricken Puerto Rican part of Brooklyn."
     },
+    "t:other cinema incredibly strange religion": {
+      "key": "t:other cinema incredibly strange religion",
+      "title": "Other Cinema: Incredibly Strange Religion",
+      "director": "Ben Folstein",
+      "overview": "FALL CHARM BRACELET takes a skeptical bow towards alt-religion, art-religion, and fantasy cults with our annual Incredibly Strange Religion revival!! In tonight’s celebration of new, creative ritual imagination and performance, an apocalyptic 99 minutes of spiritual absurdity serves to support the all-too-rare return of the truly awesome Church of Magic, a tour de force performance-art initiative by ATA soulmate Ben Folstein!! After Cinema Studies under Gene Youngblood, the prodigiously talented Folstein dares to deliver his utterly INSANE appeal to celestial communion, with costumes, comic gestures, cosmic jokes, and a jubilant revival of his past music-video hits Zog, the First Feminist, Below Decks, Rock Too Big, and so much more! Opening this religious riot is a litany of jaw-dropping proposals by the now-legendary freak-belief sources Unarius, the Mormons (in Guatemala!), Hippies High on Alpha, Christian Scientists, Scientologists, Church of Satan, etc. Sacred wine is free! $11",
+      "runtime": 99,
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/sizzle_poster-1024x596.png"
+    },
     "tmdb:1189320": {
       "key": "tmdb:1189320",
       "title": "Psychedelic Cinema",
@@ -1212,6 +1306,20 @@
       "popularity": 0.4209,
       "releaseDate": "1969-12-31",
       "overview": "Between 1967 and 1969, Ken Brown created short Super-8 films to be projected with the light show at the premiere rock club in Boston, Massachusetts, The Boston Tea Party. The resulting films, collected here as the \"Psychedelic Cinema\" program, stand today as an amazing window on another time. Swirling colors and lights, clip art animations, cinéma vérité images of '60s youth culture and fashions, flickering candle flames and flowers in bloom meld together in fluid, dream-like montage. The films originally illuminated the stage for Jimi Hendrix, The Velvet Underground, The Grateful Dead, Frank Zappa, Sly and the Family Stone, Neil Young, The Who, Pink Floyd and the Hallucinations (soon to become the J. Giles Band)."
+    },
+    "t:other cinema post kolonial spectres": {
+      "key": "t:other cinema post kolonial spectres",
+      "title": "Other Cinema: Post-Kolonial Spectres",
+      "director": "Adrian Quetzal Randall",
+      "overview": "A true breakthrough and international discovery!! Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play, an extremely sophisticated personal cine-essay that opens up areas of speculative history in an Adam Curtis-esque stream-of-consciousness  revelation on the military origins of Central American telecommunications and programming, tracing a psychedelic labyrinth across four continents. Part media archeology, part film diary, an endless montage of archival opticals support a long-form whispered confession about the electromagnetic magick that inflected the development of “modern” Honduran national sensibility. Our co-hit is Riar Rizaldi‘s equally paranoid Tellurian Drama, a sublime 25-min excavation of the colonial mythos surrounding the infamous Malabar Radio Antenna, a mysterious site of etheric conspiracy now being resurrected as a tourist destination on the Indonesian island of Java. $13",
+      "runtime": 25,
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/other-cinema-20260926-1024x576.jpg"
+    },
+    "t:other cinema incredibly strange music": {
+      "key": "t:other cinema incredibly strange music",
+      "title": "Other Cinema: Incredibly Strange Music",
+      "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14",
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/othercinema-20261003-e1788904356676.webp"
     },
     "tmdb:138": {
       "key": "tmdb:138",
@@ -1339,6 +1447,26 @@
       "releaseDate": "2025-05-01",
       "overview": "The profound story of husband and wife Raynor and Moth Winn, who embark on a 630-mile trek after being forcibly removed from their home. Hoping that in nature they will find solace and a sense of acceptance, they walk through the beautiful but rugged coastlines of South West England - a journey that is exhilarating, challenging, and liberating in equal measure. THE SALT PATH is a powerful portrayal of home, and how it can be lost and rediscovered in the most unexpected ways."
     },
+    "tmdb:1283515": {
+      "key": "tmdb:1283515",
+      "title": "Verify (Early Access)",
+      "year": 2026,
+      "director": "Michael Showalter",
+      "runtime": 117,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+      "tmdbId": 1283515,
+      "popularity": 8.997,
+      "releaseDate": "2026-09-30",
+      "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
+    },
+    "t:push buttons and ai": {
+      "key": "t:push buttons and ai",
+      "title": "Push Buttons and AI",
+      "overview": "In conjunction with the exhibition Hidden Layers: AI Infrastructures and Hallucinations at UC Berkeley’s Worth Ryder Gallery, Antonio Somaini, Hannes Bajohr, and Sonja Thiel present a program of works about AI and its social and technical infrastructures. Gibbs Chapman’s Push Button is a dryly funny exposé of the effects of automation on twenty-first-century humans, while Inès Sieulle’s The Oasis I Deserve documents affective interactions with the chatbot Replika. Nicolas Gourault reveals the numbing human labor that feeds AI with Their Eyes, while the studio Taller Estampa uses classic film clips to demonstrate how the object recognition software YOLO9000 sees and classifies. AI eats itself and ends in “model collapse” in Egor Kraft’s One & Infinite Chairs (1&∞⑁).",
+      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/Replace_Chapman_Push-Button_001%20copy.jpg?itok=tsREu_6D"
+    },
     "tmdb:405779": {
       "key": "tmdb:405779",
       "title": "On Call",
@@ -1409,6 +1537,29 @@
       "releaseDate": "2011-03-25",
       "overview": "Steve, a 25-year-old Black man from the Paris suburbs, seeks to escape the violence of his immediate surroundings by training to become an actor at one of France’s most prestigious drama schools. But soon he discovers that the theater world is only interested in having him inhabit “Black” roles."
     },
+    "tmdb:12637": {
+      "key": "tmdb:12637",
+      "title": "New York, New York",
+      "year": 1977,
+      "director": "Martin Scorsese",
+      "runtime": 163,
+      "genre": "Romance",
+      "poster": "https://image.tmdb.org/t/p/w500/1nD40aUcPAxYdE1WxERrTjZuFGe.jpg",
+      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/NEW%2001_Scorsese_New-York-New-York_005.jpg?itok=3R4Gsbw7",
+      "tmdbId": 12637,
+      "popularity": 4.6853,
+      "releaseDate": "1977-06-21",
+      "overview": "An egotistical saxophone player and a young singer meet on V-J Day and embark upon a strained and rocky romance, even as their careers begin a long uphill climb."
+    },
+    "t:senegalese meet sene gallic": {
+      "key": "t:senegalese meet sene gallic",
+      "title": "Senegalese Meet Sene-Gallic",
+      "year": 2997,
+      "director": "Alice Diop",
+      "overview": "Upon visiting Senegal for the first time after her parents’ deaths, Alice Diop began filming in the courtyard of her mother’s former home, documenting the everyday existence and conversations of her aunts and cousins. Within this exclusively female space, Diop mused, \"I’m sort of filming what could have been my life. . . . I measure from here what exile transforms.\"",
+      "runtime": 56,
+      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/FRAG%2001_Diop_Senegalaises-and-Senegauloise_004.jpg?itok=ywAobfBR"
+    },
     "tmdb:266": {
       "key": "tmdb:266",
       "title": "Contempt",
@@ -1464,6 +1615,12 @@
       "popularity": 2.6165,
       "releaseDate": "1978-04-26",
       "overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends."
+    },
+    "t:it will be better before and temo re": {
+      "key": "t:it will be better before and temo re",
+      "title": "It Will Be Better Before and Temo Re",
+      "overview": "Films in this Screening:\nIt Will Be Better Before\n(Tsarulshi uket ikneba)\nKeto Kipiani, Georgia, 2024.\n\nTemo Re\nAnka Gujabidze, Georgia, 2025\n\nFEATURING\nTemo Rekhviashvili\nMikheil Abramishvili\nNatalia Gabisonia\nSandro Kalandadze",
+      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/WILL%2001_Kipiani_It-Will-Be-Better-Before_002.jpg?itok=sucylO7B"
     },
     "tmdb:1114866": {
       "key": "tmdb:1114866",
@@ -1521,6 +1678,21 @@
       "releaseDate": "2024-03-22",
       "overview": "Lia, a retired teacher from Georgia, learns from her young neighbor, Achi, that her long-lost transgender niece, Tekla, has crossed the border into Turkey. In search of Tekla, Lia travels to Istanbul with the unpredictable Achi, where they explore the hidden depths of the city."
     },
+    "t:english teacher and bakhmaro 2050": {
+      "key": "t:english teacher and bakhmaro 2050",
+      "title": "English Teacher and Bakhmaro 2050",
+      "overview": "Georgia’s movement to teach English to schoolchildren is the backdrop for this beautifully observed documentary about an English teacher, Bradley Nelson from South Africa, and his experiences in a remote Georgian village, Sajijao. There he encounters both the warmth of the local community, and some resistance to the “linguistic revolution” as a national initiative. A finely drawn portrait of a critical moment in Georgia’s development as an independent nation in the post-Soviet era.\n\nBefore construction begins on a major housing complex in Bakhmaro, a resort town in western Georgia that travelers visit for the special healing properties of the air, filmmaker Anka Gujabidze observes life as it is. Employing superimpositions and dissolves, this documentary portrait ruminates on the changes that will come with construction and what will be lost.\n\nFilms in this Screening:\nEnglish Teacher\nNino Orjonikidze, Vano Arsenishvili, Georgia, 2012. \nBakhmaro 2050\nAnka Gujabidze, Georgia, 2024",
+      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/ENG%2001_Orjonikidze_English-Teacher_005.jpg?itok=vvByjI5X"
+    },
+    "t:incomplete day in the history of georgia 10 06 93": {
+      "key": "t:incomplete day in the history of georgia 10 06 93",
+      "title": "An Incomplete Day in the History of Georgia 10.06.93",
+      "year": 2026,
+      "director": "Salomé Jashi",
+      "overview": "Derived solely from video recordings of Georgian parliamentary proceedings on June 10, 1993, when Eduard Shevardnadze was the head of state, An Incomplete Day in the History of Georgia presents the debate surrounding the introduction of Georgia’s national currency coupon to replace the Russian ruble. Members of parliament voice their concerns from the floor, questioning the resolutions presented by the vice prime minister and president of the National Bank. How should the country’s leaders proceed in light of domestic challenges such as starvation, fuel shortages, budget shortfalls, and rapid inflation? Viewed with hindsight, this document from the early days of Georgian independence reminds us how fragile the democratic process can be.",
+      "runtime": 100,
+      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/INC%2001_Jashi_An-Incomplete-Day_001.jpg?itok=0wkQpwPB"
+    },
     "tmdb:1108475": {
       "key": "tmdb:1108475",
       "title": "Self-Portrait Along the Borderline",
@@ -1534,6 +1706,18 @@
       "popularity": 0.4751,
       "releaseDate": "2023-04-20",
       "overview": "Anna Dziapshipa was born of the union between an Abkhazian man and a Georgian woman. In Self-Portrait Along the Borderline, she skilfully weaves together unique archives and fragments to offer a personal and political biography of Georgia-Abkhazia relations. This vibrant exploration foregrounds a divided identity caught between the margins."
+    },
+    "tmdb:33470": {
+      "key": "tmdb:33470",
+      "title": "Italianamerican and American Boy: A Profile of Steven Prince",
+      "director": "Martin Scorsese",
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/jnSQhFBaJ7KlJEWYmp8WfS0FVmU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pQNtLZvyLPbg271pzWEgYItZj6S.jpg",
+      "tmdbId": 33470,
+      "popularity": 0.8583,
+      "releaseDate": "1978-09-16",
+      "overview": "Martin Scorsese’s documentaries are like portals to his sources of inspiration, and Italianamerican takes us to the heart of the matter via a conversation with his parents. As his mother prepares meatballs, she and her husband tell the stories of their families’ journeys from Sicily to Elizabeth Street, which speak volumes about the immigrant experience. American Boy is the realization of Scorsese’s idea for a film in which “a man sits down, tells his story, and little by little you see an era emerge, a way of life, a way of surviving.” He found the perfect subject in Steven Prince, a great storyteller, who played the gun dealer in Taxi Driver, a role for which he provided his own guns.\n\n—Kate MacKay\n\nFilms in this Screening\nItalianamerican\nMartin Scorsese, United States, 1974\n\nFEATURING\nMartin Scorsese\nCatherine Scorsese\nCharles Scorsese\n\nFILM DETAILS \nAmerican Boy: A Profile of Steven Prince\nMartin Scorsese, United States, 1978"
     },
     "tmdb:846806": {
       "key": "tmdb:846806",
@@ -1563,6 +1747,12 @@
       "releaseDate": "1964-08-05",
       "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want."
     },
+    "t:films by the cousin collective and christophe katrib": {
+      "key": "t:films by the cousin collective and christophe katrib",
+      "title": "Films by the COUSIN Collective and Christophe Katrib",
+      "overview": "Founded in 2018 by Sky Hopinka, Adam Khalil, Alexandra Lazarowich, and Adam Piron, COUSIN was created to support Indigenous artists expanding traditional definitions of, and experimenting with, moving image form and genre. This program offers a selection of works made by COUSIN collective artists, including Hopinka’s 2017 consideration of the Dakota Access Pipeline protest and Lindsay McIntyre’s film about caribou and lichen—made using those materials in the photographic process. A short film by Lebanese artist Christophe Katrib reflects on the dissonance he experiences living on the stolen land of the United States as “U.S-backed Israel commits genocide and ethnic cleansing on Palestine and my homeland of Lebanon.”",
+      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/COUS%2001_Hopinka_Dislocation-Blues_003.jpg?itok=57C8gKQA"
+    },
     "tmdb:1567560": {
       "key": "tmdb:1567560",
       "title": "Wood Street",
@@ -1576,16 +1766,30 @@
       "releaseDate": "2026-02-18",
       "overview": "Two unhoused men turned community leaders— John and LaMonté —organize their neighbors in the face of displacement, addiction, and a failing social system."
     },
+    "tmdb:950028": {
+      "key": "tmdb:950028",
+      "title": "The Invite",
+      "year": 2026,
+      "director": "Olivia Wilde",
+      "runtime": 107,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+      "tmdbId": 950028,
+      "popularity": 37.4766,
+      "releaseDate": "2026-06-25",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?"
+    },
     "tmdb:1639520": {
       "key": "tmdb:1639520",
       "title": "Dear Upstairs Neighbors",
       "year": 2026,
       "director": "Connie He",
       "genre": "Animation",
-      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress",
       "tmdbId": 1639520,
       "popularity": 0.8495,
-      "releaseDate": "2026-06-06"
+      "releaseDate": "2026-06-06",
+      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:36685": {
       "key": "tmdb:36685",
@@ -1600,6 +1804,20 @@
       "popularity": 12.5251,
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
+    },
+    "tmdb:1439808": {
+      "key": "tmdb:1439808",
+      "title": "Hadestown: The Musical",
+      "year": 2026,
+      "director": "Brett Sullivan",
+      "runtime": 141,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/iJNVygzkuOSCOdCPNI1nLSeF7sz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/n2Lx80fUrEp8OZOjfBNx0a7d37u.jpg",
+      "tmdbId": 1439808,
+      "popularity": 5.5878,
+      "releaseDate": "2026-07-23",
+      "overview": "The tragic love of Orpheus and Eurydice is intertwined with the complex relationship of Hades and Persephone. Eurydice, struggling with poverty, is lured to the industrial underworld of Hadestown by Hades, while Orpheus, a struggling musician, ventures down below to bring her back. (Filmed live at the Lyric Theatre, London, featuring the core five original Broadway cast members.)"
     },
     "tmdb:10784": {
       "key": "tmdb:10784",
@@ -1853,6 +2071,90 @@
       "releaseDate": "1922-02-16",
       "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
     },
+    "tmdb:43839": {
+      "key": "tmdb:43839",
+      "title": "Alexander's Ragtime Band",
+      "year": 1938,
+      "director": "Henry King",
+      "runtime": 106,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+      "tmdbId": 43839,
+      "popularity": 1.4996,
+      "releaseDate": "1938-05-24",
+      "overview": "Classical violinist Roger Grant disappoints his family and teacher when he organizes a jazz band, but he and the band become successful. Roger falls in love with the band's singer, Stella, but his reluctance to lose her leads him to thwart her efforts to become a solo star. When the World War separates them in 1917, Stella marries Roger's best friend and, when Roger returns home after the war, an important concert at Carnegie Hall brings the corners of the romantic triangle together."
+    },
+    "tmdb:108222": {
+      "key": "tmdb:108222",
+      "title": "Tin Pan Alley",
+      "year": 1940,
+      "director": "Walter Lang",
+      "runtime": 94,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/A98sbrtuO5X7HpG3CcH8qJHsLzg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nX41E4mWlJ7FBCpimuceVoijxIC.jpg",
+      "tmdbId": 108222,
+      "popularity": 1.1947,
+      "releaseDate": "1940-11-29",
+      "overview": "Songwriters Calhoun and Harrigan get Katie and Lily Blane to introduce a new one. Lily goes to England, and Katy joins her after the boys give a new song to Nora Bayes. All are reunited when the boys, now in the army, show up in England."
+    },
+    "tmdb:43794": {
+      "key": "tmdb:43794",
+      "title": "Moon Over Miami",
+      "year": 1941,
+      "director": "Walter Lang",
+      "runtime": 91,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/c3zBaU3wwTJThzT4jK9Ehwp3ik5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4hUJ98NjDwCpH84yJqUeg4hYy5b.jpg",
+      "tmdbId": 43794,
+      "popularity": 1.2195,
+      "releaseDate": "1941-07-04",
+      "overview": "After losing nearly all of an inheritance to taxes, sisters Kay and Barbara Latimer, waitresses at a drive-in restaurant in Texas, scheme to find rich husbands. With the aid of their aunt Susan, the sisters take the last of their money and head to a well-known Miami resort where they soon meet two wealthy young men, Phil and Jeff, who begin a fierce rivalry for Kay, not realizing that Barbara has fallen in love with one of them."
+    },
+    "tmdb:43810": {
+      "key": "tmdb:43810",
+      "title": "Down Argentine Way",
+      "year": 1940,
+      "director": "Irving Cummings",
+      "runtime": 89,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
+      "tmdbId": 43810,
+      "popularity": 1.2522,
+      "releaseDate": "1940-10-11",
+      "overview": "The story—in which an American heiress on holiday in South America falls in love with an Argentine horse breeder against the wishes of their families—takes a backseat to the spectacular location shooting and parade of extravagant musical numbers, which include the larger-than-life Carmen Miranda singing the hit “South American Way” and a showstopping dance routine by the always amazing Nicholas Brothers."
+    },
+    "tmdb:43797": {
+      "key": "tmdb:43797",
+      "title": "Sun Valley Serenade",
+      "year": 1941,
+      "director": "H. Bruce Humberstone",
+      "runtime": 86,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uVvSAIGgYdXpThHGtmDvEGgeFbl.jpg",
+      "tmdbId": 43797,
+      "popularity": 1.3245,
+      "releaseDate": "1941-08-29",
+      "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
+    },
+    "tmdb:43781": {
+      "key": "tmdb:43781",
+      "title": "Orchestra Wives",
+      "year": 1942,
+      "director": "Archie Mayo",
+      "runtime": 98,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bpsFY09nAQvyFF1HIOaCkfaNX4r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pfG8KFgovnqRnK2n2mhYwKXhGBG.jpg",
+      "tmdbId": 43781,
+      "popularity": 1.1843,
+      "releaseDate": "1942-09-04",
+      "overview": "Connie Ward is in seventh heaven when Gene Morrison's band rolls into town. She is swept off her feet by trumpeter Bill Abbot. After marrying him, she joins the band's tour and learns about life as an orchestra wife, weathering the catty attacks of the other band wives."
+    },
     "tmdb:65726": {
       "key": "tmdb:65726",
       "title": "Lake Tahoe",
@@ -1866,6 +2168,21 @@
       "popularity": 0.7909,
       "releaseDate": "2008-07-16",
       "overview": "After crashing the family car, Juan encounters a cast of eccentric and fantastic characters who each try to help. But what begins as a mundane adventure quickly becomes a transformative journey exploring issues of death, family, love and sex."
+    },
+    "t:song for the snow lion theatrical premiere": {
+      "key": "t:song for the snow lion theatrical premiere",
+      "title": "A SONG FOR THE SNOW LION-Theatrical Premiere",
+      "overview": "Please join us for a very special one time event featuring two films from Bhutan by Academy Award nominated Pawo Choyning Dorji who will attend. Famed cellist/activist Yo Yo Ma will participate via Zoom.",
+      "backdrop": "https://cinema.cafilm.org/drive_serve/a-song-for-the-snow-lion-theatrical-premiere/0-600.webp"
+    },
+    "t:la cienega": {
+      "key": "t:la cienega",
+      "title": "LA CIÉNEGA",
+      "year": 2011,
+      "director": "Lucrecia Martel",
+      "overview": "The release of Lucrecia Martel’s La Ciénag aheralded the arrival of an astonishingly vital and original voice in Argentine cinema.\nWith a radical and disturbing take on narrative, beautiful cinematography, and a highly sophisticated use of on- and offscreen sound, Martel turns her tale of a dissolute bourgeois extended family, whiling away the hours of one sweaty, sticky summer, into a cinematic marvel.\nThis visceral take on class, nature, sexuality, and the ways that political turmoil and social stagnation can manifest in human relationships is a drama of extraordinary tactility, and one of the great contemporary film debuts.",
+      "runtime": 103,
+      "backdrop": "https://cinema.cafilm.org/drive_serve/la-cinega/0-600.webp"
     },
     "tmdb:653757": {
       "key": "tmdb:653757",
@@ -1910,6 +2227,15 @@
   },
   "screenings": [
     {
+      "id": "alamo:2026-09-09:12:45:tmdb:1422011",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1422011",
+      "date": "2026-09-09",
+      "time": "12:45",
+      "url": "https://drafthouse.com/sf/show/it-ends?cinemaId=0801&sessionId=82912",
+      "source": "alamo"
+    },
+    {
       "id": "operaplaza:2026-09-09:14:15:tmdb:1000866",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1000866",
@@ -1930,12 +2256,39 @@
       "source": "operaplaza"
     },
     {
+      "id": "operaplaza:2026-09-09:14:30:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-09",
+      "time": "14:30",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "rafael:2026-09-09:16:30:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-09",
+      "time": "16:30",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
+    },
+    {
       "id": "operaplaza:2026-09-09:16:30:tmdb:1127625",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1127625",
       "date": "2026-09-09",
       "time": "16:30",
       "url": "https://www.landmarktheatres.com/movies/316257-the-salt-path/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "operaplaza:2026-09-09:16:35:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-09",
+      "time": "16:35",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
       "source": "operaplaza"
     },
     {
@@ -1947,6 +2300,16 @@
       "url": "https://www.landmarktheatres.com/movies/314009-the-marching-band/",
       "note": "Subtitled",
       "source": "operaplaza"
+    },
+    {
+      "id": "vogue:2026-09-09:17:00:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-09",
+      "time": "17:00",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-9",
+      "note": "MAY DECEMBER)",
+      "source": "vogue"
     },
     {
       "id": "roxie:2026-09-09:18:00:tmdb:11229",
@@ -1987,6 +2350,26 @@
       "source": "rafael"
     },
     {
+      "id": "bampfa:2026-09-09:19:00:t:push buttons and ai",
+      "venueId": "bampfa",
+      "filmKey": "t:push buttons and ai",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/push-buttons-and-ai",
+      "format": "DCP",
+      "note": "Alternative Visions · In Conversation: Gibbs Chapman, Antonio Somaini, Hannes Bajohr, Sonja Thiel",
+      "source": "bampfa"
+    },
+    {
+      "id": "operaplaza:2026-09-09:19:15:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-09",
+      "time": "19:15",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
       "id": "operaplaza:2026-09-09:19:20:tmdb:577",
       "venueId": "operaplaza",
       "filmKey": "tmdb:577",
@@ -1995,15 +2378,6 @@
       "url": "https://www.landmarktheatres.com/movies/13547-to-die-for/",
       "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
       "source": "operaplaza"
-    },
-    {
-      "id": "newparkway:2026-09-09:19:25:tmdb:1596332",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596332",
-      "date": "2026-09-09",
-      "time": "19:25",
-      "url": "https://thenewparkway.com/movie/american-doctor/",
-      "source": "newparkway"
     },
     {
       "id": "balboa:2026-09-09:19:30:tmdb:1517111",
@@ -2035,9 +2409,9 @@
       "source": "castro"
     },
     {
-      "id": "roxie:2026-09-09:20:30:tmdb:473729",
+      "id": "roxie:2026-09-09:20:30:t:cycle of love",
       "venueId": "roxie",
-      "filmKey": "tmdb:473729",
+      "filmKey": "t:cycle of love",
       "date": "2026-09-09",
       "time": "20:30",
       "url": "https://roxie.com/film/the-cycle-of-love/",
@@ -2073,6 +2447,34 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-10:16:15:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-10",
+      "time": "16:15",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
+    },
+    {
+      "id": "operaplaza:2026-09-10:16:35:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-10",
+      "time": "16:35",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "vogue:2026-09-10:17:00:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-10",
+      "time": "17:00",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-10",
+      "note": "MAY DECEMBER)",
+      "source": "vogue"
+    },
+    {
       "id": "roxie:2026-09-10:18:00:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -2082,13 +2484,13 @@
       "source": "roxie"
     },
     {
-      "id": "roxie:2026-09-10:18:05:tmdb:1596332",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596332",
+      "id": "rafael:2026-09-10:18:30:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
       "date": "2026-09-10",
-      "time": "18:05",
-      "url": "https://roxie.com/film/american-doctor/",
-      "source": "roxie"
+      "time": "18:30",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
     },
     {
       "id": "newparkway:2026-09-10:18:30:tmdb:1567560",
@@ -2101,16 +2503,6 @@
       "source": "newparkway"
     },
     {
-      "id": "rafael:2026-09-10:19:00:tmdb:1596332",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596332",
-      "date": "2026-09-10",
-      "time": "19:00",
-      "url": "https://cinema.cafilm.org/film/american-doctor",
-      "note": "Screening and Conversation",
-      "source": "rafael"
-    },
-    {
       "id": "balboa:2026-09-10:19:00:tmdb:149",
       "venueId": "balboa",
       "filmKey": "tmdb:149",
@@ -2120,6 +2512,15 @@
       "format": "4K",
       "note": "Presented with English subtitles in a new 4K restoration",
       "source": "balboa"
+    },
+    {
+      "id": "alamo:2026-09-10:19:00:tmdb:1410939",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1410939",
+      "date": "2026-09-10",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/dire-duplicity?cinemaId=0801&sessionId=82496",
+      "source": "alamo"
     },
     {
       "id": "rafael:2026-09-10:19:00:tmdb:1000866",
@@ -2140,6 +2541,15 @@
       "format": "DCP",
       "note": "Alice Diop in Person · In Conversation: Alice Diop, Iggy Cortez",
       "source": "bampfa"
+    },
+    {
+      "id": "operaplaza:2026-09-10:19:15:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-10",
+      "time": "19:15",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
     },
     {
       "id": "balboa:2026-09-10:19:30:tmdb:564",
@@ -2182,13 +2592,13 @@
       "source": "castro"
     },
     {
-      "id": "roxie:2026-09-10:20:10:tmdb:1310573",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1310573",
+      "id": "newparkway:2026-09-10:21:25:tmdb:950028",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:950028",
       "date": "2026-09-10",
-      "time": "20:10",
-      "url": "https://roxie.com/film/barrio-triste/",
-      "source": "roxie"
+      "time": "21:25",
+      "url": "https://thenewparkway.com/movie/the-invite/",
+      "source": "newparkway"
     },
     {
       "id": "newparkway:2026-09-11:15:50:tmdb:1567560",
@@ -2220,9 +2630,29 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-09-11:18:00:tmdb:473729",
+      "id": "vogue:2026-09-11:17:00:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-11",
+      "time": "17:00",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-11",
+      "note": "MAY DECEMBER)",
+      "source": "vogue"
+    },
+    {
+      "id": "stanford:2026-09-11:17:45:tmdb:108222",
+      "venueId": "stanford",
+      "filmKey": "tmdb:108222",
+      "date": "2026-09-11",
+      "time": "17:45",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Alexander's Ragtime Band",
+      "source": "stanford"
+    },
+    {
+      "id": "roxie:2026-09-11:18:00:t:cycle of love",
       "venueId": "roxie",
-      "filmKey": "tmdb:473729",
+      "filmKey": "t:cycle of love",
       "date": "2026-09-11",
       "time": "18:00",
       "url": "https://roxie.com/film/the-cycle-of-love/",
@@ -2237,6 +2667,15 @@
       "url": "https://roxie.com/film/gandahar-4k-restoration/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-09-11:18:00:tmdb:950028",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:950028",
+      "date": "2026-09-11",
+      "time": "18:00",
+      "url": "https://thenewparkway.com/movie/the-invite/",
+      "source": "newparkway"
     },
     {
       "id": "newparkway:2026-09-11:18:05:tmdb:1639520",
@@ -2257,6 +2696,16 @@
       "format": "35mm",
       "note": "Jean-Luc Godard’s Early Films",
       "source": "bampfa"
+    },
+    {
+      "id": "stanford:2026-09-11:19:30:tmdb:43839",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43839",
+      "date": "2026-09-11",
+      "time": "19:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Tin Pan Alley",
+      "source": "stanford"
     },
     {
       "id": "4star:2026-09-11:20:00:tmdb:98096",
@@ -2285,6 +2734,16 @@
       "time": "20:20",
       "url": "https://thenewparkway.com/movie/filipiana/",
       "source": "newparkway"
+    },
+    {
+      "id": "stanford:2026-09-11:21:30:tmdb:108222",
+      "venueId": "stanford",
+      "filmKey": "tmdb:108222",
+      "date": "2026-09-11",
+      "time": "21:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Alexander's Ragtime Band",
+      "source": "stanford"
     },
     {
       "id": "newparkway:2026-09-11:22:30:tmdb:36685",
@@ -2316,15 +2775,6 @@
       "source": "balboa"
     },
     {
-      "id": "alamo:2026-09-12:13:15:tmdb:1596332",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596332",
-      "date": "2026-09-12",
-      "time": "13:15",
-      "url": "https://drafthouse.com/sf/show/american-doctor?cinemaId=0801&sessionId=83053",
-      "source": "alamo"
-    },
-    {
       "id": "roxie:2026-09-12:13:25:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -2334,13 +2784,14 @@
       "source": "roxie"
     },
     {
-      "id": "roxie:2026-09-12:15:30:tmdb:1596332",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596332",
+      "id": "vogue:2026-09-12:14:30:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
       "date": "2026-09-12",
-      "time": "15:30",
-      "url": "https://roxie.com/film/american-doctor/",
-      "source": "roxie"
+      "time": "14:30",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-12",
+      "note": "MAY DECEMBER)",
+      "source": "vogue"
     },
     {
       "id": "roxie:2026-09-12:15:45:tmdb:44778",
@@ -2350,6 +2801,16 @@
       "time": "15:45",
       "url": "https://roxie.com/film/maquilapolis/",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-12:15:45:tmdb:43839",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43839",
+      "date": "2026-09-12",
+      "time": "15:45",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Tin Pan Alley",
+      "source": "stanford"
     },
     {
       "id": "alamo:2026-09-12:16:00:tmdb:1368",
@@ -2390,13 +2851,23 @@
       "source": "newparkway"
     },
     {
-      "id": "roxie:2026-09-12:17:35:tmdb:473729",
+      "id": "roxie:2026-09-12:17:35:t:cycle of love",
       "venueId": "roxie",
-      "filmKey": "tmdb:473729",
+      "filmKey": "t:cycle of love",
       "date": "2026-09-12",
       "time": "17:35",
       "url": "https://roxie.com/film/the-cycle-of-love/",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-12:17:45:tmdb:108222",
+      "venueId": "stanford",
+      "filmKey": "tmdb:108222",
+      "date": "2026-09-12",
+      "time": "17:45",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Alexander's Ragtime Band",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-12:18:10:tmdb:22500",
@@ -2407,6 +2878,15 @@
       "url": "https://roxie.com/film/gandahar-4k-restoration/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-09-12:18:35:tmdb:950028",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:950028",
+      "date": "2026-09-12",
+      "time": "18:35",
+      "url": "https://thenewparkway.com/movie/the-invite/",
+      "source": "newparkway"
     },
     {
       "id": "bampfa:2026-09-12:19:00:tmdb:103",
@@ -2420,6 +2900,16 @@
       "source": "bampfa"
     },
     {
+      "id": "stanford:2026-09-12:19:30:tmdb:43839",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43839",
+      "date": "2026-09-12",
+      "time": "19:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Tin Pan Alley",
+      "source": "stanford"
+    },
+    {
       "id": "roxie:2026-09-12:19:40:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -2427,6 +2917,15 @@
       "time": "19:40",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
+    },
+    {
+      "id": "ata:2026-09-12:20:00:t:other cinema incredibly strange religion",
+      "venueId": "ata",
+      "filmKey": "t:other cinema incredibly strange religion",
+      "date": "2026-09-12",
+      "time": "20:00",
+      "url": "https://www.atasite.org/event/other-cinema-20260912/",
+      "source": "ata"
     },
     {
       "id": "roxie:2026-09-12:20:15:tmdb:11171",
@@ -2439,13 +2938,14 @@
       "source": "roxie"
     },
     {
-      "id": "alamo:2026-09-12:21:45:tmdb:1310573",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1310573",
+      "id": "stanford:2026-09-12:21:30:tmdb:108222",
+      "venueId": "stanford",
+      "filmKey": "tmdb:108222",
       "date": "2026-09-12",
-      "time": "21:45",
-      "url": "https://drafthouse.com/sf/show/barrio-triste?cinemaId=0801&sessionId=82497",
-      "source": "alamo"
+      "time": "21:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Alexander's Ragtime Band",
+      "source": "stanford"
     },
     {
       "id": "newparkway:2026-09-12:22:00:tmdb:36685",
@@ -2476,6 +2976,15 @@
       "source": "4star"
     },
     {
+      "id": "newparkway:2026-09-13:12:00:tmdb:1439808",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1439808",
+      "date": "2026-09-13",
+      "time": "12:00",
+      "url": "https://thenewparkway.com/movie/hadestown-the-musical/",
+      "source": "newparkway"
+    },
+    {
       "id": "newparkway:2026-09-13:12:15:tmdb:1639520",
       "venueId": "newparkway",
       "filmKey": "tmdb:1639520",
@@ -2485,9 +2994,9 @@
       "source": "newparkway"
     },
     {
-      "id": "roxie:2026-09-13:12:45:tmdb:252493",
+      "id": "roxie:2026-09-13:12:45:t:big cheese",
       "venueId": "roxie",
-      "filmKey": "tmdb:252493",
+      "filmKey": "t:big cheese",
       "date": "2026-09-13",
       "time": "12:45",
       "url": "https://roxie.com/film/the-big-cheese/",
@@ -2504,6 +3013,16 @@
       "source": "newparkway"
     },
     {
+      "id": "vogue:2026-09-13:14:30:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-13",
+      "time": "14:30",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-13",
+      "note": "MAY DECEMBER)",
+      "source": "vogue"
+    },
+    {
       "id": "balboa:2026-09-13:15:00:tmdb:149",
       "venueId": "balboa",
       "filmKey": "tmdb:149",
@@ -2515,9 +3034,9 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-09-13:15:10:tmdb:473729",
+      "id": "roxie:2026-09-13:15:10:t:cycle of love",
       "venueId": "roxie",
-      "filmKey": "tmdb:473729",
+      "filmKey": "t:cycle of love",
       "date": "2026-09-13",
       "time": "15:10",
       "url": "https://roxie.com/film/the-cycle-of-love/",
@@ -2554,6 +3073,25 @@
       "source": "bampfa"
     },
     {
+      "id": "alamo:2026-09-13:15:40:tmdb:1308858",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1308858",
+      "date": "2026-09-13",
+      "time": "15:40",
+      "url": "https://drafthouse.com/sf/show/dreams-in-nightmares?cinemaId=0801&sessionId=82952",
+      "source": "alamo"
+    },
+    {
+      "id": "stanford:2026-09-13:15:45:tmdb:43839",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43839",
+      "date": "2026-09-13",
+      "time": "15:45",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Tin Pan Alley",
+      "source": "stanford"
+    },
+    {
       "id": "newparkway:2026-09-13:16:00:tmdb:1567560",
       "venueId": "newparkway",
       "filmKey": "tmdb:1567560",
@@ -2582,14 +3120,35 @@
       "source": "roxie"
     },
     {
-      "id": "alamo:2026-09-13:19:00:t:twilight:1999",
-      "venueId": "alamo",
-      "filmKey": "t:twilight:1999",
+      "id": "stanford:2026-09-13:17:45:tmdb:108222",
+      "venueId": "stanford",
+      "filmKey": "tmdb:108222",
+      "date": "2026-09-13",
+      "time": "17:45",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Alexander's Ragtime Band",
+      "source": "stanford"
+    },
+    {
+      "id": "bampfa:2026-09-13:19:00:tmdb:12637",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:12637",
       "date": "2026-09-13",
       "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/the-twilight-saga-twilight-2008-fan-event?cinemaId=0801&sessionId=82307",
-      "note": "Fan Screening · A poster for your wall",
-      "source": "alamo"
+      "url": "https://bampfa.org/event/new-york-new-york",
+      "format": "4K",
+      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "stanford:2026-09-13:19:30:tmdb:43839",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43839",
+      "date": "2026-09-13",
+      "time": "19:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Tin Pan Alley",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-13:20:00:t:filipinana",
@@ -2610,13 +3169,24 @@
       "source": "newparkway"
     },
     {
-      "id": "alamo:2026-09-14:15:20:tmdb:1596332",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596332",
+      "id": "stanford:2026-09-13:21:30:tmdb:108222",
+      "venueId": "stanford",
+      "filmKey": "tmdb:108222",
+      "date": "2026-09-13",
+      "time": "21:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Alexander's Ragtime Band",
+      "source": "stanford"
+    },
+    {
+      "id": "vogue:2026-09-14:16:30:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
       "date": "2026-09-14",
-      "time": "15:20",
-      "url": "https://drafthouse.com/sf/show/american-doctor?cinemaId=0801&sessionId=83064",
-      "source": "alamo"
+      "time": "16:30",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-14",
+      "note": "MAY DECEMBER)",
+      "source": "vogue"
     },
     {
       "id": "balboa:2026-09-14:17:00:tmdb:149",
@@ -2639,9 +3209,9 @@
       "source": "newparkway"
     },
     {
-      "id": "roxie:2026-09-14:18:00:tmdb:473729",
+      "id": "roxie:2026-09-14:18:00:t:cycle of love",
       "venueId": "roxie",
-      "filmKey": "tmdb:473729",
+      "filmKey": "t:cycle of love",
       "date": "2026-09-14",
       "time": "18:00",
       "url": "https://roxie.com/film/the-cycle-of-love/",
@@ -2830,6 +3400,16 @@
       "source": "alamo"
     },
     {
+      "id": "vogue:2026-09-16:17:00:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-16",
+      "time": "17:00",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-16",
+      "note": "MAY DECEMBER)",
+      "source": "vogue"
+    },
+    {
       "id": "newparkway:2026-09-16:17:45:t:filipinana",
       "venueId": "newparkway",
       "filmKey": "t:filipinana",
@@ -2857,15 +3437,6 @@
       "url": "https://drafthouse.com/sf/show/weird-wednesday-castration-movie-anthology-ii-the-best-of-both-worlds?cinemaId=0801&sessionId=82417",
       "note": "Weird Wednesday · The second part of auteur Louise Weard's postmodern epic",
       "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-09-16:18:15:tmdb:1596332",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596332",
-      "date": "2026-09-16",
-      "time": "18:15",
-      "url": "https://roxie.com/film/american-doctor/",
-      "source": "roxie"
     },
     {
       "id": "bampfa:2026-09-16:19:00:tmdb:1596326",
@@ -2906,17 +3477,6 @@
       "time": "19:15",
       "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260916",
       "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-09-16:19:30:t:twilight:1999",
-      "venueId": "balboa",
-      "filmKey": "t:twilight:1999",
-      "date": "2026-09-16",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/twilight-september-16",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
     },
     {
       "id": "vogue:2026-09-16:19:30:tmdb:11326",
@@ -2965,15 +3525,6 @@
       "source": "newparkway"
     },
     {
-      "id": "piedmont:2026-09-17:14:00:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-17",
-      "time": "14:00",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
-    },
-    {
       "id": "roxie:2026-09-17:15:30:tmdb:162064",
       "venueId": "roxie",
       "filmKey": "tmdb:162064",
@@ -2983,23 +3534,14 @@
       "source": "roxie"
     },
     {
-      "id": "piedmont:2026-09-17:16:30:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-17",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
-    },
-    {
-      "id": "balboa:2026-09-17:17:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
+      "id": "vogue:2026-09-17:17:00:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
       "date": "2026-09-17",
       "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-17",
+      "note": "MAY DECEMBER)",
+      "source": "vogue"
     },
     {
       "id": "newparkway:2026-09-17:17:25:tmdb:1639520",
@@ -3020,13 +3562,23 @@
       "source": "roxie"
     },
     {
-      "id": "roxie:2026-09-17:18:20:tmdb:473729",
+      "id": "roxie:2026-09-17:18:20:t:cycle of love",
       "venueId": "roxie",
-      "filmKey": "tmdb:473729",
+      "filmKey": "t:cycle of love",
       "date": "2026-09-17",
       "time": "18:20",
       "url": "https://roxie.com/film/the-cycle-of-love/",
       "source": "roxie"
+    },
+    {
+      "id": "rafael:2026-09-17:18:30:t:song for the snow lion theatrical premiere",
+      "venueId": "rafael",
+      "filmKey": "t:song for the snow lion theatrical premiere",
+      "date": "2026-09-17",
+      "time": "18:30",
+      "url": "https://cinema.cafilm.org/film/a-song-for-the-snow-lion-theatrical-premiere",
+      "note": "Screening and Conversation — Q&A with Director Pawo Choyning Dorji moderated by Buddhist Film Foundation executive director Gaetano Kazuo Maida",
+      "source": "rafael"
     },
     {
       "id": "balboa:2026-09-17:19:00:tmdb:1596326",
@@ -3037,15 +3589,6 @@
       "url": "https://www.balboamovies.com/calendar-of-events/barbara-forever-september-17",
       "note": "Co-presented by Frameline",
       "source": "balboa"
-    },
-    {
-      "id": "piedmont:2026-09-17:19:30:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-17",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
     },
     {
       "id": "vogue:2026-09-17:19:30:tmdb:11326",
@@ -3067,22 +3610,14 @@
       "source": "4star"
     },
     {
-      "id": "piedmont:2026-09-18:14:50:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
+      "id": "stanford:2026-09-18:17:50:tmdb:43810",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43810",
       "date": "2026-09-18",
-      "time": "14:50",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-18:17:00:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-18",
-      "time": "17:00",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
+      "time": "17:50",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Moon Over Miami",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-18:18:00:t:filipinana",
@@ -3101,16 +3636,6 @@
       "time": "18:00",
       "url": "https://roxie.com/film/barbara-forever/",
       "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-18:18:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-18",
-      "time": "18:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-18",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
     },
     {
       "id": "newparkway:2026-09-18:18:00:tmdb:858",
@@ -3132,13 +3657,15 @@
       "source": "roxie"
     },
     {
-      "id": "piedmont:2026-09-18:19:30:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
+      "id": "bampfa:2026-09-18:19:00:t:senegalese meet sene gallic",
+      "venueId": "bampfa",
+      "filmKey": "t:senegalese meet sene gallic",
       "date": "2026-09-18",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
+      "time": "19:00",
+      "url": "https://bampfa.org/event/senegalese-meet-sene-gallic",
+      "format": "DCP",
+      "note": "Alice Diop in Person",
+      "source": "bampfa"
     },
     {
       "id": "balboa:2026-09-18:19:30:tmdb:11178",
@@ -3150,6 +3677,16 @@
       "format": "4K",
       "note": "New 25th Anniversary 4K",
       "source": "balboa"
+    },
+    {
+      "id": "stanford:2026-09-18:19:30:tmdb:43794",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43794",
+      "date": "2026-09-18",
+      "time": "19:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Down Argentine Way",
+      "source": "stanford"
     },
     {
       "id": "4star:2026-09-18:20:00:tmdb:98096",
@@ -3182,6 +3719,16 @@
       "source": "roxie"
     },
     {
+      "id": "stanford:2026-09-18:21:15:tmdb:43810",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43810",
+      "date": "2026-09-18",
+      "time": "21:15",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Moon Over Miami",
+      "source": "stanford"
+    },
+    {
       "id": "piedmont:2026-09-18:22:30:tmdb:252",
       "venueId": "piedmont",
       "filmKey": "tmdb:252",
@@ -3190,6 +3737,15 @@
       "url": "https://www.landmarktheatres.com/movies/52931-willy-wonka-and-the-chocolate-factory/",
       "note": "Landmark's Piedmont Theatre - Cine Insomnia Late Shows",
       "source": "piedmont"
+    },
+    {
+      "id": "rafael:2026-09-19:11:00:t:la cienega",
+      "venueId": "rafael",
+      "filmKey": "t:la cienega",
+      "date": "2026-09-19",
+      "time": "11:00",
+      "url": "https://cinema.cafilm.org/film/la-cinega",
+      "source": "rafael"
     },
     {
       "id": "alamo:2026-09-19:12:00:tmdb:10054",
@@ -3220,15 +3776,6 @@
       "source": "roxie"
     },
     {
-      "id": "piedmont:2026-09-19:14:50:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-19",
-      "time": "14:50",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
-    },
-    {
       "id": "newparkway:2026-09-19:15:00:tmdb:2164",
       "venueId": "newparkway",
       "filmKey": "tmdb:2164",
@@ -3257,14 +3804,14 @@
       "source": "roxie"
     },
     {
-      "id": "balboa:2026-09-19:16:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
+      "id": "stanford:2026-09-19:16:05:tmdb:43794",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43794",
       "date": "2026-09-19",
-      "time": "16:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-19",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
+      "time": "16:05",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Down Argentine Way",
+      "source": "stanford"
     },
     {
       "id": "balboa:2026-09-19:16:30:tmdb:11178",
@@ -3289,15 +3836,6 @@
       "source": "bampfa"
     },
     {
-      "id": "piedmont:2026-09-19:17:00:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-19",
-      "time": "17:00",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
-    },
-    {
       "id": "roxie:2026-09-19:17:20:tmdb:1596326",
       "venueId": "roxie",
       "filmKey": "tmdb:1596326",
@@ -3305,6 +3843,16 @@
       "time": "17:20",
       "url": "https://roxie.com/film/barbara-forever/",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-19:17:50:tmdb:43810",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43810",
+      "date": "2026-09-19",
+      "time": "17:50",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Moon Over Miami",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-19:18:00:tmdb:9323",
@@ -3327,13 +3875,14 @@
       "source": "bampfa"
     },
     {
-      "id": "piedmont:2026-09-19:19:30:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
+      "id": "stanford:2026-09-19:19:30:tmdb:43794",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43794",
       "date": "2026-09-19",
       "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Down Argentine Way",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-19:19:40:tmdb:1620313",
@@ -3363,6 +3912,16 @@
       "url": "https://roxie.com/film/kwaidan-4k-restoration/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-19:21:15:tmdb:43810",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43810",
+      "date": "2026-09-19",
+      "time": "21:15",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Moon Over Miami",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-20:12:30:tmdb:1610748",
@@ -3403,25 +3962,6 @@
       "source": "4star"
     },
     {
-      "id": "balboa:2026-09-20:14:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-20",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "piedmont:2026-09-20:14:50:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "14:50",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
-    },
-    {
       "id": "roxie:2026-09-20:15:00:tmdb:1596326",
       "venueId": "roxie",
       "filmKey": "tmdb:1596326",
@@ -3438,6 +3978,16 @@
       "time": "15:10",
       "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-20:16:05:tmdb:43794",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43794",
+      "date": "2026-09-20",
+      "time": "16:05",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Down Argentine Way",
+      "source": "stanford"
     },
     {
       "id": "alamo:2026-09-20:16:20:tmdb:9323",
@@ -3482,15 +4032,6 @@
       "source": "rafael"
     },
     {
-      "id": "piedmont:2026-09-20:17:00:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "17:00",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
-    },
-    {
       "id": "roxie:2026-09-20:17:50:tmdb:30959",
       "venueId": "roxie",
       "filmKey": "tmdb:30959",
@@ -3499,6 +4040,16 @@
       "url": "https://roxie.com/film/kwaidan-4k-restoration/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-20:17:50:tmdb:43810",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43810",
+      "date": "2026-09-20",
+      "time": "17:50",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Moon Over Miami",
+      "source": "stanford"
     },
     {
       "id": "alamo:2026-09-20:19:00:tmdb:18239",
@@ -3522,15 +4073,6 @@
       "source": "bampfa"
     },
     {
-      "id": "piedmont:2026-09-20:19:30:tmdb:1423191",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000018854-resident-evil/",
-      "source": "piedmont"
-    },
-    {
       "id": "4star:2026-09-20:19:30:tmdb:91694",
       "venueId": "4star",
       "filmKey": "tmdb:91694",
@@ -3541,6 +4083,16 @@
       "source": "4star"
     },
     {
+      "id": "stanford:2026-09-20:19:30:tmdb:43794",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43794",
+      "date": "2026-09-20",
+      "time": "19:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Down Argentine Way",
+      "source": "stanford"
+    },
+    {
       "id": "newparkway:2026-09-20:21:00:tmdb:1574",
       "venueId": "newparkway",
       "filmKey": "tmdb:1574",
@@ -3548,6 +4100,16 @@
       "time": "21:00",
       "url": "https://thenewparkway.com/movie/chicago/",
       "source": "newparkway"
+    },
+    {
+      "id": "stanford:2026-09-20:21:15:tmdb:43810",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43810",
+      "date": "2026-09-20",
+      "time": "21:15",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Moon Over Miami",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-21:18:00:tmdb:1596326",
@@ -3566,16 +4128,6 @@
       "time": "18:00",
       "url": "https://roxie.com/film/batch-81/",
       "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-21:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-21",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-21",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
     },
     {
       "id": "4star:2026-09-21:20:00:tmdb:98096",
@@ -3636,14 +4188,13 @@
       "source": "balboa"
     },
     {
-      "id": "balboa:2026-09-22:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
+      "id": "alamo:2026-09-22:19:00:tmdb:1599181",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1599181",
       "date": "2026-09-22",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-22",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=82536",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-09-22:20:35:t:filipinana",
@@ -3703,6 +4254,17 @@
       "source": "operaplaza"
     },
     {
+      "id": "bampfa:2026-09-23:19:00:t:it will be better before and temo re",
+      "venueId": "bampfa",
+      "filmKey": "t:it will be better before and temo re",
+      "date": "2026-09-23",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/it-will-be-better-and-temo-re",
+      "format": "DCP",
+      "note": "Georgian Cinema Now: Part 1 · In Conversation: Keto Kipiani, Anka Gujabidze, Salomé Asatiani, Anna Dziapshipa",
+      "source": "bampfa"
+    },
+    {
       "id": "piedmont:2026-09-23:19:00:tmdb:653",
       "venueId": "piedmont",
       "filmKey": "tmdb:653",
@@ -3711,16 +4273,6 @@
       "url": "https://www.landmarktheatres.com/movies/318380-nosferatu-with-live-quarkestra-orchestra/",
       "note": "Nosferatu with Live Quarkestra Orchestra",
       "source": "piedmont"
-    },
-    {
-      "id": "balboa:2026-09-23:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-23",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-23",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
     },
     {
       "id": "vogue:2026-09-23:19:30:tmdb:41050",
@@ -3762,15 +4314,6 @@
       "source": "grandlake"
     },
     {
-      "id": "roxie:2026-09-24:18:00:tmdb:1596332",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596332",
-      "date": "2026-09-24",
-      "time": "18:00",
-      "url": "https://roxie.com/film/american-doctor/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-09-24:19:00:t:re vision my name aint suzie",
       "venueId": "roxie",
       "filmKey": "t:re vision my name aint suzie",
@@ -3798,16 +4341,6 @@
       "time": "19:00",
       "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260924",
       "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-09-24:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-24",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-24",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
     },
     {
       "id": "4star:2026-09-24:20:00:tmdb:98096",
@@ -3847,6 +4380,16 @@
       "time": "15:15",
       "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260925",
       "source": "grandlake"
+    },
+    {
+      "id": "stanford:2026-09-25:17:40:tmdb:43781",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43781",
+      "date": "2026-09-25",
+      "time": "17:40",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Sun Valley Serenade",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-25:17:45:t:re vision dakan",
@@ -3896,6 +4439,16 @@
       "source": "balboa"
     },
     {
+      "id": "stanford:2026-09-25:19:30:tmdb:43797",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43797",
+      "date": "2026-09-25",
+      "time": "19:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Orchestra Wives",
+      "source": "stanford"
+    },
+    {
       "id": "roxie:2026-09-25:20:30:t:re vision the outcasts",
       "venueId": "roxie",
       "filmKey": "t:re vision the outcasts",
@@ -3903,6 +4456,16 @@
       "time": "20:30",
       "url": "https://roxie.com/film/revision-the-outcasts/",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-25:21:10:tmdb:43781",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43781",
+      "date": "2026-09-25",
+      "time": "21:10",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Sun Valley Serenade",
+      "source": "stanford"
     },
     {
       "id": "4star:2026-09-26:10:00:tmdb:8392",
@@ -3978,6 +4541,16 @@
       "source": "grandlake"
     },
     {
+      "id": "stanford:2026-09-26:16:00:tmdb:43797",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43797",
+      "date": "2026-09-26",
+      "time": "16:00",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Orchestra Wives",
+      "source": "stanford"
+    },
+    {
       "id": "roxie:2026-09-26:16:20:t:re vision the dislocation of amber",
       "venueId": "roxie",
       "filmKey": "t:re vision the dislocation of amber",
@@ -3985,6 +4558,16 @@
       "time": "16:20",
       "url": "https://roxie.com/film/revision-the-dislocation-of-amber/",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-26:17:40:tmdb:43781",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43781",
+      "date": "2026-09-26",
+      "time": "17:40",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Sun Valley Serenade",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-26:18:00:t:re vision gehenu lamai the girls",
@@ -4017,6 +4600,16 @@
       "source": "bampfa"
     },
     {
+      "id": "stanford:2026-09-26:19:30:tmdb:43797",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43797",
+      "date": "2026-09-26",
+      "time": "19:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Orchestra Wives",
+      "source": "stanford"
+    },
+    {
       "id": "4star:2026-09-26:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -4027,6 +4620,16 @@
       "source": "4star"
     },
     {
+      "id": "ata:2026-09-26:20:00:t:other cinema post kolonial spectres",
+      "venueId": "ata",
+      "filmKey": "t:other cinema post kolonial spectres",
+      "date": "2026-09-26",
+      "time": "20:00",
+      "url": "https://www.atasite.org/event/other-cinema-20260926/",
+      "note": "Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play,…",
+      "source": "ata"
+    },
+    {
       "id": "roxie:2026-09-26:21:00:t:re vision lepers and sex aka santo vs the riders of terror",
       "venueId": "roxie",
       "filmKey": "t:re vision lepers and sex aka santo vs the riders of terror",
@@ -4034,6 +4637,16 @@
       "time": "21:00",
       "url": "https://roxie.com/film/revision-lepers-sex-aka-santo-vs-the-riders-of-terror/",
       "source": "roxie"
+    },
+    {
+      "id": "stanford:2026-09-26:21:10:tmdb:43781",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43781",
+      "date": "2026-09-26",
+      "time": "21:10",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Sun Valley Serenade",
+      "source": "stanford"
     },
     {
       "id": "alamo:2026-09-26:21:45:tmdb:1618403",
@@ -4101,6 +4714,17 @@
       "source": "roxie"
     },
     {
+      "id": "bampfa:2026-09-27:13:30:t:english teacher and bakhmaro 2050",
+      "venueId": "bampfa",
+      "filmKey": "t:english teacher and bakhmaro 2050",
+      "date": "2026-09-27",
+      "time": "13:30",
+      "url": "https://bampfa.org/event/english-teacher-and-bakhmaro-2050",
+      "format": "DCP",
+      "note": "Georgian Cinema Now: Part 1 · In Conversation: Nino Orjonikidze, Vano Arsenishvili, Anka Gujabidze, Susan Oxtoby",
+      "source": "bampfa"
+    },
+    {
       "id": "balboa:2026-09-27:14:00:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -4138,6 +4762,27 @@
       "source": "roxie"
     },
     {
+      "id": "stanford:2026-09-27:16:00:tmdb:43797",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43797",
+      "date": "2026-09-27",
+      "time": "16:00",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Orchestra Wives",
+      "source": "stanford"
+    },
+    {
+      "id": "bampfa:2026-09-27:16:30:t:incomplete day in the history of georgia 10 06 93",
+      "venueId": "bampfa",
+      "filmKey": "t:incomplete day in the history of georgia 10 06 93",
+      "date": "2026-09-27",
+      "time": "16:30",
+      "url": "https://bampfa.org/event/incomplete-day-history-georgia-100693",
+      "format": "DCP",
+      "note": "Georgian Cinema Now: Part 1",
+      "source": "bampfa"
+    },
+    {
       "id": "rafael:2026-09-27:16:30:tmdb:1399474",
       "venueId": "rafael",
       "filmKey": "tmdb:1399474",
@@ -4146,6 +4791,16 @@
       "url": "https://cinema.cafilm.org/film/american-agitators",
       "note": "Screening and Conversation",
       "source": "rafael"
+    },
+    {
+      "id": "stanford:2026-09-27:17:40:tmdb:43781",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43781",
+      "date": "2026-09-27",
+      "time": "17:40",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Sun Valley Serenade",
+      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-27:18:10:t:re vision 8 girls in a boat",
@@ -4176,6 +4831,16 @@
       "source": "balboa"
     },
     {
+      "id": "stanford:2026-09-27:19:30:tmdb:43797",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43797",
+      "date": "2026-09-27",
+      "time": "19:30",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Orchestra Wives",
+      "source": "stanford"
+    },
+    {
       "id": "4star:2026-09-27:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -4202,6 +4867,16 @@
       "time": "21:00",
       "url": "https://thenewparkway.com/movie/bottoms/",
       "source": "newparkway"
+    },
+    {
+      "id": "stanford:2026-09-27:21:10:tmdb:43781",
+      "venueId": "stanford",
+      "filmKey": "tmdb:43781",
+      "date": "2026-09-27",
+      "time": "21:10",
+      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
+      "note": "Double feature with Sun Valley Serenade",
+      "source": "stanford"
     },
     {
       "id": "grandlake:2026-09-28:15:15:tmdb:24428",
@@ -4412,6 +5087,15 @@
       "source": "operaplaza"
     },
     {
+      "id": "operaplaza:2026-09-30:19:00:tmdb:1283515",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1283515",
+      "date": "2026-09-30",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/1000050801-verity-early-access/",
+      "source": "operaplaza"
+    },
+    {
       "id": "bampfa:2026-09-30:19:00:tmdb:1108475",
       "venueId": "bampfa",
       "filmKey": "tmdb:1108475",
@@ -4486,6 +5170,17 @@
       "time": "18:30",
       "url": "https://roxie.com/film/black-swan-perfect-blue/",
       "source": "roxie"
+    },
+    {
+      "id": "bampfa:2026-10-01:19:00:tmdb:33470",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:33470",
+      "date": "2026-10-01",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/italianamerican-and-american-boy-profile-steven-prince",
+      "format": "DCP",
+      "note": "Martin Scorsese Pictures",
+      "source": "bampfa"
     },
     {
       "id": "balboa:2026-10-01:19:30:tmdb:1596296",
@@ -4581,6 +5276,15 @@
       "source": "4star"
     },
     {
+      "id": "ata:2026-10-03:20:00:t:other cinema incredibly strange music",
+      "venueId": "ata",
+      "filmKey": "t:other cinema incredibly strange music",
+      "date": "2026-10-03",
+      "time": "20:00",
+      "url": "https://www.atasite.org/event/other-cinema-20261003/",
+      "source": "ata"
+    },
+    {
       "id": "roxie:2026-10-04:12:30:tmdb:1666362",
       "venueId": "roxie",
       "filmKey": "tmdb:1666362",
@@ -4648,6 +5352,17 @@
       "time": "19:00",
       "url": "https://www.landmarktheatres.com/movies/9434-halloween-1978/",
       "source": "operaplaza"
+    },
+    {
+      "id": "bampfa:2026-10-07:19:00:t:films by the cousin collective and christophe katrib",
+      "venueId": "bampfa",
+      "filmKey": "t:films by the cousin collective and christophe katrib",
+      "date": "2026-10-07",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/films-cousin-collective-and-christophe-katrib",
+      "format": "DCP",
+      "note": "Alternative Visions",
+      "source": "bampfa"
     }
   ],
   "festivals": [

@@ -3,13 +3,18 @@
     "decision": "include",
     "title": "Filipiñana",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:37:20.383Z"
+    "edits": {
+      "director": "Rafael Manuel",
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "year": 2926,
+      "runtime": 100
+    },
+    "decidedAt": "2026-09-09T11:36:56.725Z"
   },
   "american doctor": {
-    "decision": "include",
+    "decision": "exclude",
     "title": "American Doctor",
-    "tmdbId": 1596332,
-    "decidedAt": "2026-09-08T18:37:29.126Z"
+    "decidedAt": "2026-09-09T11:25:04.872Z"
   },
   "union county": {
     "decision": "include",
@@ -29,10 +34,9 @@
     "decidedAt": "2026-09-09T10:26:52.555Z"
   },
   "barrio triste": {
-    "decision": "include",
+    "decision": "exclude",
     "title": "Barrio triste",
-    "tmdbId": 1310573,
-    "decidedAt": "2026-09-08T18:38:42.994Z"
+    "decidedAt": "2026-09-09T11:25:29.483Z"
   },
   "roxie first looks 14": {
     "decision": "exclude",
@@ -42,8 +46,15 @@
   "big cheese": {
     "decision": "include",
     "title": "The Big Cheese",
-    "tmdbId": 252493,
-    "decidedAt": "2026-09-08T18:39:55.916Z"
+    "tmdbId": null,
+    "image": "https://roxie.com/wp-content/uploads/2026/08/4-6.jpg",
+    "edits": {
+      "director": "Sara Joe Wolansky",
+      "overview": "Guests will receive complimentary cheese samples courtesy of Bi-Rite Market and a coupon for 10% off cheese at Bi-Rite upon entry.\n\nFollowing the film, join Sam Mogannam of Bi-Rite and Ray Bair of Cheese Plus for a conversation about all things cheese, moderated by Sigfried “Ziggy” von Frankenberg-Leu, West Coast Sales Manager for Market to Monger",
+      "year": 2026,
+      "runtime": 87
+    },
+    "decidedAt": "2026-09-09T11:27:09.826Z"
   },
   "samurai and the prisoner": {
     "decision": "include",
@@ -61,13 +72,17 @@
     "decision": "include",
     "title": "Larry Reed: A Life in Light and Shadow",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:40:31.181Z"
+    "edits": {
+      "overview": "Join us at the Roxie Theater for a special screening honoring the life and work of Larry Reed (1944–2026), master of Balinese shadow theater, theater and film director, and founder of ShadowLight Productions.",
+      "runtime": 90
+    },
+    "decidedAt": "2026-09-09T11:37:19.023Z"
   },
   "brailled it": {
     "decision": "include",
     "title": "Brailled It",
     "tmdbId": 1610748,
-    "decidedAt": "2026-09-08T18:40:45.060Z"
+    "decidedAt": "2026-09-09T11:28:39.545Z"
   },
   "oldest person in the world": {
     "decision": "include",
@@ -79,97 +94,192 @@
     "decision": "include",
     "title": "Re:Vision: My Name Ain’t Suzie",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:10.840Z"
+    "edits": {
+      "director": "Angie Chen",
+      "overview": "In My Name Ain’t Suzie, Angie Chen offers a powerful rebuke to the colonial imagination of films such as The World of Suzie Wong (1960), bringing post-war Hong Kong to life on her own terms. Shui-Mei (Patricia Ha), a “salt water girl” from the outskirts of the city, finds a way out of poverty in the Red Light district of Wan Chai. Over the years, she rises through the ranks, discovering a world of equal hardship and sisterly camaraderie, where colorful characters abound – among them Jimmy (Anthony Wong, in his debut role), a mixed-race kid looking for his father in the crowd of thirsty American sailors.",
+      "runtime": 101
+    },
+    "decidedAt": "2026-09-09T11:37:55.505Z"
   },
   "re vision valley of the bees": {
     "decision": "include",
     "title": "Re:Vision: Valley of the Bees",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:18.238Z"
+    "edits": {
+      "director": "František Vláčil",
+      "overview": "While his name lacks the recognition of other Eastern European filmmakers, writer / director / occasional actor František Vláčil could be considered among the greatest motion picture practitioners on the strength of his adaptation of Marketa Lazarová alone. Yet his follow-up, The Valley of the Bees [Údolí včel], is a similarly stunning period-piece of archetypal drama (and, like its predecessor and other works by the filmmaker, features an extraordinary score by Zdeněk Liška).",
+      "year": 1968,
+      "runtime": 117
+    },
+    "decidedAt": "2026-09-09T11:38:32.673Z"
   },
   "re vision dakan": {
     "decision": "include",
     "title": "Re:Vision: Dakan",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:20.349Z"
+    "edits": {
+      "director": "Mohamed Camara",
+      "overview": "Dakan follows two young men, Manga and Sori, as they navigate young love of a kind their families cannot abide. Seen by Manga’s mother as a mental illness, and Sori’s father as a weakness to overcome, both men struggle to live the “right way”. Self-denial, tradition and superstition merge in attempts to rid the young lovers of their passions.",
+      "year": 1997,
+      "runtime": 107
+    },
+    "decidedAt": "2026-09-09T11:38:54.559Z"
   },
   "re vision the outcasts": {
     "decision": "include",
     "title": "Re:Vision: The Outcasts",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:24.828Z"
+    "edits": {
+      "director": "Robert Wynne-Simmons",
+      "overview": "Written and directed by Robert Wynne-Simmons (writer of folk-horror masterpiece Blood on Satan’s Claw), and starring legendary Irish actors Cyril Cusack and Mick Lally, The Outcasts was the first major feature film funded in Ireland in forty years. Set in the earlier 1800s, an era of great poverty and no little superstition in pre-Famine Ireland, The Outcasts centers Maura (Mary Ryan), one of three daughters, a peculiar young woman largely ostracized by her rural Irish community due to her “abnormal” behavior. In great need of an ally, Maura aligns herself with the much feared Scarf Michael, whose power over the locals seems to tap into a world beyond our own.",
+      "year": 1982,
+      "runtime": 110
+    },
+    "decidedAt": "2026-09-09T11:39:25.686Z"
   },
   "re vision i am with a monk": {
     "decision": "include",
     "title": "Re:Vision: I Am With A Monk",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:43.948Z"
+    "edits": {
+      "director": "Kom Akkadej",
+      "overview": "Two legendary Thai actors, Sombat Methanee and Sorapong Chatree, form an unlikely duo of a wanderer on the run and reluctant monk, facing danger at every turn. Khom Akadet’s 1980s actioner is thrilling not only in its fight scenes, but also in the careful registers between.",
+      "year": 1984,
+      "runtime": 126
+    },
+    "decidedAt": "2026-09-09T11:40:29.328Z"
   },
   "dreamers and i": {
     "decision": "include",
     "title": "The Dreamers And I",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:47.673Z"
+    "edits": {
+      "director": "Kenji Yamamota",
+      "overview": "Three immigrant entrepreneurs arrive in the U.S. to make their high-tech dreams come true. Carlos de la Lama-Noriega from Spain is the founder of Startup Embassy, a so-called hacker house that offers an affordable, welcoming live/work community of like-minded geeks as they labor in obscurity. Habibe Turfan, a materials scientist from Turkey, is working on her dream project, which she calls Stealth Startup. AI engineer Lucas Gozálvez, also from Spain, is CEO of another startup, Caleida, and the recent author of “The Hunger Games of Coding: Will AI Replace Developers or Trigger a Brutal Surge in Demand.”",
+      "year": 2025,
+      "runtime": 74
+    },
+    "decidedAt": "2026-09-09T11:40:48.150Z"
   },
   "re vision araya": {
     "decision": "include",
     "title": "Re:Vision: Araya",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:50.042Z"
+    "edits": {
+      "director": "Margot Benacerraf",
+      "overview": "Araya captures nearly five-hundred years of history condensed into a speculative single day (albeit filmed with her cinematographer Giuseppe Nisoli over four weeks, from September to October), with a tripartite structure following the lives of three families in three nearby villages.",
+      "year": 1958,
+      "runtime": 102
+    },
+    "decidedAt": "2026-09-09T11:41:11.763Z"
   },
   "re vision the dislocation of amber": {
     "decision": "include",
     "title": "Re:Vision: The Dislocation of Amber",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:51.659Z"
+    "edits": {
+      "director": "Hussein Shariffe",
+      "overview": "In The Dislocation of Amber, director Hussein Shariffe uses abandoned areas of the Sudanese city of Suakin to stage abstracted, ambiguous performances. His actors move through corners, windows, doorways like shadows of this once thriving port, now fallen to ruin. Lacerating sunshine and intense color dominate the frame, while musician Abdel-Aziz Dawoud chants the words of the Sufi poem “The Wine Ode” by Ibn Al-Faridh. Shariffe himself said this about Suakin in 1974 — “Only faint traces of its ancient affluence are apparent today … a dimmed reflection in a cracked mirror; empty eyes with the stars in a different house, laughter in another room.”",
+      "year": 1972,
+      "runtime": 53
+    },
+    "decidedAt": "2026-09-09T11:41:34.904Z"
   },
   "re vision gehenu lamai the girls": {
     "decision": "include",
     "title": "Re:Vision: Gehenu Lamai (The Girls)",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:54.103Z"
+    "edits": {
+      "director": "Sumitra Peries",
+      "overview": "Sumitra Peries’s Gehenu Lamai [The Girls] —the first feature directed by a woman in Sri Lanka—is a close observation of a life shrinking. So much weight is placed on girls worldwide, and the girls of Gehenu Lamai are no different. Expected to care-give, earn, and behave respectably no matter the cost, the central girls of the film, sisters Kusum and Soma, bear much responsibility. Despite very different approaches to their constraints, some outcomes cannot be avoided.",
+      "year": 1978,
+      "runtime": 125
+    },
+    "decidedAt": "2026-09-09T11:42:09.132Z"
   },
   "re vision lepers and sex aka santo vs the riders of terror": {
     "decision": "include",
     "title": "Re:Vision: Lepers & Sex AKA Santo vs The Riders of Terror",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:57.598Z"
+    "edits": {
+      "director": "René Cardona",
+      "overview": "Mexico’s legendary Calderon film empire’s most famous and longest-running series was that of El Santo, the silver-masked wrestling hero (Rodolfo Guzman), who starred in some 50-odd productions from 1959 to the mid-1980s. But one of the most gonzo – and seldom seen – entries in the series is Los Leprosos y el Sexo with our hero battling a murderous mob of escaped lepers in a small town, resulting in a Western-cum-horror-cum-action picture, but with a twist.",
+      "year": 1970,
+      "runtime": 98
+    },
+    "decidedAt": "2026-09-09T11:42:44.834Z"
   },
   "re vision tri": {
     "decision": "include",
     "title": "Re:Vision: Tri",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:41:59.965Z"
+    "edits": {
+      "director": "Aleksandar Petrović",
+      "overview": "Featuring searingly unforgettable black and white cinematography by Tomislav Pinter, Tri is structured as a triptych with stories set at the beginning, middle and end of the Second World War in Yugoslavia (1941-1944). The protagonist is a partisan portrayed by Velimir Bata Živojinović though according to the director, “The real protagonist of this film is death. In this film, it appears in three forms – as punishment, as victim, and as an expression of the senselessness of war. One needs to be against war, but one needs to be against war as a matter of principle, against anybody who wages war, and also against those who create reasons for war.” — Robert Byrne",
+      "year": 1965,
+      "runtime": 90
+    },
+    "decidedAt": "2026-09-09T11:43:34.459Z"
   },
   "re vision the waiting room": {
     "decision": "include",
     "title": "Re:Vision: The Waiting Room",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:42:01.872Z"
+    "edits": {
+      "director": "Karen Sperling",
+      "overview": "Filmmaker Karen Sperling writes, directs, produces, and stars in The Waiting Room (1973), a groundbreaking film created by a 35-woman film crew working in the deserted wing of a psychiatric facility on Manhattan’s Ward Island. This renegade psychodrama captures the depths of feminine ambivalence in the shadow of a looming specter — compulsory domesticity. The ‘waiting room’ manifests as quotidian and institutional anterooms in which a young woman mulls over a marriage proposal. Belonging squarely to the quasi Brechtian feminist avant-garde forged by Yvonne Rainer, Chantal Akerman, and Cecelia Condit, The Waiting Room has remarkably gone unseen for 50 years.",
+      "year": 1973,
+      "runtime": 96
+    },
+    "decidedAt": "2026-09-09T11:44:05.188Z"
   },
   "re vision the garden of eden": {
     "decision": "include",
     "title": "Re:Vision: The Garden of Eden",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:42:03.989Z"
+    "edits": {
+      "director": "Lewis Milestone",
+      "overview": "The Garden of Eden is best described as either a pre-pre-code or a proto-screwball comedy. Technically it is a silent film, but skimpy costumes, gender play, and sexual innuendo undeniably identify it as a film confidently striding headlong into the early 1930s. Further evidence is provided by the Film Daily reviewer who complained at the time, “It is utterly absurd and cheap pandering to dirty-minded people who gloat over an undressed woman” and by Montreal censors that demanded the last reel be eliminated entirely. Fortunately, the archived prints at George Eastman Museum and the Library of Congress, which form the basis of this restoration, eluded the censors’ wrath and you will have the pleasure of seeing the scandalous footage that Canadian audiences were denied. — Robert Byrne",
+      "year": 1928,
+      "runtime": 99
+    },
+    "decidedAt": "2026-09-09T11:44:26.205Z"
   },
   "re vision 8 girls in a boat": {
     "decision": "include",
     "title": "Re:Vision: 8 Girls in a Boat",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:42:05.593Z"
+    "edits": {
+      "director": "Richard Wallace",
+      "overview": "At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a star pupil and stroke seat on the rowing team, but her clandestine affair with a young chemist from another college leads her into trouble when she discovers she’s pregnant. As Christa’s attention in school slips, she incurs the discipline of the team’s steely coach, Hannah (Kay Johnson), who removes her from the boat and threatens expulsion. Worse, Christa’s businessman father (Walter Connelly) objects to marriage between Christa and David over concerns that David’s studies doom him to a life of poverty. How will Christa and her coming baby keep an even keel through all this choppy water?",
+      "year": 1934,
+      "runtime": 93
+    },
+    "decidedAt": "2026-09-09T11:44:46.018Z"
   },
   "re vision melody of murder": {
     "decision": "include",
     "title": "Re:Vision: Melody of Murder",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:42:07.141Z"
+    "edits": {
+      "director": "Bodil Ipsen",
+      "overview": "At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a star pupil and stroke seat on the rowing team, but her clandestine affair with a young chemist from another college leads her into trouble when she discovers she’s pregnant. As Christa’s attention in school slips, she incurs the discipline of the team’s steely coach, Hannah (Kay Johnson), who removes her from the boat and threatens expulsion. Worse, Christa’s businessman father (Walter Connelly) objects to marriage between Christa and David over concerns that David’s studies doom him to a life of poverty. How will Christa and her coming baby keep an even keel through all this choppy water?",
+      "year": 1944,
+      "runtime": 124
+    },
+    "decidedAt": "2026-09-09T11:45:08.385Z"
   },
   "zoe presents memorex rexsexex y mas": {
     "decision": "include",
     "title": "Zoé Presents: Memorex + Rexsexex y Más",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:42:27.411Z"
+    "edits": {
+      "director": "Rodrigo Guardiola",
+      "overview": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was far\nmore than an unprecedented record for Mexican rock; it was a historic and intimate gathering between a\nband that has soundtracked entire universes and a multigenerational fanbase that is more devoted than\never. This is the story of what vibrated on stage and what was kept in the hearts of the fans: an unfiltered\nbreakdown of the absolute magnetism, nostalgia, and enduring relevance of Zoé.",
+      "year": 2026,
+      "runtime": 182
+    },
+    "decidedAt": "2026-09-09T11:45:31.110Z"
   },
   "akira": {
     "decision": "include",
@@ -269,15 +379,17 @@
   },
   "super shangri la": {
     "decision": "include",
-    "title": "Super Shangri-La ~ 7 PM  ",
+    "title": "Super Shangri-La ~ 7 PM",
     "tmdbId": null,
-    "decidedAt": "2026-09-08T18:45:32.573Z"
+    "edits": {
+      "overview": "Strange movies presented by Kai Wada Roath at the haunted & historic Balboa theater in San Francisco!"
+    },
+    "decidedAt": "2026-09-09T11:46:29.300Z"
   },
   "twilight": {
-    "decision": "include",
-    "title": "Twilight (1999) ~ 4:30 PM &amp; 7:30 PM (Presented on 35mm by Odyssey Film Institute)",
-    "tmdbId": null,
-    "decidedAt": "2026-09-08T18:46:11.715Z"
+    "decision": "exclude",
+    "title": "Twilight (1999) ~ 4:30 PM & 7:30 PM (Presented on 35mm by Odyssey Film Institute)",
+    "decidedAt": "2026-09-09T11:46:37.119Z"
   },
   "comedy night at the balboa headliner scott capurro": {
     "decision": "exclude",
@@ -322,14 +434,15 @@
   "cycle of love": {
     "decision": "include",
     "title": "The Cycle of Love",
-    "tmdbId": 473729,
-    "decidedAt": "2026-09-09T08:36:56.984Z"
-  },
-  "resident evil": {
-    "decision": "include",
-    "title": "Resident Evil ~ 5 PM &amp; 9 PM",
-    "tmdbId": 1423191,
-    "decidedAt": "2026-09-09T08:37:14.274Z"
+    "tmdbId": null,
+    "image": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
+    "edits": {
+      "director": "Orlando von Einsiedel",
+      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
+      "year": 2026,
+      "runtime": 95
+    },
+    "decidedAt": "2026-09-09T11:24:39.675Z"
   },
   "history of concrete": {
     "decision": "include",
@@ -346,5 +459,359 @@
     "decision": "exclude",
     "title": "Tony",
     "decidedAt": "2026-09-09T10:26:52.553Z"
+  },
+  "national theatre live the misanthrope": {
+    "decision": "exclude",
+    "title": "National Theatre Live: The Misanthrope ~ 7 PM",
+    "decidedAt": "2026-09-09T10:35:35.709Z"
+  },
+  "fogcutter film series and dj grampaphone birthday party volume 25 stop making sense dance party hosted by robert mailer anderson": {
+    "decision": "exclude",
+    "title": "FOGCUTTER FILM SERIES and DJ GRAMPAPHONE BIRTHDAY PARTY: VOLUME 25 - Stop Making Sense (Dance Party - Hosted by Robert Mailer Anderson) ~ Doors at 5:30 PM, Music at 6:00 PM, Film at 7:00 PM",
+    "decidedAt": "2026-09-09T10:36:18.123Z"
+  },
+  "late fame": {
+    "decision": "include",
+    "title": "Late Fame ~ 5 PM",
+    "tmdbId": 1285895,
+    "edits": {
+      "year": 2025
+    },
+    "decidedAt": "2026-09-09T10:37:43.556Z"
+  },
+  "kexps vinelands live mild universe camellia boutros": {
+    "decision": "exclude",
+    "title": "KEXP'S VINELANDS LIVE: Mild Universe, Camellia Boutros ~ Doors at 6:00 PM & Live Music at 6:30 PM",
+    "decidedAt": "2026-09-09T10:38:01.133Z"
+  },
+  "dolly parton celebration 9 to 5": {
+    "decision": "exclude",
+    "title": "DOLLY PARTON CELEBRATION: 9 to 5 ~ 12:45 PM",
+    "decidedAt": "2026-09-09T10:38:05.594Z"
+  },
+  "dolly parton celebration 9 to 5 with live tribute set from sadie alan": {
+    "decision": "exclude",
+    "title": "DOLLY PARTON CELEBRATION: 9 to 5 (with Live Tribute Set from Sadie Alan) ~ Doors at 6:30 PM, Music at 7:00 PM, Film at 7:45 PM",
+    "decidedAt": "2026-09-09T10:38:09.132Z"
+  },
+  "sf critterfest second nature with ducks": {
+    "decision": "exclude",
+    "title": "SF CRITTERFEST: Second Nature (with Ducks) ~ 6:15 PM",
+    "decidedAt": "2026-09-09T10:38:12.984Z"
+  },
+  "4 star pokemon cartoon block": {
+    "decision": "exclude",
+    "title": "4 Star Pokemon Cartoon Block ~ 10:00 AM (Popcorn Palace - FREE!)",
+    "decidedAt": "2026-09-09T10:38:15.330Z"
+  },
+  "sf critterfest flamingos life after the meteorite with talking to owls": {
+    "decision": "exclude",
+    "title": "SF CRITTERFEST: Flamingos: Life After the Meteorite (with Talking to Owls) ~ 12:00 PM",
+    "decidedAt": "2026-09-09T10:38:15.529Z"
+  },
+  "sf critterfest better call babs with other shorts": {
+    "decision": "exclude",
+    "title": "SF CRITTERFEST: Better Call Babs (with Other Shorts) ~ 2:00 PM",
+    "decidedAt": "2026-09-09T10:38:16.668Z"
+  },
+  "los video nasties 2026 short film tour": {
+    "decision": "exclude",
+    "title": "Los Video Nasties (2026 Short Film Tour) ~ 4:30 PM",
+    "decidedAt": "2026-09-09T10:38:18.353Z"
+  },
+  "i lost it over body heat with live improv hosted by alice wu plus special guest joan chen": {
+    "decision": "exclude",
+    "title": "I LOST IT OVER: Body Heat (with LIVE IMPROV hosted by Alice Wu plus special guest Joan Chen) ~ Doors at 7:30 PM, Show at 8:00 PM, Movie at 9:00 PM",
+    "decidedAt": "2026-09-09T10:38:20.819Z"
+  },
+  "sf critterfest wild asia life at extremes with other shorts": {
+    "decision": "exclude",
+    "title": "SF CRITTERFEST: Wild Asia: Life at Extremes (with Other Shorts) ~ 12:00 PM",
+    "decidedAt": "2026-09-09T10:38:21.196Z"
+  },
+  "sf critterfest unspoken bond with gianna and anne": {
+    "decision": "exclude",
+    "title": "SF CRITTERFEST: Unspoken Bond (with Gianna & Anne) ~ 4:00 PM",
+    "decidedAt": "2026-09-09T10:38:22.506Z"
+  },
+  "closed for a private event": {
+    "decision": "exclude",
+    "title": "Closed for a Private Event ~ 2:00 PM",
+    "decidedAt": "2026-09-09T10:38:23.335Z"
+  },
+  "mystery voyage": {
+    "decision": "exclude",
+    "title": "Mystery Voyage",
+    "decidedAt": "2026-09-09T10:38:25.189Z"
+  },
+  "chronovisor": {
+    "decision": "include",
+    "title": "Chronovisor",
+    "tmdbId": 1599181,
+    "decidedAt": "2026-09-09T10:38:47.133Z"
+  },
+  "crunchyroll anime night sneak peek 9 21 2026": {
+    "decision": "exclude",
+    "title": "Crunchyroll Anime Night Sneak Peek (9/21/2026)",
+    "decidedAt": "2026-09-09T10:38:50.228Z"
+  },
+  "dire duplicity": {
+    "decision": "include",
+    "title": "Dire Duplicity",
+    "tmdbId": 1410939,
+    "decidedAt": "2026-09-09T10:39:06.140Z"
+  },
+  "dreams in nightmares": {
+    "decision": "include",
+    "title": "Dreams in Nightmares",
+    "tmdbId": 1308858,
+    "decidedAt": "2026-09-09T10:39:56.038Z"
+  },
+  "it ends": {
+    "decision": "include",
+    "title": "It Ends",
+    "tmdbId": 1422011,
+    "edits": {
+      "year": 2025
+    },
+    "decidedAt": "2026-09-09T10:40:12.920Z"
+  },
+  "weight": {
+    "decision": "exclude",
+    "title": "The Weight",
+    "decidedAt": "2026-09-09T11:32:24.228Z"
+  },
+  "onslaught": {
+    "decision": "exclude",
+    "title": "Onslaught",
+    "decidedAt": "2026-09-09T11:31:59.244Z"
+  },
+  "family film screening with sffilm shaun the sheep the beast of mossy bottom": {
+    "decision": "exclude",
+    "title": "Family Film Screening with SFFILM: Shaun the Sheep: The Beast of Mossy Bottom",
+    "decidedAt": "2026-09-09T11:33:25.740Z"
+  },
+  "studio 26 fantom classroom of the art institute": {
+    "decision": "exclude",
+    "title": "Studio 26: Fantom Classroom of the Art Institute",
+    "decidedAt": "2026-09-09T10:45:59.848Z"
+  },
+  "tinaff": {
+    "decision": "exclude",
+    "title": "TINAFF",
+    "decidedAt": "2026-09-09T10:58:27.685Z"
+  },
+  "rewards program": {
+    "decision": "exclude",
+    "title": "Rewards Program",
+    "decidedAt": "2026-09-09T10:58:30.747Z"
+  },
+  "other cinema incredibly strange religion": {
+    "decision": "include",
+    "title": "Other Cinema: Incredibly Strange Religion",
+    "tmdbId": null,
+    "edits": {
+      "director": "Ben Folstein",
+      "overview": "FALL CHARM BRACELET takes a skeptical bow towards alt-religion, art-religion, and fantasy cults with our annual Incredibly Strange Religion revival!! In tonight’s celebration of new, creative ritual imagination and performance, an apocalyptic 99 minutes of spiritual absurdity serves to support the all-too-rare return of the truly awesome Church of Magic, a tour de force performance-art initiative by ATA soulmate Ben Folstein!! After Cinema Studies under Gene Youngblood, the prodigiously talented Folstein dares to deliver his utterly INSANE appeal to celestial communion, with costumes, comic gestures, cosmic jokes, and a jubilant revival of his past music-video hits Zog, the First Feminist, Below Decks, Rock Too Big, and so much more! Opening this religious riot is a litany of jaw-dropping proposals by the now-legendary freak-belief sources Unarius, the Mormons (in Guatemala!), Hippies High on Alpha, Christian Scientists, Scientologists, Church of Satan, etc. Sacred wine is free! $11",
+      "runtime": 99
+    },
+    "decidedAt": "2026-09-09T11:47:37.844Z"
+  },
+  "other cinema post kolonial spectres": {
+    "decision": "include",
+    "title": "Other Cinema: Post-Kolonial Spectres",
+    "tmdbId": null,
+    "edits": {
+      "director": "Adrian Quetzal Randall",
+      "overview": "A true breakthrough and international discovery!! Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play, an extremely sophisticated personal cine-essay that opens up areas of speculative history in an Adam Curtis-esque stream-of-consciousness  revelation on the military origins of Central American telecommunications and programming, tracing a psychedelic labyrinth across four continents. Part media archeology, part film diary, an endless montage of archival opticals support a long-form whispered confession about the electromagnetic magick that inflected the development of “modern” Honduran national sensibility. Our co-hit is Riar Rizaldi‘s equally paranoid Tellurian Drama, a sublime 25-min excavation of the colonial mythos surrounding the infamous Malabar Radio Antenna, a mysterious site of etheric conspiracy now being resurrected as a tourist destination on the Indonesian island of Java. $13",
+      "runtime": 25
+    },
+    "decidedAt": "2026-09-09T11:48:11.896Z"
+  },
+  "other cinema incredibly strange music": {
+    "decision": "include",
+    "title": "Other Cinema: Incredibly Strange Music",
+    "tmdbId": null,
+    "edits": {
+      "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14"
+    },
+    "decidedAt": "2026-09-09T11:49:59.097Z"
+  },
+  "verity": {
+    "decision": "exclude",
+    "title": "Verity",
+    "decidedAt": "2026-09-09T11:00:15.719Z"
+  },
+  "sun never sets": {
+    "decision": "exclude",
+    "title": "The Sun Never Sets",
+    "decidedAt": "2026-09-09T11:33:47.476Z"
+  },
+  "verity early access": {
+    "decision": "include",
+    "title": "Verity Early Access",
+    "tmdbId": 1283515,
+    "edits": {
+      "title": "Verify (Early Access)"
+    },
+    "decidedAt": "2026-09-09T11:06:42.030Z"
+  },
+  "push buttons and ai": {
+    "decision": "include",
+    "title": "Push Buttons and AI",
+    "tmdbId": null,
+    "edits": {
+      "overview": "In conjunction with the exhibition Hidden Layers: AI Infrastructures and Hallucinations at UC Berkeley’s Worth Ryder Gallery, Antonio Somaini, Hannes Bajohr, and Sonja Thiel present a program of works about AI and its social and technical infrastructures. Gibbs Chapman’s Push Button is a dryly funny exposé of the effects of automation on twenty-first-century humans, while Inès Sieulle’s The Oasis I Deserve documents affective interactions with the chatbot Replika. Nicolas Gourault reveals the numbing human labor that feeds AI with Their Eyes, while the studio Taller Estampa uses classic film clips to demonstrate how the object recognition software YOLO9000 sees and classifies. AI eats itself and ends in “model collapse” in Egor Kraft’s One & Infinite Chairs (1&∞⑁)."
+    },
+    "decidedAt": "2026-09-09T11:07:58.657Z"
+  },
+  "senegalese meet sene gallic": {
+    "decision": "include",
+    "title": "Senegalese Meet Sene-Gallic",
+    "tmdbId": null,
+    "edits": {
+      "director": "Alice Diop",
+      "overview": "Upon visiting Senegal for the first time after her parents’ deaths, Alice Diop began filming in the courtyard of her mother’s former home, documenting the everyday existence and conversations of her aunts and cousins. Within this exclusively female space, Diop mused, \"I’m sort of filming what could have been my life. . . . I measure from here what exile transforms.\"",
+      "year": 2997,
+      "runtime": 56
+    },
+    "decidedAt": "2026-09-09T11:50:57.709Z"
+  },
+  "it will be better before and temo re": {
+    "decision": "include",
+    "title": "It Will Be Better Before and Temo Re",
+    "tmdbId": null,
+    "edits": {
+      "overview": "Films in this Screening:\nIt Will Be Better Before\n(Tsarulshi uket ikneba)\nKeto Kipiani, Georgia, 2024.\n\nTemo Re\nAnka Gujabidze, Georgia, 2025\n\nFEATURING\nTemo Rekhviashvili\nMikheil Abramishvili\nNatalia Gabisonia\nSandro Kalandadze"
+    },
+    "decidedAt": "2026-09-09T11:13:10.280Z"
+  },
+  "english teacher and bakhmaro 2050": {
+    "decision": "include",
+    "title": "English Teacher and Bakhmaro 2050",
+    "tmdbId": null,
+    "edits": {
+      "overview": "Georgia’s movement to teach English to schoolchildren is the backdrop for this beautifully observed documentary about an English teacher, Bradley Nelson from South Africa, and his experiences in a remote Georgian village, Sajijao. There he encounters both the warmth of the local community, and some resistance to the “linguistic revolution” as a national initiative. A finely drawn portrait of a critical moment in Georgia’s development as an independent nation in the post-Soviet era.\n\nBefore construction begins on a major housing complex in Bakhmaro, a resort town in western Georgia that travelers visit for the special healing properties of the air, filmmaker Anka Gujabidze observes life as it is. Employing superimpositions and dissolves, this documentary portrait ruminates on the changes that will come with construction and what will be lost.\n\nFilms in this Screening:\nEnglish Teacher\nNino Orjonikidze, Vano Arsenishvili, Georgia, 2012. \nBakhmaro 2050\nAnka Gujabidze, Georgia, 2024"
+    },
+    "decidedAt": "2026-09-09T11:14:06.029Z"
+  },
+  "italianamerican and american boy a profile of steven prince": {
+    "decision": "include",
+    "title": "Italianamerican and American Boy: A Profile of Steven Prince",
+    "tmdbId": 33470,
+    "edits": {
+      "title": "Italianamerican and American Boy: A Profile of Steven Prince",
+      "overview": "Martin Scorsese’s documentaries are like portals to his sources of inspiration, and Italianamerican takes us to the heart of the matter via a conversation with his parents. As his mother prepares meatballs, she and her husband tell the stories of their families’ journeys from Sicily to Elizabeth Street, which speak volumes about the immigrant experience. American Boy is the realization of Scorsese’s idea for a film in which “a man sits down, tells his story, and little by little you see an era emerge, a way of life, a way of surviving.” He found the perfect subject in Steven Prince, a great storyteller, who played the gun dealer in Taxi Driver, a role for which he provided his own guns.\n\n—Kate MacKay\n\nFilms in this Screening\nItalianamerican\nMartin Scorsese, United States, 1974\n\nFEATURING\nMartin Scorsese\nCatherine Scorsese\nCharles Scorsese\n\nFILM DETAILS \nAmerican Boy: A Profile of Steven Prince\nMartin Scorsese, United States, 1978",
+      "year": "",
+      "runtime": ""
+    },
+    "decidedAt": "2026-09-09T11:16:38.218Z"
+  },
+  "incomplete day in the history of georgia 10 06 93": {
+    "decision": "include",
+    "title": "An Incomplete Day in the History of Georgia 10.06.93.",
+    "tmdbId": null,
+    "edits": {
+      "title": "An Incomplete Day in the History of Georgia 10.06.93",
+      "director": "Salomé Jashi",
+      "overview": "Derived solely from video recordings of Georgian parliamentary proceedings on June 10, 1993, when Eduard Shevardnadze was the head of state, An Incomplete Day in the History of Georgia presents the debate surrounding the introduction of Georgia’s national currency coupon to replace the Russian ruble. Members of parliament voice their concerns from the floor, questioning the resolutions presented by the vice prime minister and president of the National Bank. How should the country’s leaders proceed in light of domestic challenges such as starvation, fuel shortages, budget shortfalls, and rapid inflation? Viewed with hindsight, this document from the early days of Georgian independence reminds us how fragile the democratic process can be.",
+      "year": 2026,
+      "runtime": 100
+    },
+    "decidedAt": "2026-09-09T11:51:26.526Z"
+  },
+  "films by the cousin collective and christophe katrib": {
+    "decision": "include",
+    "title": "Films by the COUSIN Collective and Christophe Katrib",
+    "tmdbId": null,
+    "edits": {
+      "overview": "Founded in 2018 by Sky Hopinka, Adam Khalil, Alexandra Lazarowich, and Adam Piron, COUSIN was created to support Indigenous artists expanding traditional definitions of, and experimenting with, moving image form and genre. This program offers a selection of works made by COUSIN collective artists, including Hopinka’s 2017 consideration of the Dakota Access Pipeline protest and Lindsay McIntyre’s film about caribou and lichen—made using those materials in the photographic process. A short film by Lebanese artist Christophe Katrib reflects on the dissonance he experiences living on the stolen land of the United States as “U.S-backed Israel commits genocide and ethnic cleansing on Palestine and my homeland of Lebanon.”"
+    },
+    "decidedAt": "2026-09-09T11:17:51.909Z"
+  },
+  "toy story 5": {
+    "decision": "exclude",
+    "title": "Toy Story 5",
+    "decidedAt": "2026-09-09T11:17:53.862Z"
+  },
+  "invite": {
+    "decision": "include",
+    "title": "The Invite",
+    "tmdbId": 950028,
+    "decidedAt": "2026-09-09T11:18:15.949Z"
+  },
+  "cereal cinema": {
+    "decision": "exclude",
+    "title": "Cereal Cinema",
+    "decidedAt": "2026-09-09T11:18:19.867Z"
+  },
+  "hadestown the musical": {
+    "decision": "include",
+    "title": "Hadestown: The Musical",
+    "tmdbId": 1439808,
+    "decidedAt": "2026-09-09T11:18:30.857Z"
+  },
+  "atonement co presented by womb house books": {
+    "decision": "exclude",
+    "title": "Atonement, co-presented by Womb House Books",
+    "decidedAt": "2026-09-09T11:18:48.518Z"
+  },
+  "craft light up crafting matinee": {
+    "decision": "exclude",
+    "title": "The Craft, light-up crafting matinee",
+    "decidedAt": "2026-09-09T11:18:51.520Z"
+  },
+  "cars 20th anniversary": {
+    "decision": "exclude",
+    "title": "CARS 20th Anniversary",
+    "decidedAt": "2026-09-09T11:18:52.884Z"
+  },
+  "dog stars": {
+    "decision": "exclude",
+    "title": "The Dog Stars",
+    "decidedAt": "2026-09-09T11:19:02.474Z"
+  },
+  "wild inside": {
+    "decision": "exclude",
+    "title": "Wild Inside",
+    "decidedAt": "2026-09-09T11:19:12.997Z"
+  },
+  "rivals of amziah king": {
+    "decision": "exclude",
+    "title": "THE RIVALS OF AMZIAH KING",
+    "decidedAt": "2026-09-09T11:19:36.440Z"
+  },
+  "song for the snow lion theatrical premiere": {
+    "decision": "include",
+    "title": "A SONG FOR THE SNOW LION-Theatrical Premiere",
+    "tmdbId": null,
+    "edits": {
+      "overview": "Please join us for a very special one time event featuring two films from Bhutan by Academy Award nominated Pawo Choyning Dorji who will attend. Famed cellist/activist Yo Yo Ma will participate via Zoom."
+    },
+    "decidedAt": "2026-09-09T11:20:44.906Z"
+  },
+  "la cienega": {
+    "decision": "include",
+    "title": "LA CIÉNEGA",
+    "tmdbId": null,
+    "edits": {
+      "director": "Lucrecia Martel",
+      "overview": "The release of Lucrecia Martel’s La Ciénag aheralded the arrival of an astonishingly vital and original voice in Argentine cinema.\nWith a radical and disturbing take on narrative, beautiful cinematography, and a highly sophisticated use of on- and offscreen sound, Martel turns her tale of a dissolute bourgeois extended family, whiling away the hours of one sweaty, sticky summer, into a cinematic marvel.\nThis visceral take on class, nature, sexuality, and the ways that political turmoil and social stagnation can manifest in human relationships is a drama of extraordinary tactility, and one of the great contemporary film debuts.",
+      "year": 2011,
+      "runtime": 103
+    },
+    "decidedAt": "2026-09-09T11:21:44.785Z"
+  },
+  "new york new york": {
+    "decision": "include",
+    "title": "New York, New York",
+    "tmdbId": 12637,
+    "image": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/NEW%2001_Scorsese_New-York-New-York_005.jpg?itok=3R4Gsbw7",
+    "decidedAt": "2026-09-09T11:23:17.848Z"
+  },
+  "resident evil": {
+    "decision": "exclude",
+    "title": "Resident Evil ~ 5 PM & 9 PM",
+    "decidedAt": "2026-09-09T11:29:48.334Z"
   }
 }
