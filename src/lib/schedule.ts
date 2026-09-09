@@ -56,7 +56,7 @@ export interface Card {
   note?: string;
 }
 
-export const SITE_NAME = 'Screen Bay';
+export const SITE_NAME = 'Screen SF';
 export const SITE_TAGLINE =
   'Repertory and independent film screenings around the San Francisco Bay Area.';
 

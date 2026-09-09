@@ -211,16 +211,18 @@ async function main() {
     `\nWrote data/screenings.json: ${result.data.screenings.length} screenings, ${Object.keys(result.data.films).length} films, ` +
       `${festivals.length} festivals (${result.included} titles included, ${result.excluded} excluded).`,
   );
+  // Always written (empty when nothing is pending) so a stale copy restored
+  // from a CI cache cannot report titles that were already decided.
+  mkdirSync('.cache', { recursive: true });
+  writeFileSync(
+    '.cache/pending.json',
+    JSON.stringify(result.pending.map((p) => `${p.venueId}: ${p.raws[0].rawTitle} (${p.reason})`), null, 2),
+  );
   if (result.pending.length) {
     const how = terminalPrompt ? '' : ', or `npm run sync -- --prompt` for the terminal';
     console.log(
       color.yellow(`\n${result.pending.length} title${result.pending.length === 1 ? '' : 's'} need your decision. `) +
         `Run ${color.bold('npm run review')} to go through them in the browser${how}.`,
-    );
-    mkdirSync('.cache', { recursive: true });
-    writeFileSync(
-      '.cache/pending.json',
-      JSON.stringify(result.pending.map((p) => `${p.venueId}: ${p.raws[0].rawTitle} (${p.reason})`), null, 2),
     );
   }
 

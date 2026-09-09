@@ -1,0 +1,73 @@
+# Daily listings refresh. Scrapes the venues, applies data/decisions.json and
+# commits data/screenings.json. Cloudflare Pages (connected to this repo)
+# rebuilds the site on the push. Titles the classifier is unsure about are
+# held back until you decide them locally with `npm run review`; the weekly
+# review-reminder workflow opens an issue listing them.
+#
+# Fails, and GitHub emails you, only when a scraper or TMDB actually breaks.
+name: Sync listings
+
+on:
+  schedule:
+    - cron: '0 13 * * *' # 06:00 PT in summer, 05:00 in winter
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: screenbay-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # TMDB lookups and Castro event pages are cached on disk for a week.
+      # Restoring the cache keeps the run to about a minute.
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: screenbay-cache-${{ github.run_id }}
+          restore-keys: screenbay-cache-
+
+      - name: Sync
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          SYNC_WEEKS: ${{ vars.SYNC_WEEKS || 4 }}
+          BLOCKBUSTER_POPULARITY: ${{ vars.BLOCKBUSTER_POPULARITY || 60 }}
+        run: npm run sync -- --no-watchlist
+
+      - name: Commit schedule
+        run: |
+          git config user.name 'screenbay sync'
+          git config user.email 'actions@users.noreply.github.com'
+          git add data/screenings.json
+          if git diff --cached --quiet; then
+            echo 'No changes to listings.'
+          else
+            git commit -m "Sync listings $(TZ=America/Los_Angeles date +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Summary
+        run: |
+          {
+            echo "### Sync $(TZ=America/Los_Angeles date '+%b %-d, %Y %H:%M %Z')"
+            node -e '
+              const d = require("./data/screenings.json");
+              const p = require("./.cache/pending.json");
+              console.log(`- ${d.screenings.length} screenings, ${Object.keys(d.films).length} films, ${d.festivals.length} festivals`);
+              console.log(`- ${p.length} title(s) waiting for review`);
+              if (p.length) { console.log(""); for (const t of p) console.log(`  - ${t}`); }
+            '
+          } >> "$GITHUB_STEP_SUMMARY"

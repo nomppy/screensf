@@ -1,6 +1,6 @@
-# Screen Bay usage guide
+# Screen SF usage guide
 
-A step-by-step walkthrough for running Screen Bay day to day. The [README](README.md) is the reference for how each piece works; this guide is about what to type and when.
+A step-by-step walkthrough for running Screen SF day to day. The [README](README.md) is the reference for how each piece works; this guide is about what to type and when.
 
 ## 1. First run
 
@@ -114,15 +114,59 @@ Edit `data/venues.json` and flip `enabled`. Roxie, Balboa and Castro are on by d
 
 To add a new venue, write `scripts/venues/<id>.ts`, register it in the `SCRAPERS` map in `scripts/sync.ts`, and add an entry to `data/venues.json`. See the README for details.
 
-## 7. Automating
+## 7. Hosting and automation
 
-Schedule `npm run sync` once a morning with cron or launchd. It never prompts, so it is safe to run unattended. Example crontab line:
+The site runs for the price of the domain. Cloudflare Pages hosts the static build, GitHub Actions runs the sync, and both are free at this size.
 
+### 7a. Cloudflare Pages (one time)
+
+1. In the Cloudflare dashboard go to **Workers & Pages → Create → Pages → Connect to Git** and pick the `nomppy/screensf` repository (still `screenbay` on GitHub until you rename it there; Cloudflare follows renames).
+2. Build settings: framework preset **Astro**, build command `npm run build`, output directory `dist`.
+3. Under **Environment variables** add `NODE_VERSION` = `22`. Nothing else is needed; the build reads `data/screenings.json` from the repo and never calls TMDB.
+4. Save and deploy. The first build gives you a `*.pages.dev` URL.
+5. **Custom domains → Set up a custom domain** and enter your domain. Because the domain is registered on Cloudflare the DNS record is created for you. Add the `www` version too if you want it to work; Cloudflare redirects it.
+6. Set `site` in `astro.config.mjs` to the real `https://` URL and commit. Astro uses it for canonical links.
+
+Every push to `main` now redeploys, including the commits the sync job makes.
+
+**Fonts.** `public/fonts/*.woff2` is gitignored, so the live site falls back to the system sans stack until the Neue Montreal files are in the repo. Pangram Pangram's free license covers personal use; if you are comfortable with that, remove the four font lines from `.gitignore` and commit the files. Courier Prime loads from Google Fonts and needs nothing.
+
+### 7b. GitHub (one time)
+
+1. Repository **Settings → Secrets and variables → Actions → New repository secret**: name `TMDB_API_KEY`, value from your `.env`. Optional **Variables** on the same page: `SYNC_WEEKS`, `BLOCKBUSTER_POPULARITY`.
+2. **Actions** tab: both workflows are enabled once pushed. Open **Sync listings → Run workflow** to test it. It should finish in a minute or two and, if listings changed, push a commit called `Sync listings YYYY-MM-DD`.
+3. Emails: click **Watch** on the repo and pick **All Activity**, or Custom with Issues ticked. Then check github.com/settings/notifications has email on for issues and for failed Actions ("Send notifications for failed workflows only" is the sensible setting).
+
+### 7c. What runs when
+
+| Workflow | When | What |
+|---|---|---|
+| Sync listings | daily, 6am PT | Scrapes, applies your decisions, commits `data/screenings.json`. Cloudflare redeploys. Fails (and emails you) only if a scraper or TMDB breaks. |
+| Weekly review reminder | Monday 8am PT | Runs a sync, then opens a GitHub issue listing every title held back for review with the steps to clear them. Closes last week's issue. You get an email. |
+
+Titles the classifier is unsure about never publish on their own; they wait for you. Confident matches publish, confident junk is dropped.
+
+### 7d. Your weekly review
+
+When the Monday email arrives:
+
+```sh
+git pull
+npm run sync        # rebuilds the local review snapshot
+npm run review      # http://localhost:4400
 ```
-0 7 * * * cd /path/to/screenbay && /usr/local/bin/npm run sync >> .cache/sync.log 2>&1
+
+Decide each card, swap artwork where TMDB's is wrong, then:
+
+```sh
+git add data/decisions.json data/screenings.json
+git commit -m "Review decisions"
+git push
 ```
 
-Open `npm run review` whenever a run reports pending titles.
+Cloudflare deploys your push straight away, and the next nightly sync carries the decisions forward. Close the issue. If the email says nothing is pending, a two-minute look at the live site is all it needs.
+
+Decisions are keyed by title and year, so a film you approved once stays approved for the rest of its run and if it comes back next year.
 
 ## 8. Troubleshooting
 

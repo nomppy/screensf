@@ -1,0 +1,104 @@
+# Weekly nudge. Runs a sync, then opens a GitHub issue listing every title
+# that is being held back for a decision, with the steps to clear them.
+# GitHub emails you when the issue is opened (you are subscribed to your own
+# repo by default; check the Watch menu is on "All Activity" or
+# "Participating and @mentions" with Issues ticked).
+#
+# The previous week's reminder is closed automatically so only one is open.
+name: Weekly review reminder
+
+on:
+  schedule:
+    - cron: '0 15 * * 1' # Monday 08:00 PT in summer, 07:00 in winter
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: screenbay-sync
+  cancel-in-progress: false
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: screenbay-cache-${{ github.run_id }}
+          restore-keys: screenbay-cache-
+
+      - name: Sync (dry, nothing committed)
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          SYNC_WEEKS: ${{ vars.SYNC_WEEKS || 4 }}
+          BLOCKBUSTER_POPULARITY: ${{ vars.BLOCKBUSTER_POPULARITY || 60 }}
+        run: npm run sync -- --no-watchlist
+
+      - name: Write issue body
+        id: body
+        run: |
+          node - <<'JS' > issue.md
+          const p = require('./.cache/pending.json');
+          const d = require('./data/screenings.json');
+          const when = new Date().toLocaleDateString('en-US', { timeZone: 'America/Los_Angeles', dateStyle: 'long' });
+          const lines = [];
+          lines.push(`Weekly check-in for ${when}.`);
+          lines.push('');
+          lines.push(`The site currently shows **${d.screenings.length} screenings** across **${Object.keys(d.films).length} films**.`);
+          lines.push('');
+          if (p.length) {
+            lines.push(`## ${p.length} title${p.length === 1 ? '' : 's'} waiting for a decision`);
+            lines.push('');
+            lines.push('These are hidden from the site until you approve or drop them.');
+            lines.push('');
+            for (const t of p) lines.push(`- ${t}`);
+          } else {
+            lines.push('## Nothing is waiting');
+            lines.push('');
+            lines.push('Every title matched cleanly this week. Still worth a two-minute look at the live site for wrong posters or odd titles.');
+          }
+          lines.push('');
+          lines.push('## How to review');
+          lines.push('');
+          lines.push('```sh');
+          lines.push('git pull');
+          lines.push('npm run sync        # rebuilds the local review snapshot');
+          lines.push('npm run review      # opens http://localhost:4400');
+          lines.push('```');
+          lines.push('');
+          lines.push('Decide each card (include, exclude, pick the right TMDB match, or swap the artwork), then:');
+          lines.push('');
+          lines.push('```sh');
+          lines.push('git add data/decisions.json data/screenings.json');
+          lines.push('git commit -m "Review decisions"');
+          lines.push('git push');
+          lines.push('```');
+          lines.push('');
+          lines.push('The next nightly sync applies the decisions and the held titles appear. Close this issue when you are done.');
+          console.log(lines.join('\n'));
+          JS
+          echo "count=$(node -p 'require("./.cache/pending.json").length')" >> "$GITHUB_OUTPUT"
+
+      - name: Open issue, close last week's
+        env:
+          GH_TOKEN: ${{ github.token }}
+          COUNT: ${{ steps.body.outputs.count }}
+        run: |
+          gh label create review --color d93f0b --description 'Weekly listings review' --force
+          for n in $(gh issue list --label review --state open --json number --jq '.[].number'); do
+            gh issue close "$n" --comment 'Superseded by this week'"'"'s reminder.'
+          done
+          if [ "$COUNT" = "0" ]; then title="Weekly review: nothing pending"; else title="Weekly review: $COUNT title(s) waiting"; fi
+          gh issue create --label review --title "$title ($(TZ=America/Los_Angeles date +%b\ %-d))" --body-file issue.md

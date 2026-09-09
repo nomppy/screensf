@@ -1,4 +1,4 @@
-# Screen Bay
+# Screen SF
 
 A local, Screen Boston–style schedule of repertory and independent screenings in San Francisco. Astro static site plus a Node sync script that scrapes venue calendars, enriches titles from TMDB, filters out wide-release blockbusters, asks you about anything ambiguous, and privately tells you when something on your Letterboxd watchlist is playing.
 
@@ -106,9 +106,15 @@ src/
 .cache/              resolved.json snapshot, TMDB and page caches, raw responses, watchlist matches (git-ignored)
 ```
 
-## Automating
+## Hosting and automation
 
-A launchd job or cron entry running `npm run sync` each morning keeps `data/screenings.json` fresh; Astro dev picks the change up live, or run `npm run build` for a static `dist/`. Open `npm run review` when the run reports pending titles.
+Cloudflare Pages builds and hosts `dist/` on every push (connect the repo, preset Astro, `NODE_VERSION=22`). Two GitHub Actions workflows in `.github/workflows/` do the rest: `sync.yml` runs `npm run sync` daily and commits `data/screenings.json`; `review-reminder.yml` opens a weekly issue listing the titles held back for review. The only secret is `TMDB_API_KEY`. Full walkthrough in [USAGE.md](USAGE.md#7-hosting-and-automation).
+
+Undecided titles never publish unattended. Run `npm run review` locally, commit `data/decisions.json`, and the next sync includes them.
+
+## Keyboard
+
+The schedule page has vim-style keys: `j`/`k` move between films, `J`/`K` between days, `gg`/`G` to the ends, `o` or Enter opens details, `t` opens tickets, `1`…`9` filter by theatre, `?` shows the list. With details open, `c` adds to Google Calendar and `l` opens Letterboxd.
 
 ## Known limits
 

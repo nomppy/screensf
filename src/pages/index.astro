@@ -15,8 +15,8 @@ const festivals = upcomingFestivals();
     <h1>Upcoming Screenings</h1>
     {
       venues.length > 1 ? (
-        <div class="filters" id="filters" role="group" aria-label="Filter by venue">
-          <button class="chip" data-venue="all" aria-pressed="true">All venues</button>
+        <div class="filters" id="filters" role="group" aria-label="Filter by theatre">
+          <button class="chip" data-venue="all" aria-pressed="true">All theatres</button>
           {venues.map((v) => (
             <button class="chip" data-venue={v.id} aria-pressed="false">{v.shortName}</button>
           ))}
@@ -67,6 +67,23 @@ const festivals = upcomingFestivals();
     )
   }
   <FilmModal />
+
+  <dialog id="kb-help" class="modal kb-help" aria-labelledby="kb-help-title">
+    <button class="modal-close" data-kb-close aria-label="Close">×</button>
+    <h2 id="kb-help-title">Keyboard</h2>
+    <dl class="kb-list">
+      <dt><kbd>j</kbd> <kbd>k</kbd></dt><dd>next / previous film</dd>
+      <dt><kbd>J</kbd> <kbd>K</kbd></dt><dd>next / previous day</dd>
+      <dt><kbd>g g</kbd> <kbd>G</kbd></dt><dd>first / last film</dd>
+      <dt><kbd>o</kbd> <kbd>Enter</kbd></dt><dd>open details</dd>
+      <dt><kbd>t</kbd></dt><dd>tickets for the selected showtime</dd>
+      <dt><kbd>c</kbd></dt><dd>add to Google Calendar (details open)</dd>
+      <dt><kbd>l</kbd></dt><dd>Letterboxd page (details open)</dd>
+      <dt><kbd>1</kbd> … <kbd>9</kbd></dt><dd>filter by theatre, <kbd>1</kbd> is all</dd>
+      <dt><kbd>Esc</kbd></dt><dd>close</dd>
+      <dt><kbd>?</kbd></dt><dd>this list</dd>
+    </dl>
+  </dialog>
 </Layout>
 
 <script>
@@ -74,7 +91,7 @@ const festivals = upcomingFestivals();
   const chips = Array.from(document.querySelectorAll<HTMLButtonElement>('#filters .chip'));
   const cards = Array.from(document.querySelectorAll<HTMLElement>('.card, .festival'));
   const days = Array.from(document.querySelectorAll<HTMLElement>('.day'));
-  const key = 'screenbay:venue';
+  const key = 'screensf:venue';
 
   function apply(venue: string) {
     for (const c of chips) c.setAttribute('aria-pressed', String(c.dataset.venue === venue));
@@ -101,4 +118,99 @@ const festivals = upcomingFestivals();
     saved = localStorage.getItem(key) ?? 'all';
   } catch {}
   if (chips.some((c) => c.dataset.venue === saved)) apply(saved);
+
+  // ---- vim-style keys -------------------------------------------------------
+  const help = document.getElementById('kb-help') as HTMLDialogElement | null;
+  const film = document.getElementById('film-modal') as HTMLDialogElement | null;
+  const visibleCards = () => Array.from(document.querySelectorAll<HTMLElement>('.day:not([hidden]) .card:not([hidden])'));
+  const focused = () => document.activeElement instanceof HTMLElement ? document.activeElement.closest<HTMLElement>('.card') : null;
+
+  function go(card: HTMLElement | undefined) {
+    if (!card) return;
+    card.focus({ preventScroll: true });
+    card.scrollIntoView({ block: 'center', behavior: 'smooth' });
+  }
+  function step(delta: number) {
+    const list = visibleCards();
+    if (!list.length) return;
+    const cur = focused();
+    const i = cur ? list.indexOf(cur) : -1;
+    go(list[i < 0 ? (delta > 0 ? 0 : list.length - 1) : Math.min(list.length - 1, Math.max(0, i + delta))]);
+  }
+  function stepDay(delta: number) {
+    const list = visibleCards();
+    const cur = focused() ?? list[0];
+    if (!cur) return;
+    const sections = Array.from(document.querySelectorAll<HTMLElement>('.day:not([hidden])'));
+    const i = sections.indexOf(cur.closest<HTMLElement>('.day')!);
+    const target = sections[i + delta] ?? (delta > 0 ? sections[sections.length - 1] : sections[0]);
+    go(target.querySelector<HTMLElement>('.card:not([hidden])') ?? undefined);
+  }
+  function inModal(...sels: string[]) {
+    if (!film?.open) return;
+    for (const sel of sels) {
+      const a = film.querySelector<HTMLAnchorElement>(sel);
+      if (a) { a.click(); return; }
+    }
+  }
+
+  document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey || e.metaKey || e.altKey) return;
+    const t = e.target as HTMLElement;
+    if (t.closest('input, textarea, select, [contenteditable]')) return;
+
+    if (e.key === '?') {
+      e.preventDefault();
+      if (!help) return;
+      help.open ? help.close() : help.showModal();
+      return;
+    }
+    if (help?.open) return; // native Esc closes it
+
+    if (film?.open) {
+      // Details open: act on the modal's own links; j/k still move underneath.
+      if (e.key === 't') { e.preventDefault(); inModal('.modal-times a[aria-pressed="true"]', '.modal-times a'); return; }
+      if (e.key === 'c') { e.preventDefault(); inModal('[data-gcal]'); return; }
+      if (e.key === 'l') { e.preventDefault(); inModal('[data-letterboxd]'); return; }
+      if (e.key === 'j' || e.key === 'k') {
+        e.preventDefault();
+        film.close();
+        step(e.key === 'j' ? 1 : -1);
+        focused()?.click();
+      }
+      return;
+    }
+
+    switch (e.key) {
+      case 'j': e.preventDefault(); step(1); break;
+      case 'k': e.preventDefault(); step(-1); break;
+      case 'J': e.preventDefault(); stepDay(1); break;
+      case 'K': e.preventDefault(); stepDay(-1); break;
+      case 'G': e.preventDefault(); go(visibleCards().at(-1)); break;
+      case 'o': e.preventDefault(); focused()?.click(); break;
+      case 't': {
+        const a = focused()?.querySelector<HTMLAnchorElement>('.times a');
+        if (a) { e.preventDefault(); a.click(); }
+        break;
+      }
+      case 'Escape': focused()?.blur(); break;
+      default: {
+        if (/^[1-9]$/.test(e.key)) {
+          const chip = chips[Number(e.key) - 1];
+          if (chip) { e.preventDefault(); apply(chip.dataset.venue ?? 'all'); }
+        }
+      }
+    }
+  });
+  // "gg": two g presses inside 600 ms.
+  let lastG = 0;
+  document.addEventListener('keydown', (e) => {
+    if (e.key !== 'g' || e.ctrlKey || e.metaKey || e.altKey) return;
+    if ((e.target as HTMLElement).closest('input, textarea, select, [contenteditable]')) return;
+    if (help?.open || film?.open) return;
+    if (e.timeStamp - lastG < 600) { e.preventDefault(); go(visibleCards()[0]); lastG = 0; } else lastG = e.timeStamp;
+  });
+
+  help?.querySelector('[data-kb-close]')?.addEventListener('click', () => help.close());
+  help?.addEventListener('click', (e) => { if (e.target === help) help.close(); });
 </script>

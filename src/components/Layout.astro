@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { SITE_NAME, SITE_TAGLINE, generatedAt } from '../lib/schedule';
+import { SITE_NAME, SITE_TAGLINE } from '../lib/schedule';
 
 interface Props {
   title?: string;
@@ -8,9 +8,6 @@ interface Props {
 }
 const { title, current = 'schedule' } = Astro.props;
 const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
-const updated = generatedAt
-  ? new Date(generatedAt).toLocaleString('en-US', { timeZone: 'America/Los_Angeles', dateStyle: 'medium', timeStyle: 'short' })
-  : null;
 ---
 
 <!doctype html>
@@ -40,7 +37,7 @@ const updated = generatedAt
             <!-- hangers -->
             <path d="M8 22v-5M12 22v-10M26 22v-8M32 22v-4M38 22v-8M52 22v-10M56 22v-5" stroke-width="1" />
           </svg>
-          Screen <span>Bay</span>
+          Screen <span>SF</span>
         </a>
         <nav class="nav">
           <a href="/" aria-current={current === 'schedule' ? 'page' : undefined}>Schedule</a>
@@ -51,11 +48,5 @@ const updated = generatedAt
     <main class="wrap">
       <slot />
     </main>
-    <footer class="site-footer">
-      <div class="wrap">
-        {updated ? <span>Listings updated {updated} PT. </span> : null}
-        Film data and images from <a href="https://www.themoviedb.org/">TMDB</a>. Always confirm showtimes with the venue.
-      </div>
-    </footer>
   </body>
 </html>

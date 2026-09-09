@@ -92,8 +92,8 @@
     gcal.searchParams.set('details', desc);
     gcal.searchParams.set('location', f.venue.name);
     const ics = [
-      'BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Screen Bay//EN', 'BEGIN:VEVENT',
-      `UID:${f.id.replace(/[^a-z0-9]/gi, '')}-${t.time.replace(':', '')}@screenbay`,
+      'BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Screen SF//EN', 'BEGIN:VEVENT',
+      `UID:${f.id.replace(/[^a-z0-9]/gi, '')}-${t.time.replace(':', '')}@screensf`,
       `DTSTAMP:${stamp(new Date())}`, `DTSTART:${stamp(start)}`, `DTEND:${stamp(end)}`,
       `SUMMARY:${icsEscape(title)}`, `DESCRIPTION:${icsEscape(desc)}`, `LOCATION:${icsEscape(f.venue.name)}`,
       ...(t.url ? [`URL:${t.url}`] : []),

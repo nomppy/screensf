@@ -199,7 +199,7 @@ const PAGE = /* html */ `<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Review queue · Screen Bay</title>
+<title>Review queue · Screen SF</title>
 <style>
   :root { --bg:#f6f4ee; --ink:#16181d; --muted:#6b6f7a; --line:#dcd8cd; --card:#fff; --accent:#4b5b8a; --chip:#eceae2;
           --ok:#2f7d4f; --no:#b2432f; --warn:#b98a1c; }
