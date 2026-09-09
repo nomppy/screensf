@@ -73,10 +73,10 @@ Keyboard shortcuts (press `h` `j` `k` `l` with nothing focused to focus the firs
 |---|---|
 | `h` / `l` | Previous / next card |
 | `j` / `k` | Card below / above |
-| `m` / `M` | Cycle the match forward / back (`1`–`9` pick directly, `0` is title only) |
-| `a` / `A` | Cycle the artwork |
+| `m` | Cycle the movie match (`1`–`9` pick directly, `0` is title only) |
+| `M` | Cycle the artwork |
 | `o` | View the artwork full size (`h` `l` browse, `esc` closes) |
-| `e` | Open or close the details editor |
+| `d` | Open or close the details editor |
 | `b` | Open the selected match on Letterboxd |
 | `/` | Focus the card's TMDB search box |
 | `y` | Include with the current selection |

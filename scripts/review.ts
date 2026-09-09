@@ -333,8 +333,8 @@ const PAGE = /* html */ `<!doctype html>
   <div class="venues" id="venues"></div>
   <div class="spacer"></div>
   <span class="help"><span class="kbd">h</span><span class="kbd">j</span><span class="kbd">k</span><span class="kbd">l</span> move ·
-    <span class="kbd">m</span> match · <span class="kbd">a</span> artwork · <span class="kbd">o</span> full size · <span class="kbd">/</span> search ·
-    <span class="kbd">e</span> edit details · <span class="kbd">b</span> letterboxd · <span class="kbd">y</span> include · <span class="kbd">t</span> title only · <span class="kbd">n</span> exclude · <span class="kbd">u</span> undo</span>
+    <span class="kbd">m</span> movie · <span class="kbd">M</span> artwork · <span class="kbd">o</span> full size · <span class="kbd">/</span> search ·
+    <span class="kbd">d</span> edit details · <span class="kbd">b</span> letterboxd · <span class="kbd">y</span> include · <span class="kbd">t</span> title only · <span class="kbd">n</span> exclude · <span class="kbd">u</span> undo</span>
   <span class="status" id="status"></span>
   <button class="chip" id="rebuild" title="Regenerate data/screenings.json from the last sync snapshot plus your decisions. This already happens automatically about a second after every decision; the button is only for forcing it (for example after a failed build).">Rebuild now</button>
 </div></header>
@@ -456,12 +456,12 @@ function thumb(src, label, cls, on, n, wide) {
 function card(i) {
   const u = U(i), f = curFilm(i), d = i.decision, art = previewArt(i);
   const matchOpts = [...u.order, ...u.results.filter(id=>!u.order.includes(id))];
-  const matches = '<div class="sect matches"><span class="label">Match <span class="hint">click to preview · saved when you press Include</span></span>'
+  const matches = '<div class="sect matches"><span class="label">Movie <span class="hint">click or <span class="kbd">m</span> to preview · saved when you press Include</span></span>'
     + matchOpts.map((id, n) => { const m=u.films[id]; return thumb(m.poster, m.title+(m.year?' ('+m.year+')':'')+(n===0&&i.film&&id===i.film.tmdbId?' · best guess':''), 'data-match="'+id+'"', u.match===id, n+1<10?n+1:null); }).join('')
     + thumb(null, 'Title only (no TMDB)', 'data-match="none"', u.match===null, 0)
     + '<div class="inline"><input type="search" placeholder="Search TMDB for a different film…" value="'+esc(u.q)+'"><button class="chip">Search</button><span class="meta results-note"></span></div></div>';
   const aopts = artOptions(i);
-  const arts = '<div class="sect arts"><span class="label">Artwork on the site <span class="hint">shown on the schedule card</span></span>'
+  const arts = '<div class="sect arts"><span class="label">Artwork on the site <span class="hint">click or <span class="kbd">M</span> · shown on the schedule card</span></span>'
     + aopts.map(o => thumb(o.src, o.label, 'data-art="'+(o.id===null?'':esc(o.id))+'"', (u.art||null)===o.id, null, o.wide)).join('')
     + '<div class="inline"><input type="url" placeholder="…or paste an image URL" value="'+esc(u.custom)+'"><button class="chip">Preview</button></div></div>';
   const decidedLabel = d ? (d.decision==='exclude' ? 'excluded' : d.tmdbId===null ? 'included, title only' : 'included') : '';
@@ -498,7 +498,7 @@ function card(i) {
    + '<button class="yes'+(isDirty?' dirty':'')+'" data-act="include"'+(d&&d.decision==='include'&&!isDirty?' disabled':'')+'>'+incLabel+'</button>'
    + '<button class="no" data-act="exclude"'+(d&&d.decision==='exclude'?' disabled':'')+'>✕ Exclude</button>'
    + (d?'<button data-act="undo">↩ Undo</button>':'')
-   + '<button data-act="edit" title="Edit title, year, director, runtime, genre or description (e)">'+(u.editing?'Close editor':(edited?'✎ Edited':'✎ Edit details'))+'</button>'
+   + '<button data-act="edit" title="Edit title, year, director, runtime, genre or description (d)">'+(u.editing?'Close editor':(edited?'✎ Edited':'✎ Edit details'))+'</button>'
    + (d?'<span class="saved">saved '+fmtWhen(d.decidedAt)+(isDirty?' · unsaved changes':'')+'</span>':'')
    + '</div></div></article>';
 }
@@ -631,11 +631,10 @@ document.addEventListener('keydown', (e) => {
   if (k==='y') { if (!(i.decision && i.decision.decision==='include' && !dirty(i))) commit(i,'include'); }
   else if (k==='t') { if (U(i).match!==null) { U(i).match=null; rerender(i); } commit(i,'include'); }
   else if (k==='n') { if (!(i.decision && i.decision.decision==='exclude')) commit(i,'exclude'); }
-  else if (k==='m') cycle(i,'match',1); else if (k==='M') cycle(i,'match',-1);
-  else if (k==='a') cycle(i,'art',1); else if (k==='A') cycle(i,'art',-1);
+  else if (k==='m') cycle(i,'match',1); else if (k==='M') cycle(i,'art',1);
   else if (k==='o') { const p=previewArt(i); if (p) openLightbox(i, p.src); }
   else if (k==='/') { const q=el.querySelector('.matches input'); if (q) { q.focus(); q.select(); } }
-  else if (k==='e') toggleEditor(i);
+  else if (k==='d') toggleEditor(i);
   else if (k==='b') window.open(letterboxdUrl(i), '_blank', 'noopener');
   else if (k>='0' && k<='9') { const u=U(i); if (k==='0') selectMatch(i,null); else { const opts=[...u.order, ...u.results.filter(id=>!u.order.includes(id))]; const id=opts[Number(k)-1]; if (id!=null) selectMatch(i,id); } }
   else return;
