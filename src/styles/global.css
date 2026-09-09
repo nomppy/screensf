@@ -7,7 +7,7 @@
   --accent: #4b5b8a;
   --accent-ink: #ffffff;
   --chip: #eceae2;
-  --max: 1200px;
+  --max: 1320px;
   --font: -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -20,7 +20,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: var(--font);
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.4;
   -webkit-font-smoothing: antialiased;
 }
@@ -125,8 +125,8 @@ h1 { margin: 0; font-size: 2rem; letter-spacing: -0.03em; font-weight: 800; }
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 22px;
 }
 
 /* Card ---------------------------------------------------------------- */
@@ -155,13 +155,13 @@ h1 { margin: 0; font-size: 2rem; letter-spacing: -0.03em; font-weight: 800; }
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
-.card .body { padding: 12px 14px 14px; display: flex; flex-direction: column; gap: 4px; flex: 1; }
-.card .title { font-size: 1.08rem; font-weight: 700; letter-spacing: -0.01em; line-height: 1.2; }
-.card .note { color: var(--accent); font-size: 0.85rem; font-weight: 600; }
-.card .meta { color: var(--muted); font-size: 0.85rem; }
+.card .body { padding: 16px 18px 18px; display: flex; flex-direction: column; gap: 6px; flex: 1; }
+.card .title { font-size: 1.3rem; font-weight: 700; letter-spacing: -0.01em; line-height: 1.2; }
+.card .note { color: var(--accent); font-size: 0.95rem; font-weight: 600; }
+.card .meta { color: var(--muted); font-size: 0.95rem; }
 .card .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 2px; }
 .tag {
-  font-size: 0.72rem;
+  font-size: 0.78rem;
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -171,14 +171,15 @@ h1 { margin: 0; font-size: 2rem; letter-spacing: -0.03em; font-weight: 800; }
   color: #fff;
 }
 .tag.format { background: #b2432f; }
-.card .venue { margin-top: auto; padding-top: 8px; font-weight: 600; font-size: 0.9rem; }
+.card .venue { margin-top: auto; padding-top: 10px; font-weight: 600; font-size: 1rem; }
 .card .venue a:hover { color: var(--accent); }
-.times { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+.times { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
 .times a {
   border: 1px solid var(--line);
   border-radius: 6px;
-  padding: 4px 9px;
-  font-size: 0.85rem;
+  padding: 7px 13px;
+  font-size: 1rem;
+  font-weight: 600;
   font-variant-numeric: tabular-nums;
   background: var(--chip);
 }

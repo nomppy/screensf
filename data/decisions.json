@@ -319,5 +319,23 @@
     "title": "Cameron Winter at Carnegie Hall",
     "tmdbId": 1597242,
     "decidedAt": "2026-09-08T18:49:04.926Z"
+  },
+  "cycle of love": {
+    "decision": "include",
+    "title": "The Cycle of Love",
+    "tmdbId": 473729,
+    "decidedAt": "2026-09-09T08:36:56.984Z"
+  },
+  "resident evil": {
+    "decision": "include",
+    "title": "Resident Evil ~ 5 PM &amp; 9 PM",
+    "tmdbId": 1423191,
+    "decidedAt": "2026-09-09T08:37:14.274Z"
+  },
+  "history of concrete": {
+    "decision": "include",
+    "title": "The History of Concrete ~ 7:30 PM",
+    "tmdbId": 1596296,
+    "decidedAt": "2026-09-09T08:37:20.636Z"
   }
 }
