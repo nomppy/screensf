@@ -60,7 +60,7 @@ npm run review     # http://localhost:4400
 
 Every undecided title appears as a card with the venue's raw title, TMDB's best guess, artwork, synopsis, why it was flagged, and the showtimes. Nothing is saved until you press a decision button, so you can look around first:
 
-- **Match row**: click TMDB's guess, an alternative, or a search result to preview it. The card's title, credits and description switch to that film. The last option is *Title only* for shorts programs, live events, and anything TMDB will never have.
+- **Match row**: click TMDB's guess, an alternative, or a search result to preview it. The card's title, credits and description switch to that film. The search box also takes a pasted TMDB or Letterboxd film link and selects that film directly. The last option is *Title only* for shorts programs, live events, and anything TMDB will never have.
 - **Artwork row**: click the TMDB backdrop, TMDB poster, the venue's own listing image, or paste any image URL. The big image on the left shows exactly what the site card will use. Click it (or press `o`) to see every image at full size.
 - **Letterboxd / TMDB**: buttons under the credits open the selected match on either site. Title-only cards have neither, since there is no film page to link to.
 - **Edit details**: opens a form for title, year, director, runtime, genre and description. Anything you change overrides TMDB on the site; clear a field to hide it. *Reset to TMDB* drops the edits.

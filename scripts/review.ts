@@ -18,6 +18,7 @@ import { finalizeSchedule, loadResolved, type ResolvedItem } from './lib/build.t
 import { loadEnv, option } from './lib/env.ts';
 import { loadDecisions, saveDecisions } from './lib/store.ts';
 import { filmFromTmdb, searchMovies } from './lib/tmdb.ts';
+import { fetchText } from './lib/http.ts';
 import type { DecisionRecord, Film, FilmEdits, TmdbMovie } from './lib/types.ts';
 
 loadEnv();
@@ -156,6 +157,19 @@ const server = createServer(async (req, res) => {
       if (!q) return json(res, 200, { results: [] });
       const results = await searchMovies(q, year);
       return json(res, 200, { results: results.map(pickMovie) });
+    }
+    if (req.method === 'GET' && url.pathname === '/api/resolve') {
+      // A pasted TMDB or Letterboxd film URL -> TMDB id. Letterboxd pages carry
+      // data-tmdb-id / a themoviedb.org link, so one fetch is enough.
+      const link = url.searchParams.get('url')?.trim() ?? '';
+      const tmdb = link.match(/themoviedb\.org\/movie\/(\d+)/i);
+      if (tmdb) return json(res, 200, { tmdbId: Number(tmdb[1]) });
+      const lb = link.match(/^https?:\/\/(?:www\.)?(?:letterboxd\.com|boxd\.it)\/[^\s]+/i);
+      if (!lb) return json(res, 400, { error: 'Paste a themoviedb.org/movie/… or letterboxd.com/film/… link' });
+      const html = await fetchText(lb[0]);
+      const id = html.match(/data-tmdb-id="(\d+)"/)?.[1] ?? html.match(/themoviedb\.org\/movie\/(\d+)/)?.[1];
+      if (!id) return json(res, 404, { error: 'That Letterboxd page has no TMDB film id (a TV entry, or a page Letterboxd would not serve)' });
+      return json(res, 200, { tmdbId: Number(id) });
     }
     if (req.method === 'GET' && url.pathname === '/api/film') {
       // Full details (backdrop, director, runtime, synopsis) for a match the
@@ -537,7 +551,7 @@ function card(i) {
   const matches = '<div class="sect matches"><span class="label">Movie <span class="hint">click or <span class="kbd">m</span> to preview · saved when you press Include</span></span>'
     + matchOpts.map((id, n) => { const m=u.films[id]; return thumb(m.poster, m.title+(m.year?' ('+m.year+')':'')+(n===0&&i.film&&id===i.film.tmdbId?' · best guess':''), 'data-match="'+id+'"', u.match===id, n+1<10?n+1:null); }).join('')
     + thumb(null, 'Title only (no TMDB)', 'data-match="none"', u.match===null, 0)
-    + '<div class="inline"><input type="search" placeholder="Search TMDB for a different film…" value="'+esc(u.q)+'"><button class="chip">Search</button><span class="meta results-note"></span></div></div>';
+    + '<div class="inline"><input type="search" placeholder="Search TMDB, or paste a TMDB / Letterboxd link…" value="'+esc(u.q)+'"><button class="chip">Search</button><span class="meta results-note"></span></div></div>';
   const aopts = artOptions(i);
   const arts = '<div class="sect arts"><span class="label">Artwork on the site <span class="hint">click or <span class="kbd">M</span> · shown on the schedule card</span></span>'
     + aopts.map(o => thumb(o.src, o.label, 'data-art="'+(o.id===null?'':esc(o.id))+'"', (u.art||null)===o.id, null, o.wide)).join('')
@@ -683,6 +697,11 @@ function wire(i, el) {
   artGo.onclick = stop(useUrl); artIn.onkeydown = (e) => { e.stopPropagation(); if (e.key==='Enter') useUrl(); if (e.key==='Escape') el.focus(); }; artIn.oninput = () => { U(i).custom = artIn.value; };
   const q = el.querySelector('.matches input'), go = el.querySelector('.matches .inline button'), note = el.querySelector('.results-note');
   const search = async () => { const s=q.value.trim(); U(i).q=s; if(!s) return; note.textContent='searching…';
+    if (/themoviedb\\.org\\/movie\\/|letterboxd\\.com\\/|boxd\\.it\\//i.test(s)) { // a pasted link: resolve to a TMDB id and select it
+      const r = await (await fetch('/api/resolve?url='+encodeURIComponent(s))).json();
+      if (r.error) { note.textContent = r.error; return; }
+      const u = U(i); if (!u.films[r.tmdbId]) { u.films[r.tmdbId] = { tmdbId:r.tmdbId, title:'TMDB #'+r.tmdbId, partial:true }; } if (!u.order.includes(r.tmdbId) && !u.results.includes(r.tmdbId)) u.results = [r.tmdbId, ...u.results];
+      u.q = ''; await selectMatch(i, r.tmdbId); const n = cardEl(i).querySelector('.results-note'); if (n) n.textContent = 'linked film selected'; return; }
     const d = await (await fetch('/api/search?q='+encodeURIComponent(s))).json();
     const u = U(i); for (const m of d.results.slice(0,8)) { if (!u.films[m.tmdbId]) u.films[m.tmdbId]=m; } u.results = d.results.slice(0,8).map(m=>m.tmdbId);
     rerender(i); const n = cardEl(i).querySelector('.results-note'); if (n) n.textContent = d.results.length ? d.results.length+' results added above' : 'no results';
