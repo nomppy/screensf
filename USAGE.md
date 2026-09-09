@@ -67,11 +67,14 @@ Every undecided title appears as a card with the venue's raw title, TMDB's best 
 
 Then press **Include** (saves the selected match, artwork and edits), **Exclude**, or use `t` for title only. The card stays where it is with a badge and an Undo button, and a toast at the bottom offers Undo too. Focus moves on to the next undecided card automatically. Decisions save to `data/decisions.json` and the schedule rebuilds about a second later; if `npm run dev` is running in another terminal, the site updates live. On an already-decided card the Include button becomes **Save changes** whenever your selection differs from what was saved.
 
+Two layouts, toggled in the header or with `f`: **Focus** (default) shows one film at a time across the full width, with the artwork on the left, details and the full description in the middle, and the movie and artwork options on the right. **Grid** packs several compact cards per row. The choice is remembered in the browser.
+
 Keyboard shortcuts (press `h` `j` `k` `l` with nothing focused to focus the first card):
 
 | Key | Action |
 |---|---|
 | `h` / `l` | Previous / next card |
+| `f` | Toggle Focus / Grid layout |
 | `j` / `k` | Card below / above |
 | `m` | Cycle the movie match (`1`–`9` pick directly, `0` is title only) |
 | `M` | Cycle the artwork |

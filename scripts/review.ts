@@ -249,7 +249,18 @@ const PAGE = /* html */ `<!doctype html>
   .help { font-size:.78rem; color:var(--muted); line-height:1.7 }
   .kbd { font-family:ui-monospace,Menlo,monospace; font-size:.72rem; background:var(--chip); border:1px solid var(--line); border-radius:4px; padding:0 5px; color:var(--ink) }
   main { max-width:1600px; margin:0 auto; padding:18px 20px 120px; display:grid; gap:16px; grid-template-columns:repeat(auto-fill,minmax(620px,1fr)) }
-  .item { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:grid; grid-template-columns:250px 1fr; outline:none; position:relative }
+  .item { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:grid; grid-template-columns:250px 1fr; grid-template-rows:auto auto; outline:none; position:relative; scroll-margin-top:var(--head,140px) }
+  .item .side { grid-row:1/-1 }
+  .item .opts { grid-column:2; padding:0 18px 16px; display:flex; flex-direction:column; gap:12px; min-width:0 }
+  /* Focus layout: one film at a time, full width, everything visible at once */
+  body.focus main { grid-template-columns:1fr; max-width:1800px; gap:22px }
+  body.focus .item { grid-template-columns:minmax(260px,320px) minmax(0,1fr) minmax(0,1.15fr); grid-template-rows:1fr; min-height:calc(100vh - 170px) }
+  body.focus .item .body { grid-column:2; padding:22px 24px; border-right:1px solid var(--line) }
+  body.focus .item .opts { grid-column:3; padding:22px 24px; gap:18px }
+  body.focus .raw { font-size:1.6rem }
+  body.focus .overview { display:block; -webkit-line-clamp:unset; font-size:1rem; color:var(--ink) }
+  body.focus .opt { width:104px } body.focus .opt img, body.focus .opt .ph { width:104px; height:156px } body.focus .opt.wide { width:160px } body.focus .opt.wide img, body.focus .opt.wide .ph { width:160px; height:90px }
+  @media (max-width:1100px){ body.focus .item { grid-template-columns:220px 1fr } body.focus .item .body { border-right:0 } body.focus .item .opts { grid-column:2 } body.focus .item .side { grid-row:1/-1 } }
   .item:focus { box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 45%,transparent); border-color:var(--accent) }
   .item.decided.include { border-color:var(--ok) } .item.decided.exclude { border-color:var(--no); opacity:.75 }
   .side { background:var(--dark); display:flex; flex-direction:column }
@@ -318,7 +329,7 @@ const PAGE = /* html */ `<!doctype html>
   .lb img { max-width:96vw; max-height:88vh; object-fit:contain; box-shadow:0 20px 60px rgba(0,0,0,.6) }
   .lb .cap { color:#dfe2ea; font-size:.85rem; padding:10px 20px 18px; text-align:center }
   .lb .cap .kbd { background:rgba(255,255,255,.12); border-color:rgba(255,255,255,.2); color:#fff }
-  @media (max-width:760px){ .item{grid-template-columns:150px 1fr} main{grid-template-columns:1fr} .help{display:none} }
+  @media (max-width:760px){ .item, body.focus .item{grid-template-columns:150px 1fr} main{grid-template-columns:1fr} .help{display:none} }
 </style>
 </head>
 <body>
@@ -331,8 +342,12 @@ const PAGE = /* html */ `<!doctype html>
     <button class="chip" data-tab="all" aria-pressed="false">All</button>
   </div>
   <div class="venues" id="venues"></div>
+  <div class="tabs" id="layout" title="Focus shows one film at a time with everything visible; Grid shows several compact cards (f)">
+    <button class="chip" data-layout="focus" aria-pressed="true">Focus</button>
+    <button class="chip" data-layout="grid" aria-pressed="false">Grid</button>
+  </div>
   <div class="spacer"></div>
-  <span class="help"><span class="kbd">h</span><span class="kbd">j</span><span class="kbd">k</span><span class="kbd">l</span> move ·
+  <span class="help"><span class="kbd">h</span><span class="kbd">j</span><span class="kbd">k</span><span class="kbd">l</span> move · <span class="kbd">f</span> layout ·
     <span class="kbd">m</span> movie · <span class="kbd">M</span> artwork · <span class="kbd">o</span> full size · <span class="kbd">/</span> search ·
     <span class="kbd">d</span> edit details · <span class="kbd">b</span> letterboxd · <span class="kbd">y</span> include · <span class="kbd">t</span> title only · <span class="kbd">n</span> exclude · <span class="kbd">u</span> undo</span>
   <span class="status" id="status"></span>
@@ -342,7 +357,15 @@ const PAGE = /* html */ `<!doctype html>
 <div class="toast" id="toast" hidden><span id="toastText"></span><button id="toastUndo">Undo <span class="kbd">u</span></button></div>
 <div class="lb" id="lb" hidden><img id="lbImg" alt=""><div class="cap" id="lbCap"></div></div>
 <script>
-const state = { items: [], venues: [], tab: 'pending', venue: 'all', autoIncluded: 0, autoExcluded: 0, recent: new Set(), last: null, lastBuild: null };
+const state = { items: [], venues: [], tab: 'pending', venue: 'all', autoIncluded: 0, autoExcluded: 0, recent: new Set(), last: null, lastBuild: null, layout: 'focus' };
+try { state.layout = localStorage.getItem('review.layout') || 'focus'; } catch {}
+function setLayout(l) {
+  state.layout = l; try { localStorage.setItem('review.layout', l); } catch {}
+  document.body.classList.toggle('focus', l==='focus');
+  document.querySelectorAll('#layout button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.layout===l)));
+  const el = focusedCard(); if (el) el.scrollIntoView({block: l==='focus' ? 'start' : 'center'});
+}
+document.querySelectorAll('#layout button').forEach(b => b.onclick = () => setLayout(b.dataset.layout));
 const ui = new Map(); // per-card selection state, survives re-renders
 const $ = (s, el=document) => el.querySelector(s);
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -493,14 +516,14 @@ function card(i) {
    + editor
    + '<div class="reason"><b>Why it was flagged:</b> '+esc(i.reason)+'</div>'
    + '<div class="times">'+times+'</div>'
-   + matches + arts
    + '<div class="actions">'
    + '<button class="yes'+(isDirty?' dirty':'')+'" data-act="include"'+(d&&d.decision==='include'&&!isDirty?' disabled':'')+'>'+incLabel+'</button>'
    + '<button class="no" data-act="exclude"'+(d&&d.decision==='exclude'?' disabled':'')+'>✕ Exclude</button>'
    + (d?'<button data-act="undo">↩ Undo</button>':'')
    + '<button data-act="edit" title="Edit title, year, director, runtime, genre or description (d)">'+(u.editing?'Close editor':(edited?'✎ Edited':'✎ Edit details'))+'</button>'
    + (d?'<span class="saved">saved '+fmtWhen(d.decidedAt)+(isDirty?' · unsaved changes':'')+'</span>':'')
-   + '</div></div></article>';
+   + '</div></div>'
+   + '<div class="opts">' + matches + arts + '</div></article>';
 }
 
 // ---- actions ---------------------------------------------------------------
@@ -542,7 +565,7 @@ $('#toastUndo').onclick = () => { if (state.last) undo(state.last); };
 function advanceFrom(i) {
   const all = cards(), el = cardEl(i), idx = all.indexOf(el);
   const nx = all.slice(idx+1).find(c => !c.classList.contains('decided')) || all.slice(0, Math.max(idx,0)).reverse().find(c => !c.classList.contains('decided'));
-  if (nx) { nx.focus({preventScroll:true}); nx.scrollIntoView({block:'center', behavior:'smooth'}); }
+  if (nx) { nx.focus({preventScroll:true}); nx.scrollIntoView({block: state.layout==='focus' ? 'start' : 'center', behavior:'smooth'}); }
 }
 function toggleEditor(i) { const u=U(i); u.editing=!u.editing; rerender(i); if (u.editing) { const f=cardEl(i).querySelector('[data-edit="title"]'); if (f) { f.focus(); f.select(); } } }
 /** Update the title/meta/description lines while typing, without re-rendering (which would drop focus). */
@@ -619,7 +642,7 @@ function move(dir) {
     const r = el.getBoundingClientRect(), cx = (r.left+r.right)/2; let bd = Infinity;
     for (const c of all) { if (c===el) continue; const q=c.getBoundingClientRect(); const dy = dir==='j' ? q.top-r.top : r.top-q.top; if (dy<=4) continue; const s = dy*10000 + Math.abs((q.left+q.right)/2-cx); if (s<bd) { bd=s; nx=c; } }
   }
-  if (nx) { nx.focus({preventScroll:true}); nx.scrollIntoView({block:'center', behavior:'smooth'}); }
+  if (nx) { nx.focus({preventScroll:true}); nx.scrollIntoView({block: state.layout==='focus' ? 'start' : 'center', behavior:'smooth'}); }
 }
 function cycle(i, what, step) {
   const u = U(i);
@@ -631,6 +654,7 @@ document.addEventListener('keydown', (e) => {
   if (e.target.tagName==='INPUT' || e.target.tagName==='TEXTAREA' || e.metaKey || e.ctrlKey || e.altKey) return;
   const k = e.key;
   if ('hjkl'.includes(k) && k.length===1) { move(k); e.preventDefault(); return; }
+  if (k==='f') { setLayout(state.layout==='focus' ? 'grid' : 'focus'); e.preventDefault(); return; }
   const el = focusedCard(), i = itemOf(el);
   if (k==='u') { const t = (i && i.decision) ? i : state.last; if (t) { undo(t); const te=cardEl(t); if (te) { te.focus({preventScroll:true}); te.scrollIntoView({block:'nearest'}); } } e.preventDefault(); return; }
   if (!i) return;
@@ -647,6 +671,9 @@ document.addEventListener('keydown', (e) => {
   e.preventDefault();
 });
 $('#rebuild').onclick = async () => { const b=$('#rebuild'); b.disabled=true; showStatus('rebuilding…'); const d=await post('/api/rebuild',{}); b.disabled=false; if (d.lastBuild) { state.lastBuild=d.lastBuild; showStatus(); } else showStatus(d.error||''); };
+setLayout(state.layout);
+const fitHead = () => document.documentElement.style.setProperty('--head', (document.querySelector('header').offsetHeight+14)+'px');
+fitHead(); window.addEventListener('resize', fitHead);
 load();
 </script>
 </body>
