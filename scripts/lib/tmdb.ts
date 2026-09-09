@@ -34,8 +34,9 @@ export async function searchMovies(query: string, year?: number): Promise<TmdbMo
 
 export async function movieDetails(id: number): Promise<TmdbDetails> {
   const hit = detailsCache.get(String(id));
-  if (hit) return hit;
-  const url = `${API}/movie/${id}?api_key=${apiKey()}&append_to_response=credits`;
+  // Entries cached before release_dates was requested are refetched once.
+  if (hit && hit.release_dates) return hit;
+  const url = `${API}/movie/${id}?api_key=${apiKey()}&append_to_response=credits,release_dates`;
   const data = await fetchJson<TmdbDetails>(url);
   detailsCache.set(String(id), data);
   return data;
@@ -114,13 +115,31 @@ export function describeMovie(m: TmdbMovie): string {
   return `${m.title} (${year})${m.popularity ? `  pop ${Math.round(m.popularity)}` : ''}`;
 }
 
+/**
+ * The earliest date TMDB has for the film in any country, premieres and
+ * festival screenings included. This is the date Letterboxd (and IMDb) show,
+ * whereas `release_date` on the movie itself is the primary theatrical release
+ * and can land a year later for films that toured festivals first.
+ */
+export function earliestRelease(d: TmdbDetails): string | undefined {
+  let best: string | undefined = d.release_date || undefined;
+  for (const country of d.release_dates?.results ?? []) {
+    for (const r of country.release_dates ?? []) {
+      const day = r.release_date?.slice(0, 10);
+      if (day && (!best || day < best)) best = day;
+    }
+  }
+  return best;
+}
+
 export async function filmFromTmdb(id: number, nowPlaying: boolean): Promise<Film> {
   const d = await movieDetails(id);
   const director = d.credits?.crew?.filter((c) => c.job === 'Director').map((c) => c.name).join(', ');
+  const first = earliestRelease(d);
   return {
     key: `tmdb:${d.id}`,
     title: d.title,
-    year: d.release_date ? Number(d.release_date.slice(0, 4)) : undefined,
+    year: first ? Number(first.slice(0, 4)) : undefined,
     director: director || undefined,
     runtime: d.runtime || undefined,
     genre: d.genres?.[0]?.name,

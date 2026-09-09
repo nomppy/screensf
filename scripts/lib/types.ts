@@ -114,4 +114,6 @@ export interface TmdbDetails extends TmdbMovie {
   runtime?: number;
   genres?: { id: number; name: string }[];
   credits?: { crew?: { job: string; name: string }[] };
+  /** Every release TMDB knows about, per country: premieres, festivals, theatrical, digital… */
+  release_dates?: { results?: { iso_3166_1: string; release_dates: { release_date: string; type: number }[] }[] };
 }
