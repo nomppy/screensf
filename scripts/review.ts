@@ -521,7 +521,7 @@ async function commit(i, decision) {
   if (d.decision.edits) u.edits = {...d.decision.edits}; else u.edits = {};
   if (d.decision.tmdbId===undefined && decision==='include') i.decision.tmdbId = u.match;
   state.recent.add(i.key); state.last = i;
-  rerender(i); pollStatus();
+  rerender(i); pollStatus(); advanceFrom(i);
   const f = curFilm(i), s = shownDetails(i);
   toast(decision==='exclude' ? 'Excluded “'+i.rawTitle+'”' : f ? 'Included “'+i.rawTitle+'” as '+s.title+(s.year?' ('+s.year+')':'') : 'Included “'+s.title+'”, title only');
   updateCounts();
@@ -538,6 +538,12 @@ function toast(text) { $('#toastText').textContent = text; $('#toast').hidden = 
 function hideToast() { $('#toast').hidden = true; }
 $('#toastUndo').onclick = () => { if (state.last) undo(state.last); };
 
+/** After a decision, move focus to the next card that still needs one (or the nearest earlier one). */
+function advanceFrom(i) {
+  const all = cards(), el = cardEl(i), idx = all.indexOf(el);
+  const nx = all.slice(idx+1).find(c => !c.classList.contains('decided')) || all.slice(0, Math.max(idx,0)).reverse().find(c => !c.classList.contains('decided'));
+  if (nx) { nx.focus({preventScroll:true}); nx.scrollIntoView({block:'center', behavior:'smooth'}); }
+}
 function toggleEditor(i) { const u=U(i); u.editing=!u.editing; rerender(i); if (u.editing) { const f=cardEl(i).querySelector('[data-edit="title"]'); if (f) { f.focus(); f.select(); } } }
 /** Update the title/meta/description lines while typing, without re-rendering (which would drop focus). */
 function livePreview(i, el) {
