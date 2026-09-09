@@ -263,7 +263,7 @@ const PAGE = /* html */ `<!doctype html>
   .item .opts { grid-column:2; padding:0 18px 16px; display:flex; flex-direction:column; gap:12px; min-width:0 }
   /* Focus layout: one film at a time, full width, everything visible at once */
   body.focus main { grid-template-columns:1fr; max-width:1800px; gap:22px }
-  body.focus .item { grid-template-columns:minmax(260px,320px) minmax(0,1fr) minmax(0,1.15fr); grid-template-rows:1fr; min-height:calc(100vh - 170px) }
+  body.focus .item { grid-template-columns:minmax(260px,320px) minmax(0,1fr) minmax(0,1.15fr); grid-template-rows:1fr; min-height:calc(100vh - var(--headpx,140px) - 30px) }
   body.focus .item .body { grid-column:2; padding:22px 24px; border-right:1px solid var(--line) }
   body.focus .item .opts { grid-column:3; padding:22px 24px; gap:18px }
   body.focus .raw { font-size:1.6rem }
@@ -735,8 +735,9 @@ document.addEventListener('keydown', (e) => {
 });
 $('#rebuild').onclick = async () => { const b=$('#rebuild'); b.disabled=true; showStatus('rebuilding…'); const d=await post('/api/rebuild',{}); b.disabled=false; if (d.lastBuild) { state.lastBuild=d.lastBuild; showStatus(); } else showStatus(d.error||''); };
 setLayout(state.layout);
-const fitHead = () => document.documentElement.style.setProperty('--head', (document.querySelector('header').offsetHeight+14)+'px');
-fitHead(); window.addEventListener('resize', fitHead);
+// The sticky header changes height as chip rows render, so keep the scroll margin in step with it.
+const fitHead = () => { const h = document.querySelector('header').offsetHeight + 14; document.documentElement.style.setProperty('--head', h+'px'); document.documentElement.style.setProperty('--headpx', h+'px'); };
+fitHead(); window.addEventListener('resize', fitHead); new ResizeObserver(fitHead).observe(document.querySelector('header'));
 load();
 </script>
 </body>
