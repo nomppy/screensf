@@ -7,14 +7,19 @@
   <div class="modal-art"><img alt="" /></div>
   <div class="modal-body">
     <div class="modal-when label"></div>
-    <h2 id="modal-title" class="modal-title"></h2>
+    <div class="modal-title-row">
+      <h2 id="modal-title" class="modal-title"></h2>
+      <a class="modal-letterboxd label" data-letterboxd target="_blank" rel="noopener" title="Open on Letterboxd">
+        <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true" fill="currentColor"><circle cx="5" cy="12" r="4.2"/><circle cx="12" cy="12" r="4.2"/><circle cx="19" cy="12" r="4.2"/></svg>
+        Letterboxd
+      </a>
+    </div>
     <div class="modal-meta label"></div>
     <p class="modal-note"></p>
     <p class="modal-desc"></p>
+    <div class="modal-times-label label">Showtimes · tickets</div>
     <div class="modal-times"></div>
     <div class="modal-actions">
-      <a class="btn primary" data-tickets target="_blank" rel="noopener">Get tickets</a>
-      <a class="btn" data-letterboxd target="_blank" rel="noopener">Letterboxd</a>
       <a class="btn" data-gcal target="_blank" rel="noopener">Google Calendar</a>
       <a class="btn" data-ics download>Download .ics</a>
     </div>
@@ -107,9 +112,6 @@
     const ics = q<HTMLAnchorElement>('[data-ics]');
     ics.href = links.ics;
     ics.download = links.file;
-    const tickets = q<HTMLAnchorElement>('[data-tickets]');
-    tickets.href = t.url || f.venue.url;
-    tickets.textContent = t.url ? `Get tickets · ${time12(t.time)}` : 'Venue listing';
   }
 
   function open(id: string) {
@@ -135,8 +137,12 @@
       const a = document.createElement('a');
       a.textContent = time12(t.time);
       a.dataset.time = t.time;
-      a.href = '#';
-      a.addEventListener('click', (e) => { e.preventDefault(); selectTime(f, t); });
+      // Opens the venue's ticket page and also makes this the time the
+      // calendar buttons use.
+      a.href = t.url || f.venue.url;
+      a.target = '_blank';
+      a.rel = 'noopener';
+      a.addEventListener('click', () => selectTime(f, t));
       times.appendChild(a);
     }
     selectTime(f, f.times[0]);
