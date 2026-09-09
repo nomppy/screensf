@@ -294,10 +294,9 @@
     "decidedAt": "2026-09-08T18:43:21.432Z"
   },
   "boorman and the devil": {
-    "decision": "include",
-    "title": "Boorman and the Devil ~ 7:30 PM (Q&amp;A W/ Doc Interviewee Joseph McBride and Critic G. Allen Johnson)",
-    "tmdbId": 1517111,
-    "decidedAt": "2026-09-08T18:43:28.502Z"
+    "decision": "exclude",
+    "title": "Boorman and the Devil ~ 7:30 PM (Q&A W/ Doc Interviewee Joseph McBride and Critic G. Allen Johnson)",
+    "decidedAt": "2026-09-09T18:38:02.170Z"
   },
   "twin peaks fest season 1 ep 1 northwest passage": {
     "decision": "include",
@@ -919,5 +918,41 @@
       "note": "Honoring Tim Curry, an Icon of Stage and ScreenHosted by Peaches Christwith a special screening of Legend"
     },
     "decidedAt": "2026-09-09T17:47:54.813Z"
+  },
+  "big": {
+    "decision": "include",
+    "title": "Big ~ 7:30 PM",
+    "tmdbId": 2280,
+    "decidedAt": "2026-09-09T18:40:24.366Z"
+  },
+  "to die for": {
+    "decision": "include",
+    "title": "To Die For",
+    "tmdbId": 577,
+    "decidedAt": "2026-09-09T18:42:26.402Z"
+  },
+  "arthouse 50 freeway": {
+    "decision": "include",
+    "title": "Arthouse 50: Freeway",
+    "tmdbId": 11229,
+    "decidedAt": "2026-09-09T18:42:38.834Z"
+  },
+  "spike of bensonhurst": {
+    "decision": "include",
+    "title": "Spike of Bensonhurst",
+    "tmdbId": 123620,
+    "decidedAt": "2026-09-09T18:43:36.565Z"
+  },
+  "fantastic planet": {
+    "decision": "include",
+    "title": "Fantastic Planet",
+    "tmdbId": 16306,
+    "decidedAt": "2026-09-09T18:43:51.357Z"
+  },
+  "on call": {
+    "decision": "include",
+    "title": "On Call",
+    "tmdbId": 405779,
+    "decidedAt": "2026-09-09T18:45:34.776Z"
   }
 }

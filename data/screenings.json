@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:59:14.422Z",
+  "generatedAt": "2026-09-09T18:45:35.603Z",
   "films": {
     "tmdb:11229": {
       "key": "tmdb:11229",
@@ -501,20 +501,6 @@
       "releaseDate": "1988-06-10",
       "nowPlaying": true,
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop."
-    },
-    "tmdb:1517111": {
-      "key": "tmdb:1517111",
-      "title": "Boorman and the Devil",
-      "year": 2025,
-      "director": "David Kittredge",
-      "runtime": 112,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/gAjei5EpYkyRVB0DP9vKaQGtJSA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/igS7kqXk6KJX7pe3xOHsWfKrgmp.jpg",
-      "tmdbId": 1517111,
-      "popularity": 1.5403,
-      "releaseDate": "2026-08-28",
-      "overview": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art."
     },
     "tmdb:564": {
       "key": "tmdb:564",
@@ -2026,16 +2012,6 @@
       "url": "https://www.landmarktheatres.com/movies/13547-to-die-for/",
       "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
       "source": "operaplaza"
-    },
-    {
-      "id": "balboa:2026-09-09:19:30:tmdb:1517111",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1517111",
-      "date": "2026-09-09",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/boorman-and-the-devil-september-9",
-      "note": "Q&A W/ Doc Interviewee Joseph McBride and Critic G. Allen Johnson",
-      "source": "balboa"
     },
     {
       "id": "vogue:2026-09-09:19:30:tmdb:2280",
