@@ -118,3 +118,56 @@ export function buildFestivals(raws: RawScreening[]): Festival[] {
 function escapeRe(s: string) {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
+
+/**
+ * Point each festival at its landing page instead of the first showtime.
+ * Order: an explicit `links` entry in data/festivals.json (keyed by normalised
+ * name), then a link on the first showtime's page whose text or slug names
+ * the festival (Balboa: "Twin Peaks Fest 2026 -> /twin-peaks-fest-2026"),
+ * then the first showtime's URL as before.
+ */
+export async function resolveFestivalLinks(festivals: Festival[]): Promise<Festival[]> {
+  let overrides: Record<string, string> = {};
+  try {
+    overrides = JSON.parse(readFileSync('data/festivals.json', 'utf8')).links ?? {};
+  } catch {
+    /* none */
+  }
+  const { fetchTextCached } = await import('./http.ts');
+  const cheerio = await import('cheerio');
+  const out: Festival[] = [];
+  for (const f of festivals) {
+    const norm = normalizeTitle(f.name);
+    const override = Object.entries(overrides).find(([k]) => normalizeTitle(k) === norm)?.[1];
+    if (override) {
+      out.push({ ...f, url: override });
+      continue;
+    }
+    const words = norm.split(' ').filter((w) => w.length > 2 && !/^(the|and|fest|festival|film|20\d\d)$/.test(w));
+    let landing: string | undefined;
+    try {
+      const html = await fetchTextCached(f.url, 7 * 24 * 60 * 60 * 1000);
+      const $ = cheerio.load(html);
+      $('a[href]').each((_, a) => {
+        if (landing) return;
+        const href = $(a).attr('href') ?? '';
+        let abs: string;
+        try {
+          abs = new URL(href, f.url).toString();
+        } catch {
+          return;
+        }
+        if (abs.split('#')[0] === f.url.split('#')[0]) return;
+        if (/veezi|ticket|purchase|calendar-of-events\/|\/events\/|\/film\/|format=|google\.com|facebook|instagram|twitter/i.test(abs)) return;
+        const text = normalizeTitle($(a).text());
+        const slug = normalizeTitle(new URL(abs).pathname.replace(/\//g, ' '));
+        const hit = (s: string) => words.length > 0 && words.every((w) => s.includes(w)) && /fest/.test(s);
+        if (hit(text) || hit(slug)) landing = abs;
+      });
+    } catch {
+      /* keep the showtime URL */
+    }
+    out.push(landing ? { ...f, url: landing } : f);
+  }
+  return out;
+}

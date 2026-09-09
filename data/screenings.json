@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T08:54:35.426Z",
+  "generatedAt": "2026-09-09T09:04:18.907Z",
   "films": {
     "tmdb:11229": {
       "key": "tmdb:11229",
@@ -12,7 +12,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/q86f264W90GIUeg1Ovf4T1PIBA.jpg",
       "tmdbId": 11229,
       "popularity": 4.7391,
-      "releaseDate": "1996-08-23"
+      "releaseDate": "1996-08-23",
+      "overview": "Following the arrest of her mother, Ramona, young Vanessa Lutz decides to go in search of her estranged grandmother. On the way, she is given a ride by school counselor Bob Wolverton. During the journey, Lutz begins to realize that Bob is the notorious I-5 Killer and manages to escape by shooting him several times. Wounded but still very much alive, Bob pursues Lutz across the state in this modern retelling of Little Red Riding Hood."
     },
     "tmdb:1631822": {
       "key": "tmdb:1631822",
@@ -25,7 +26,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/dUnjTkwLNNWsvx981VcA46toTPi.jpg",
       "tmdbId": 1631822,
       "popularity": 1.6167,
-      "releaseDate": "2026-07-03"
+      "releaseDate": "2026-07-03",
+      "overview": "From a lonely childhood to literary fame, her life was shaped by devotion to nature, paying attention, and the long journey toward learning to love and to be loved.  If poetry had a pop icon, Mary Oliver would be it."
     },
     "tmdb:473729": {
       "key": "tmdb:473729",
@@ -37,7 +39,8 @@
       "poster": "https://image.tmdb.org/t/p/w500/5Fo9k3pJgtS7y2eU6Xm28MKcwOg.jpg",
       "tmdbId": 473729,
       "popularity": 1.287,
-      "releaseDate": "2006-10-06"
+      "releaseDate": "2006-10-06",
+      "overview": "A prophet who longed to look upon his deities. A daunting journey to a mountain peak. A confrontation with gods too powerful to name.  This is the story that inspired Peter Rhodes, who worked as a filmmaker and artist during the 1920s. Few people know of his work, and it's only through luck and perseverance that we have been able to track down the elements for this \"lost\" film. Rhodes' films were created using silhouette animation, a technique perfectly suited to depict Lovecraft's mythic Dreamland stories. The filmmaker's involvement in New York City's occult and literary scenes provided him with a select audience for his work. Rhodes was especially influenced through his relationships with occultist Aleister Crowley and writer H.P. Lovecraft, but it was personal tragedy that moved him to produce \"The Other Gods: A Tale of the Dream Cycle,\" his most powerful film."
     },
     "tmdb:16306": {
       "key": "tmdb:16306",
@@ -50,7 +53,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
       "tmdbId": 16306,
       "popularity": 3.586,
-      "releaseDate": "1973-12-01"
+      "releaseDate": "1973-12-01",
+      "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin."
     },
     "t:filipinana": {
       "key": "t:filipinana",
@@ -68,7 +72,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/yzNoanH2Jfn5bj7d6reKeaAbd4S.jpg",
       "tmdbId": 1596332,
       "popularity": 3.0181,
-      "releaseDate": "2026-08-14"
+      "releaseDate": "2026-08-14",
+      "overview": "When three heroic American doctors — Palestinian, Jewish, and Zoroastrian — enter Gaza to save lives in the middle of a genocide, they find themselves caught between medicine and politics, risking everything to expose the truth."
     },
     "tmdb:1240889": {
       "key": "tmdb:1240889",
@@ -82,7 +87,8 @@
       "tmdbId": 1240889,
       "popularity": 16.9358,
       "releaseDate": "2026-08-06",
-      "nowPlaying": true
+      "nowPlaying": true,
+      "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
     },
     "tmdb:1310573": {
       "key": "tmdb:1310573",
@@ -95,7 +101,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/302FswmkEMEVp7lSBjBLs1oIFZm.jpg",
       "tmdbId": 1310573,
       "popularity": 4.3755,
-      "releaseDate": "2026-07-10"
+      "releaseDate": "2026-07-10",
+      "overview": "On the outskirts of Medellín, Colombia in the late 1980s, local residents report strange lights descending from the sky. When a reporter arrives to investigate, a ragtag group of teens from a lawless neighbourhood storm the scene and steal his camera. In the hands of its new owners, the device records a mesmerising plunge into their frantic existence."
     },
     "tmdb:22500": {
       "key": "tmdb:22500",
@@ -108,7 +115,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/omysgecSqildPjk4LL8To0L3tgm.jpg",
       "tmdbId": 22500,
       "popularity": 4.0894,
-      "releaseDate": "1987-12-11"
+      "releaseDate": "1987-12-11",
+      "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
     },
     "tmdb:44778": {
       "key": "tmdb:44778",
@@ -121,7 +129,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/mTgwkwa86aQsgsD3ptzGTJdFGS1.jpg",
       "tmdbId": 44778,
       "popularity": 1.3471,
-      "releaseDate": "2006-03-03"
+      "releaseDate": "2006-03-03",
+      "overview": "Just over the border in Mexico is an area peppered with maquiladoras: massive sweatshops often owned by the world's largest multinational corporations. Carmen and Lourdes work at maquiladoras in Tijuana, and it is there that they try to balance the struggle for survival with their own radicalization in this documentary."
     },
     "tmdb:11171": {
       "key": "tmdb:11171",
@@ -134,7 +143,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/yiNHoIFUlFAByjXkTDdJOK9nw2Z.jpg",
       "tmdbId": 11171,
       "popularity": 5.9867,
-      "releaseDate": "2005-03-30"
+      "releaseDate": "2005-03-30",
+      "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth."
     },
     "tmdb:252493": {
       "key": "tmdb:252493",
@@ -146,7 +156,8 @@
       "poster": "https://image.tmdb.org/t/p/w500/vsBHl34fXcakfWgSRd2URMQs7hJ.jpg",
       "tmdbId": 252493,
       "popularity": 0.7353,
-      "releaseDate": "1930-10-25"
+      "releaseDate": "1930-10-25",
+      "overview": "Comical character piece climaxing in a boxing match. Set in the rough, tough city; apparently the Bowery, if we let the music tell us. With one of those Mickey Mice that bugged the big \"D\"."
     },
     "tmdb:1620313": {
       "key": "tmdb:1620313",
@@ -159,7 +170,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/pPThPhqsh5bKwJoZDlWd67qCHcc.jpg",
       "tmdbId": 1620313,
       "popularity": 4.3158,
-      "releaseDate": "2026-06-19"
+      "releaseDate": "2026-06-19",
+      "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
     },
     "tmdb:162064": {
       "key": "tmdb:162064",
@@ -172,7 +184,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/a7yqMDdDXNL2KjXznswNRkWeNhI.jpg",
       "tmdbId": 162064,
       "popularity": 1.6485,
-      "releaseDate": "1932-04-30"
+      "releaseDate": "1932-04-30",
+      "overview": "Socialite Letty Lynton is returning to New York, abandoning one-time lover Emile Renaul in South America, when she strikes up a shipboard romance with Jerry Darrow. Renault is waiting for her in New York and will not leave her alone, so she poisons him. When detectives take her to the D.A.'s office, Jerry cooks up an alibi."
     },
     "tmdb:21538": {
       "key": "tmdb:21538",
@@ -185,7 +198,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/bUa4SvSt35pwvJJquRWUvIPS1UQ.jpg",
       "tmdbId": 21538,
       "popularity": 1.1012,
-      "releaseDate": "2001-01-20"
+      "releaseDate": "2001-01-20",
+      "overview": "Samual Curtis's first mission in this bizarre science fiction musical comedy requires him to take a cat to a saloon on an asteroid. There, he meets his former dance partner (the Blueberry Pirate) and collects his payment: a device capable of producing a Real Live Girl. Including music by alternative rock group The Billy Nayer Show, this film began life as a live show with a loyal following."
     },
     "tmdb:1091371": {
       "key": "tmdb:1091371",
@@ -198,7 +212,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/pdKlsuRnaSG5kTo1rMhRlTCMNKp.jpg",
       "tmdbId": 1091371,
       "popularity": 1.5038,
-      "releaseDate": "2023-09-01"
+      "releaseDate": "2023-09-01",
+      "overview": "With Olin's 85-year-old father as guide, we experience Norway's most adventurous valley, Oldedalen in Nordfjord. He grew up here, and here generations before him have lived in balance with nature."
     },
     "tmdb:1596326": {
       "key": "tmdb:1596326",
@@ -211,7 +226,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
       "tmdbId": 1596326,
       "popularity": 3.1855,
-      "releaseDate": "2026-09-04"
+      "releaseDate": "2026-09-04",
+      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
     },
     "tmdb:9802": {
       "key": "tmdb:9802",
@@ -224,7 +240,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
       "tmdbId": 9802,
       "popularity": 15.1623,
-      "releaseDate": "1996-06-07"
+      "releaseDate": "1996-06-07",
+      "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down."
     },
     "tmdb:9323": {
       "key": "tmdb:9323",
@@ -237,7 +254,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
       "tmdbId": 9323,
       "popularity": 15.7714,
-      "releaseDate": "1995-11-18"
+      "releaseDate": "1995-11-18",
+      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
     },
     "t:larry reed a life in light and shadow": {
       "key": "t:larry reed a life in light and shadow",
@@ -255,7 +273,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
       "tmdbId": 829,
       "popularity": 11.4576,
-      "releaseDate": "1974-06-20"
+      "releaseDate": "1974-06-20",
+      "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together."
     },
     "tmdb:30959": {
       "key": "tmdb:30959",
@@ -268,7 +287,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
       "tmdbId": 30959,
       "popularity": 5.4101,
-      "releaseDate": "1965-01-06"
+      "releaseDate": "1965-01-06",
+      "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
     },
     "tmdb:1610748": {
       "key": "tmdb:1610748",
@@ -280,7 +300,8 @@
       "poster": "https://image.tmdb.org/t/p/w500/nS7wI8ALeyVbmu8ahQVDjq6vgHV.jpg",
       "tmdbId": 1610748,
       "popularity": 2.5621,
-      "releaseDate": "2026-09-04"
+      "releaseDate": "2026-09-04",
+      "overview": "Blind and low-vision kids take control of the cameras and capture their own experiences at the annual Braille Challenge — a weekend of high-pressure competition and raw coming-of-age moments."
     },
     "tmdb:1596302": {
       "key": "tmdb:1596302",
@@ -293,7 +314,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/39K96SvSupTsnjileodYguriBDC.jpg",
       "tmdbId": 1596302,
       "popularity": 1.5721,
-      "releaseDate": "2026-09-10"
+      "releaseDate": "2026-09-10",
+      "overview": "A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive."
     },
     "tmdb:56126": {
       "key": "tmdb:56126",
@@ -306,7 +328,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/dw1Q06oqvoL77ZIhsRBmfOCAHIk.jpg",
       "tmdbId": 56126,
       "popularity": 2.128,
-      "releaseDate": "1982-11-18"
+      "releaseDate": "1982-11-18",
+      "overview": "Sid Lucero, a 21-year old pre-Med student, is an aspiring neophyte of the Alpha Kappa Omega fraternity. Over a six-month initiation period, he and six other neophytes are subjected to severe physical and psychological torture in and outside the fraternity house."
     },
     "t:re vision my name aint suzie": {
       "key": "t:re vision my name aint suzie",
@@ -334,7 +357,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/glvwKs7zwGh6G3hoCYJexwEfPfT.jpg",
       "tmdbId": 916,
       "popularity": 7.909,
-      "releaseDate": "1968-10-17"
+      "releaseDate": "1968-10-17",
+      "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed."
     },
     "t:re vision the outcasts": {
       "key": "t:re vision the outcasts",
@@ -406,7 +430,8 @@
       "poster": "https://image.tmdb.org/t/p/w500/nxJ968LYee8ya2LoxoYk78S4Bru.jpg",
       "tmdbId": 1431004,
       "popularity": 1.4445,
-      "releaseDate": "2025-02-06"
+      "releaseDate": "2025-02-06",
+      "overview": "A man with an extraordinary but failing memory tries to solve the mystery of what happened to a woman killed by a hit-and-run driver."
     },
     "tmdb:1529660": {
       "key": "tmdb:1529660",
@@ -418,7 +443,8 @@
       "poster": "https://image.tmdb.org/t/p/w500/6vQ4csoj606iDzCGa239d3XtgiV.jpg",
       "tmdbId": 1529660,
       "popularity": 0.8877,
-      "releaseDate": "2025-10-09"
+      "releaseDate": "2025-10-09",
+      "overview": "In the wake of tragedy, a young man goes to great lengths to avoid confronting his family."
     },
     "tmdb:540": {
       "key": "tmdb:540",
@@ -431,7 +457,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/cVkb5wUZrO71wCFM7nDyqPDezCL.jpg",
       "tmdbId": 540,
       "popularity": 5.6719,
-      "releaseDate": "2005-03-25"
+      "releaseDate": "2005-03-25",
+      "overview": "The star of a team of teenage crime fighters falls for the alluring villainess she must bring to justice."
     },
     "tmdb:44214": {
       "key": "tmdb:44214",
@@ -444,7 +471,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
       "tmdbId": 44214,
       "popularity": 22.4961,
-      "releaseDate": "2010-12-03"
+      "releaseDate": "2010-12-03",
+      "overview": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake.\""
     },
     "tmdb:10494": {
       "key": "tmdb:10494",
@@ -457,7 +485,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
       "tmdbId": 10494,
       "popularity": 18.1468,
-      "releaseDate": "1998-02-28"
+      "releaseDate": "1998-02-28",
+      "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
     },
     "tmdb:578": {
       "key": "tmdb:578",
@@ -470,7 +499,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
       "tmdbId": 578,
       "popularity": 28.1372,
-      "releaseDate": "1975-06-20"
+      "releaseDate": "1975-06-20",
+      "overview": "When the seaside community of Amity finds itself under attack by a dangerous great white shark, the town's chief of police, a young marine biologist, and a grizzled shark hunter embark on a desperate quest to kill the beast before it strikes again."
     },
     "tmdb:1193495": {
       "key": "tmdb:1193495",
@@ -482,7 +512,8 @@
       "poster": "https://image.tmdb.org/t/p/w500/fm0G1lpyEKIkchgP1P8K6HMpkJa.jpg",
       "tmdbId": 1193495,
       "popularity": 2.564,
-      "releaseDate": "2023-11-12"
+      "releaseDate": "2023-11-12",
+      "overview": "One of the world’s youngest elite rock climbers, Ashima Shiraishi spent her formative years breaking numerous age-based climbing milestones, spurred on by her number one fan and coach, her father, Poppo a retired Butoh dancer and avant-garde performer with no formal climbing experience. When these New Yorkers travel to South Africa to conquer a V14 boulder problem, father and daughter must face their interpersonal struggles in tandem with the challenging ascent."
     },
     "tmdb:1666362": {
       "key": "tmdb:1666362",
@@ -495,7 +526,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/10zp6WDYjQYvsP4A6Y8GxvTDyXU.jpg",
       "tmdbId": 1666362,
       "popularity": 0.5352,
-      "releaseDate": "2026-04-27"
+      "releaseDate": "2026-04-27",
+      "overview": "Tim Blevins trained at Juilliard, enthralling opera fans with his baritone before losing it all to addiction and landing on the streets of San Francisco. But then he pulled off a stunning comeback."
     },
     "t:zoe presents memorex rexsexex y mas": {
       "key": "t:zoe presents memorex rexsexex y mas",
@@ -514,7 +546,8 @@
       "tmdbId": 149,
       "popularity": 23.6657,
       "releaseDate": "1988-06-10",
-      "nowPlaying": true
+      "nowPlaying": true,
+      "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop."
     },
     "tmdb:1517111": {
       "key": "tmdb:1517111",
@@ -527,7 +560,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/igS7kqXk6KJX7pe3xOHsWfKrgmp.jpg",
       "tmdbId": 1517111,
       "popularity": 1.8607,
-      "releaseDate": "2026-08-28"
+      "releaseDate": "2026-08-28",
+      "overview": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art."
     },
     "tmdb:564": {
       "key": "tmdb:564",
@@ -540,7 +574,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
       "tmdbId": 564,
       "popularity": 28.7503,
-      "releaseDate": "1999-04-16"
+      "releaseDate": "1999-04-16",
+      "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken."
     },
     "tmdb:508003": {
       "key": "tmdb:508003",
@@ -553,7 +588,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/k0o0sFSbv8BPsQijH6QWxUlDpoG.jpg",
       "tmdbId": 508003,
       "popularity": 3.5396,
-      "releaseDate": "2018-06-08"
+      "releaseDate": "2018-06-08",
+      "overview": "Alexander McQueen's rags-to-riches story is a modern-day fairy tale, laced with the gothic. Mirroring the savage beauty, boldness and vivacity of his design, this documentary is an intimate revelation of McQueen's own world, both tortured and inspired, which celebrates a radical and mesmerizing genius of profound influence."
     },
     "tmdb:42098": {
       "key": "tmdb:42098",
@@ -566,7 +602,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/bTi7ggNJeNpmyHAaehtDXp9cmdm.jpg",
       "tmdbId": 42098,
       "popularity": 2.0706,
-      "releaseDate": "1984-12-07"
+      "releaseDate": "1984-12-07",
+      "overview": "This documentary about teenagers living on the streets in Seattle began as a magazine article. The film follows nine teenagers who discuss how they live by panhandling, prostitution, and petty theft."
     },
     "tmdb:21135": {
       "key": "tmdb:21135",
@@ -579,7 +616,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/n6hmnEqU9W4jcVxCU00S4XJ5ecw.jpg",
       "tmdbId": 21135,
       "popularity": 5.5987,
-      "releaseDate": "1962-04-13"
+      "releaseDate": "1962-04-13",
+      "overview": "Vittoria is a beautiful literary translator living in Rome. After splitting from her writer boyfriend, Riccardo, Vittoria meets Piero, a lively stockbroker, on the hectic floor of the Roman stock exchange. Though Vittoria and Piero begin a relationship, it is not one without difficulties, and their commitment to one another is tested during an eclipse."
     },
     "tmdb:530578": {
       "key": "tmdb:530578",
@@ -592,7 +630,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/l6dwa57KqjUn6h7OODNvN6zuq0W.jpg",
       "tmdbId": 530578,
       "popularity": 1.2471,
-      "releaseDate": "1985-06-15"
+      "releaseDate": "1985-06-15",
+      "overview": "A shady music mogul brings together two wannabe stars—punk rock rebel Kan and new-wave crooner Shingo—and transforms them into the Stardust Brothers, a girl-friendly, silver-jumpsuited, synth-pop sensation. Along with their #1 fan, who herself dreams of a music career, the duo rockets to stardom."
     },
     "t:super shangri la": {
       "key": "t:super shangri la",
@@ -616,7 +655,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
       "tmdbId": 1423191,
       "popularity": 45.0749,
-      "releaseDate": "2026-09-16"
+      "releaseDate": "2026-09-16",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos."
     },
     "tmdb:11178": {
       "key": "tmdb:11178",
@@ -629,7 +669,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/13uKAt4M87HQi1lMZAwBmsNZRGg.jpg",
       "tmdbId": 11178,
       "popularity": 6.0758,
-      "releaseDate": "2001-07-27"
+      "releaseDate": "2001-07-27",
+      "overview": "A young man’s world is turned upside down when a female force of nature takes his life by storm in this outrageous and uplifting ode to true love."
     },
     "tmdb:884551": {
       "key": "tmdb:884551",
@@ -641,7 +682,8 @@
       "poster": "https://image.tmdb.org/t/p/w500/k6JUJwLN1Ey6mvlzBbDmQdsVVYM.jpg",
       "tmdbId": 884551,
       "popularity": 0.6739,
-      "releaseDate": "2021-10-12"
+      "releaseDate": "2021-10-12",
+      "overview": "Ever wonder what your dog would say to you if he/she could speak? When a broken hearted man's Halloween wish comes true he winds up paying a price he never saw coming."
     },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
@@ -654,7 +696,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
       "tmdbId": 1596296,
       "popularity": 2.5302,
-      "releaseDate": "2026-09-18"
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:27031": {
       "key": "tmdb:27031",
@@ -667,7 +710,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
       "tmdbId": 27031,
       "popularity": 3.1764,
-      "releaseDate": "1967-05-27"
+      "releaseDate": "1967-05-27",
+      "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
     },
     "tmdb:11377": {
       "key": "tmdb:11377",
@@ -680,7 +724,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/gxZ478weUdq3tiDG348lqlpSE5F.jpg",
       "tmdbId": 11377,
       "popularity": 5.285,
-      "releaseDate": "1999-10-29"
+      "releaseDate": "1999-10-29",
+      "overview": "An amusement park mogul offers a random group of diverse people $1 million to spend the night in a decrepit former mental institution."
     },
     "tmdb:10625": {
       "key": "tmdb:10625",
@@ -693,7 +738,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/nP3y0TkR6XniFs9J53qQkg4Bnnk.jpg",
       "tmdbId": 10625,
       "popularity": 26.3822,
-      "releaseDate": "2004-04-30"
+      "releaseDate": "2004-04-30",
+      "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George."
     },
     "tmdb:11976": {
       "key": "tmdb:11976",
@@ -706,7 +752,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/3g8rLMw0SbA0h2GHiOCBoqFTXVq.jpg",
       "tmdbId": 11976,
       "popularity": 12.6627,
-      "releaseDate": "1985-08-28"
+      "releaseDate": "1985-08-28",
+      "overview": "Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess  Lili and defeat the demonic Lord of Darkness, or the world will be plunged into a never-ending ice age."
     },
     "tmdb:16363": {
       "key": "tmdb:16363",
@@ -719,7 +766,8 @@
       "backdrop": "https://image.tmdb.org/t/p/w780/2da9Hqr5FxMLYpcYi3BW2LyLIwf.jpg",
       "tmdbId": 16363,
       "popularity": 7.3671,
-      "releaseDate": "1982-07-23"
+      "releaseDate": "1982-07-23",
+      "overview": "When a Conservative TV crusader threatens to shut down beloved brothel The Chicken Ranch, proprietress Miss Mona Stangley and her girls won't go down without a fight."
     }
   },
   "screenings": [
@@ -1956,13 +2004,28 @@
       "venueId": "balboa",
       "startDate": "2026-09-11",
       "endDate": "2026-09-13",
-      "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-1-september-11",
+      "url": "https://www.balboamovies.com/twin-peaks-fest-2026",
       "showtimes": 16,
       "sample": [
         "Season 1, Ep. 1 (Northwest Passage)",
         "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
         "Season 1, Ep. 2 & 3 (Traces to Nowhere/Zen, Or the Skill To Catch a Killer)",
         "Season 1, Ep. 4 & 5 (Rest in Pain/The One-Armed Man)"
+      ]
+    },
+    {
+      "key": "fest:balboa:international vampire film fest",
+      "name": "International Vampire Film Fest",
+      "venueId": "balboa",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "url": "https://www.balboamovies.com/international-vampire-film-fest",
+      "showtimes": 7,
+      "sample": [
+        "El Vampiro",
+        "Let the Right One",
+        "A Girl Walks Home Alone at Night",
+        "The Vourdalak"
       ]
     }
   ]

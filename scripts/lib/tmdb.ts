@@ -130,5 +130,6 @@ export async function filmFromTmdb(id: number, nowPlaying: boolean): Promise<Fil
     popularity: d.popularity,
     releaseDate: d.release_date || undefined,
     nowPlaying: nowPlaying || undefined,
+    overview: d.overview || undefined,
   };
 }

@@ -11,6 +11,7 @@ export interface Film {
   poster?: string;
   backdrop?: string;
   tmdbId?: number;
+  overview?: string;
 }
 
 export interface Screening {

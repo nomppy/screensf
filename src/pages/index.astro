@@ -1,6 +1,7 @@
 ---
 import Layout from '../components/Layout.astro';
 import ScreeningCard from '../components/ScreeningCard.astro';
+import FilmModal from '../components/FilmModal.astro';
 import { activeVenues, buildDays, dateRange, headingFor, upcomingFestivals, venueFor } from '../lib/schedule';
 
 const days = buildDays();
@@ -65,6 +66,7 @@ const festivals = upcomingFestivals();
       ))
     )
   }
+  <FilmModal />
 </Layout>
 
 <script>

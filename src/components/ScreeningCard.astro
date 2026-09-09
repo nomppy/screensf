@@ -8,9 +8,28 @@ const { card } = Astro.props;
 const { film, venue } = card;
 const art = film.backdrop ?? film.poster;
 const meta = [film.year, film.genre, runtime(film.runtime)].filter(Boolean).join(', ');
+const id = `${card.date}|${venue.id}|${film.key}`;
+// Everything the detail modal needs, serialised once per card.
+const detail = {
+  id,
+  title: film.title,
+  year: film.year ?? null,
+  director: film.director ?? null,
+  runtime: film.runtime ?? null,
+  genre: film.genre ?? null,
+  overview: film.overview ?? null,
+  tmdbId: film.tmdbId ?? null,
+  art: art ?? null,
+  note: card.note ?? null,
+  format: card.format ?? null,
+  date: card.date,
+  venue: { name: venue.name, url: venue.url },
+  times: card.times,
+};
 ---
 
-<article class="card" data-venue={venue.id}>
+<article class="card" data-venue={venue.id} data-detail={id} tabindex="0" role="button" aria-haspopup="dialog">
+  <script type="application/json" set:html={JSON.stringify(detail)} />
   <div class:list={['art', { poster: !film.backdrop && film.poster }]}>
     {art ? <img src={art} alt={film.title} loading="lazy" /> : <div class="placeholder">No image</div>}
   </div>

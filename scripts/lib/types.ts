@@ -42,6 +42,8 @@ export interface Film {
   releaseDate?: string;
   /** Present when TMDB placed this film in the US "now playing" list at sync time. */
   nowPlaying?: boolean;
+  /** TMDB synopsis, shown in the site's detail modal. */
+  overview?: string;
 }
 
 export interface Screening {

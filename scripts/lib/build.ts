@@ -135,7 +135,7 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
   }
 
   screenings.sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
-  const festivals = snap.festivals.filter((f) => f.endDate >= today && f.startDate <= horizon);
+  const festivals = snap.festivals.filter((f) => f.endDate >= today);
   const data: ScheduleData = { generatedAt: new Date().toISOString(), films, screenings, festivals };
   saveSchedule(data);
   return { data, included, excluded, pending, seenFilms, rawFilmKey };

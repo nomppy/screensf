@@ -1,0 +1,177 @@
+---
+// One dialog for the whole page; filled from the clicked card's JSON.
+---
+
+<dialog id="film-modal" class="modal" aria-labelledby="modal-title">
+  <button class="modal-close" data-close aria-label="Close">×</button>
+  <div class="modal-art"><img alt="" /></div>
+  <div class="modal-body">
+    <div class="modal-when label"></div>
+    <h2 id="modal-title" class="modal-title"></h2>
+    <div class="modal-meta label"></div>
+    <p class="modal-note"></p>
+    <p class="modal-desc"></p>
+    <div class="modal-times"></div>
+    <div class="modal-actions">
+      <a class="btn primary" data-tickets target="_blank" rel="noopener">Get tickets</a>
+      <a class="btn" data-letterboxd target="_blank" rel="noopener">Letterboxd</a>
+      <a class="btn" data-gcal target="_blank" rel="noopener">Google Calendar</a>
+      <a class="btn" data-ics download>Download .ics</a>
+    </div>
+    <div class="modal-foot label"><a data-venue-link target="_blank" rel="noopener"></a><span data-tmdb-wrap> · <a data-tmdb target="_blank" rel="noopener">TMDB</a></span></div>
+  </div>
+</dialog>
+
+<script>
+  type Detail = {
+    id: string;
+    title: string;
+    year: number | null;
+    director: string | null;
+    runtime: number | null;
+    genre: string | null;
+    overview: string | null;
+    tmdbId: number | null;
+    art: string | null;
+    note: string | null;
+    format: string | null;
+    date: string;
+    venue: { name: string; url: string };
+    times: { time: string; url: string }[];
+  };
+
+  const dlg = document.getElementById('film-modal') as HTMLDialogElement;
+  const q = <T extends Element>(s: string) => dlg.querySelector(s) as T;
+  const details = new Map<string, Detail>();
+  for (const card of document.querySelectorAll<HTMLElement>('.card[data-detail]')) {
+    const raw = card.querySelector('script[type="application/json"]')?.textContent;
+    if (raw) details.set(card.dataset.detail!, JSON.parse(raw));
+  }
+
+  const time12 = (t: string) => {
+    const [h, m] = t.split(':').map(Number);
+    return `${h % 12 || 12}:${String(m).padStart(2, '0')} ${h >= 12 ? 'PM' : 'AM'}`;
+  };
+  const longDate = (d: string) => {
+    const [y, m, dd] = d.split('-').map(Number);
+    return new Date(Date.UTC(y, m - 1, dd)).toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', timeZone: 'UTC' });
+  };
+  const runtime = (min: number | null) => (min ? (min >= 60 ? `${Math.floor(min / 60)}h${min % 60 ? ` ${min % 60}m` : ''}` : `${min}m`) : null);
+
+  /** Wall-clock America/Los_Angeles -> UTC Date, DST-correct. */
+  function laToUtc(date: string, time: string): Date {
+    const [y, mo, d] = date.split('-').map(Number);
+    const [h, mi] = time.split(':').map(Number);
+    let guess = Date.UTC(y, mo - 1, d, h, mi);
+    for (let i = 0; i < 2; i++) {
+      const parts = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Los_Angeles', hourCycle: 'h23', year: 'numeric', month: 'numeric', day: 'numeric', hour: 'numeric', minute: 'numeric' }).formatToParts(new Date(guess));
+      const g = (t: string) => Number(parts.find((p) => p.type === t)!.value);
+      const asLA = Date.UTC(g('year'), g('month') - 1, g('day'), g('hour'), g('minute'));
+      guess += Date.UTC(y, mo - 1, d, h, mi) - asLA;
+    }
+    return new Date(guess);
+  }
+  const stamp = (d: Date) => d.toISOString().replace(/[-:]|\.\d{3}/g, '');
+  const icsEscape = (s: string) => s.replace(/\\/g, '\\\\').replace(/;/g, '\;').replace(/,/g, '\\,').replace(/\n/g, '\\n');
+
+  let icsUrl: string | null = null;
+  function calendarLinks(f: Detail, t: { time: string; url: string }) {
+    const start = laToUtc(f.date, t.time);
+    const end = new Date(start.getTime() + ((f.runtime ?? 120) + 15) * 60000);
+    const title = `${f.title}${f.year ? ` (${f.year})` : ''} at ${f.venue.name}`;
+    const desc = [f.note, f.overview, t.url || f.venue.url].filter(Boolean).join('\n\n');
+    const gcal = new URL('https://calendar.google.com/calendar/render');
+    gcal.searchParams.set('action', 'TEMPLATE');
+    gcal.searchParams.set('text', title);
+    gcal.searchParams.set('dates', `${stamp(start)}/${stamp(end)}`);
+    gcal.searchParams.set('details', desc);
+    gcal.searchParams.set('location', f.venue.name);
+    const ics = [
+      'BEGIN:VCALENDAR', 'VERSION:2.0', 'PRODID:-//Screen Bay//EN', 'BEGIN:VEVENT',
+      `UID:${f.id.replace(/[^a-z0-9]/gi, '')}-${t.time.replace(':', '')}@screenbay`,
+      `DTSTAMP:${stamp(new Date())}`, `DTSTART:${stamp(start)}`, `DTEND:${stamp(end)}`,
+      `SUMMARY:${icsEscape(title)}`, `DESCRIPTION:${icsEscape(desc)}`, `LOCATION:${icsEscape(f.venue.name)}`,
+      ...(t.url ? [`URL:${t.url}`] : []),
+      'END:VEVENT', 'END:VCALENDAR',
+    ].join('\r\n');
+    if (icsUrl) URL.revokeObjectURL(icsUrl);
+    icsUrl = URL.createObjectURL(new Blob([ics], { type: 'text/calendar;charset=utf-8' }));
+    return { gcal: gcal.toString(), ics: icsUrl, file: `${f.title.replace(/[^\w]+/g, '-')}-${f.date}.ics` };
+  }
+
+  let current: Detail | null = null;
+  function selectTime(f: Detail, t: { time: string; url: string }) {
+    for (const b of dlg.querySelectorAll<HTMLElement>('.modal-times a')) b.setAttribute('aria-pressed', String(b.dataset.time === t.time));
+    const links = calendarLinks(f, t);
+    q<HTMLAnchorElement>('[data-gcal]').href = links.gcal;
+    const ics = q<HTMLAnchorElement>('[data-ics]');
+    ics.href = links.ics;
+    ics.download = links.file;
+    const tickets = q<HTMLAnchorElement>('[data-tickets]');
+    tickets.href = t.url || f.venue.url;
+    tickets.textContent = t.url ? `Get tickets · ${time12(t.time)}` : 'Venue listing';
+  }
+
+  function open(id: string) {
+    const f = details.get(id);
+    if (!f) return;
+    current = f;
+    const img = q<HTMLImageElement>('.modal-art img');
+    img.src = f.art ?? '';
+    img.alt = f.title;
+    q('.modal-art').classList.toggle('none', !f.art);
+    q('.modal-when').textContent = `${longDate(f.date)} · ${f.venue.name}`;
+    q('.modal-title').textContent = f.title;
+    q('.modal-meta').textContent = [f.year, f.director, f.genre, runtime(f.runtime), f.format].filter(Boolean).join(' · ');
+    const note = q<HTMLElement>('.modal-note');
+    note.textContent = f.note ?? '';
+    note.hidden = !f.note;
+    const desc = q<HTMLElement>('.modal-desc');
+    desc.textContent = f.overview ?? 'No synopsis available. See the venue listing for details.';
+    desc.classList.toggle('muted', !f.overview);
+    const times = q<HTMLElement>('.modal-times');
+    times.innerHTML = '';
+    for (const t of f.times) {
+      const a = document.createElement('a');
+      a.textContent = time12(t.time);
+      a.dataset.time = t.time;
+      a.href = '#';
+      a.addEventListener('click', (e) => { e.preventDefault(); selectTime(f, t); });
+      times.appendChild(a);
+    }
+    selectTime(f, f.times[0]);
+    const lb = q<HTMLAnchorElement>('[data-letterboxd]');
+    lb.href = f.tmdbId ? `https://letterboxd.com/tmdb/${f.tmdbId}/` : `https://letterboxd.com/search/films/${encodeURIComponent(f.title)}/`;
+    const venue = q<HTMLAnchorElement>('[data-venue-link]');
+    venue.href = f.venue.url;
+    venue.textContent = f.venue.name;
+    const tmdbWrap = q<HTMLElement>('[data-tmdb-wrap]');
+    tmdbWrap.hidden = !f.tmdbId;
+    if (f.tmdbId) q<HTMLAnchorElement>('[data-tmdb]').href = `https://www.themoviedb.org/movie/${f.tmdbId}`;
+    history.replaceState(null, '', `#film=${encodeURIComponent(id)}`);
+    if (!dlg.open) dlg.showModal();
+    dlg.scrollTop = 0;
+  }
+  function close() {
+    if (dlg.open) dlg.close();
+    if (location.hash.startsWith('#film=')) history.replaceState(null, '', location.pathname + location.search);
+  }
+
+  for (const card of document.querySelectorAll<HTMLElement>('.card[data-detail]')) {
+    card.addEventListener('click', (e) => {
+      // Showtime and venue links keep their own behaviour.
+      if ((e.target as HTMLElement).closest('a')) return;
+      open(card.dataset.detail!);
+    });
+    card.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(card.dataset.detail!); }
+    });
+  }
+  q('[data-close]').addEventListener('click', close);
+  dlg.addEventListener('click', (e) => { if (e.target === dlg) close(); });
+  dlg.addEventListener('close', close);
+
+  // Deep link: /#film=<date>|<venue>|<filmKey>
+  const m = location.hash.match(/^#film=(.+)$/);
+  if (m) open(decodeURIComponent(m[1]));
+</script>

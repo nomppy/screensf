@@ -8,5 +8,7 @@
     "\\bshorts?\\s+(program|block|night|showcase|competition)\\b",
     "\\bmixtape\\b",
     "twin peaks fest|vampire film fest"
-  ]
+  ],
+  "_links": "Optional landing pages keyed by festival name, used instead of the auto-detected link.",
+  "links": {}
 }

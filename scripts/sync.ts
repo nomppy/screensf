@@ -21,7 +21,7 @@ import { classify } from './lib/classify.ts';
 import { formatDateHeading, formatTime12, horizonEndLA, syncWeeks, todayLA } from './lib/dates.ts';
 import { venueImageFor } from './lib/artwork.ts';
 import { flag, loadEnv, option } from './lib/env.ts';
-import { buildFestivals, isFestival } from './lib/festivals.ts';
+import { buildFestivals, isFestival, resolveFestivalLinks } from './lib/festivals.ts';
 import { JsonCache } from './lib/http.ts';
 import { fetchWatchlist, matchWatchlist } from './lib/letterboxd.ts';
 import { notifyDesktop } from './lib/notify.ts';
@@ -80,12 +80,15 @@ async function main() {
   }
   const today = todayLA();
   const horizon = horizonEndLA();
-  const allUpcoming = raws.filter((r) => r.date >= today && r.date <= horizon);
+  const future = raws.filter((r) => r.date >= today);
 
   // ---- 2. festivals -------------------------------------------------------
-  const festivalRaws = allUpcoming.filter(isFestival);
-  const upcoming = allUpcoming.filter((r) => !isFestival(r));
-  const festivals = buildFestivals(festivalRaws);
+  // Festivals are kept however far out they are (they are announced early and
+  // worth planning for); ordinary screenings stop at the horizon.
+  const festivalRaws = future.filter(isFestival);
+  const upcoming = future.filter((r) => !isFestival(r) && r.date <= horizon);
+  const allUpcoming = [...festivalRaws, ...upcoming];
+  const festivals = await resolveFestivalLinks(buildFestivals(festivalRaws));
   console.log(`\n${allUpcoming.length} upcoming showtimes across ${venues.length} venues in the next ${syncWeeks()} weeks (through ${formatDateHeading(horizon)}).`);
   if (festivals.length) {
     console.log(`${festivalRaws.length} are festival programming, folded into ${festivals.length} festival entr${festivals.length === 1 ? 'y' : 'ies'}:`);
