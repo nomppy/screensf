@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T12:06:47.370Z",
+  "generatedAt": "2026-09-09T16:56:31.565Z",
   "films": {
     "tmdb:11229": {
       "key": "tmdb:11229",
@@ -881,6 +881,20 @@
       "popularity": 16.8499,
       "releaseDate": "1992-03-20",
       "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story."
+    },
+    "tmdb:4011": {
+      "key": "tmdb:4011",
+      "title": "Beetlejuice",
+      "year": 1988,
+      "director": "Tim Burton",
+      "runtime": 92,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+      "tmdbId": 4011,
+      "popularity": 14.5289,
+      "releaseDate": "1988-03-30",
+      "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
     },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
@@ -1876,76 +1890,6 @@
       "releaseDate": "1922-02-16",
       "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
     },
-    "tmdb:43839": {
-      "key": "tmdb:43839",
-      "title": "Alexander's Ragtime Band",
-      "year": 1938,
-      "director": "Henry King",
-      "runtime": 106,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
-      "tmdbId": 43839,
-      "popularity": 1.4996,
-      "releaseDate": "1938-05-24",
-      "overview": "Classical violinist Roger Grant disappoints his family and teacher when he organizes a jazz band, but he and the band become successful. Roger falls in love with the band's singer, Stella, but his reluctance to lose her leads him to thwart her efforts to become a solo star. When the World War separates them in 1917, Stella marries Roger's best friend and, when Roger returns home after the war, an important concert at Carnegie Hall brings the corners of the romantic triangle together."
-    },
-    "tmdb:108222": {
-      "key": "tmdb:108222",
-      "title": "Tin Pan Alley",
-      "year": 1940,
-      "director": "Walter Lang",
-      "runtime": 94,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/A98sbrtuO5X7HpG3CcH8qJHsLzg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nX41E4mWlJ7FBCpimuceVoijxIC.jpg",
-      "tmdbId": 108222,
-      "popularity": 1.1947,
-      "releaseDate": "1940-11-29",
-      "overview": "Songwriters Calhoun and Harrigan get Katie and Lily Blane to introduce a new one. Lily goes to England, and Katy joins her after the boys give a new song to Nora Bayes. All are reunited when the boys, now in the army, show up in England."
-    },
-    "tmdb:43794": {
-      "key": "tmdb:43794",
-      "title": "Moon Over Miami",
-      "year": 1941,
-      "director": "Walter Lang",
-      "runtime": 91,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/c3zBaU3wwTJThzT4jK9Ehwp3ik5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4hUJ98NjDwCpH84yJqUeg4hYy5b.jpg",
-      "tmdbId": 43794,
-      "popularity": 1.2195,
-      "releaseDate": "1941-07-04",
-      "overview": "After losing nearly all of an inheritance to taxes, sisters Kay and Barbara Latimer, waitresses at a drive-in restaurant in Texas, scheme to find rich husbands. With the aid of their aunt Susan, the sisters take the last of their money and head to a well-known Miami resort where they soon meet two wealthy young men, Phil and Jeff, who begin a fierce rivalry for Kay, not realizing that Barbara has fallen in love with one of them."
-    },
-    "tmdb:43810": {
-      "key": "tmdb:43810",
-      "title": "Down Argentine Way",
-      "year": 1940,
-      "director": "Irving Cummings",
-      "runtime": 89,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
-      "tmdbId": 43810,
-      "popularity": 1.2522,
-      "releaseDate": "1940-10-11",
-      "overview": "The story—in which an American heiress on holiday in South America falls in love with an Argentine horse breeder against the wishes of their families—takes a backseat to the spectacular location shooting and parade of extravagant musical numbers, which include the larger-than-life Carmen Miranda singing the hit “South American Way” and a showstopping dance routine by the always amazing Nicholas Brothers."
-    },
-    "tmdb:43797": {
-      "key": "tmdb:43797",
-      "title": "Sun Valley Serenade",
-      "year": 1941,
-      "director": "H. Bruce Humberstone",
-      "runtime": 86,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uVvSAIGgYdXpThHGtmDvEGgeFbl.jpg",
-      "tmdbId": 43797,
-      "popularity": 1.3245,
-      "releaseDate": "1941-08-29",
-      "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
-    },
     "t:song for the snow lion theatrical premiere": {
       "key": "t:song for the snow lion theatrical premiere",
       "title": "A SONG FOR THE SNOW LION-Theatrical Premiere",
@@ -2406,16 +2350,6 @@
       "source": "vogue"
     },
     {
-      "id": "stanford:2026-09-11:17:45:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-11",
-      "time": "17:45",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
-    },
-    {
       "id": "roxie:2026-09-11:18:00:t:cycle of love",
       "venueId": "roxie",
       "filmKey": "t:cycle of love",
@@ -2464,16 +2398,6 @@
       "source": "bampfa"
     },
     {
-      "id": "stanford:2026-09-11:19:30:tmdb:43839",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43839",
-      "date": "2026-09-11",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Tin Pan Alley",
-      "source": "stanford"
-    },
-    {
       "id": "roxie:2026-09-11:20:10:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -2490,16 +2414,6 @@
       "time": "20:20",
       "url": "https://thenewparkway.com/movie/filipiana/",
       "source": "newparkway"
-    },
-    {
-      "id": "stanford:2026-09-11:21:30:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-11",
-      "time": "21:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
     },
     {
       "id": "newparkway:2026-09-11:22:30:tmdb:36685",
@@ -2550,16 +2464,6 @@
       "source": "roxie"
     },
     {
-      "id": "stanford:2026-09-12:15:45:tmdb:43839",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43839",
-      "date": "2026-09-12",
-      "time": "15:45",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Tin Pan Alley",
-      "source": "stanford"
-    },
-    {
       "id": "bampfa:2026-09-12:16:00:tmdb:3082",
       "venueId": "bampfa",
       "filmKey": "tmdb:3082",
@@ -2598,16 +2502,6 @@
       "source": "roxie"
     },
     {
-      "id": "stanford:2026-09-12:17:45:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-12",
-      "time": "17:45",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
-    },
-    {
       "id": "roxie:2026-09-12:18:10:tmdb:22500",
       "venueId": "roxie",
       "filmKey": "tmdb:22500",
@@ -2625,16 +2519,6 @@
       "time": "18:35",
       "url": "https://thenewparkway.com/movie/the-invite/",
       "source": "newparkway"
-    },
-    {
-      "id": "stanford:2026-09-12:19:30:tmdb:43839",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43839",
-      "date": "2026-09-12",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Tin Pan Alley",
-      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-12:19:40:t:filipinana",
@@ -2663,16 +2547,6 @@
       "url": "https://roxie.com/film/mysterious-skin-4k-restoration/",
       "format": "4K",
       "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-12:21:30:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-12",
-      "time": "21:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
     },
     {
       "id": "newparkway:2026-09-12:22:00:tmdb:36685",
@@ -2799,16 +2673,6 @@
       "source": "alamo"
     },
     {
-      "id": "stanford:2026-09-13:15:45:tmdb:43839",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43839",
-      "date": "2026-09-13",
-      "time": "15:45",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Tin Pan Alley",
-      "source": "stanford"
-    },
-    {
       "id": "newparkway:2026-09-13:16:00:tmdb:1567560",
       "venueId": "newparkway",
       "filmKey": "tmdb:1567560",
@@ -2837,16 +2701,6 @@
       "source": "roxie"
     },
     {
-      "id": "stanford:2026-09-13:17:45:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-13",
-      "time": "17:45",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
-    },
-    {
       "id": "bampfa:2026-09-13:19:00:tmdb:12637",
       "venueId": "bampfa",
       "filmKey": "tmdb:12637",
@@ -2856,16 +2710,6 @@
       "format": "4K",
       "note": "Martin Scorsese Pictures · 4K Digital Restoration",
       "source": "bampfa"
-    },
-    {
-      "id": "stanford:2026-09-13:19:30:tmdb:43839",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43839",
-      "date": "2026-09-13",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Tin Pan Alley",
-      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-13:20:00:t:filipinana",
@@ -2884,16 +2728,6 @@
       "time": "21:25",
       "url": "https://thenewparkway.com/movie/filipiana/",
       "source": "newparkway"
-    },
-    {
-      "id": "stanford:2026-09-13:21:30:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-13",
-      "time": "21:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
     },
     {
       "id": "vogue:2026-09-14:16:30:tmdb:1285895",
@@ -3286,16 +3120,6 @@
       "source": "vogue"
     },
     {
-      "id": "stanford:2026-09-18:17:50:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-18",
-      "time": "17:50",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
-    {
       "id": "roxie:2026-09-18:18:00:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -3355,16 +3179,6 @@
       "source": "balboa"
     },
     {
-      "id": "stanford:2026-09-18:19:30:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-18",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
       "id": "operaplaza:2026-09-18:20:30:tmdb:6114",
       "venueId": "operaplaza",
       "filmKey": "tmdb:6114",
@@ -3383,16 +3197,6 @@
       "time": "21:00",
       "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
       "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-18:21:15:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-18",
-      "time": "21:15",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
     },
     {
       "id": "piedmont:2026-09-18:22:30:tmdb:252",
@@ -3470,16 +3274,6 @@
       "source": "roxie"
     },
     {
-      "id": "stanford:2026-09-19:16:05:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-19",
-      "time": "16:05",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
       "id": "balboa:2026-09-19:16:30:tmdb:11178",
       "venueId": "balboa",
       "filmKey": "tmdb:11178",
@@ -3511,16 +3305,6 @@
       "source": "roxie"
     },
     {
-      "id": "stanford:2026-09-19:17:50:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-19",
-      "time": "17:50",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
-    {
       "id": "roxie:2026-09-19:18:00:tmdb:9323",
       "venueId": "roxie",
       "filmKey": "tmdb:9323",
@@ -3539,16 +3323,6 @@
       "format": "35mm",
       "note": "Special Screenings · New 35mm Print",
       "source": "bampfa"
-    },
-    {
-      "id": "stanford:2026-09-19:19:30:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-19",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-19:19:40:tmdb:1620313",
@@ -3578,16 +3352,6 @@
       "url": "https://roxie.com/film/kwaidan-4k-restoration/",
       "format": "4K",
       "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-19:21:15:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-19",
-      "time": "21:15",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-20:12:30:tmdb:1610748",
@@ -3646,16 +3410,6 @@
       "source": "roxie"
     },
     {
-      "id": "stanford:2026-09-20:16:05:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-20",
-      "time": "16:05",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
       "id": "alamo:2026-09-20:16:20:tmdb:9323",
       "venueId": "alamo",
       "filmKey": "tmdb:9323",
@@ -3708,16 +3462,6 @@
       "source": "roxie"
     },
     {
-      "id": "stanford:2026-09-20:17:50:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-20",
-      "time": "17:50",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
-    {
       "id": "alamo:2026-09-20:19:00:tmdb:18239",
       "venueId": "alamo",
       "filmKey": "tmdb:18239",
@@ -3749,16 +3493,6 @@
       "source": "4star"
     },
     {
-      "id": "stanford:2026-09-20:19:30:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-20",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
       "id": "newparkway:2026-09-20:21:00:tmdb:1574",
       "venueId": "newparkway",
       "filmKey": "tmdb:1574",
@@ -3766,16 +3500,6 @@
       "time": "21:00",
       "url": "https://thenewparkway.com/movie/chicago/",
       "source": "newparkway"
-    },
-    {
-      "id": "stanford:2026-09-20:21:15:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-20",
-      "time": "21:15",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-21:18:00:tmdb:1596326",
@@ -4039,16 +3763,6 @@
       "source": "balboa"
     },
     {
-      "id": "stanford:2026-09-25:19:30:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-25",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
-    },
-    {
       "id": "roxie:2026-09-25:20:30:t:re vision the outcasts",
       "venueId": "roxie",
       "filmKey": "t:re vision the outcasts",
@@ -4113,16 +3827,6 @@
       "source": "balboa"
     },
     {
-      "id": "stanford:2026-09-26:16:00:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-26",
-      "time": "16:00",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
-    },
-    {
       "id": "roxie:2026-09-26:16:20:t:re vision the dislocation of amber",
       "venueId": "roxie",
       "filmKey": "t:re vision the dislocation of amber",
@@ -4151,16 +3855,6 @@
       "format": "DCP",
       "note": "Georgian Cinema Now: Part 1",
       "source": "bampfa"
-    },
-    {
-      "id": "stanford:2026-09-26:19:30:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-26",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
     },
     {
       "id": "4star:2026-09-26:20:00:tmdb:98096",
@@ -4287,16 +3981,6 @@
       "source": "roxie"
     },
     {
-      "id": "stanford:2026-09-27:16:00:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-27",
-      "time": "16:00",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
-    },
-    {
       "id": "bampfa:2026-09-27:16:30:t:incomplete day in the history of georgia 10 06 93",
       "venueId": "bampfa",
       "filmKey": "t:incomplete day in the history of georgia 10 06 93",
@@ -4335,16 +4019,6 @@
       "url": "https://www.balboamovies.com/calendar-of-events/samurai-rebellion-september-27",
       "note": "Samurai Rebellion",
       "source": "balboa"
-    },
-    {
-      "id": "stanford:2026-09-27:19:30:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-27",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
     },
     {
       "id": "roxie:2026-09-27:20:40:t:re vision melody of murder",
@@ -4687,6 +4361,15 @@
       "url": "https://thenewparkway.com/movie/hot-fuzz-party-at-the-parkway/",
       "note": "Party at the Parkway",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-10-05:21:30:tmdb:4011",
+      "venueId": "alamo",
+      "filmKey": "tmdb:4011",
+      "date": "2026-10-05",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=82934",
+      "source": "alamo"
     },
     {
       "id": "alamo:2026-10-06:21:30:tmdb:274",
