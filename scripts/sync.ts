@@ -153,7 +153,7 @@ async function main() {
       confident = m.confident;
       if (m.best) film = await filmFromTmdb(m.best.id, nowPlaying.has(m.best.id));
     }
-    const verdict = classify(film, confident);
+    const verdict = classify(film, confident, g.raws.length);
     const overview = film?.tmdbId && verdict.action === 'ask' ? await movieOverview(film.tmdbId) : undefined;
     items.push({
       key,

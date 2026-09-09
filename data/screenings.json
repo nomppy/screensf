@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:11:40.569Z",
+  "generatedAt": "2026-09-09T10:28:27.154Z",
   "films": {
     "tmdb:11229": {
       "key": "tmdb:11229",
@@ -74,21 +74,6 @@
       "popularity": 3.0181,
       "releaseDate": "2026-08-14",
       "overview": "When three heroic American doctors — Palestinian, Jewish, and Zoroastrian — enter Gaza to save lives in the middle of a genocide, they find themselves caught between medicine and politics, risking everything to expose the truth."
-    },
-    "tmdb:1240889": {
-      "key": "tmdb:1240889",
-      "title": "Teenage Sex and Death at Camp Miasma",
-      "year": 2026,
-      "director": "Jane Schoenbrun",
-      "runtime": 112,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/nLsFnXifieSTqSeWxjXSS8RvaUZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xS1JTVWuovzIem6tHXBtNBOptWz.jpg",
-      "tmdbId": 1240889,
-      "popularity": 16.9358,
-      "releaseDate": "2026-08-06",
-      "nowPlaying": true,
-      "overview": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium."
     },
     "tmdb:1310573": {
       "key": "tmdb:1310573",
@@ -1160,21 +1145,6 @@
       "releaseDate": "2009-11-18",
       "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks."
     },
-    "tmdb:1329016": {
-      "key": "tmdb:1329016",
-      "title": "Tony",
-      "year": 2026,
-      "director": "Matt Johnson",
-      "runtime": 106,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-      "backdrop": "https://indy-systems.imgix.net/c7sevnz3nx152mcz9tpahdsf5mqc?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress",
-      "tmdbId": 1329016,
-      "popularity": 12.4154,
-      "releaseDate": "2026-08-07",
-      "nowPlaying": true,
-      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
-    },
     "tmdb:298235": {
       "key": "tmdb:298235",
       "title": "Capone Cries a Lot",
@@ -1612,10 +1582,10 @@
       "year": 2026,
       "director": "Connie He",
       "genre": "Animation",
+      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress",
       "tmdbId": 1639520,
       "popularity": 0.8495,
-      "releaseDate": "2026-06-06",
-      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
+      "releaseDate": "2026-06-06"
     },
     "tmdb:36685": {
       "key": "tmdb:36685",
@@ -2024,43 +1994,6 @@
   },
   "screenings": [
     {
-      "id": "alamo:2026-09-09:12:15:tmdb:1240889",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-09",
-      "time": "12:15",
-      "url": "https://drafthouse.com/sf/show/teenage-sex-and-death-at-camp-miasma?cinemaId=0801&sessionId=82872",
-      "note": "Drafthouse Recommends",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-09:13:00:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "13:00",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=82869",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-09:13:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-09",
-      "time": "13:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-09:14:00:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "14:00",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "operaplaza:2026-09-09:14:15:tmdb:1000866",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1000866",
@@ -2081,34 +2014,6 @@
       "source": "operaplaza"
     },
     {
-      "id": "alamo:2026-09-09:15:15:tmdb:1240889",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-09",
-      "time": "15:15",
-      "url": "https://drafthouse.com/sf/show/teenage-sex-and-death-at-camp-miasma?cinemaId=0801&sessionId=82873",
-      "note": "Drafthouse Recommends",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-09:15:50:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "15:50",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=82870",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-09:16:15:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-09",
-      "time": "16:15",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
       "id": "operaplaza:2026-09-09:16:30:tmdb:1127625",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1127625",
@@ -2116,15 +2021,6 @@
       "time": "16:30",
       "url": "https://www.landmarktheatres.com/movies/316257-the-salt-path/",
       "source": "operaplaza"
-    },
-    {
-      "id": "piedmont:2026-09-09:16:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "operaplaza:2026-09-09:16:45:tmdb:1000866",
@@ -2155,34 +2051,6 @@
       "source": "roxie"
     },
     {
-      "id": "alamo:2026-09-09:18:15:tmdb:1240889",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-09",
-      "time": "18:15",
-      "url": "https://drafthouse.com/sf/show/teenage-sex-and-death-at-camp-miasma?cinemaId=0801&sessionId=82874",
-      "note": "Drafthouse Recommends",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-09-09:18:30:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-09",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-09:18:40:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "18:40",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=82871",
-      "source": "alamo"
-    },
-    {
       "id": "balboa:2026-09-09:19:00:tmdb:149",
       "venueId": "balboa",
       "filmKey": "tmdb:149",
@@ -2194,15 +2062,6 @@
       "source": "balboa"
     },
     {
-      "id": "operaplaza:2026-09-09:19:00:tmdb:1329016",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "operaplaza"
-    },
-    {
       "id": "rafael:2026-09-09:19:00:tmdb:1000866",
       "venueId": "rafael",
       "filmKey": "tmdb:1000866",
@@ -2210,15 +2069,6 @@
       "time": "19:00",
       "url": "https://cinema.cafilm.org/film/the-marching-band",
       "source": "rafael"
-    },
-    {
-      "id": "piedmont:2026-09-09:19:15:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "19:15",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "operaplaza:2026-09-09:19:20:tmdb:577",
@@ -2269,15 +2119,6 @@
       "source": "castro"
     },
     {
-      "id": "piedmont:2026-09-09:19:45:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-09",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
       "id": "roxie:2026-09-09:20:30:tmdb:473729",
       "venueId": "roxie",
       "filmKey": "tmdb:473729",
@@ -2285,34 +2126,6 @@
       "time": "20:30",
       "url": "https://roxie.com/film/the-cycle-of-love/",
       "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-09:21:15:tmdb:1240889",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-09",
-      "time": "21:15",
-      "url": "https://drafthouse.com/sf/show/teenage-sex-and-death-at-camp-miasma?cinemaId=0801&sessionId=82876",
-      "note": "Drafthouse Recommends",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-09:21:30:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=82875",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-09-09:21:30:tmdb:1329016",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-09",
-      "time": "21:30",
-      "url": "https://thenewparkway.com/movie/tony/",
-      "source": "newparkway"
     },
     {
       "id": "alamo:2026-09-09:21:30:tmdb:123620",
@@ -2325,24 +2138,6 @@
       "source": "alamo"
     },
     {
-      "id": "piedmont:2026-09-10:13:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-10",
-      "time": "13:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-10:13:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-10",
-      "time": "13:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "operaplaza:2026-09-10:14:15:tmdb:1000866",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1000866",
@@ -2353,24 +2148,6 @@
       "source": "operaplaza"
     },
     {
-      "id": "alamo:2026-09-10:16:00:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-10",
-      "time": "16:00",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83044",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-09-10:16:00:tmdb:1329016",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-10",
-      "time": "16:00",
-      "url": "https://thenewparkway.com/movie/tony/",
-      "source": "newparkway"
-    },
-    {
       "id": "roxie:2026-09-10:16:10:tmdb:16306",
       "venueId": "roxie",
       "filmKey": "tmdb:16306",
@@ -2378,24 +2155,6 @@
       "time": "16:10",
       "url": "https://roxie.com/film/fantastic-planet/",
       "source": "roxie"
-    },
-    {
-      "id": "piedmont:2026-09-10:16:15:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-10",
-      "time": "16:15",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-10:16:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-10",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "roxie:2026-09-10:18:00:t:filipinana",
@@ -2416,15 +2175,6 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-09-10:18:30:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-10",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
       "id": "newparkway:2026-09-10:18:30:tmdb:1567560",
       "venueId": "newparkway",
       "filmKey": "tmdb:1567560",
@@ -2433,15 +2183,6 @@
       "url": "https://thenewparkway.com/movie/wood-street-with-post-film-discussion/",
       "note": "with post-film discussion",
       "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-10:18:50:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-10",
-      "time": "18:50",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83045",
-      "source": "alamo"
     },
     {
       "id": "rafael:2026-09-10:19:00:tmdb:1596332",
@@ -2485,15 +2226,6 @@
       "source": "bampfa"
     },
     {
-      "id": "piedmont:2026-09-10:19:20:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-10",
-      "time": "19:20",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "balboa:2026-09-10:19:30:tmdb:564",
       "venueId": "balboa",
       "filmKey": "tmdb:564",
@@ -2534,24 +2266,6 @@
       "source": "castro"
     },
     {
-      "id": "piedmont:2026-09-10:19:45:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-10",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "roxie:2026-09-10:20:10:tmdb:1240889",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-10",
-      "time": "20:10",
-      "url": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-09-10:20:10:tmdb:1310573",
       "venueId": "roxie",
       "filmKey": "tmdb:1310573",
@@ -2559,51 +2273,6 @@
       "time": "20:10",
       "url": "https://roxie.com/film/barrio-triste/",
       "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-10:21:40:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-10",
-      "time": "21:40",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83046",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-11:12:50:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "12:50",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83052",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-11:13:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-11",
-      "time": "13:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-11:13:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "13:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
-      "id": "alamo:2026-09-11:15:40:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "15:40",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83048",
-      "source": "alamo"
     },
     {
       "id": "newparkway:2026-09-11:15:50:tmdb:1567560",
@@ -2624,15 +2293,6 @@
       "source": "alamo"
     },
     {
-      "id": "piedmont:2026-09-11:16:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-11",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
       "id": "balboa:2026-09-11:16:30:tmdb:149",
       "venueId": "balboa",
       "filmKey": "tmdb:149",
@@ -2642,15 +2302,6 @@
       "format": "4K",
       "note": "Presented with English subtitles in a new 4K restoration",
       "source": "balboa"
-    },
-    {
-      "id": "piedmont:2026-09-11:16:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "stanford:2026-09-11:17:45:tmdb:108222",
@@ -2691,24 +2342,6 @@
       "source": "newparkway"
     },
     {
-      "id": "newparkway:2026-09-11:18:30:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-11",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-11:18:30:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83049",
-      "source": "alamo"
-    },
-    {
       "id": "bampfa:2026-09-11:19:00:tmdb:1626",
       "venueId": "bampfa",
       "filmKey": "tmdb:1626",
@@ -2720,24 +2353,6 @@
       "source": "bampfa"
     },
     {
-      "id": "piedmont:2026-09-11:19:15:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-11",
-      "time": "19:15",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-11:19:30:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "stanford:2026-09-11:19:30:tmdb:43839",
       "venueId": "stanford",
       "filmKey": "tmdb:43839",
@@ -2746,15 +2361,6 @@
       "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
       "note": "Double feature with Tin Pan Alley",
       "source": "stanford"
-    },
-    {
-      "id": "grandlake:2026-09-11:19:45:tmdb:1329016",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "19:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260911",
-      "source": "grandlake"
     },
     {
       "id": "4star:2026-09-11:20:00:tmdb:98096",
@@ -2776,15 +2382,6 @@
       "source": "roxie"
     },
     {
-      "id": "roxie:2026-09-11:20:10:tmdb:1240889",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-11",
-      "time": "20:10",
-      "url": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/",
-      "source": "roxie"
-    },
-    {
       "id": "newparkway:2026-09-11:20:20:t:filipinana",
       "venueId": "newparkway",
       "filmKey": "t:filipinana",
@@ -2792,15 +2389,6 @@
       "time": "20:20",
       "url": "https://thenewparkway.com/movie/filipiana/",
       "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-11:21:20:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "21:20",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83050",
-      "source": "alamo"
     },
     {
       "id": "stanford:2026-09-11:21:30:tmdb:108222",
@@ -2811,24 +2399,6 @@
       "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
       "note": "Double feature with Alexander's Ragtime Band",
       "source": "stanford"
-    },
-    {
-      "id": "piedmont:2026-09-11:22:00:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-11",
-      "time": "22:00",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-11:22:20:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-11",
-      "time": "22:20",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
     },
     {
       "id": "newparkway:2026-09-11:22:30:tmdb:36685",
@@ -2860,15 +2430,6 @@
       "source": "balboa"
     },
     {
-      "id": "alamo:2026-09-12:12:30:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-12",
-      "time": "12:30",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83054",
-      "source": "alamo"
-    },
-    {
       "id": "alamo:2026-09-12:13:15:tmdb:1596332",
       "venueId": "alamo",
       "filmKey": "tmdb:1596332",
@@ -2885,42 +2446,6 @@
       "time": "13:25",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
-    },
-    {
-      "id": "piedmont:2026-09-12:13:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-12",
-      "time": "13:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-12:13:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-12",
-      "time": "13:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
-      "id": "newparkway:2026-09-12:14:45:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-12",
-      "time": "14:45",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-12:15:20:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-12",
-      "time": "15:20",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83055",
-      "source": "alamo"
     },
     {
       "id": "roxie:2026-09-12:15:30:tmdb:1596332",
@@ -2980,24 +2505,6 @@
       "source": "newparkway"
     },
     {
-      "id": "piedmont:2026-09-12:16:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-12",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-12:16:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-12",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "newparkway:2026-09-12:17:15:t:filipinana",
       "venueId": "newparkway",
       "filmKey": "t:filipinana",
@@ -3036,15 +2543,6 @@
       "source": "roxie"
     },
     {
-      "id": "alamo:2026-09-12:18:10:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-12",
-      "time": "18:10",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83056",
-      "source": "alamo"
-    },
-    {
       "id": "bampfa:2026-09-12:19:00:tmdb:103",
       "venueId": "bampfa",
       "filmKey": "tmdb:103",
@@ -3054,33 +2552,6 @@
       "format": "4K",
       "note": "Martin Scorsese Pictures · 4K Digital Restoration",
       "source": "bampfa"
-    },
-    {
-      "id": "piedmont:2026-09-12:19:15:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-12",
-      "time": "19:15",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "newparkway:2026-09-12:19:30:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-12",
-      "time": "19:30",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
-      "id": "piedmont:2026-09-12:19:30:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-12",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "stanford:2026-09-12:19:30:tmdb:43839",
@@ -3100,15 +2571,6 @@
       "time": "19:40",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
-    },
-    {
-      "id": "grandlake:2026-09-12:19:45:tmdb:1329016",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-12",
-      "time": "19:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260912",
-      "source": "grandlake"
     },
     {
       "id": "roxie:2026-09-12:20:15:tmdb:11171",
@@ -3140,15 +2602,6 @@
       "source": "alamo"
     },
     {
-      "id": "piedmont:2026-09-12:22:00:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-12",
-      "time": "22:00",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "newparkway:2026-09-12:22:00:tmdb:36685",
       "venueId": "newparkway",
       "filmKey": "tmdb:36685",
@@ -3156,15 +2609,6 @@
       "time": "22:00",
       "url": "https://thenewparkway.com/movie/rocky-horror-picture-show/",
       "source": "newparkway"
-    },
-    {
-      "id": "piedmont:2026-09-12:22:20:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-12",
-      "time": "22:20",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
     },
     {
       "id": "newparkway:2026-09-12:23:15:tmdb:1639520",
@@ -3212,33 +2656,6 @@
       "url": "https://thenewparkway.com/movie/cabaret/",
       "note": "Lights, Camera, Dance!",
       "source": "newparkway"
-    },
-    {
-      "id": "piedmont:2026-09-13:13:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-13",
-      "time": "13:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "alamo:2026-09-13:13:40:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-13",
-      "time": "13:40",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83057",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-13:13:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-13",
-      "time": "13:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "balboa:2026-09-13:15:00:tmdb:149",
@@ -3310,33 +2727,6 @@
       "source": "newparkway"
     },
     {
-      "id": "piedmont:2026-09-13:16:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-13",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "alamo:2026-09-13:16:30:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-13",
-      "time": "16:30",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83058",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-13:16:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-13",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "roxie:2026-09-13:17:20:tmdb:1620313",
       "venueId": "roxie",
       "filmKey": "tmdb:1620313",
@@ -3366,15 +2756,6 @@
       "source": "stanford"
     },
     {
-      "id": "newparkway:2026-09-13:18:15:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-13",
-      "time": "18:15",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
       "id": "alamo:2026-09-13:19:00:t:twilight:1999",
       "venueId": "alamo",
       "filmKey": "t:twilight:1999",
@@ -3383,15 +2764,6 @@
       "url": "https://drafthouse.com/sf/show/the-twilight-saga-twilight-2008-fan-event?cinemaId=0801&sessionId=82307",
       "note": "Fan Screening · A poster for your wall",
       "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-09-13:19:00:tmdb:1329016",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-13",
-      "time": "19:00",
-      "url": "https://thenewparkway.com/movie/tony/",
-      "source": "newparkway"
     },
     {
       "id": "bampfa:2026-09-13:19:00:tmdb:391578",
@@ -3405,33 +2777,6 @@
       "source": "bampfa"
     },
     {
-      "id": "piedmont:2026-09-13:19:15:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-13",
-      "time": "19:15",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "alamo:2026-09-13:19:20:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-13",
-      "time": "19:20",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83059",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-13:19:30:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-13",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "stanford:2026-09-13:19:30:tmdb:43839",
       "venueId": "stanford",
       "filmKey": "tmdb:43839",
@@ -3442,15 +2787,6 @@
       "source": "stanford"
     },
     {
-      "id": "grandlake:2026-09-13:19:45:tmdb:1329016",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-13",
-      "time": "19:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260913",
-      "source": "grandlake"
-    },
-    {
       "id": "roxie:2026-09-13:20:00:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -3458,15 +2794,6 @@
       "time": "20:00",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-13:20:45:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-13",
-      "time": "20:45",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
     },
     {
       "id": "newparkway:2026-09-13:21:25:t:filipinana",
@@ -3488,24 +2815,6 @@
       "source": "stanford"
     },
     {
-      "id": "piedmont:2026-09-14:13:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-14",
-      "time": "13:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-14:13:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-14",
-      "time": "13:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
       "id": "alamo:2026-09-14:15:20:tmdb:1596332",
       "venueId": "alamo",
       "filmKey": "tmdb:1596332",
@@ -3513,33 +2822,6 @@
       "time": "15:20",
       "url": "https://drafthouse.com/sf/show/american-doctor?cinemaId=0801&sessionId=83064",
       "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-14:15:40:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-14",
-      "time": "15:40",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83061",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-14:16:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-14",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-14:16:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-14",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "balboa:2026-09-14:17:00:tmdb:149",
@@ -3589,24 +2871,6 @@
       "source": "newparkway"
     },
     {
-      "id": "newparkway:2026-09-14:18:20:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-14",
-      "time": "18:20",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-14:18:30:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-14",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83063",
-      "source": "alamo"
-    },
-    {
       "id": "vogue:2026-09-14:19:00:tmdb:1598661",
       "venueId": "vogue",
       "filmKey": "tmdb:1598661",
@@ -3626,15 +2890,6 @@
       "source": "alamo"
     },
     {
-      "id": "piedmont:2026-09-14:19:15:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-14",
-      "time": "19:15",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
       "id": "balboa:2026-09-14:19:30:tmdb:508003",
       "venueId": "balboa",
       "filmKey": "tmdb:508003",
@@ -3643,24 +2898,6 @@
       "url": "https://www.balboamovies.com/calendar-of-events/mcqueen-september-14",
       "note": "Presented by Gallery 3630",
       "source": "balboa"
-    },
-    {
-      "id": "piedmont:2026-09-14:19:30:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-14",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
-      "id": "grandlake:2026-09-14:19:45:tmdb:1329016",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-14",
-      "time": "19:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260914",
-      "source": "grandlake"
     },
     {
       "id": "balboa:2026-09-14:20:00:tmdb:42098",
@@ -3700,52 +2937,6 @@
       "source": "newparkway"
     },
     {
-      "id": "alamo:2026-09-14:21:20:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-14",
-      "time": "21:20",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83062",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-15:13:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-15",
-      "time": "13:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-15:13:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-15",
-      "time": "13:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
-      "id": "alamo:2026-09-15:16:10:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-15",
-      "time": "16:10",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83065",
-      "note": "Baby Day",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-15:16:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-15",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
       "id": "vogue:2026-09-15:16:30:tmdb:76341",
       "venueId": "vogue",
       "filmKey": "tmdb:76341",
@@ -3755,15 +2946,6 @@
       "format": "3D",
       "note": "Projected in digital 3-D",
       "source": "vogue"
-    },
-    {
-      "id": "piedmont:2026-09-15:16:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-15",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "newparkway:2026-09-15:17:45:tmdb:1639520",
@@ -3814,24 +2996,6 @@
       "source": "balboa"
     },
     {
-      "id": "alamo:2026-09-15:19:00:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-15",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83066",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-15:19:15:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-15",
-      "time": "19:15",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
       "id": "newparkway:2026-09-15:19:20:t:filipinana",
       "venueId": "newparkway",
       "filmKey": "t:filipinana",
@@ -3851,34 +3015,6 @@
       "source": "balboa"
     },
     {
-      "id": "piedmont:2026-09-15:19:30:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-15",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
-      "id": "grandlake:2026-09-15:19:45:tmdb:1329016",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-15",
-      "time": "19:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260915",
-      "source": "grandlake"
-    },
-    {
-      "id": "roxie:2026-09-15:20:10:tmdb:1240889",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-15",
-      "time": "20:10",
-      "url": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/",
-      "note": "See venue listing for details",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-09-15:20:20:tmdb:11171",
       "venueId": "roxie",
       "filmKey": "tmdb:11171",
@@ -3889,15 +3025,6 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-09-15:21:20:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-15",
-      "time": "21:20",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
       "id": "alamo:2026-09-15:21:30:tmdb:635",
       "venueId": "alamo",
       "filmKey": "tmdb:635",
@@ -3906,60 +3033,6 @@
       "url": "https://drafthouse.com/sf/show/terror-tuesday-angel-heart?cinemaId=0801&sessionId=82416",
       "note": "Terror Tuesday · It will scare you to your very soul",
       "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-15:21:50:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-15",
-      "time": "21:50",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83067",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-16:13:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-16",
-      "time": "13:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-16:13:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-16",
-      "time": "13:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
-      "id": "alamo:2026-09-16:16:10:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-16",
-      "time": "16:10",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83069",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-16:16:30:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-16",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
-    },
-    {
-      "id": "piedmont:2026-09-16:16:45:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-16",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
     },
     {
       "id": "newparkway:2026-09-16:17:45:t:filipinana",
@@ -4000,15 +3073,6 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-09-16:18:20:tmdb:1329016",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-16",
-      "time": "18:20",
-      "url": "https://thenewparkway.com/movie/tony/",
-      "source": "newparkway"
-    },
-    {
       "id": "bampfa:2026-09-16:19:00:tmdb:1596326",
       "venueId": "bampfa",
       "filmKey": "tmdb:1596326",
@@ -4030,15 +3094,6 @@
       "source": "balboa"
     },
     {
-      "id": "alamo:2026-09-16:19:00:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-16",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83070",
-      "source": "alamo"
-    },
-    {
       "id": "operaplaza:2026-09-16:19:00:tmdb:345",
       "venueId": "operaplaza",
       "filmKey": "tmdb:345",
@@ -4047,15 +3102,6 @@
       "url": "https://www.landmarktheatres.com/movies/20502-eyes-wide-shut/",
       "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
       "source": "operaplaza"
-    },
-    {
-      "id": "piedmont:2026-09-16:19:15:tmdb:1240889",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-16",
-      "time": "19:15",
-      "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
-      "source": "piedmont"
     },
     {
       "id": "grandlake:2026-09-16:19:15:tmdb:1279865",
@@ -4085,24 +3131,6 @@
       "time": "19:30",
       "url": "https://voguemovies.com/calendar-of-events/tommy-september-16",
       "source": "vogue"
-    },
-    {
-      "id": "piedmont:2026-09-16:19:30:tmdb:1329016",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-16",
-      "time": "19:30",
-      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
-      "source": "piedmont"
-    },
-    {
-      "id": "grandlake:2026-09-16:19:45:tmdb:1329016",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-16",
-      "time": "19:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260916",
-      "source": "grandlake"
     },
     {
       "id": "newparkway:2026-09-16:19:55:tmdb:1639520",
@@ -4140,24 +3168,6 @@
       "time": "20:20",
       "url": "https://thenewparkway.com/movie/wood-street/",
       "source": "newparkway"
-    },
-    {
-      "id": "newparkway:2026-09-16:20:45:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-16",
-      "time": "20:45",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-16:21:50:tmdb:1329016",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1329016",
-      "date": "2026-09-16",
-      "time": "21:50",
-      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83071",
-      "source": "alamo"
     },
     {
       "id": "piedmont:2026-09-17:14:00:tmdb:1423191",
@@ -4252,15 +3262,6 @@
       "source": "vogue"
     },
     {
-      "id": "newparkway:2026-09-17:20:55:tmdb:1240889",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-17",
-      "time": "20:55",
-      "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
-      "source": "newparkway"
-    },
-    {
       "id": "4star:2026-09-17:21:00:tmdb:507022",
       "venueId": "4star",
       "filmKey": "tmdb:507022",
@@ -4269,15 +3270,6 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/comedy-spike-einbinder-honey-pluton-sept",
       "note": "Spike Einbinder",
       "source": "4star"
-    },
-    {
-      "id": "roxie:2026-09-17:21:05:tmdb:1240889",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-17",
-      "time": "21:05",
-      "url": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/",
-      "source": "roxie"
     },
     {
       "id": "piedmont:2026-09-18:14:50:tmdb:1423191",
@@ -4393,15 +3385,6 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-spencer-noble",
       "note": "Spencer Noble",
       "source": "4star"
-    },
-    {
-      "id": "roxie:2026-09-18:20:15:tmdb:1240889",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1240889",
-      "date": "2026-09-18",
-      "time": "20:15",
-      "url": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/",
-      "source": "roxie"
     },
     {
       "id": "operaplaza:2026-09-18:20:30:tmdb:6114",

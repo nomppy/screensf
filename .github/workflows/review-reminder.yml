@@ -44,6 +44,7 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
           SYNC_WEEKS: ${{ vars.SYNC_WEEKS || 4 }}
           BLOCKBUSTER_POPULARITY: ${{ vars.BLOCKBUSTER_POPULARITY || 60 }}
+          FIRST_RUN_SHOWTIMES: ${{ vars.FIRST_RUN_SHOWTIMES || 20 }}
         run: npm run sync -- --no-watchlist
 
       - name: Write issue body

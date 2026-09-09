@@ -89,8 +89,13 @@ export interface DecisionRecord {
   tmdbId?: number | null;
   /** Artwork override chosen in review: a URL (venue image or pasted). Absent = TMDB default. */
   image?: string;
+  /** Hand-edited card details from review. Each present field replaces the TMDB value on the site. */
+  edits?: FilmEdits;
   decidedAt: string;
 }
+
+/** Fields of a film card that can be overridden by hand in the review UI. */
+export type FilmEdits = Partial<Pick<Film, 'title' | 'year' | 'director' | 'runtime' | 'genre' | 'overview'>>;
 
 export interface TmdbMovie {
   id: number;

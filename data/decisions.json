@@ -24,10 +24,9 @@
     "decidedAt": "2026-09-08T18:37:38.686Z"
   },
   "teenage sex and death at camp miasma": {
-    "decision": "include",
+    "decision": "exclude",
     "title": "Teenage Sex and Death at Camp Miasma",
-    "tmdbId": 1240889,
-    "decidedAt": "2026-09-08T18:38:28.433Z"
+    "decidedAt": "2026-09-09T10:26:52.555Z"
   },
   "barrio triste": {
     "decision": "include",
@@ -344,10 +343,8 @@
     "decidedAt": "2026-09-09T10:11:18.244Z"
   },
   "tony": {
-    "decision": "include",
+    "decision": "exclude",
     "title": "Tony",
-    "tmdbId": 1329016,
-    "decidedAt": "2026-09-09T10:11:39.755Z",
-    "image": "https://indy-systems.imgix.net/c7sevnz3nx152mcz9tpahdsf5mqc?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
+    "decidedAt": "2026-09-09T10:26:52.553Z"
   }
 }

@@ -9,7 +9,7 @@ import { horizonEndLA, todayLA } from './dates.ts';
 import { loadDecisions, loadManual, saveSchedule, screeningId } from './store.ts';
 import { filmFromTmdb } from './tmdb.ts';
 import { extractFormat, extractNoteFromTitle, fallbackKey } from './titles.ts';
-import type { DecisionRecord, Festival, Film, RawScreening, ScheduleData, Screening, TmdbMovie, Venue } from './types.ts';
+import type { DecisionRecord, Festival, Film, FilmEdits, RawScreening, ScheduleData, Screening, TmdbMovie, Venue } from './types.ts';
 
 export interface ResolvedItem {
   key: string;
@@ -99,6 +99,7 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
       }
     }
     let record: Film = film ?? { key: fallbackKey(item.candidates[0], item.year), title: item.candidates[0], year: item.year };
+    record = withEdits(record, decision?.edits);
     record = withArtwork(record, item.venueImage, decision?.image);
     seenFilms[record.key] = record;
     for (const r of item.raws) rawFilmKey.set(r, record.key);
@@ -139,6 +140,18 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
   const data: ScheduleData = { generatedAt: new Date().toISOString(), films, screenings, festivals };
   saveSchedule(data);
   return { data, included, excluded, pending, seenFilms, rawFilmKey };
+}
+
+/** Apply hand edits from review on top of the TMDB record. Empty strings clear a field. */
+export function withEdits(film: Film, edits?: FilmEdits): Film {
+  if (!edits) return film;
+  const out: Film = { ...film };
+  for (const [k, v] of Object.entries(edits) as [keyof FilmEdits, unknown][]) {
+    if (v === undefined) continue;
+    if (v === null || v === '') delete out[k];
+    else (out as Record<string, unknown>)[k] = v;
+  }
+  return out;
 }
 
 /**

@@ -28,6 +28,7 @@ This scrapes every enabled venue in `data/venues.json`, then for each distinct t
 | Situation | What happens |
 |---|---|
 | Released more than 2 years ago | included automatically (repertory) |
+| Newer than that with `FIRST_RUN_SHOWTIMES` or more showtimes in the window (default 20) | excluded automatically (a first-run booking playing several times a day) |
 | Released 90+ days ago, not in TMDB's US now-playing list | included automatically |
 | In TMDB's US now-playing list with popularity ≥ `BLOCKBUSTER_POPULARITY` (default 60) | excluded automatically (the "showing everywhere" case) |
 | In now-playing but not popular, brand new, no TMDB match, or an uncertain match | **you are asked** |
@@ -39,6 +40,8 @@ npm run review
 ```
 
 opens http://localhost:4400 with every undecided title as a card: the venue's raw title (linked), the TMDB best guess with poster, director, year, genre, popularity, and synopsis, the reason it was flagged, all showtimes, and the alternative matches as poster thumbnails. Click **Include**, **Include, title only** (shorts programs, live events, things TMDB will never have), or **Exclude**; click an alternative thumbnail to include it as that film; or search TMDB from the card if none of them is right. Every click saves to `data/decisions.json` immediately and the schedule rebuilds within a second, so a running `npm run dev` updates live. Tabs switch between Pending, Decided and All; decided cards have an Undo button. Keyboard: focus a card, then `y` include, `t` title only, `n` exclude, `u` undo, `j`/`k` next/previous.
+
+**Review flow.** Clicking a match, an artwork thumbnail or a search result only selects it and updates the card preview; nothing is written until you press Include, Include title only, or Exclude. Every card also has an Edit details form (title, year, director, runtime, genre, description) whose values override TMDB on the site; they are stored as `edits` on the decision.
 
 **Artwork.** Cards use TMDB's backdrop or poster. When TMDB has nothing (shorts programs, live events, obscure titles) sync fetches the venue's own listing image (Squarespace asset or the page's `og:image`) and uses that instead, so cards are never blank. Every review card has an Artwork row where you can switch between the TMDB image, the venue's image, or any pasted image URL; the choice is stored on the decision in `data/decisions.json`.
 

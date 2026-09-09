@@ -18,6 +18,7 @@ Open `.env` and fill in:
 | `TMDB_API_KEY` | yes | A free v3 key from https://www.themoviedb.org/settings/api |
 | `LETTERBOXD_USER` | no | Your Letterboxd username, for private watchlist alerts |
 | `BLOCKBUSTER_POPULARITY` | no | Popularity cutoff for auto-excluding wide releases (default 60) |
+| `FIRST_RUN_SHOWTIMES` | no | A film newer than two years with this many showtimes in the window is auto-excluded as a first-run booking (default 20) |
 | `NOTIFY_MACOS` | no | `1` to get desktop notifications on watchlist matches |
 | `SYNC_WEEKS` | no | How many weeks ahead to fetch and show (default 4) |
 
@@ -57,26 +58,33 @@ npm run sync -- --reset-decision "Title"   # forget a past decision and ask agai
 npm run review     # http://localhost:4400
 ```
 
-Every undecided title appears as a card with the venue's raw title, TMDB's best guess, poster, synopsis, why it was flagged, and the showtimes. For each card pick one of:
+Every undecided title appears as a card with the venue's raw title, TMDB's best guess, artwork, synopsis, why it was flagged, and the showtimes. Nothing is saved until you press a decision button, so you can look around first:
 
-- **Include**: add it to the schedule as the matched film.
-- **Include, title only**: add it without a TMDB match. Use this for shorts programs, live events, and anything TMDB will never have.
-- **Exclude**: keep it off the schedule.
-- Click an alternative poster to include it as that film, or use the search box if none of the guesses is right.
+- **Match row**: click TMDB's guess, an alternative, or a search result to preview it. The card's title, credits and description switch to that film. The last option is *Title only* for shorts programs, live events, and anything TMDB will never have.
+- **Artwork row**: click the TMDB backdrop, TMDB poster, the venue's own listing image, or paste any image URL. The big image on the left shows exactly what the site card will use. Click it (or press `o`) to see every image at full size.
+- **Edit details**: opens a form for title, year, director, runtime, genre and description. Anything you change overrides TMDB on the site; clear a field to hide it. *Reset to TMDB* drops the edits.
 
-Decisions save instantly to `data/decisions.json` and the schedule rebuilds within a second. If `npm run dev` is running in another terminal, the site updates live.
+Then press **Include** (saves the selected match, artwork and edits), **Exclude**, or use `t` for title only. The card stays where it is with a badge and an Undo button, and a toast at the bottom offers Undo too. Decisions save to `data/decisions.json` and the schedule rebuilds about a second later; if `npm run dev` is running in another terminal, the site updates live. On an already-decided card the Include button becomes **Save changes** whenever your selection differs from what was saved.
 
-Keyboard shortcuts once a card is focused:
+Keyboard shortcuts (press `h` `j` `k` `l` with nothing focused to focus the first card):
 
 | Key | Action |
 |---|---|
-| `y` | Include |
+| `h` / `l` | Previous / next card |
+| `j` / `k` | Card below / above |
+| `m` / `M` | Cycle the match forward / back (`1`–`9` pick directly, `0` is title only) |
+| `a` / `A` | Cycle the artwork |
+| `o` | View the artwork full size (`h` `l` browse, `esc` closes) |
+| `e` | Open or close the details editor |
+| `/` | Focus the card's TMDB search box |
+| `y` | Include with the current selection |
 | `t` | Include, title only |
 | `n` | Exclude |
-| `u` | Undo |
-| `j` / `k` | Next / previous card |
+| `u` | Undo the focused card's decision, or the last decision made |
 
 You are never asked about the same title twice. Use the Decided tab and Undo to change your mind.
+
+**Rebuild now** in the header regenerates `data/screenings.json` from the last sync plus your decisions. This already happens automatically after every decision, so you only need it if a rebuild failed (the terminal running `npm run review` prints the error).
 
 ### Serve or build
 
@@ -144,7 +152,7 @@ Every push to `main` now redeploys, including the commits the sync job makes.
 | Sync listings | daily, 6am PT | Scrapes, applies your decisions, commits `data/screenings.json`. Cloudflare redeploys. Fails (and emails you) only if a scraper or TMDB breaks. |
 | Weekly review reminder | Monday 8am PT | Runs a sync, then opens a GitHub issue listing every title held back for review with the steps to clear them. Closes last week's issue. You get an email. |
 
-Titles the classifier is unsure about never publish on their own; they wait for you. Confident matches publish, confident junk is dropped.
+Titles the classifier is unsure about never publish on their own; they wait for you. Confident matches publish, confident junk is dropped. To be stricter or looser about first-run bookings, set `FIRST_RUN_SHOWTIMES` (and `BLOCKBUSTER_POPULARITY`) in `.env` locally and as repository **Variables** on GitHub.
 
 ### 7d. Your weekly review
 
