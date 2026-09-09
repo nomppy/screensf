@@ -813,5 +813,60 @@
     "decision": "exclude",
     "title": "Resident Evil ~ 5 PM & 9 PM",
     "decidedAt": "2026-09-09T11:29:48.334Z"
+  },
+  "live music gordi gracie and rachel presented by throwin bos": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: Gordi, Gracie and Rachel (Presented by THROWIN' BO'S) ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T12:01:24.216Z"
+  },
+  "lego movie": {
+    "decision": "exclude",
+    "title": "The Lego Movie ~ 10:00 AM (Popcorn Palace - FREE!)",
+    "decidedAt": "2026-09-09T12:01:27.484Z"
+  },
+  "live music spencer noble record release pena cilantro": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: Spencer Noble (Record Release), Peña, Cilantro ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T12:01:30.806Z"
+  },
+  "up": {
+    "decision": "exclude",
+    "title": "Up ~ 4:30 PM & 7:30 PM (in Dolby 3D)",
+    "decidedAt": "2026-09-09T12:01:48.699Z"
+  },
+  "comedy honey pluton and spike einbinder": {
+    "decision": "exclude",
+    "title": "COMEDY: Honey Pluton & Spike Einbinder ~ Doors at 8:30 PM & Show at 9:00 PM",
+    "decidedAt": "2026-09-09T12:01:54.632Z"
+  },
+  "live music marlon magnee of la femme future twin": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: Marlon Magnée (of La Femme), Future Twin ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T12:01:59.643Z"
+  },
+  "live music fog lamp eraser blue zero presented by talent moat": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: Fog Lamp, Eraser, Blue Zero (Presented by TALENT MOAT) ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T12:02:01.065Z"
+  },
+  "live music the sleeves fred frith": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: The Sleeves, Fred Frith ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T12:02:02.107Z"
+  },
+  "live music color green presented by folkyeah": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: Color Green (Presented by folkYEAH!) ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T12:02:03.065Z"
+  },
+  "live music tom conneely and the birds of paradise my dog jack eliza dewar": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: Tom Conneely & the Birds of Paradise, My Dog Jack, Eliza Dewar ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T12:02:03.833Z"
+  },
+  "avengers endgame encore": {
+    "decision": "exclude",
+    "title": "Avengers: Endgame Encore",
+    "decidedAt": "2026-09-09T12:02:35.540Z"
   }
 }
