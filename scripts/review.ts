@@ -353,6 +353,7 @@ const PAGE = /* html */ `<!doctype html>
     <button class="chip" data-tab="all" aria-pressed="false">All</button>
   </div>
   <div class="venues" id="venues"></div>
+  <div class="venues" id="reasons" title="Why the classifier held these titles back"></div>
   <div class="tabs" id="layout" title="Focus shows one film at a time with everything visible; Grid shows many compact cards. Press f to toggle, or Enter on a grid card to focus it">
     <button class="chip" data-layout="focus" aria-pressed="true">Focus</button>
     <button class="chip" data-layout="grid" aria-pressed="false">Grid</button>
@@ -368,7 +369,7 @@ const PAGE = /* html */ `<!doctype html>
 <div class="toast" id="toast" hidden><span id="toastText"></span><button id="toastUndo">Undo <span class="kbd">u</span></button></div>
 <div class="lb" id="lb" hidden><img id="lbImg" alt=""><div class="cap" id="lbCap"></div></div>
 <script>
-const state = { items: [], venues: [], tab: 'pending', venue: 'all', autoIncluded: 0, autoExcluded: 0, recent: new Set(), last: null, lastBuild: null, layout: 'focus' };
+const state = { items: [], venues: [], tab: 'pending', venue: 'all', reason: 'all', autoIncluded: 0, autoExcluded: 0, recent: new Set(), last: null, lastBuild: null, layout: 'focus' };
 try { state.layout = localStorage.getItem('review.layout') || 'focus'; } catch {}
 function setLayout(l) {
   state.layout = l; try { localStorage.setItem('review.layout', l); } catch {}
@@ -454,6 +455,27 @@ function pollStatus() { // after a save: wait for the debounced rebuild, then re
   const tick = async (n) => { const d = await (await fetch('/api/status')).json(); if (d.lastBuild && !d.building && (!state.lastBuild || d.lastBuild.at!==state.lastBuild.at)) { state.lastBuild=d.lastBuild; showStatus(); } else if (n<10) statusTimer=setTimeout(()=>tick(n+1), 700); else showStatus(); };
   statusTimer = setTimeout(()=>tick(0), 1200);
 }
+/** Collapse a reason like "new release (19 days), popularity 3" to its family. */
+function reasonGroup(r) {
+  r = String(r||'');
+  if (/^no TMDB match/.test(r)) return 'No TMDB match';
+  if (/^uncertain/.test(r)) return 'Uncertain match';
+  if (/^in US now-playing/.test(r)) return 'Now playing';
+  if (/^new release/.test(r)) return 'New release';
+  if (/^unreleased/.test(r)) return 'Unreleased';
+  if (/^no release date/.test(r)) return 'No release date';
+  if (/^first-run/.test(r)) return 'First-run booking';
+  if (/^repertory/.test(r)) return 'Repertory';
+  return r.replace(/[0-9]+/g,'N');
+}
+function renderReasons() {
+  const pool = state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i));
+  const counts = {}; for (const i of pool) { const g=reasonGroup(i.reason); counts[g]=(counts[g]||0)+1; }
+  const groups = Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
+  if (state.reason!=='all' && !counts[state.reason]) state.reason='all';
+  $('#reasons').innerHTML = groups.length>1 ? ['all',...groups].map(g => '<button class="chip" data-reason="'+esc(g)+'" aria-pressed="'+(state.reason===g)+'">'+esc(g==='all'?'Any reason':g)+(g==='all'?'':' '+counts[g])+'</button>').join('') : '';
+  $('#reasons').querySelectorAll('button').forEach(b => b.onclick = () => { state.reason=b.dataset.reason; render(); });
+}
 function renderVenues() {
   const ids = [...new Set(state.items.map(i=>i.venueId))];
   $('#venues').innerHTML = ['all',...ids].map(id => '<button class="chip" data-venue="'+esc(id)+'" aria-pressed="'+(state.venue===id)+'">'+esc(id==='all'?'All venues':venueName(id))+'</button>').join('');
@@ -468,10 +490,11 @@ function inTab(i) {
   if (t==='edited') return !!(i.decision && (i.decision.edits || i.decision.image));
   return st===t;
 }
-function visible() { return state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i)); }
+function visible() { return state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i) && (state.reason==='all' || reasonGroup(i.reason)===state.reason)); }
 function render() {
   updateCounts();
   $('#tabs').querySelectorAll('button').forEach(b => { b.setAttribute('aria-pressed', String(b.dataset.tab===state.tab)); b.onclick = () => { state.tab=b.dataset.tab; state.recent.clear(); render(); }; });
+  renderReasons();
   const list = visible();
   const grid = $('#grid');
   grid.innerHTML = list.length ? list.map(card).join('') : '<div class="empty">'+(state.tab==='pending'?'Nothing left to review. Run <b>npm run sync</b> again later.':'Nothing here.')+'</div>';
