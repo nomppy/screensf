@@ -31,14 +31,20 @@ export interface ClassifyContext {
   confirmed?: boolean;
 }
 
-export const DEFAULTS: ClassifyOptions = {
-  blockbusterPopularity: Number(process.env.BLOCKBUSTER_POPULARITY ?? 60),
-  repertoryDays: 730,
-  settledDays: 90,
-  firstRunShowtimes: Number(process.env.FIRST_RUN_SHOWTIMES ?? 20),
-  askPopularity: Number(process.env.REPERTORY_POPULARITY ?? 20),
-  repertoryOnly: /^(1|true|yes)$/i.test(process.env.REPERTORY_ONLY ?? ''),
-};
+/**
+ * Read lazily, on each call, so values from .env (loaded by the script after
+ * imports are evaluated) are honoured, not just real environment variables.
+ */
+export function defaults(): ClassifyOptions {
+  return {
+    blockbusterPopularity: Number(process.env.BLOCKBUSTER_POPULARITY ?? 60),
+    repertoryDays: 730,
+    settledDays: 90,
+    firstRunShowtimes: Number(process.env.FIRST_RUN_SHOWTIMES ?? 20),
+    askPopularity: Number(process.env.REPERTORY_POPULARITY ?? 20),
+    repertoryOnly: /^(1|true|yes)$/i.test(process.env.REPERTORY_ONLY ?? ''),
+  };
+}
 
 /**
  * Decide whether a screening belongs on a repertory / arthouse schedule.
@@ -61,7 +67,7 @@ export const DEFAULTS: ClassifyOptions = {
  * (REPERTORY_POPULARITY, default 20). Decisions are keyed by title and year,
  * so each such film is asked about once.
  */
-export function classify(film: Film | null, confident: boolean, ctx: ClassifyContext = {}, opts: ClassifyOptions = DEFAULTS): Verdict {
+export function classify(film: Film | null, confident: boolean, ctx: ClassifyContext = {}, opts: ClassifyOptions = defaults()): Verdict {
   if (!film || !film.tmdbId) return { action: 'ask', reason: 'no TMDB match' };
   if (!confident) return { action: 'ask', reason: 'uncertain TMDB match' };
 
