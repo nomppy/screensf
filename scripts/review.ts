@@ -499,6 +499,7 @@ function reasonGroup(r) {
   if (/^popular re-release/.test(r)) return 'Popular re-release';
   if (/^popular release/.test(r)) return 'Popular release';
   if (/^generic title/.test(r)) return 'Generic title';
+  if (/^first-run title/.test(r)) return 'First-run (rep-only mode)';
   if (/^repertory/.test(r)) return 'Repertory';
   return r.replace(/[0-9]+/g,'N');
 }

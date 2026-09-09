@@ -475,9 +475,10 @@
     "title": "Late Fame ~ 5 PM",
     "tmdbId": 1285895,
     "edits": {
+      "note": "",
       "year": 2025
     },
-    "decidedAt": "2026-09-09T10:37:43.556Z"
+    "decidedAt": "2026-09-09T17:46:11.375Z"
   },
   "kexps vinelands live mild universe camellia boutros": {
     "decision": "exclude",
@@ -868,5 +869,55 @@
     "decision": "exclude",
     "title": "Avengers: Endgame Encore",
     "decidedAt": "2026-09-09T12:02:35.540Z"
+  },
+  "mummy": {
+    "decision": "include",
+    "title": "The Mummy (1999) ~ 7:30 PM (Presented on 35mm by Odyssey Film Institute)",
+    "tmdbId": 564,
+    "decidedAt": "2026-09-09T17:42:56.755Z"
+  },
+  "streetwise": {
+    "decision": "include",
+    "title": "Streetwise ~ 8 PM",
+    "tmdbId": 42098,
+    "decidedAt": "2026-09-09T17:43:08.800Z"
+  },
+  "mad max fury road": {
+    "decision": "include",
+    "title": "Mad Max: Fury Road ~ 4:30 PM & 7:30 PM (on Dolby 3D)",
+    "tmdbId": 76341,
+    "decidedAt": "2026-09-09T17:43:16.290Z"
+  },
+  "terminator 2 judgment day": {
+    "decision": "include",
+    "title": "Terminator 2: Judgment Day",
+    "tmdbId": 280,
+    "decidedAt": "2026-09-09T17:43:18.543Z"
+  },
+  "eyes wide shut": {
+    "decision": "include",
+    "title": "Eyes Wide Shut",
+    "tmdbId": 345,
+    "decidedAt": "2026-09-09T17:43:21.160Z"
+  },
+  "taxi driver": {
+    "decision": "include",
+    "title": "Taxi Driver",
+    "tmdbId": 103,
+    "decidedAt": "2026-09-09T17:43:21.703Z"
+  },
+  "zyzzyva movie night with ingrid rojas contreras songs of earth": {
+    "decision": "exclude",
+    "title": "ZYZZYVA Movie Night with Ingrid Rojas Contreras: Songs of Earth",
+    "decidedAt": "2026-09-09T17:44:30.854Z"
+  },
+  "legend": {
+    "decision": "include",
+    "title": "Legend",
+    "tmdbId": 11976,
+    "edits": {
+      "note": "Honoring Tim Curry, an Icon of Stage and ScreenHosted by Peaches Christwith a special screening of Legend"
+    },
+    "decidedAt": "2026-09-09T17:47:54.813Z"
   }
 }

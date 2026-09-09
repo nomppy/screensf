@@ -17,6 +17,8 @@ export interface ClassifyOptions {
   firstRunShowtimes: number;
   /** Repertory and settled releases at or above this TMDB popularity are asked about rather than included on sight. */
   askPopularity: number;
+  /** Repertory-only mode: nothing newer than repertoryDays is included without asking, however long it has been out. */
+  repertoryOnly: boolean;
 }
 
 /** Facts about the listing itself that bear on the verdict. */
@@ -35,6 +37,7 @@ export const DEFAULTS: ClassifyOptions = {
   settledDays: 90,
   firstRunShowtimes: Number(process.env.FIRST_RUN_SHOWTIMES ?? 20),
   askPopularity: Number(process.env.REPERTORY_POPULARITY ?? 20),
+  repertoryOnly: /^(1|true|yes)$/i.test(process.env.REPERTORY_ONLY ?? ''),
 };
 
 /**
@@ -51,7 +54,7 @@ export const DEFAULTS: ClassifyOptions = {
  *   Released > repertoryDays ago, popular .... ask   (studio re-release, kids' matinee: decide once per film)
  *   Released > repertoryDays ago ............. include
  *   Released > settledDays ago, popular ...... ask   (a blockbuster that has left the now-playing list)
- *   Released > settledDays ago, not wide ..... include
+ *   Released > settledDays ago, not wide ..... include (ask instead when REPERTORY_ONLY is set)
  *   Anything else (fresh release) ............ ask
  *
  * "Popular" for the two ask rules means TMDB popularity >= askPopularity
@@ -86,6 +89,7 @@ export function classify(film: Film | null, confident: boolean, ctx: ClassifyCon
   }
   if (age > opts.settledDays) {
     if (pop >= opts.askPopularity) return { action: 'ask', reason: `popular release, ${age} days old, popularity ${Math.round(pop)}` };
+    if (opts.repertoryOnly) return { action: 'ask', reason: `first-run title (${age} days old), repertory-only mode` };
     return { action: 'include', reason: `released ${age} days ago, not in wide release` };
   }
   if (age < -30) return { action: 'ask', reason: 'unreleased / preview' };

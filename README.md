@@ -31,9 +31,11 @@ This scrapes every enabled venue in `data/venues.json`, then for each distinct t
 | Released more than 2 years ago but popular (studio re-releases, kids' matinees) | **you are asked**, once per film |
 | A one- or two-word title ("Comedy", "Live Music") matched to an obscure film with no director to confirm it | **you are asked** |
 | Newer than that with `FIRST_RUN_SHOWTIMES` or more showtimes in the window (default 20) | excluded automatically (a first-run booking playing several times a day) |
-| Released 90+ days ago, not in TMDB's US now-playing list, popularity below `REPERTORY_POPULARITY` | included automatically |
+| Released 90+ days ago, not in TMDB's US now-playing list, popularity below `REPERTORY_POPULARITY` | included automatically, or **you are asked** when `REPERTORY_ONLY=1` |
 | In TMDB's US now-playing list with popularity ≥ `BLOCKBUSTER_POPULARITY` (default 60) | excluded automatically (the "showing everywhere" case) |
 | In now-playing but not popular, brand new, no TMDB match, or an uncertain match | **you are asked** |
+
+`REPERTORY_ONLY=1` makes the site repertory-and-special-screenings only, the way [screenboston.com](https://screenboston.com) works: no film newer than two years is ever included without you approving it in review. Your existing approvals stand.
 
 If a theatre's site is unreachable (Stanford's returns 403 to GitHub's servers, for instance), that venue's listings from the previous build are kept rather than dropped, and the log says so.
 

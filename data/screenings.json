@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T16:56:31.565Z",
+  "generatedAt": "2026-09-09T17:47:55.640Z",
   "films": {
     "tmdb:11229": {
       "key": "tmdb:11229",
@@ -155,20 +155,6 @@
       "popularity": 1.2456,
       "releaseDate": "2001-01-20",
       "overview": "Samual Curtis's first mission in this bizarre science fiction musical comedy requires him to take a cat to a saloon on an asteroid. There, he meets his former dance partner (the Blueberry Pirate) and collects his payment: a device capable of producing a Real Live Girl. Including music by alternative rock group The Billy Nayer Show, this film began life as a live show with a loyal following."
-    },
-    "tmdb:1091371": {
-      "key": "tmdb:1091371",
-      "title": "Songs of Earth",
-      "year": 2023,
-      "director": "Margreth Olin",
-      "runtime": 99,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/h7mbw1HL6AQFkNIpC8BpQ1YASTJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pdKlsuRnaSG5kTo1rMhRlTCMNKp.jpg",
-      "tmdbId": 1091371,
-      "popularity": 1.3893,
-      "releaseDate": "2023-09-01",
-      "overview": "With Olin's 85-year-old father as guide, we experience Norway's most adventurous valley, Oldedalen in Nordfjord. He grew up here, and here generations before him have lived in balance with nature."
     },
     "tmdb:1596326": {
       "key": "tmdb:1596326",
@@ -570,6 +556,20 @@
       "releaseDate": "2026-08-28",
       "overview": "Featuring commentary from surviving participants, as well as other filmmakers and critics, this documentary chronicles the career of director John Boorman and the tumultuous production of his film Exorcist II: The Heretic, exploring its critical and commercial failure, how it changed the industry, and the importance of risk-taking in art."
     },
+    "tmdb:564": {
+      "key": "tmdb:564",
+      "title": "The Mummy",
+      "year": 1999,
+      "director": "Stephen Sommers",
+      "runtime": 124,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+      "tmdbId": 564,
+      "popularity": 26.4712,
+      "releaseDate": "1999-04-16",
+      "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken."
+    },
     "tmdb:508003": {
       "key": "tmdb:508003",
       "title": "McQueen",
@@ -583,6 +583,20 @@
       "popularity": 3.5411,
       "releaseDate": "2018-06-08",
       "overview": "Alexander McQueen's rags-to-riches story is a modern-day fairy tale, laced with the gothic. Mirroring the savage beauty, boldness and vivacity of his design, this documentary is an intimate revelation of McQueen's own world, both tortured and inspired, which celebrates a radical and mesmerizing genius of profound influence."
+    },
+    "tmdb:42098": {
+      "key": "tmdb:42098",
+      "title": "Streetwise",
+      "year": 1984,
+      "director": "Martin Bell",
+      "runtime": 91,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/fW9z3HXWYTKzlqE3CYMMxaXyyy2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bTi7ggNJeNpmyHAaehtDXp9cmdm.jpg",
+      "tmdbId": 42098,
+      "popularity": 1.7454,
+      "releaseDate": "1984-12-07",
+      "overview": "This documentary about teenagers living on the streets in Seattle began as a magazine article. The film follows nine teenagers who discuss how they live by panhandling, prostitution, and petty theft."
     },
     "tmdb:21135": {
       "key": "tmdb:21135",
@@ -728,6 +742,20 @@
       "popularity": 3.031,
       "releaseDate": "2026-05-28",
       "overview": "Pegeen Flaherty’s life is turned upside down when a young man walks into her pub claiming that he’s killed his father. Instead of being shunned, the killer becomes a local hero and begins to win hearts, that is until a second man unexpectedly arrives on the scene..."
+    },
+    "tmdb:76341": {
+      "key": "tmdb:76341",
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "director": "George Miller",
+      "runtime": 121,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/ulcAi4dKpAjHwYGS08vNyx9H6I9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uT895WNwm0aIJRtGizcQhrejWUo.jpg",
+      "tmdbId": 76341,
+      "popularity": 30.2831,
+      "releaseDate": "2015-05-13",
+      "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order."
     },
     "tmdb:11326": {
       "key": "tmdb:11326",
@@ -882,20 +910,6 @@
       "releaseDate": "1992-03-20",
       "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story."
     },
-    "tmdb:4011": {
-      "key": "tmdb:4011",
-      "title": "Beetlejuice",
-      "year": 1988,
-      "director": "Tim Burton",
-      "runtime": 92,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
-      "tmdbId": 4011,
-      "popularity": 14.5289,
-      "releaseDate": "1988-03-30",
-      "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
-    },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
       "title": "Chronovisor",
@@ -1021,6 +1035,20 @@
       "popularity": 8.922,
       "releaseDate": "1996-03-03",
       "overview": "A gay cabaret owner and his drag queen partner agree to put up a false heterosexual front so that their son can introduce them to his fiancée's conservative parents."
+    },
+    "tmdb:280": {
+      "key": "tmdb:280",
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "director": "James Cameron",
+      "runtime": 137,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+      "tmdbId": 280,
+      "popularity": 36.4213,
+      "releaseDate": "1991-07-03",
+      "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
     },
     "tmdb:635": {
       "key": "tmdb:635",
@@ -1252,6 +1280,20 @@
       "releaseDate": "1995-09-22",
       "overview": "Suzanne Stone wants to be a world-famous news anchor and she is willing to do anything to get what she wants. What she lacks in intelligence, she makes up for in cold determination and diabolical wiles. As she pursues her goal with relentless focus, she is forced to destroy anything and anyone that may stand in her way, regardless of the ultimate cost or means necessary."
     },
+    "tmdb:345": {
+      "key": "tmdb:345",
+      "title": "Eyes Wide Shut",
+      "year": 1999,
+      "director": "Stanley Kubrick",
+      "runtime": 159,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+      "tmdbId": 345,
+      "popularity": 22.7868,
+      "releaseDate": "1999-07-16",
+      "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head."
+    },
     "tmdb:1493": {
       "key": "tmdb:1493",
       "title": "Miss Congeniality",
@@ -1369,6 +1411,20 @@
       "popularity": 11.8657,
       "releaseDate": "1936-02-05",
       "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..."
+    },
+    "tmdb:103": {
+      "key": "tmdb:103",
+      "title": "Taxi Driver",
+      "year": 1976,
+      "director": "Martin Scorsese",
+      "runtime": 114,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+      "tmdbId": 103,
+      "popularity": 22.5478,
+      "releaseDate": "1976-02-09",
+      "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city."
     },
     "tmdb:526227": {
       "key": "tmdb:526227",
@@ -1633,10 +1689,10 @@
       "year": 2026,
       "director": "Connie He",
       "genre": "Animation",
-      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress",
       "tmdbId": 1639520,
       "popularity": 0.8495,
-      "releaseDate": "2026-06-06"
+      "releaseDate": "2026-06-06",
+      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:36685": {
       "key": "tmdb:36685",
@@ -1890,6 +1946,76 @@
       "releaseDate": "1922-02-16",
       "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
     },
+    "tmdb:43839": {
+      "key": "tmdb:43839",
+      "title": "Alexander's Ragtime Band",
+      "year": 1938,
+      "director": "Henry King",
+      "runtime": 106,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
+      "tmdbId": 43839,
+      "popularity": 1.4996,
+      "releaseDate": "1938-05-24",
+      "overview": "Classical violinist Roger Grant disappoints his family and teacher when he organizes a jazz band, but he and the band become successful. Roger falls in love with the band's singer, Stella, but his reluctance to lose her leads him to thwart her efforts to become a solo star. When the World War separates them in 1917, Stella marries Roger's best friend and, when Roger returns home after the war, an important concert at Carnegie Hall brings the corners of the romantic triangle together."
+    },
+    "tmdb:108222": {
+      "key": "tmdb:108222",
+      "title": "Tin Pan Alley",
+      "year": 1940,
+      "director": "Walter Lang",
+      "runtime": 94,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/A98sbrtuO5X7HpG3CcH8qJHsLzg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nX41E4mWlJ7FBCpimuceVoijxIC.jpg",
+      "tmdbId": 108222,
+      "popularity": 1.1947,
+      "releaseDate": "1940-11-29",
+      "overview": "Songwriters Calhoun and Harrigan get Katie and Lily Blane to introduce a new one. Lily goes to England, and Katy joins her after the boys give a new song to Nora Bayes. All are reunited when the boys, now in the army, show up in England."
+    },
+    "tmdb:43794": {
+      "key": "tmdb:43794",
+      "title": "Moon Over Miami",
+      "year": 1941,
+      "director": "Walter Lang",
+      "runtime": 91,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/c3zBaU3wwTJThzT4jK9Ehwp3ik5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4hUJ98NjDwCpH84yJqUeg4hYy5b.jpg",
+      "tmdbId": 43794,
+      "popularity": 1.2195,
+      "releaseDate": "1941-07-04",
+      "overview": "After losing nearly all of an inheritance to taxes, sisters Kay and Barbara Latimer, waitresses at a drive-in restaurant in Texas, scheme to find rich husbands. With the aid of their aunt Susan, the sisters take the last of their money and head to a well-known Miami resort where they soon meet two wealthy young men, Phil and Jeff, who begin a fierce rivalry for Kay, not realizing that Barbara has fallen in love with one of them."
+    },
+    "tmdb:43810": {
+      "key": "tmdb:43810",
+      "title": "Down Argentine Way",
+      "year": 1940,
+      "director": "Irving Cummings",
+      "runtime": 89,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
+      "tmdbId": 43810,
+      "popularity": 1.2522,
+      "releaseDate": "1940-10-11",
+      "overview": "The story—in which an American heiress on holiday in South America falls in love with an Argentine horse breeder against the wishes of their families—takes a backseat to the spectacular location shooting and parade of extravagant musical numbers, which include the larger-than-life Carmen Miranda singing the hit “South American Way” and a showstopping dance routine by the always amazing Nicholas Brothers."
+    },
+    "tmdb:43797": {
+      "key": "tmdb:43797",
+      "title": "Sun Valley Serenade",
+      "year": 1941,
+      "director": "H. Bruce Humberstone",
+      "runtime": 86,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uVvSAIGgYdXpThHGtmDvEGgeFbl.jpg",
+      "tmdbId": 43797,
+      "popularity": 1.3245,
+      "releaseDate": "1941-08-29",
+      "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
+    },
     "t:song for the snow lion theatrical premiere": {
       "key": "t:song for the snow lion theatrical premiere",
       "title": "A SONG FOR THE SNOW LION-Theatrical Premiere",
@@ -1944,76 +2070,6 @@
       "popularity": 1.4017,
       "releaseDate": "2018-11-02",
       "overview": "A woman steals a man's identity and forces him to confront a secret that he's hidden for over thirty years."
-    },
-    "tmdb:108222": {
-      "key": "tmdb:108222",
-      "title": "Tin Pan Alley",
-      "year": 1940,
-      "director": "Walter Lang",
-      "runtime": 94,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/A98sbrtuO5X7HpG3CcH8qJHsLzg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nX41E4mWlJ7FBCpimuceVoijxIC.jpg",
-      "tmdbId": 108222,
-      "popularity": 1.1947,
-      "releaseDate": "1940-11-29",
-      "overview": "Songwriters Calhoun and Harrigan get Katie and Lily Blane to introduce a new one. Lily goes to England, and Katy joins her after the boys give a new song to Nora Bayes. All are reunited when the boys, now in the army, show up in England."
-    },
-    "tmdb:43839": {
-      "key": "tmdb:43839",
-      "title": "Alexander's Ragtime Band",
-      "year": 1938,
-      "director": "Henry King",
-      "runtime": 106,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/tbmvwfs9C1eTIyCcuhdbnFeuQSA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/zEHZBRf97910p4bL8HL398ZUs5p.jpg",
-      "tmdbId": 43839,
-      "popularity": 1.4996,
-      "releaseDate": "1938-05-24",
-      "overview": "Classical violinist Roger Grant disappoints his family and teacher when he organizes a jazz band, but he and the band become successful. Roger falls in love with the band's singer, Stella, but his reluctance to lose her leads him to thwart her efforts to become a solo star. When the World War separates them in 1917, Stella marries Roger's best friend and, when Roger returns home after the war, an important concert at Carnegie Hall brings the corners of the romantic triangle together."
-    },
-    "tmdb:43810": {
-      "key": "tmdb:43810",
-      "title": "Down Argentine Way",
-      "year": 1940,
-      "director": "Irving Cummings",
-      "runtime": 89,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
-      "tmdbId": 43810,
-      "popularity": 1.2522,
-      "releaseDate": "1940-10-11",
-      "overview": "The story—in which an American heiress on holiday in South America falls in love with an Argentine horse breeder against the wishes of their families—takes a backseat to the spectacular location shooting and parade of extravagant musical numbers, which include the larger-than-life Carmen Miranda singing the hit “South American Way” and a showstopping dance routine by the always amazing Nicholas Brothers."
-    },
-    "tmdb:43794": {
-      "key": "tmdb:43794",
-      "title": "Moon Over Miami",
-      "year": 1941,
-      "director": "Walter Lang",
-      "runtime": 91,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/c3zBaU3wwTJThzT4jK9Ehwp3ik5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4hUJ98NjDwCpH84yJqUeg4hYy5b.jpg",
-      "tmdbId": 43794,
-      "popularity": 1.2195,
-      "releaseDate": "1941-07-04",
-      "overview": "After losing nearly all of an inheritance to taxes, sisters Kay and Barbara Latimer, waitresses at a drive-in restaurant in Texas, scheme to find rich husbands. With the aid of their aunt Susan, the sisters take the last of their money and head to a well-known Miami resort where they soon meet two wealthy young men, Phil and Jeff, who begin a fierce rivalry for Kay, not realizing that Barbara has fallen in love with one of them."
-    },
-    "tmdb:43797": {
-      "key": "tmdb:43797",
-      "title": "Sun Valley Serenade",
-      "year": 1941,
-      "director": "H. Bruce Humberstone",
-      "runtime": 86,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uVvSAIGgYdXpThHGtmDvEGgeFbl.jpg",
-      "tmdbId": 43797,
-      "popularity": 1.3245,
-      "releaseDate": "1941-08-29",
-      "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
     }
   },
   "screenings": [
@@ -2099,7 +2155,6 @@
       "date": "2026-09-09",
       "time": "17:00",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-9",
-      "note": "MAY DECEMBER)",
       "source": "vogue"
     },
     {
@@ -2196,7 +2251,7 @@
       "date": "2026-09-09",
       "time": "19:30",
       "url": "https://thecastro.com/events/legend-260909",
-      "note": "Honoring Tim Curry, an Icon of Stage and ScreenHosted by Peaches Christwith a special screening of",
+      "note": "Honoring Tim Curry, an Icon of Stage and ScreenHosted by Peaches Christwith a special screening of Legend",
       "source": "castro"
     },
     {
@@ -2262,7 +2317,6 @@
       "date": "2026-09-10",
       "time": "17:00",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-10",
-      "note": "MAY DECEMBER)",
       "source": "vogue"
     },
     {
@@ -2343,6 +2397,17 @@
       "source": "operaplaza"
     },
     {
+      "id": "balboa:2026-09-10:19:30:tmdb:564",
+      "venueId": "balboa",
+      "filmKey": "tmdb:564",
+      "date": "2026-09-10",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-mummy-september-10",
+      "format": "35mm",
+      "note": "Presented on 35mm by",
+      "source": "balboa"
+    },
+    {
       "id": "vogue:2026-09-10:19:30:tmdb:2280",
       "venueId": "vogue",
       "filmKey": "tmdb:2280",
@@ -2416,7 +2481,6 @@
       "date": "2026-09-11",
       "time": "17:00",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-11",
-      "note": "MAY DECEMBER)",
       "source": "vogue"
     },
     {
@@ -2551,7 +2615,6 @@
       "date": "2026-09-12",
       "time": "14:30",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-12",
-      "note": "MAY DECEMBER)",
       "source": "vogue"
     },
     {
@@ -2639,6 +2702,17 @@
       "time": "18:35",
       "url": "https://thenewparkway.com/movie/the-invite/",
       "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-09-12:19:00:tmdb:103",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:103",
+      "date": "2026-09-12",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/taxi-driver",
+      "format": "4K",
+      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
+      "source": "bampfa"
     },
     {
       "id": "stanford:2026-09-12:19:30:tmdb:43839",
@@ -2750,7 +2824,6 @@
       "date": "2026-09-13",
       "time": "14:30",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-13",
-      "note": "MAY DECEMBER)",
       "source": "vogue"
     },
     {
@@ -2916,7 +2989,6 @@
       "date": "2026-09-14",
       "time": "16:30",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-14",
-      "note": "MAY DECEMBER)",
       "source": "vogue"
     },
     {
@@ -2996,6 +3068,16 @@
       "source": "balboa"
     },
     {
+      "id": "balboa:2026-09-14:20:00:tmdb:42098",
+      "venueId": "balboa",
+      "filmKey": "tmdb:42098",
+      "date": "2026-09-14",
+      "time": "20:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/streetwise-september-14",
+      "note": "Streetwise",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-09-14:20:10:tmdb:11229",
       "venueId": "roxie",
       "filmKey": "tmdb:11229",
@@ -3021,6 +3103,17 @@
       "time": "20:45",
       "url": "https://thenewparkway.com/movie/filipiana/",
       "source": "newparkway"
+    },
+    {
+      "id": "vogue:2026-09-15:16:30:tmdb:76341",
+      "venueId": "vogue",
+      "filmKey": "tmdb:76341",
+      "date": "2026-09-15",
+      "time": "16:30",
+      "url": "https://voguemovies.com/calendar-of-events/mad-max-fury-road-september-15",
+      "format": "3D",
+      "note": "Projected in digital 3-D",
+      "source": "vogue"
     },
     {
       "id": "newparkway:2026-09-15:17:45:tmdb:1639520",
@@ -3116,7 +3209,6 @@
       "date": "2026-09-16",
       "time": "17:00",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-16",
-      "note": "MAY DECEMBER)",
       "source": "vogue"
     },
     {
@@ -3168,6 +3260,16 @@
       "url": "https://www.balboamovies.com/calendar-of-events/super-shangri-la-september-16",
       "note": "Strange movies presented by Kai Wada Roath at the haunted & historic Balboa theater in San Francisco!",
       "source": "balboa"
+    },
+    {
+      "id": "operaplaza:2026-09-16:19:00:tmdb:345",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:345",
+      "date": "2026-09-16",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/20502-eyes-wide-shut/",
+      "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
+      "source": "operaplaza"
     },
     {
       "id": "grandlake:2026-09-16:19:15:tmdb:1279865",
@@ -3240,7 +3342,6 @@
       "date": "2026-09-17",
       "time": "17:00",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-17",
-      "note": "MAY DECEMBER)",
       "source": "vogue"
     },
     {
@@ -3251,15 +3352,6 @@
       "time": "17:25",
       "url": "https://thenewparkway.com/movie/dear-upstairs-neighbors/",
       "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-09-17:18:00:tmdb:1091371",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1091371",
-      "date": "2026-09-17",
-      "time": "18:00",
-      "url": "https://roxie.com/film/zyzzyva-movie-night-with-ingrid-rojas-contreras-songs-of-earth/",
-      "source": "roxie"
     },
     {
       "id": "roxie:2026-09-17:18:20:t:cycle of love",
@@ -4561,6 +4653,15 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-10-01:18:00:tmdb:280",
+      "venueId": "alamo",
+      "filmKey": "tmdb:280",
+      "date": "2026-10-01",
+      "time": "18:00",
+      "url": "https://drafthouse.com/sf/show/terminator-2-judgment-day?cinemaId=0801&sessionId=82425",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-10-01:18:30:tmdb:44214",
       "venueId": "roxie",
       "filmKey": "tmdb:44214",
@@ -4701,15 +4802,6 @@
       "url": "https://thenewparkway.com/movie/hot-fuzz-party-at-the-parkway/",
       "note": "Party at the Parkway",
       "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-10-05:21:30:tmdb:4011",
-      "venueId": "alamo",
-      "filmKey": "tmdb:4011",
-      "date": "2026-10-05",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=82934",
-      "source": "alamo"
     },
     {
       "id": "alamo:2026-10-06:21:30:tmdb:274",
