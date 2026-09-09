@@ -32,6 +32,8 @@ export interface RawScreening {
   year?: number;
   /** Runtime in minutes as the venue lists it. */
   runtime?: number;
+  /** The venue's own programme note / synopsis, plain text with paragraph breaks. */
+  synopsis?: string;
 }
 
 /** What the venue itself said about the film, pooled across its showtimes. */
@@ -39,6 +41,7 @@ export interface VenueHints {
   director?: string;
   year?: number;
   runtime?: number;
+  synopsis?: string;
 }
 
 export interface Film {

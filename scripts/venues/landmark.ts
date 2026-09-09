@@ -39,7 +39,6 @@ interface Movie {
   id: string;
   title?: string;
   poster?: string;
-  locale?: { title?: string };
   /** Director names, e.g. ["Joe Swanberg"]. */
   direction?: string[];
   /** Runtime in seconds. */
@@ -47,6 +46,8 @@ interface Movie {
   /** First release date, ISO. */
   release?: string;
   releases?: { releasedAt?: string }[];
+  synopsis?: string;
+  locale?: { title?: string; synopsis?: string };
 }
 
 interface EventNode {
@@ -121,6 +122,7 @@ export async function scrapeLandmark(venue: Venue): Promise<RawScreening[]> {
             director: movie?.direction?.filter(Boolean).join(', ') || undefined,
             year: releaseYear(movie),
             runtime: movie?.runtime ? Math.round(movie.runtime / 60) : undefined,
+            synopsis: (movie?.synopsis ?? movie?.locale?.synopsis)?.replace(/\s+/g, ' ').trim() || undefined,
           });
         } catch (err) {
           console.warn(`  ${venue.id}: bad showtime ${s.id}: ${(err as Error).message}`);

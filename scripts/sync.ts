@@ -142,6 +142,7 @@ async function main() {
       director: g.raws.find((r) => r.director)?.director,
       year: g.raws.find((r) => r.year)?.year,
       runtime: g.raws.find((r) => r.runtime)?.runtime,
+      synopsis: g.raws.find((r) => r.synopsis)?.synopsis,
     };
 
     let film: Film | null = null;
@@ -171,7 +172,7 @@ async function main() {
       alternatives,
       action: verdict.action,
       reason: verdict.reason,
-      hints: hints.director || hints.year || hints.runtime ? hints : undefined,
+      hints: hints.director || hints.year || hints.runtime || hints.synopsis ? hints : undefined,
     });
   }
   process.stdout.write('\n');

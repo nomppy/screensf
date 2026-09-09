@@ -47,6 +47,7 @@ async function addFilmDetails(list: RawScreening[]) {
       const value = $el.clone().children('h5').remove().end().text().replace(/\s+/g, ' ').trim();
       if (label && value) details[label] = value;
     });
+    const synopsis = paragraphs($, '.content-film__content p');
     const year = Number((details.year ?? '').match(/\b(1[89]\d{2}|20\d{2})\b/)?.[1]);
     const rt = details.runtime?.match(/(?:(\d+)\s*h)?\s*(?:(\d+)\s*m)?/);
     const runtime = rt && (rt[1] || rt[2]) ? Number(rt[1] ?? 0) * 60 + Number(rt[2] ?? 0) : Number(details.runtime?.match(/(\d+)\s*min/)?.[1]);
@@ -55,8 +56,25 @@ async function addFilmDetails(list: RawScreening[]) {
       if (details.director && details.director.length < 120) s.director = details.director;
       if (year) s.year = year;
       if (runtime) s.runtime = runtime;
+      if (synopsis) s.synopsis = synopsis;
     }
   }
+}
+
+/** Visible paragraphs joined with blank lines, capped so a whole essay does not become a card note. */
+export function paragraphs($: cheerio.CheerioAPI, selector: string, max = 1500): string | undefined {
+  const parts = $(selector)
+    .map((_, el) => $(el).text().replace(/\s+/g, ' ').trim())
+    .get()
+    .filter((t) => t.length > 1);
+  if (!parts.length) return undefined;
+  let out = '';
+  for (const p of parts) {
+    const next = out ? `${out}\n\n${p}` : p;
+    if (next.length > max) break;
+    out = next;
+  }
+  return out || undefined;
 }
 
 function walkHeadings($: cheerio.CheerioAPI, venue: Venue): RawScreening[] {

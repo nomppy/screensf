@@ -3,6 +3,7 @@ import { fetchText, fetchTextCached } from '../lib/http.ts';
 import { ogImage } from '../lib/artwork.ts';
 import { horizonEndLA, parseTime, todayLA } from '../lib/dates.ts';
 import type { RawScreening, Venue } from '../lib/types.ts';
+import { paragraphs } from './roxie.ts';
 
 /**
  * bampfa.org is Drupal 7. /visit/calendar/YYYY-MM renders one month as a
@@ -59,9 +60,11 @@ export async function scrapeBampfa(venue: Venue): Promise<RawScreening[]> {
       }
       const format = print.format;
       const image = ogImage(html, url);
+      const synopsis = paragraphs(cheerio.load(html), '.field-name-body p');
       for (const s of list) {
         s.format ??= format;
         if (image) s.image = image;
+        if (synopsis) s.synopsis = synopsis;
       }
     } catch (err) {
       console.warn(`  bampfa: ${url} failed: ${(err as Error).message}`);

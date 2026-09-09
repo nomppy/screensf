@@ -455,7 +455,7 @@ function agreement(h, f) {
   return out.join('');
 }
 /** Card details as TMDB (or the venue title) supplies them, before hand edits. */
-function baseDetails(i) { const f=curFilm(i); return f ? { title:f.title||'', year:f.year||'', director:f.director||'', runtime:f.runtime||'', genre:f.genre||'', overview:f.overview||'' } : { title:i.cleanTitle, year:'', director:'', runtime:'', genre:'', overview:'' }; }
+function baseDetails(i) { const f=curFilm(i), h=i.hints||{}; return f ? { title:f.title||'', year:f.year||h.year||'', director:f.director||h.director||'', runtime:f.runtime||h.runtime||'', genre:f.genre||'', overview:f.overview||h.synopsis||'' } : { title:i.cleanTitle, year:h.year||'', director:h.director||'', runtime:h.runtime||'', genre:'', overview:h.synopsis||'' }; }
 /** What the site will show: base details with edits applied. */
 function shownDetails(i) { const b=baseDetails(i), e=U(i).edits, out={...b}; for (const k of EDIT_FIELDS) if (k in e) out[k] = e[k]===''||e[k]==null ? '' : e[k]; return out; }
 const hasEdits = (i) => Object.keys(U(i).edits).length>0;
@@ -562,6 +562,7 @@ function card(i) {
   const isDirty = dirty(i), s = shownDetails(i), edited = hasEdits(i);
   const incLabel = f ? (isDirty ? 'Save changes' : '✓ Include as “'+esc(s.title)+'”') : (isDirty ? 'Save changes' : '✓ Include, title only');
   const meta = [s.genre, s.runtime?s.runtime+' min':null, f&&f.popularity!=null?'popularity '+f.popularity:null, f&&f.nowPlaying?'in US release':null, f&&f.partial?'loading details…':null].filter(Boolean).map(esc).join(' · ');
+  const fromVenue = !f && h && (h.director||h.year||h.synopsis);
   const editor = u.editing ? '<div class="editor">'
     + '<label class="full">Title<input data-edit="title" value="'+esc(s.title)+'"'+(('title' in u.edits)?' class="changed"':'')+'></label>'
     + '<label>Year<input data-edit="year" inputmode="numeric" value="'+esc(s.year)+'"'+(('year' in u.edits)?' class="changed"':'')+'></label>'
@@ -569,7 +570,7 @@ function card(i) {
     + '<label>Director<input data-edit="director" value="'+esc(s.director)+'"'+(('director' in u.edits)?' class="changed"':'')+'></label>'
     + '<label>Genre<input data-edit="genre" value="'+esc(s.genre)+'"'+(('genre' in u.edits)?' class="changed"':'')+'></label>'
     + '<label class="full">Description<textarea data-edit="overview"'+(('overview' in u.edits)?' class="changed"':'')+'>'+esc(s.overview)+'</textarea></label>'
-    + '<div class="row"><span>Edits apply on the site once you press Include. Clear a field to hide it.</span><span class="spacer"></span><button class="chip" data-reset-edits'+(edited?'':' disabled')+'>Reset to TMDB</button><button class="chip" data-close-editor>Done</button></div>'
+    + '<div class="row"><span>Edits apply on the site once you press Include. Clear a field to hide it.</span><span class="spacer"></span><button class="chip" data-reset-edits'+(edited?'':' disabled')+'>Reset'+(f?' to TMDB':'')+'</button><button class="chip" data-close-editor>Done</button></div>'
     + '</div>' : '';
   return '<article class="item '+(d?'decided '+d.decision:'')+'" tabindex="0" data-key="'+esc(i.key)+'">'
    + '<div class="side"><div class="poster" title="View full size (o)">'+(art?'<img src="'+esc(art.src)+'" alt="">':'<div class="none">no artwork</div>')+(d?'<span class="badge '+d.decision+'">'+decidedLabel+'</span>':'')+(art?'<span class="zoom">⤢ full size</span>':'')+'</div>'
@@ -579,7 +580,7 @@ function card(i) {
    + '<div class="raw"><a href="'+esc(i.url)+'" target="_blank" rel="noopener" title="Open the theatre listing (O)">'+esc(i.rawTitle)+'</a></div>'
    + (h ? '<div class="says">'+esc(venueName(i.venueId))+' lists: '+[h.director?'<b>'+esc(h.director)+'</b>':null, h.year?'<b>'+h.year+'</b>':null, h.runtime?h.runtime+' min':null].filter(Boolean).join(' · ')+'</div>' : '')
    + '<div class="guess"><span class="tag'+(edited?' edited':'')+'">'+(edited?'Edited':f?(u.match===(i.film&&i.film.tmdbId)?'TMDB guess':'Selected'):'Title only')+'</span><b data-show="title">'+esc(s.title)+'</b><span data-show="yeardir">'+(s.year?' ('+s.year+')':'')+(s.director?', '+esc(s.director):'')+'</span>'+agree
-        + (f ? '' : ' <span class="meta">— listed with no TMDB data'+(i.film?'':' (no match found)')+'</span>')+'</div>'
+        + (f ? '' : ' <span class="meta">— '+(fromVenue?'details from the '+esc(venueName(i.venueId))+' listing':'listed with no TMDB data'+(i.film?'':' (no match found)'))+'</span>')+'</div>'
    + '<div class="meta" data-show="meta"'+(meta?'':' hidden')+'>'+meta+'</div>'
    + '<div class="links">'+(letterboxdUrl(i) ? '<a class="lbx" data-lbx href="'+esc(letterboxdUrl(i))+'" target="_blank" rel="noopener" title="Open on Letterboxd (b)">Letterboxd ↗</a>' : '')
    + (f ? '<a href="https://www.themoviedb.org/movie/'+f.tmdbId+'" target="_blank" rel="noopener">TMDB ↗</a>' : '') + '</div>'

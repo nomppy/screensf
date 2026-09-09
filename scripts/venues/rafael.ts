@@ -98,6 +98,7 @@ function parseFilm(html: string, url: string, venue: Venue, hint: { year: number
   const director = credit ? credit[1].replace(/[,;\s]+$/, '') : undefined;
   const year = credit ? Number(credit[3]) : undefined;
   const runtime = credit?.[4] ? Number(credit[4]) : undefined;
+  const synopsis = (credit ? body.replace(credit[0], '') : body).replace(/^[.\s]+|[.\s]+$/g, '').trim();
 
   const poster = $('img[src*="/drive_serve/"]').first().attr('src');
   const image = ogImage(html, url) ?? (poster ? new URL(poster, url).toString() : undefined);
@@ -125,7 +126,7 @@ function parseFilm(html: string, url: string, venue: Venue, hint: { year: number
         });
       if (!date || !time) return;
 
-      out.push({ venueId: venue.id, rawTitle: title, date, time, url, note, format, image, director, year, runtime });
+      out.push({ venueId: venue.id, rawTitle: title, date, time, url, note, format, image, director, year, runtime, synopsis: synopsis.length > 40 ? synopsis : undefined });
     } catch (err) {
       console.warn(`  rafael: bad showtime on ${url}: ${(err as Error).message}`);
     }

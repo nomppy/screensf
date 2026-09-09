@@ -101,6 +101,7 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
       }
     }
     let record: Film = film ?? { key: fallbackKey(item.candidates[0], item.year), title: item.candidates[0], year: item.year };
+    record = withVenueDetails(record, item.hints);
     record = withEdits(record, decision?.edits);
     record = withArtwork(record, item.venueImage, decision?.image);
     seenFilms[record.key] = record;
@@ -142,6 +143,18 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
   const data: ScheduleData = { generatedAt: new Date().toISOString(), films, screenings, festivals };
   saveSchedule(data);
   return { data, included, excluded, pending, seenFilms, rawFilmKey };
+}
+
+/** Fill fields TMDB left empty with what the venue's own listing said (all of them for a title-only film). */
+export function withVenueDetails(film: Film, hints?: VenueHints): Film {
+  if (!hints) return film;
+  return {
+    ...film,
+    year: film.year ?? hints.year,
+    director: film.director ?? hints.director,
+    runtime: film.runtime ?? hints.runtime,
+    overview: film.overview ?? hints.synopsis,
+  };
 }
 
 /** Apply hand edits from review on top of the TMDB record. Empty strings clear a field. */
