@@ -714,10 +714,14 @@ function wire(i, el) {
 // ---- keyboard: spatial hjkl across the grid, selection keys within a card --
 function cards() { return [...document.querySelectorAll('#grid .item')]; }
 function focusedCard() { const a=document.activeElement; return a && a.closest ? a.closest('.item') : null; }
+// Remember the last card that had focus, so a key pressed after focus was lost (a closed editor,
+// a removed element, a click on empty space) resumes there instead of at the top of the list.
+document.addEventListener('focusin', (e) => { const c = e.target && e.target.closest ? e.target.closest('.item') : null; if (c) state.lastFocusKey = c.dataset.key; });
+function resumeCard() { if (!state.lastFocusKey) return null; const el = document.querySelector('#grid [data-key="'+cssEsc(state.lastFocusKey)+'"]'); if (el) { el.focus({preventScroll:true}); } return el; }
 function itemOf(el) { return el ? state.items.find(x=>x.key===el.dataset.key) : null; }
 function move(dir) {
   const all = cards(); if (!all.length) return;
-  const el = focusedCard();
+  let el = focusedCard() || resumeCard();
   if (!el) { all[0].focus({preventScroll:true}); all[0].scrollIntoView({block:'center'}); return; }
   const idx = all.indexOf(el); let nx = null;
   if (dir==='l') nx = all[idx+1]; else if (dir==='h') nx = all[idx-1];
@@ -739,7 +743,7 @@ document.addEventListener('keydown', (e) => {
   if ('hjkl'.includes(k) && k.length===1) { move(k); e.preventDefault(); return; }
   if (k==='f') { setLayout(state.layout==='focus' ? 'grid' : 'focus'); e.preventDefault(); return; }
   if (k==='Enter' && state.layout!=='focus' && focusedCard()) { setLayout('focus'); e.preventDefault(); return; }
-  const el = focusedCard(), i = itemOf(el);
+  const el = focusedCard() || resumeCard(), i = itemOf(el);
   if (k==='u') { const t = (i && i.decision) ? i : state.last; if (t) { undo(t); const te=cardEl(t); if (te) { te.focus({preventScroll:true}); te.scrollIntoView({block:'nearest'}); } } e.preventDefault(); return; }
   if (!i) return;
   if (k==='y') { if (!(i.decision && i.decision.decision==='include' && !dirty(i))) commit(i,'include'); }
