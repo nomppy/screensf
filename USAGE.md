@@ -69,18 +69,20 @@ Every undecided title appears as a card with the venue's raw title, TMDB's best 
 
 Then press **Include** (saves the selected match, artwork and edits), **Exclude**, or use `t` for title only. The card stays where it is with a badge and an Undo button, and a toast at the bottom offers Undo too. Focus moves on to the next undecided card automatically. Decisions save to `data/decisions.json` and the schedule rebuilds about a second later; if `npm run dev` is running in another terminal, the site updates live. On an already-decided card the Include button becomes **Save changes** whenever your selection differs from what was saved.
 
-Cards are ordered by their first upcoming showtime under day headings, the same order as the site, so what you approve appears where you expect it; the **By venue** chip switches to the sync order instead. Two layouts, toggled in the header or with `f`: **Focus** (default) shows one film at a time across the full width, with the artwork on the left, details and the full description in the middle, and the movie and artwork options on the right. **Grid** packs many compact cards per row (artwork, title, guess, reason, showtimes and the decision buttons); press Enter on a card there to open it in Focus. The choice is remembered in the browser.
+Cards are ordered by their first upcoming showtime under day headings, the same order as the site, so what you approve appears where you expect it; the **By venue** chip switches to the sync order instead. Two layouts, toggled in the header or with `f`: **Focus** (default) shows one film at a time across the full width, with the artwork on the left, details and the full description in the middle, and the movie and artwork options on the right. **Grid** packs many compact cards per row (artwork, title, guess, reason, showtimes and the decision buttons); press `o` or Enter on a card there to open it in Focus, and `i` to come back. The choice is remembered in the browser.
 
 Keyboard shortcuts (press `h` `j` `k` `l` with nothing focused to focus the first card):
 
 | Key | Action |
 |---|---|
 | `h` / `l` | Previous / next card |
+| `o` | In Grid: open the card in Focus. In Focus: view the artwork full size |
+| `i` | Back to the Grid |
 | `f` | Toggle Focus / Grid layout |
 | `j` / `k` | Card below / above |
 | `m` | Cycle the movie match (`1`–`9` pick directly, `0` is title only) |
 | `M` | Cycle the artwork |
-| `o` | View the artwork full size (`h` `l` browse, `esc` closes) |
+
 | `d` | Open or close the details editor |
 | `b` | Open the selected match on Letterboxd |
 | `O` | Open the theatre's listing page |

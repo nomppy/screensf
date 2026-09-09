@@ -388,8 +388,8 @@ const PAGE = /* html */ `<!doctype html>
     <button class="chip" data-layout="grid" aria-pressed="false">Grid</button>
   </div>
   <div class="spacer"></div>
-  <span class="help"><span class="kbd">h</span><span class="kbd">j</span><span class="kbd">k</span><span class="kbd">l</span> move · <span class="kbd">f</span> layout ·
-    <span class="kbd">m</span> movie · <span class="kbd">M</span> artwork · <span class="kbd">o</span> full size · <span class="kbd">/</span> search ·
+  <span class="help"><span class="kbd">h</span><span class="kbd">j</span><span class="kbd">k</span><span class="kbd">l</span> move · <span class="kbd">o</span> open · <span class="kbd">i</span> grid ·
+    <span class="kbd">m</span> movie · <span class="kbd">M</span> artwork · <span class="kbd">o</span> full size (in focus) · <span class="kbd">/</span> search ·
     <span class="kbd">d</span> edit details · <span class="kbd">b</span> letterboxd · <span class="kbd">O</span> theatre page · <span class="kbd">y</span> include · <span class="kbd">t</span> title only · <span class="kbd">n</span> exclude · <span class="kbd">u</span> undo</span>
   <span class="status" id="status"></span>
   <button class="chip" id="rebuild" title="Regenerate data/screenings.json from the last sync snapshot plus your decisions. This already happens automatically about a second after every decision; the button is only for forcing it (for example after a failed build).">Rebuild now</button>
@@ -783,7 +783,9 @@ document.addEventListener('keydown', (e) => {
   const k = e.key;
   if ('hjkl'.includes(k) && k.length===1) { move(k); e.preventDefault(); return; }
   if (k==='f') { setLayout(state.layout==='focus' ? 'grid' : 'focus'); e.preventDefault(); return; }
-  if (k==='Enter' && state.layout!=='focus' && focusedCard()) { setLayout('focus'); e.preventDefault(); return; }
+  if (k==='i') { setLayout('grid'); e.preventDefault(); return; }
+  // In the grid, o (or Enter) opens the focused card in Focus; a second o then opens the artwork full size.
+  if ((k==='o' || k==='Enter') && state.layout!=='focus' && (focusedCard() || resumeCard())) { setLayout('focus'); e.preventDefault(); return; }
   const el = focusedCard() || resumeCard(), i = itemOf(el);
   if (k==='u') { const t = (i && i.decision) ? i : state.last; if (t) { undo(t); const te=cardEl(t); if (te) { te.focus({preventScroll:true}); te.scrollIntoView({block:'nearest'}); } } e.preventDefault(); return; }
   if (!i) return;
