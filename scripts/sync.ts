@@ -29,7 +29,7 @@ import { ask, closePrompt, color } from './lib/prompt.ts';
 import { loadDecisions, loadVenues, saveDecisions } from './lib/store.ts';
 import { describeMovie, filmFromTmdb, matchFilm, movieOverview, nowPlayingIds } from './lib/tmdb.ts';
 import { cleanTitleCandidates, extractYear, normalizeTitle } from './lib/titles.ts';
-import type { DecisionRecord, Film, RawScreening, Venue } from './lib/types.ts';
+import type { DecisionRecord, Film, RawScreening, Venue, VenueHints } from './lib/types.ts';
 import { scrapeAlamo } from './venues/alamo.ts';
 import { scrapeAta } from './venues/ata.ts';
 import { scrapeBampfa } from './venues/bampfa.ts';
@@ -138,6 +138,11 @@ async function main() {
     process.stdout.write(`\r${progressBar(n, groups.size)} matching ${n}/${groups.size} titles   `);
     const sample = g.raws[0];
     const prior: DecisionRecord | undefined = decisions[key];
+    const hints: VenueHints = {
+      director: g.raws.find((r) => r.director)?.director,
+      year: g.raws.find((r) => r.year)?.year,
+      runtime: g.raws.find((r) => r.runtime)?.runtime,
+    };
 
     let film: Film | null = null;
     let confident = false;
@@ -148,7 +153,7 @@ async function main() {
     } else if (prior?.tmdbId === null) {
       film = null;
     } else {
-      const m = await matchFilm(g.candidates, g.year);
+      const m = await matchFilm(g.candidates, g.year, hints);
       alternatives = m.alternatives;
       confident = m.confident;
       if (m.best) film = await filmFromTmdb(m.best.id, nowPlaying.has(m.best.id));
@@ -166,6 +171,7 @@ async function main() {
       alternatives,
       action: verdict.action,
       reason: verdict.reason,
+      hints: hints.director || hints.year || hints.runtime ? hints : undefined,
     });
   }
   process.stdout.write('\n');

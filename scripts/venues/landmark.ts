@@ -40,6 +40,13 @@ interface Movie {
   title?: string;
   poster?: string;
   locale?: { title?: string };
+  /** Director names, e.g. ["Joe Swanberg"]. */
+  direction?: string[];
+  /** Runtime in seconds. */
+  runtime?: number;
+  /** First release date, ISO. */
+  release?: string;
+  releases?: { releasedAt?: string }[];
 }
 
 interface EventNode {
@@ -111,6 +118,9 @@ export async function scrapeLandmark(venue: Venue): Promise<RawScreening[]> {
             note: note ?? subtitleNote(s.tags ?? []),
             format: formatFrom(s.tags ?? []),
             image: movie?.poster,
+            director: movie?.direction?.filter(Boolean).join(', ') || undefined,
+            year: releaseYear(movie),
+            runtime: movie?.runtime ? Math.round(movie.runtime / 60) : undefined,
           });
         } catch (err) {
           console.warn(`  ${venue.id}: bad showtime ${s.id}: ${(err as Error).message}`);
@@ -119,6 +129,12 @@ export async function scrapeLandmark(venue: Venue): Promise<RawScreening[]> {
     }
   }
   return out;
+}
+
+function releaseYear(movie?: Movie): number | undefined {
+  const dates = [movie?.release, ...(movie?.releases ?? []).map((r) => r.releasedAt)].filter((d): d is string => !!d).sort();
+  const y = dates[0] ? Number(dates[0].slice(0, 4)) : NaN;
+  return y > 1880 && y < 2100 ? y : undefined;
 }
 
 /** "/theaters/x00u8-landmark-opera-plaza…" or "/our-locations/x00u8-…" -> "X00U8". */

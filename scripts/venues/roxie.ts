@@ -1,5 +1,5 @@
 import * as cheerio from 'cheerio';
-import { fetchText } from '../lib/http.ts';
+import { fetchText, fetchTextCached } from '../lib/http.ts';
 import { isTimeLike, parseLongDate, parseTime } from '../lib/dates.ts';
 import type { RawScreening, Venue } from '../lib/types.ts';
 
@@ -20,7 +20,43 @@ export async function scrapeRoxie(venue: Venue): Promise<RawScreening[]> {
 
   let out = walkHeadings($, venue);
   if (!out.length) out = pluginClasses($, venue);
-  return dedupe(out);
+  out = dedupe(out);
+  await addFilmDetails(out);
+  return out;
+}
+
+/**
+ * Each /film/<slug>/ page has a details block: <h5 class="content-film__film-details-title">Director</h5>
+ * followed by the value as text; likewise Year and Runtime ("2h 6m"). Pages are cached for a week.
+ */
+async function addFilmDetails(list: RawScreening[]) {
+  const urls = [...new Set(list.map((s) => s.url).filter((u) => u.includes('/film/')))];
+  for (const url of urls) {
+    let html: string;
+    try {
+      html = await fetchTextCached(url, 7 * 24 * 60 * 60 * 1000);
+    } catch (err) {
+      console.warn(`  roxie: ${url} failed (${(err as Error).message})`);
+      continue;
+    }
+    const $ = cheerio.load(html);
+    const details: Record<string, string> = {};
+    $('.content-film__film-details-item').each((_, el) => {
+      const $el = $(el);
+      const label = $el.find('.content-film__film-details-title').first().text().trim().toLowerCase();
+      const value = $el.clone().children('h5').remove().end().text().replace(/\s+/g, ' ').trim();
+      if (label && value) details[label] = value;
+    });
+    const year = Number((details.year ?? '').match(/\b(1[89]\d{2}|20\d{2})\b/)?.[1]);
+    const rt = details.runtime?.match(/(?:(\d+)\s*h)?\s*(?:(\d+)\s*m)?/);
+    const runtime = rt && (rt[1] || rt[2]) ? Number(rt[1] ?? 0) * 60 + Number(rt[2] ?? 0) : Number(details.runtime?.match(/(\d+)\s*min/)?.[1]);
+    for (const s of list) {
+      if (s.url !== url) continue;
+      if (details.director && details.director.length < 120) s.director = details.director;
+      if (year) s.year = year;
+      if (runtime) s.runtime = runtime;
+    }
+  }
 }
 
 function walkHeadings($: cheerio.CheerioAPI, venue: Venue): RawScreening[] {

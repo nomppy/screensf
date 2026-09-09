@@ -26,6 +26,19 @@ export interface RawScreening {
   format?: string;
   /** Artwork from the venue's own listing (Squarespace asset, og:image). */
   image?: string;
+  /** Director(s) as the venue lists them, when the listing says. Used to confirm the TMDB match. */
+  director?: string;
+  /** Release year as the venue lists it. */
+  year?: number;
+  /** Runtime in minutes as the venue lists it. */
+  runtime?: number;
+}
+
+/** What the venue itself said about the film, pooled across its showtimes. */
+export interface VenueHints {
+  director?: string;
+  year?: number;
+  runtime?: number;
 }
 
 export interface Film {

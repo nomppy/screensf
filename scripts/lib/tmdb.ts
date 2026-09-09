@@ -1,6 +1,6 @@
 import { fetchJson, JsonCache } from './http.ts';
 import { normalizeTitle } from './titles.ts';
-import type { Film, TmdbDetails, TmdbMovie } from './types.ts';
+import type { VenueHints, Film, TmdbDetails, TmdbMovie } from './types.ts';
 
 const API = 'https://api.themoviedb.org/3';
 const IMG = 'https://image.tmdb.org/t/p';
@@ -72,13 +72,41 @@ export interface MatchResult {
   alternatives: TmdbMovie[];
 }
 
+/** Surname-level comparison of director names: "Kom Akkadej" vs "Akkadej Kom", diacritics and initials ignored. */
+export function directorsAgree(a?: string, b?: string): boolean | undefined {
+  if (!a || !b) return undefined;
+  const names = (s: string) =>
+    s
+      .split(/,|&|\band\b|\//i)
+      .map((n) => n.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z ]+/g, ' ').trim())
+      .filter(Boolean);
+  const tokens = (n: string) => n.split(/\s+/).filter((t) => t.length > 1);
+  for (const x of names(a)) for (const y of names(b)) {
+    const tx = tokens(x), ty = tokens(y);
+    if (!tx.length || !ty.length) continue;
+    if (x === y) return true;
+    // Same surname (last token) and the other tokens overlap or one side is a single name.
+    if (tx[tx.length - 1] === ty[ty.length - 1] && (tx.length === 1 || ty.length === 1 || tx.some((t) => ty.includes(t) && t !== tx[tx.length - 1]))) return true;
+    if (tx.length >= 2 && ty.length >= 2 && tx.every((t) => ty.includes(t))) return true;
+  }
+  return false;
+}
+
+const yearOf = (m: TmdbMovie) => (m.release_date ? Number(m.release_date.slice(0, 4)) : undefined);
+
 /**
  * Try each candidate title in order. An exact normalized-title match wins
  * immediately. Otherwise keep the first non-empty result set and mark it
  * unconfident so the user gets asked.
+ *
+ * When the venue listed a director (and/or year), the results are checked
+ * against TMDB credits: a director match confirms a film even when the
+ * title differs, and an exact title whose director and year both disagree
+ * is demoted so a same-named film does not slip through.
  */
-export async function matchFilm(candidates: string[], yearHint?: number): Promise<MatchResult> {
+export async function matchFilm(candidates: string[], yearHint?: number, hints: VenueHints = {}): Promise<MatchResult> {
   let fallback: TmdbMovie[] = [];
+  const nearYear = (m: TmdbMovie) => hints.year !== undefined && yearOf(m) !== undefined && Math.abs((yearOf(m) as number) - hints.year) <= 1;
   for (const cand of candidates) {
     const norm = normalizeTitle(cand);
     if (!norm) continue;
@@ -87,17 +115,42 @@ export async function matchFilm(candidates: string[], yearHint?: number): Promis
     const exact = results.filter(
       (r) => normalizeTitle(r.title) === norm || (r.original_title && normalizeTitle(r.original_title) === norm),
     );
+
+    // Director check: look up credits for the handful of plausible results.
+    const byDirector = new Map<number, boolean | undefined>();
+    if (hints.director) {
+      const pool = [...exact, ...results.filter((r) => !exact.includes(r))].slice(0, 6);
+      for (const r of pool) {
+        try {
+          const d = await movieDetails(r.id);
+          const dir = d.credits?.crew?.filter((c) => c.job === 'Director').map((c) => c.name).join(', ');
+          byDirector.set(r.id, directorsAgree(hints.director, dir));
+        } catch {
+          byDirector.set(r.id, undefined);
+        }
+      }
+      const confirmed = pool.filter((r) => byDirector.get(r.id) === true);
+      if (confirmed.length) {
+        confirmed.sort((a, b) => (exact.includes(b) ? 1 : 0) - (exact.includes(a) ? 1 : 0) || (nearYear(b) ? 1 : 0) - (nearYear(a) ? 1 : 0) || (b.popularity ?? 0) - (a.popularity ?? 0));
+        return { best: confirmed[0], confident: true, alternatives: results.filter((r) => r.id !== confirmed[0].id).slice(0, 4) };
+      }
+    }
+
     if (exact.length) {
       // Prefer the year hint, then the most popular.
       exact.sort((a, b) => {
-        if (yearHint) {
-          const ay = a.release_date?.slice(0, 4) === String(yearHint) ? 1 : 0;
-          const by = b.release_date?.slice(0, 4) === String(yearHint) ? 1 : 0;
+        const y = yearHint ?? hints.year;
+        if (y) {
+          const ay = Math.abs((yearOf(a) ?? 0) - y) <= 1 ? 1 : 0;
+          const by = Math.abs((yearOf(b) ?? 0) - y) <= 1 ? 1 : 0;
           if (ay !== by) return by - ay;
         }
         return (b.popularity ?? 0) - (a.popularity ?? 0);
       });
-      return { best: exact[0], confident: true, alternatives: results.filter((r) => r.id !== exact[0].id).slice(0, 4) };
+      const best = exact[0];
+      // Exact title, but the venue's director and year both disagree: probably a different film with the same name.
+      const contradicted = byDirector.get(best.id) === false && hints.year !== undefined && yearOf(best) !== undefined && !nearYear(best);
+      return { best, confident: !contradicted, alternatives: results.filter((r) => r.id !== best.id).slice(0, 4) };
     }
     if (!fallback.length) fallback = results;
   }

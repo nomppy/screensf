@@ -128,10 +128,10 @@ function parseMonth(html: string, venue: Venue, base: string, from: string, to: 
 
           const id = $title.attr('data-id');
           const popup = id ? $(td).find(`.popupboxthing[data-popup="${id}"]`).first() : $();
-          const { note, format, image } = popupDetails($, popup, base);
+          const { note, format, image, director, year } = popupDetails($, popup, base);
 
           out.push({
-            screening: { venueId: venue.id, rawTitle, date, time, url, note, format, image },
+            screening: { venueId: venue.id, rawTitle, date, time, url, note, format, image, director, year },
             hasCredits: popup.find('.cb_details').length > 0,
           });
         } catch (err) {
@@ -146,9 +146,13 @@ function popupDetails(
   $: cheerio.CheerioAPI,
   popup: cheerio.Cheerio<cheerio.AnyNode>,
   base: string,
-): { note?: string; format?: string; image?: string } {
+): { note?: string; format?: string; image?: string; director?: string; year?: number } {
   if (!popup.length) return {};
   const clean = (s: string) => s.replace(/\s+/g, ' ').trim();
+
+  // Credits block: <div class="cb_details"><div class="director cb_person"> Alice Diop, </div> … <div class="year cb_year"> 2022 </div>
+  const director = clean(popup.find('.cb_details .cb_person').first().text()).replace(/[,;\s]+$/, '') || undefined;
+  const year = Number(clean(popup.find('.cb_details .cb_year').first().text()).match(/\b(1[89]\d{2}|20\d{2})\b/)?.[1]) || undefined;
 
   const parts: string[] = [];
   const series = clean(popup.find('.parent-series a').first().text());
@@ -178,7 +182,7 @@ function popupDetails(
   const format = formatIn(info);
   const src = popup.find('.image img').first().attr('src');
   const image = src ? new URL(src, `${base}/`).toString() : undefined;
-  return { note, format, image };
+  return { note, format, image, director, year };
 }
 
 /** Print Info list on the event page: <h4>Print Info</h4><ul><li>B&W</li><li>35mm</li><li>85 mins</li></ul>. */

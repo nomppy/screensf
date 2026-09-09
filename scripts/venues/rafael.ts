@@ -93,6 +93,11 @@ function parseFilm(html: string, url: string, venue: Venue, hint: { year: number
   const body = clean(cheerio.load(bodyHtml.replace(/<br\s*\/?>/gi, '. '))('body').text());
   const note = buildNote(kind, blurb, body);
   const format = detectFormat(`${title} ${blurb} ${body}`);
+  // "Director: Andrew Patterson (US/UK 2026) 130 min." — also seen as "Directed by".
+  const credit = body.match(/\bDirect(?:or|ors|ed by)s?:?\s*([^()]{2,120}?)\s*\(([^()]*?)\b(1[89]\d{2}|20\d{2})\)\s*(\d{2,3})?\s*min/i);
+  const director = credit ? credit[1].replace(/[,;\s]+$/, '') : undefined;
+  const year = credit ? Number(credit[3]) : undefined;
+  const runtime = credit?.[4] ? Number(credit[4]) : undefined;
 
   const poster = $('img[src*="/drive_serve/"]').first().attr('src');
   const image = ogImage(html, url) ?? (poster ? new URL(poster, url).toString() : undefined);
@@ -120,7 +125,7 @@ function parseFilm(html: string, url: string, venue: Venue, hint: { year: number
         });
       if (!date || !time) return;
 
-      out.push({ venueId: venue.id, rawTitle: title, date, time, url, note, format, image });
+      out.push({ venueId: venue.id, rawTitle: title, date, time, url, note, format, image, director, year, runtime });
     } catch (err) {
       console.warn(`  rafael: bad showtime on ${url}: ${(err as Error).message}`);
     }

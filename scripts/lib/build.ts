@@ -9,7 +9,7 @@ import { horizonEndLA, todayLA } from './dates.ts';
 import { loadDecisions, loadManual, saveSchedule, screeningId } from './store.ts';
 import { filmFromTmdb } from './tmdb.ts';
 import { extractFormat, extractNoteFromTitle, fallbackKey } from './titles.ts';
-import type { DecisionRecord, Festival, Film, FilmEdits, RawScreening, ScheduleData, Screening, TmdbMovie, Venue } from './types.ts';
+import type { DecisionRecord, Festival, Film, FilmEdits, RawScreening, VenueHints, ScheduleData, Screening, TmdbMovie, Venue } from './types.ts';
 
 export interface ResolvedItem {
   key: string;
@@ -25,6 +25,8 @@ export interface ResolvedItem {
   reason: string;
   /** Artwork from the venue's listing page, used when TMDB has none or when chosen in review. */
   venueImage?: string;
+  /** Director / year / runtime as the venue listed them. */
+  hints?: VenueHints;
 }
 
 export interface ResolvedSnapshot {
