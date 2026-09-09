@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:47:55.640Z",
+  "generatedAt": "2026-09-09T17:59:14.422Z",
   "films": {
     "tmdb:11229": {
       "key": "tmdb:11229",
@@ -423,32 +423,6 @@
       "overview": "At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a star pupil and stroke seat on the rowing team, but her clandestine affair with a young chemist from another college leads her into trouble when she discovers she’s pregnant. As Christa’s attention in school slips, she incurs the discipline of the team’s steely coach, Hannah (Kay Johnson), who removes her from the boat and threatens expulsion. Worse, Christa’s businessman father (Walter Connelly) objects to marriage between Christa and David over concerns that David’s studies doom him to a life of poverty. How will Christa and her coming baby keep an even keel through all this choppy water?",
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/Untitled-design-2-1.jpg"
     },
-    "tmdb:1431004": {
-      "key": "tmdb:1431004",
-      "title": "Memorizing Alison",
-      "year": 2025,
-      "director": "J.P. Allen",
-      "runtime": 92,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/nxJ968LYee8ya2LoxoYk78S4Bru.jpg",
-      "tmdbId": 1431004,
-      "popularity": 1.5688,
-      "releaseDate": "2025-02-06",
-      "overview": "A man with an extraordinary but failing memory tries to solve the mystery of what happened to a woman killed by a hit-and-run driver."
-    },
-    "tmdb:1529660": {
-      "key": "tmdb:1529660",
-      "title": "A Welcome Distraction",
-      "year": 2025,
-      "director": "Brian Daniel Johnson",
-      "runtime": 97,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/6vQ4csoj606iDzCGa239d3XtgiV.jpg",
-      "tmdbId": 1529660,
-      "popularity": 0.8961,
-      "releaseDate": "2025-10-09",
-      "overview": "In the wake of tragedy, a young man goes to great lengths to avoid confronting his family."
-    },
     "tmdb:540": {
       "key": "tmdb:540",
       "title": "D.E.B.S.",
@@ -503,20 +477,6 @@
       "popularity": 2.4586,
       "releaseDate": "2023-11-12",
       "overview": "One of the world’s youngest elite rock climbers, Ashima Shiraishi spent her formative years breaking numerous age-based climbing milestones, spurred on by her number one fan and coach, her father, Poppo a retired Butoh dancer and avant-garde performer with no formal climbing experience. When these New Yorkers travel to South Africa to conquer a V14 boulder problem, father and daughter must face their interpersonal struggles in tandem with the challenging ascent."
-    },
-    "tmdb:1666362": {
-      "key": "tmdb:1666362",
-      "title": "Figaro Up, Figaro Down",
-      "year": 2026,
-      "director": "Javid Soriano",
-      "runtime": 75,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/hzNctnbkY1x3xtKgb8DTj2RF8CQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/10zp6WDYjQYvsP4A6Y8GxvTDyXU.jpg",
-      "tmdbId": 1666362,
-      "popularity": 0.5038,
-      "releaseDate": "2026-04-27",
-      "overview": "Tim Blevins trained at Juilliard, enthralling opera fans with his baritone before losing it all to addiction and landing on the streets of San Francisco. But then he pulled off a stunning comeback."
     },
     "t:zoe presents memorex rexsexex y mas": {
       "key": "t:zoe presents memorex rexsexex y mas",
@@ -729,20 +689,6 @@
       "releaseDate": "1988-06-03",
       "overview": "When a young boy makes a wish at a carnival machine to be big, he wakes up the following morning to find that it has been granted and his body has grown older overnight, but he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups, including getting a job and having his first romantic encounter with a woman."
     },
-    "tmdb:1598661": {
-      "key": "tmdb:1598661",
-      "title": "National Theatre Live: The Playboy of the Western World",
-      "year": 2026,
-      "director": "Caitriona McLaughlin",
-      "runtime": 157,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/hFA2KlHAExXZFs7sZ7YtxtblDQC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/aycPE77PLSClLBOF5XjEz2Rgj13.jpg",
-      "tmdbId": 1598661,
-      "popularity": 3.031,
-      "releaseDate": "2026-05-28",
-      "overview": "Pegeen Flaherty’s life is turned upside down when a young man walks into her pub claiming that he’s killed his father. Instead of being shunned, the killer becomes a local hero and begins to win hearts, that is until a second man unexpectedly arrives on the scene..."
-    },
     "tmdb:76341": {
       "key": "tmdb:76341",
       "title": "Mad Max: Fury Road",
@@ -798,20 +744,6 @@
       "popularity": 4.6675,
       "releaseDate": "1994-09-28",
       "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful."
-    },
-    "tmdb:1567804": {
-      "key": "tmdb:1567804",
-      "title": "Fugs Film!",
-      "year": 2025,
-      "director": "Chuck Smith",
-      "runtime": 84,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/e8QsF8FR3cni0Ra0B2DQHlif4pI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/gmMLvZcFFN3NuHKlFuUZkM6LItV.jpg",
-      "tmdbId": 1567804,
-      "popularity": 1.286,
-      "releaseDate": "2025-11-20",
-      "overview": "In 1960s New York City, radical rock band The Fugs channels the raw energy of counterculture rebellion through their provocative music and anti-establishment stance."
     },
     "tmdb:16363": {
       "key": "tmdb:16363",
@@ -896,6 +828,20 @@
       "releaseDate": "1985-08-28",
       "overview": "Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess  Lili and defeat the demonic Lord of Darkness, or the world will be plunged into a never-ending ice age."
     },
+    "tmdb:793": {
+      "key": "tmdb:793",
+      "title": "Blue Velvet",
+      "year": 1986,
+      "director": "David Lynch",
+      "runtime": 120,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/s1CBwblInR0ZBIv59CSko2QdLD3.jpg",
+      "tmdbId": 793,
+      "popularity": 10.2669,
+      "releaseDate": "1986-09-19",
+      "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
+    },
     "tmdb:402": {
       "key": "tmdb:402",
       "title": "Basic Instinct",
@@ -909,6 +855,20 @@
       "popularity": 16.8499,
       "releaseDate": "1992-03-20",
       "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story."
+    },
+    "tmdb:4011": {
+      "key": "tmdb:4011",
+      "title": "Beetlejuice",
+      "year": 1988,
+      "director": "Tim Burton",
+      "runtime": 92,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+      "tmdbId": 4011,
+      "popularity": 14.5289,
+      "releaseDate": "1988-03-30",
+      "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
     },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
@@ -1007,20 +967,6 @@
       "popularity": 11.3447,
       "releaseDate": "2001-03-18",
       "overview": "Carmen and Juni think their parents are boring. Little do they know that in their day, Gregorio and Ingrid Cortez were the top secret agents from their respective countries. They gave up that life to raise their children. Now, the disappearances of several of their old colleagues forces the Cortez' return from retirement. What they didn't count on was Carmen and Juni joining the \"family business.\""
-    },
-    "tmdb:1618403": {
-      "key": "tmdb:1618403",
-      "title": "40 Years of Fuckin' Up",
-      "year": 2026,
-      "director": "James Buddy Day",
-      "runtime": 120,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/OtXVfMpLzMijaY1u4tGT2Q82Vj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hkjwMwkPHwumJe7TmzWD250wehF.jpg",
-      "tmdbId": 1618403,
-      "popularity": 0.9833,
-      "releaseDate": "2026-03-15",
-      "overview": "The Truth Behind The Insanity of The Iconic Punk Band NOFX"
     },
     "tmdb:11000": {
       "key": "tmdb:11000",
@@ -1147,20 +1093,6 @@
       "popularity": 1.5174,
       "releaseDate": "1985-02-16",
       "overview": "Umiemon is a naniwa-bushi singer who travels with his wife to the United States in hopes of achieving fame and fortune."
-    },
-    "tmdb:1491336": {
-      "key": "tmdb:1491336",
-      "title": "Castration Movie Anthology ii. The Best of Both Worlds",
-      "year": 2025,
-      "director": "Louise Weard",
-      "runtime": 300,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/rtxXBBBr7sjW9KQz02dSjDfaV0m.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/1PI63GDOAWSJ0U8Y66PZplVhxEh.jpg",
-      "tmdbId": 1491336,
-      "popularity": 1.1043,
-      "releaseDate": "2025-09-13",
-      "overview": "In New York, Circle tries to leave a trans separatist cult."
     },
     "tmdb:27292": {
       "key": "tmdb:27292",
@@ -1321,34 +1253,6 @@
       "popularity": 4.5883,
       "releaseDate": "2004-06-10",
       "overview": "What does it take to become a Stepford wife, a woman perfect beyond belief? Ask the Stepford husbands, who've created this high-tech, terrifying little town."
-    },
-    "tmdb:1000866": {
-      "key": "tmdb:1000866",
-      "title": "The Marching Band",
-      "year": 2024,
-      "director": "Emmanuel Courcol",
-      "runtime": 102,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/6lATJ42bWGAIQ0cG2dzSZD8bNcL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fIbr7oWorx5rOzdjOiIFtfFUXzp.jpg",
-      "tmdbId": 1000866,
-      "popularity": 4.4677,
-      "releaseDate": "2024-11-27",
-      "overview": "A world-famous orchestra conductor discovers the brother he never knew he had — a school cafeteria worker who plays trombone in a local marching band. Detecting his brother's exceptional musical talent, he takes it upon himself to rectify the injustice of fate."
-    },
-    "tmdb:1127625": {
-      "key": "tmdb:1127625",
-      "title": "The Salt Path",
-      "year": 2024,
-      "director": "Marianne Elliott",
-      "runtime": 115,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/yBtmFkjzPzd6KvNgoJwwsm1nyXL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fnWwohqskLftnFZ49ibiofzo1qo.jpg",
-      "tmdbId": 1127625,
-      "popularity": 4.522,
-      "releaseDate": "2025-05-01",
-      "overview": "The profound story of husband and wife Raynor and Moth Winn, who embark on a 630-mile trek after being forcibly removed from their home. Hoping that in nature they will find solace and a sense of acceptance, they walk through the beautiful but rugged coastlines of South West England - a journey that is exhilarating, challenging, and liberating in equal measure. THE SALT PATH is a powerful portrayal of home, and how it can be lost and rediscovered in the most unexpected ways."
     },
     "tmdb:1283515": {
       "key": "tmdb:1283515",
@@ -1656,19 +1560,6 @@
       "overview": "Founded in 2018 by Sky Hopinka, Adam Khalil, Alexandra Lazarowich, and Adam Piron, COUSIN was created to support Indigenous artists expanding traditional definitions of, and experimenting with, moving image form and genre. This program offers a selection of works made by COUSIN collective artists, including Hopinka’s 2017 consideration of the Dakota Access Pipeline protest and Lindsay McIntyre’s film about caribou and lichen—made using those materials in the photographic process. A short film by Lebanese artist Christophe Katrib reflects on the dissonance he experiences living on the stolen land of the United States as “U.S-backed Israel commits genocide and ethnic cleansing on Palestine and my homeland of Lebanon.”",
       "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/COUS%2001_Hopinka_Dislocation-Blues_003.jpg?itok=57C8gKQA"
     },
-    "tmdb:1567560": {
-      "key": "tmdb:1567560",
-      "title": "Wood Street",
-      "year": 2026,
-      "director": "Caron Creighton",
-      "runtime": 100,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/jA8xUtK1U0MWkr2gWTcKJU2uCQA.jpg",
-      "tmdbId": 1567560,
-      "popularity": 2.1633,
-      "releaseDate": "2026-02-18",
-      "overview": "Two unhoused men turned community leaders— John and LaMonté —organize their neighbors in the face of displacement, addiction, and a failing social system."
-    },
     "tmdb:950028": {
       "key": "tmdb:950028",
       "title": "The Invite",
@@ -1682,17 +1573,6 @@
       "popularity": 37.4766,
       "releaseDate": "2026-06-25",
       "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?"
-    },
-    "tmdb:1639520": {
-      "key": "tmdb:1639520",
-      "title": "Dear Upstairs Neighbors",
-      "year": 2026,
-      "director": "Connie He",
-      "genre": "Animation",
-      "tmdbId": 1639520,
-      "popularity": 0.8495,
-      "releaseDate": "2026-06-06",
-      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:36685": {
       "key": "tmdb:36685",
@@ -1806,20 +1686,6 @@
       "releaseDate": "2002-12-10",
       "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago."
     },
-    "tmdb:1620477": {
-      "key": "tmdb:1620477",
-      "title": "Edie Arnold Is a Loser",
-      "year": 2026,
-      "director": "Kade Atwood, Megan Rico",
-      "runtime": 73,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/7AlkSpRja0uBBVSCXl328QFqwVS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2qYDyTf4tC6dWscniDHcnWd9hpS.jpg",
-      "tmdbId": 1620477,
-      "popularity": 2.452,
-      "releaseDate": "2026-03-13",
-      "overview": "Timid dork Edie accidentally takes the spotlight when she starts a punk band with her fellow “turds”, becoming an icon to the rest of the losers at her all-girls Catholic school while managing to piss off the hot girls, the nuns, and the horniest altar boy you’ve ever seen."
-    },
     "tmdb:10560": {
       "key": "tmdb:10560",
       "title": "Center Stage",
@@ -1875,20 +1741,6 @@
       "popularity": 12.7895,
       "releaseDate": "2007-02-14",
       "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village."
-    },
-    "tmdb:1279865": {
-      "key": "tmdb:1279865",
-      "title": "A New Dawn",
-      "year": 2026,
-      "director": "Yoshitoshi Shinomiya",
-      "runtime": 75,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/tYGMWBZtLAPLhxZei9pRJWubbo0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uuVLGMIIGwz9QbBlvDvGlfU5HkI.jpg",
-      "tmdbId": 1279865,
-      "popularity": 2.7895,
-      "releaseDate": "2026-03-06",
-      "overview": "The Obinata Fireworks Shop factory is getting prepared for an administrative action for confiscation tomorrow. It has been six years since Keitaro has been holed up in a closed-down factory creating fireworks by himself, chasing after an illusion of his father who vanished. It is a story about three young people who overcome the extreme weather conditions, disasters and environmental problems imposed on them and establish their own identities."
     },
     "tmdb:992": {
       "key": "tmdb:992",
@@ -2045,18 +1897,6 @@
       "releaseDate": "2020-03-13",
       "overview": "Once upon a time, the Venezuelan village of Congo Mirador was prosperous, alive with fisherman and poets. Now it is decaying and disintegrating—a small but prophetic reflection of Venezuela itself."
     },
-    "tmdb:1399474": {
-      "key": "tmdb:1399474",
-      "title": "American Agitators",
-      "year": 2024,
-      "director": "Raymond Telles",
-      "runtime": 94,
-      "backdrop": "https://image.tmdb.org/t/p/w780/t6Cc8GbSrhQseyBY1euftoX4ANL.jpg",
-      "tmdbId": 1399474,
-      "popularity": 0.4052,
-      "releaseDate": "2024-10-01",
-      "overview": "The story of activist Fred Ross, who helped invent modern organizing. He and his son, Fred Ross, Jr. Left a legacy and a set of techniques that are still used today."
-    },
     "tmdb:1131123": {
       "key": "tmdb:1131123",
       "title": "The Filmmaker",
@@ -2081,16 +1921,6 @@
       "time": "12:45",
       "url": "https://drafthouse.com/sf/show/it-ends?cinemaId=0801&sessionId=82912",
       "source": "alamo"
-    },
-    {
-      "id": "operaplaza:2026-09-09:14:15:tmdb:1000866",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1000866",
-      "date": "2026-09-09",
-      "time": "14:15",
-      "url": "https://www.landmarktheatres.com/movies/314009-the-marching-band/",
-      "note": "Subtitled",
-      "source": "operaplaza"
     },
     {
       "id": "operaplaza:2026-09-09:14:20:tmdb:577",
@@ -2121,31 +1951,12 @@
       "source": "rafael"
     },
     {
-      "id": "operaplaza:2026-09-09:16:30:tmdb:1127625",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1127625",
-      "date": "2026-09-09",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/316257-the-salt-path/",
-      "source": "operaplaza"
-    },
-    {
       "id": "operaplaza:2026-09-09:16:35:tmdb:1285895",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1285895",
       "date": "2026-09-09",
       "time": "16:35",
       "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "operaplaza:2026-09-09:16:45:tmdb:1000866",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1000866",
-      "date": "2026-09-09",
-      "time": "16:45",
-      "url": "https://www.landmarktheatres.com/movies/314009-the-marching-band/",
-      "note": "Subtitled",
       "source": "operaplaza"
     },
     {
@@ -2185,15 +1996,6 @@
       "format": "4K",
       "note": "Presented with English subtitles in a new 4K restoration",
       "source": "balboa"
-    },
-    {
-      "id": "rafael:2026-09-09:19:00:tmdb:1000866",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1000866",
-      "date": "2026-09-09",
-      "time": "19:00",
-      "url": "https://cinema.cafilm.org/film/the-marching-band",
-      "source": "rafael"
     },
     {
       "id": "bampfa:2026-09-09:19:00:t:push buttons and ai",
@@ -2274,16 +2076,6 @@
       "source": "alamo"
     },
     {
-      "id": "operaplaza:2026-09-10:14:15:tmdb:1000866",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1000866",
-      "date": "2026-09-10",
-      "time": "14:15",
-      "url": "https://www.landmarktheatres.com/movies/314009-the-marching-band/",
-      "note": "Subtitled",
-      "source": "operaplaza"
-    },
-    {
       "id": "roxie:2026-09-10:16:10:tmdb:16306",
       "venueId": "roxie",
       "filmKey": "tmdb:16306",
@@ -2338,16 +2130,6 @@
       "source": "rafael"
     },
     {
-      "id": "newparkway:2026-09-10:18:30:tmdb:1567560",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1567560",
-      "date": "2026-09-10",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/wood-street-with-post-film-discussion/",
-      "note": "with post-film discussion",
-      "source": "newparkway"
-    },
-    {
       "id": "balboa:2026-09-10:19:00:tmdb:149",
       "venueId": "balboa",
       "filmKey": "tmdb:149",
@@ -2366,15 +2148,6 @@
       "time": "19:00",
       "url": "https://drafthouse.com/sf/show/dire-duplicity?cinemaId=0801&sessionId=82496",
       "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-10:19:00:tmdb:1000866",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1000866",
-      "date": "2026-09-10",
-      "time": "19:00",
-      "url": "https://cinema.cafilm.org/film/the-marching-band",
-      "source": "rafael"
     },
     {
       "id": "bampfa:2026-09-10:19:00:tmdb:405779",
@@ -2417,16 +2190,6 @@
       "source": "vogue"
     },
     {
-      "id": "4star:2026-09-10:19:30:tmdb:1567804",
-      "venueId": "4star",
-      "filmKey": "tmdb:1567804",
-      "date": "2026-09-10",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/fugs-film",
-      "note": "TRASH & TREASURES presents:",
-      "source": "4star"
-    },
-    {
       "id": "castro:2026-09-10:19:30:tmdb:16363",
       "venueId": "castro",
       "filmKey": "tmdb:16363",
@@ -2443,15 +2206,6 @@
       "date": "2026-09-10",
       "time": "21:25",
       "url": "https://thenewparkway.com/movie/the-invite/",
-      "source": "newparkway"
-    },
-    {
-      "id": "newparkway:2026-09-11:15:50:tmdb:1567560",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1567560",
-      "date": "2026-09-11",
-      "time": "15:50",
-      "url": "https://thenewparkway.com/movie/wood-street/",
       "source": "newparkway"
     },
     {
@@ -2519,15 +2273,6 @@
       "date": "2026-09-11",
       "time": "18:00",
       "url": "https://thenewparkway.com/movie/the-invite/",
-      "source": "newparkway"
-    },
-    {
-      "id": "newparkway:2026-09-11:18:05:tmdb:1639520",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1639520",
-      "date": "2026-09-11",
-      "time": "18:05",
-      "url": "https://thenewparkway.com/movie/dear-upstairs-neighbors/",
       "source": "newparkway"
     },
     {
@@ -2648,15 +2393,6 @@
       "source": "bampfa"
     },
     {
-      "id": "newparkway:2026-09-12:16:20:tmdb:1567560",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1567560",
-      "date": "2026-09-12",
-      "time": "16:20",
-      "url": "https://thenewparkway.com/movie/wood-street/",
-      "source": "newparkway"
-    },
-    {
       "id": "newparkway:2026-09-12:17:15:t:filipinana",
       "venueId": "newparkway",
       "filmKey": "t:filipinana",
@@ -2772,30 +2508,12 @@
       "source": "newparkway"
     },
     {
-      "id": "newparkway:2026-09-12:23:15:tmdb:1639520",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1639520",
-      "date": "2026-09-12",
-      "time": "23:15",
-      "url": "https://thenewparkway.com/movie/dear-upstairs-neighbors/",
-      "source": "newparkway"
-    },
-    {
       "id": "newparkway:2026-09-13:12:00:tmdb:1439808",
       "venueId": "newparkway",
       "filmKey": "tmdb:1439808",
       "date": "2026-09-13",
       "time": "12:00",
       "url": "https://thenewparkway.com/movie/hadestown-the-musical/",
-      "source": "newparkway"
-    },
-    {
-      "id": "newparkway:2026-09-13:12:15:tmdb:1639520",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1639520",
-      "date": "2026-09-13",
-      "time": "12:15",
-      "url": "https://thenewparkway.com/movie/dear-upstairs-neighbors/",
       "source": "newparkway"
     },
     {
@@ -2896,15 +2614,6 @@
       "source": "stanford"
     },
     {
-      "id": "newparkway:2026-09-13:16:00:tmdb:1567560",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1567560",
-      "date": "2026-09-13",
-      "time": "16:00",
-      "url": "https://thenewparkway.com/movie/wood-street/",
-      "source": "newparkway"
-    },
-    {
       "id": "roxie:2026-09-13:17:20:tmdb:1620313",
       "venueId": "roxie",
       "filmKey": "tmdb:1620313",
@@ -3003,15 +2712,6 @@
       "source": "balboa"
     },
     {
-      "id": "newparkway:2026-09-14:17:45:tmdb:1567560",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1567560",
-      "date": "2026-09-14",
-      "time": "17:45",
-      "url": "https://thenewparkway.com/movie/wood-street/",
-      "source": "newparkway"
-    },
-    {
       "id": "roxie:2026-09-14:18:00:t:cycle of love",
       "venueId": "roxie",
       "filmKey": "t:cycle of love",
@@ -3028,25 +2728,6 @@
       "time": "18:00",
       "url": "https://roxie.com/film/letty-lynton/",
       "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-14:18:00:tmdb:1639520",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1639520",
-      "date": "2026-09-14",
-      "time": "18:00",
-      "url": "https://thenewparkway.com/movie/dear-upstairs-neighbors/",
-      "source": "newparkway"
-    },
-    {
-      "id": "vogue:2026-09-14:19:00:tmdb:1598661",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1598661",
-      "date": "2026-09-14",
-      "time": "19:00",
-      "url": "https://voguemovies.com/calendar-of-events/national-theatre-live-the-playboy-of-the-western-world-september-14",
-      "note": "Bridgerton",
-      "source": "vogue"
     },
     {
       "id": "alamo:2026-09-14:19:00:tmdb:10537",
@@ -3116,15 +2797,6 @@
       "source": "vogue"
     },
     {
-      "id": "newparkway:2026-09-15:17:45:tmdb:1639520",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1639520",
-      "date": "2026-09-15",
-      "time": "17:45",
-      "url": "https://thenewparkway.com/movie/dear-upstairs-neighbors/",
-      "source": "newparkway"
-    },
-    {
       "id": "roxie:2026-09-15:18:00:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -3142,16 +2814,6 @@
       "url": "https://roxie.com/film/gandahar-4k-restoration/",
       "format": "4K",
       "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-15:18:30:tmdb:1567560",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1567560",
-      "date": "2026-09-15",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/wood-street-with-post-film-discussion/",
-      "note": "with post-film discussion",
-      "source": "newparkway"
     },
     {
       "id": "balboa:2026-09-15:19:00:tmdb:21135",
@@ -3231,16 +2893,6 @@
       "source": "roxie"
     },
     {
-      "id": "alamo:2026-09-16:18:00:tmdb:1491336",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1491336",
-      "date": "2026-09-16",
-      "time": "18:00",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-castration-movie-anthology-ii-the-best-of-both-worlds?cinemaId=0801&sessionId=82417",
-      "note": "Weird Wednesday · The second part of auteur Louise Weard's postmodern epic",
-      "source": "alamo"
-    },
-    {
       "id": "bampfa:2026-09-16:19:00:tmdb:1596326",
       "venueId": "bampfa",
       "filmKey": "tmdb:1596326",
@@ -3272,15 +2924,6 @@
       "source": "operaplaza"
     },
     {
-      "id": "grandlake:2026-09-16:19:15:tmdb:1279865",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1279865",
-      "date": "2026-09-16",
-      "time": "19:15",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260916",
-      "source": "grandlake"
-    },
-    {
       "id": "vogue:2026-09-16:19:30:tmdb:11326",
       "venueId": "vogue",
       "filmKey": "tmdb:11326",
@@ -3288,15 +2931,6 @@
       "time": "19:30",
       "url": "https://voguemovies.com/calendar-of-events/tommy-september-16",
       "source": "vogue"
-    },
-    {
-      "id": "newparkway:2026-09-16:19:55:tmdb:1639520",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1639520",
-      "date": "2026-09-16",
-      "time": "19:55",
-      "url": "https://thenewparkway.com/movie/dear-upstairs-neighbors/",
-      "source": "newparkway"
     },
     {
       "id": "4star:2026-09-16:20:00:tmdb:98096",
@@ -3318,15 +2952,6 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-09-16:20:20:tmdb:1567560",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1567560",
-      "date": "2026-09-16",
-      "time": "20:20",
-      "url": "https://thenewparkway.com/movie/wood-street/",
-      "source": "newparkway"
-    },
-    {
       "id": "roxie:2026-09-17:15:30:tmdb:162064",
       "venueId": "roxie",
       "filmKey": "tmdb:162064",
@@ -3343,15 +2968,6 @@
       "time": "17:00",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-17",
       "source": "vogue"
-    },
-    {
-      "id": "newparkway:2026-09-17:17:25:tmdb:1639520",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1639520",
-      "date": "2026-09-17",
-      "time": "17:25",
-      "url": "https://thenewparkway.com/movie/dear-upstairs-neighbors/",
-      "source": "newparkway"
     },
     {
       "id": "roxie:2026-09-17:18:20:t:cycle of love",
@@ -3902,16 +3518,6 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-09-21:21:00:tmdb:1620477",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1620477",
-      "date": "2026-09-21",
-      "time": "21:00",
-      "url": "https://thenewparkway.com/movie/edie-arnold-is-a-loser-with-filmmaker-q-a/",
-      "note": "with Filmmaker Q & A",
-      "source": "newparkway"
-    },
-    {
       "id": "alamo:2026-09-22:15:00:tmdb:9323",
       "venueId": "alamo",
       "filmKey": "tmdb:9323",
@@ -4298,15 +3904,6 @@
       "source": "roxie"
     },
     {
-      "id": "alamo:2026-09-26:21:45:tmdb:1618403",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1618403",
-      "date": "2026-09-26",
-      "time": "21:45",
-      "url": "https://drafthouse.com/sf/show/nofx-40-years-of-fuckin-up?cinemaId=0801&sessionId=82954",
-      "source": "alamo"
-    },
-    {
       "id": "4star:2026-09-27:10:00:tmdb:8392",
       "venueId": "4star",
       "filmKey": "tmdb:8392",
@@ -4414,16 +4011,6 @@
       "source": "bampfa"
     },
     {
-      "id": "rafael:2026-09-27:16:30:tmdb:1399474",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1399474",
-      "date": "2026-09-27",
-      "time": "16:30",
-      "url": "https://cinema.cafilm.org/film/american-agitators",
-      "note": "Screening and Conversation",
-      "source": "rafael"
-    },
-    {
       "id": "roxie:2026-09-27:18:10:t:re vision 8 girls in a boat",
       "venueId": "roxie",
       "filmKey": "t:re vision 8 girls in a boat",
@@ -4471,15 +4058,6 @@
       "source": "newparkway"
     },
     {
-      "id": "roxie:2026-09-28:18:00:tmdb:1431004",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1431004",
-      "date": "2026-09-28",
-      "time": "18:00",
-      "url": "https://roxie.com/film/memorizing-alison/",
-      "source": "roxie"
-    },
-    {
       "id": "balboa:2026-09-28:19:00:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -4497,15 +4075,6 @@
       "url": "https://drafthouse.com/sf/show/queer-film-theory-101-the-birdcage?cinemaId=0801&sessionId=82422",
       "note": "Queer Film Theory 101 · Williams & Lane burst open THE BIRDCAGE in this flamboyant farcical adaptation",
       "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-09-28:20:40:tmdb:1529660",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1529660",
-      "date": "2026-09-28",
-      "time": "20:40",
-      "url": "https://roxie.com/film/staff-pick-a-welcome-distraction/",
-      "source": "roxie"
     },
     {
       "id": "roxie:2026-09-29:18:00:t:filipinana",
@@ -4774,13 +4343,14 @@
       "source": "ata"
     },
     {
-      "id": "roxie:2026-10-04:12:30:tmdb:1666362",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1666362",
+      "id": "alamo:2026-10-04:12:00:tmdb:793",
+      "venueId": "alamo",
+      "filmKey": "tmdb:793",
       "date": "2026-10-04",
-      "time": "12:30",
-      "url": "https://roxie.com/film/the-healing-well-fundraiser-figaro-up-figaro-down/",
-      "source": "roxie"
+      "time": "12:00",
+      "url": "https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-blue-velvet?cinemaId=0801&sessionId=82932",
+      "note": "Alamo Drafthouse Movie Book Club · Book Club Screening · Kyle MacLachlan's fictional self finds a severed ear",
+      "source": "alamo"
     },
     {
       "id": "bampfa:2026-10-04:13:00:tmdb:8073",
@@ -4802,6 +4372,15 @@
       "url": "https://thenewparkway.com/movie/hot-fuzz-party-at-the-parkway/",
       "note": "Party at the Parkway",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-10-05:21:30:tmdb:4011",
+      "venueId": "alamo",
+      "filmKey": "tmdb:4011",
+      "date": "2026-10-05",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=82934",
+      "source": "alamo"
     },
     {
       "id": "alamo:2026-10-06:21:30:tmdb:274",
