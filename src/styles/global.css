@@ -340,7 +340,7 @@ main.wrap { padding-bottom: 64px; }
 .modal-letterboxd:hover { color: var(--ink); text-decoration: none; border-bottom-color: var(--ink); }
 .modal-times-label { margin-top: 8px; padding-top: 14px; border-top: 1px dashed var(--hair); }
 .modal-note { margin: 0; color: var(--accent); font-style: italic; }
-.modal-desc { margin: 4px 0 0; font-size: 1.05rem; line-height: 1.55; }
+.modal-desc { margin: 4px 0 0; font-size: 1.05rem; line-height: 1.55; white-space: pre-line; }
 .modal-desc.muted { color: var(--muted); font-style: italic; }
 .modal-times { display: flex; flex-wrap: wrap; gap: 8px; }
 .modal-times a { font-family: var(--mono); font-weight: 700; font-size: 0.95rem; border: 1px solid var(--line); padding: 6px 12px; }

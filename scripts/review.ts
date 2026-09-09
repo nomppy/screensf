@@ -118,7 +118,7 @@ function cleanEdits(raw: unknown): FilmEdits | undefined {
     if (!(k in r)) continue;
     const v = r[k];
     if (v === null || v === '') out[k] = '' as never;
-    else if (typeof v === 'string') out[k] = v.trim() as never;
+    else if (typeof v === 'string') out[k] = (k === 'overview' ? v.replace(/\r\n?/g, '\n').replace(/[ \t]+\n/g, '\n').replace(/\n{3,}/g, '\n\n').trim() : v.trim()) as never;
   }
   for (const k of ['year', 'runtime'] as const) {
     if (!(k in r)) continue;
@@ -307,6 +307,7 @@ const PAGE = /* html */ `<!doctype html>
   .reason b { color:var(--warn); font-weight:600 }
   .overview { font-size:.92rem; line-height:1.45; color:var(--muted); display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; cursor:pointer }
   .overview.open { display:block; -webkit-line-clamp:unset }
+  .overview, .editor textarea { white-space:pre-line }
   .times { line-height:1.5 } .times span { white-space:nowrap }
   .sect { display:flex; gap:8px; flex-wrap:wrap; align-items:flex-start }
   .sect .label { width:100%; font-size:.75rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--muted); display:flex; gap:10px; align-items:baseline }
