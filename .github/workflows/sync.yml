@@ -57,6 +57,9 @@ jobs:
             echo 'No changes to listings.'
           else
             git commit -m "Sync listings $(TZ=America/Los_Angeles date +%Y-%m-%d)"
+            # main may have moved during the run; the data file is only ever
+            # written here, so rebasing the one commit is safe.
+            git pull --rebase origin main
             git push
           fi
 
