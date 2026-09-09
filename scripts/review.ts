@@ -248,7 +248,15 @@ const PAGE = /* html */ `<!doctype html>
   .status { font-size:.8rem; color:var(--muted) }
   .help { font-size:.78rem; color:var(--muted); line-height:1.7 }
   .kbd { font-family:ui-monospace,Menlo,monospace; font-size:.72rem; background:var(--chip); border:1px solid var(--line); border-radius:4px; padding:0 5px; color:var(--ink) }
-  main { max-width:1600px; margin:0 auto; padding:18px 20px 120px; display:grid; gap:16px; grid-template-columns:repeat(auto-fill,minmax(620px,1fr)) }
+  main { max-width:1800px; margin:0 auto; padding:18px 20px 120px; display:grid; gap:12px; grid-template-columns:repeat(auto-fill,minmax(400px,1fr)) }
+  /* Grid layout: compact browse cards. Options live in Focus (press f or Enter on a card). */
+  body.grid .item { grid-template-columns:120px 1fr }
+  body.grid .item .opts, body.grid .item .overview, body.grid .item .links, body.grid .item .editor, body.grid .item .sidecap, body.grid .item .zoom { display:none }
+  body.grid .item .body { padding:12px 14px; gap:5px; font-size:.9rem }
+  body.grid .raw { font-size:1.05rem } body.grid .guess { font-size:.92rem } body.grid .meta, body.grid .reason, body.grid .times { font-size:.82rem }
+  body.grid .times { display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden }
+  body.grid .poster { min-height:180px } body.grid .poster img { padding:0; object-fit:cover }
+  body.grid .actions { gap:4px } body.grid .actions button { padding:6px 10px; font-size:.82rem } body.grid .actions .saved { display:none }
   .item { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:grid; grid-template-columns:250px 1fr; grid-template-rows:auto auto; outline:none; position:relative; scroll-margin-top:var(--head,140px) }
   .item .side { grid-row:1/-1 }
   .item .opts { grid-column:2; padding:0 18px 16px; display:flex; flex-direction:column; gap:12px; min-width:0 }
@@ -338,18 +346,21 @@ const PAGE = /* html */ `<!doctype html>
   <div class="counts" id="counts">loading…</div>
   <div class="tabs" id="tabs">
     <button class="chip" data-tab="pending" aria-pressed="true">Pending</button>
-    <button class="chip" data-tab="decided" aria-pressed="false">Decided</button>
+    <button class="chip" data-tab="included" aria-pressed="false">Included</button>
+    <button class="chip" data-tab="titleonly" aria-pressed="false">Title only</button>
+    <button class="chip" data-tab="excluded" aria-pressed="false">Excluded</button>
+    <button class="chip" data-tab="edited" aria-pressed="false">Edited</button>
     <button class="chip" data-tab="all" aria-pressed="false">All</button>
   </div>
   <div class="venues" id="venues"></div>
-  <div class="tabs" id="layout" title="Focus shows one film at a time with everything visible; Grid shows several compact cards (f)">
+  <div class="tabs" id="layout" title="Focus shows one film at a time with everything visible; Grid shows many compact cards. Press f to toggle, or Enter on a grid card to focus it">
     <button class="chip" data-layout="focus" aria-pressed="true">Focus</button>
     <button class="chip" data-layout="grid" aria-pressed="false">Grid</button>
   </div>
   <div class="spacer"></div>
   <span class="help"><span class="kbd">h</span><span class="kbd">j</span><span class="kbd">k</span><span class="kbd">l</span> move · <span class="kbd">f</span> layout ·
     <span class="kbd">m</span> movie · <span class="kbd">M</span> artwork · <span class="kbd">o</span> full size · <span class="kbd">/</span> search ·
-    <span class="kbd">d</span> edit details · <span class="kbd">b</span> letterboxd · <span class="kbd">y</span> include · <span class="kbd">t</span> title only · <span class="kbd">n</span> exclude · <span class="kbd">u</span> undo</span>
+    <span class="kbd">d</span> edit details · <span class="kbd">b</span> letterboxd · <span class="kbd">O</span> theatre page · <span class="kbd">y</span> include · <span class="kbd">t</span> title only · <span class="kbd">n</span> exclude · <span class="kbd">u</span> undo</span>
   <span class="status" id="status"></span>
   <button class="chip" id="rebuild" title="Regenerate data/screenings.json from the last sync snapshot plus your decisions. This already happens automatically about a second after every decision; the button is only for forcing it (for example after a failed build).">Rebuild now</button>
 </div></header>
@@ -361,7 +372,7 @@ const state = { items: [], venues: [], tab: 'pending', venue: 'all', autoInclude
 try { state.layout = localStorage.getItem('review.layout') || 'focus'; } catch {}
 function setLayout(l) {
   state.layout = l; try { localStorage.setItem('review.layout', l); } catch {}
-  document.body.classList.toggle('focus', l==='focus');
+  document.body.classList.toggle('focus', l==='focus'); document.body.classList.toggle('grid', l!=='focus');
   document.querySelectorAll('#layout button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.layout===l)));
   const el = focusedCard(); if (el) el.scrollIntoView({block: l==='focus' ? 'start' : 'center'});
 }
@@ -448,12 +459,18 @@ function renderVenues() {
   $('#venues').innerHTML = ['all',...ids].map(id => '<button class="chip" data-venue="'+esc(id)+'" aria-pressed="'+(state.venue===id)+'">'+esc(id==='all'?'All venues':venueName(id))+'</button>').join('');
   $('#venues').querySelectorAll('button').forEach(b => b.onclick = () => { state.venue=b.dataset.venue; state.recent.clear(); render(); renderVenues(); });
 }
-function visible() {
-  return state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && (state.tab==='all' || (state.tab==='pending' ? (!i.decision || state.recent.has(i.key)) : !!i.decision)));
+/** Decision status of an item: pending, included, titleonly or excluded. */
+function statusOf(i) { const d=i.decision; if (!d) return 'pending'; if (d.decision==='exclude') return 'excluded'; return d.tmdbId===null ? 'titleonly' : 'included'; }
+function inTab(i) {
+  const t = state.tab, st = statusOf(i);
+  if (t==='all') return true;
+  if (t==='pending') return st==='pending' || state.recent.has(i.key);
+  if (t==='edited') return !!(i.decision && (i.decision.edits || i.decision.image));
+  return st===t;
 }
+function visible() { return state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i)); }
 function render() {
-  const pending = state.items.filter(i=>!i.decision).length, decided = state.items.length-pending;
-  $('#counts').textContent = pending+' pending · '+decided+' decided · '+state.autoIncluded+' auto-included · '+state.autoExcluded+' auto-excluded';
+  updateCounts();
   $('#tabs').querySelectorAll('button').forEach(b => { b.setAttribute('aria-pressed', String(b.dataset.tab===state.tab)); b.onclick = () => { state.tab=b.dataset.tab; state.recent.clear(); render(); }; });
   const list = visible();
   const grid = $('#grid');
@@ -506,7 +523,7 @@ function card(i) {
    + '<div class="sidecap">'+(art?'Preview: <b>'+esc(art.label)+'</b>':'Nothing to show on the site card')+(f&&f.poster&&art&&art.src!==f.poster?'<br>Click the poster to view all images at full size.':'')+'</div></div>'
    + '<div class="body">'
    + '<div class="venue">'+esc(venueName(i.venueId))+'</div>'
-   + '<div class="raw"><a href="'+esc(i.url)+'" target="_blank" rel="noopener">'+esc(i.rawTitle)+'</a></div>'
+   + '<div class="raw"><a href="'+esc(i.url)+'" target="_blank" rel="noopener" title="Open the theatre listing (O)">'+esc(i.rawTitle)+'</a></div>'
    + '<div class="guess"><span class="tag'+(edited?' edited':'')+'">'+(edited?'Edited':f?(u.match===(i.film&&i.film.tmdbId)?'TMDB guess':'Selected'):'Title only')+'</span><b data-show="title">'+esc(s.title)+'</b><span data-show="yeardir">'+(s.year?' ('+s.year+')':'')+(s.director?', '+esc(s.director):'')+'</span>'
         + (f ? '' : ' <span class="meta">— listed with no TMDB data'+(i.film?'':' (no match found)')+'</span>')+'</div>'
    + '<div class="meta" data-show="meta"'+(meta?'':' hidden')+'>'+meta+'</div>'
@@ -553,9 +570,15 @@ async function undo(i) {
   await post('/api/undo', {key:i.key});
   i.decision = null; if (state.last===i) state.last = null;
   rerender(i); pollStatus(); hideToast(); updateCounts();
-  if (state.tab==='decided') { const el=cardEl(i); if (el) el.style.opacity='.4'; }
+  if (state.tab!=='pending' && state.tab!=='all') { const el=cardEl(i); if (el) el.style.opacity='.4'; }
 }
-function updateCounts() { const pending = state.items.filter(i=>!i.decision).length; $('#counts').textContent = pending+' pending · '+(state.items.length-pending)+' decided · '+state.autoIncluded+' auto-included · '+state.autoExcluded+' auto-excluded'; }
+function updateCounts() {
+  const n = { pending:0, included:0, titleonly:0, excluded:0, edited:0 };
+  for (const i of state.items) { n[statusOf(i)]++; if (i.decision && (i.decision.edits || i.decision.image)) n.edited++; }
+  $('#counts').textContent = n.pending+' pending · '+(n.included+n.titleonly+n.excluded)+' decided · '+state.autoIncluded+' auto-included · '+state.autoExcluded+' auto-excluded by the classifier';
+  const labels = { pending:'Pending', included:'Included', titleonly:'Title only', excluded:'Excluded', edited:'Edited' };
+  $('#tabs').querySelectorAll('button').forEach(b => { const t=b.dataset.tab; if (labels[t]) b.textContent = labels[t]+' '+n[t]; });
+}
 let toastTimer = null;
 function toast(text) { $('#toastText').textContent = text; $('#toast').hidden = false; if (toastTimer) clearTimeout(toastTimer); toastTimer = setTimeout(hideToast, 7000); }
 function hideToast() { $('#toast').hidden = true; }
@@ -655,6 +678,7 @@ document.addEventListener('keydown', (e) => {
   const k = e.key;
   if ('hjkl'.includes(k) && k.length===1) { move(k); e.preventDefault(); return; }
   if (k==='f') { setLayout(state.layout==='focus' ? 'grid' : 'focus'); e.preventDefault(); return; }
+  if (k==='Enter' && state.layout!=='focus' && focusedCard()) { setLayout('focus'); e.preventDefault(); return; }
   const el = focusedCard(), i = itemOf(el);
   if (k==='u') { const t = (i && i.decision) ? i : state.last; if (t) { undo(t); const te=cardEl(t); if (te) { te.focus({preventScroll:true}); te.scrollIntoView({block:'nearest'}); } } e.preventDefault(); return; }
   if (!i) return;
@@ -666,6 +690,7 @@ document.addEventListener('keydown', (e) => {
   else if (k==='/') { const q=el.querySelector('.matches input'); if (q) { q.focus(); q.select(); } }
   else if (k==='d') toggleEditor(i);
   else if (k==='b') window.open(letterboxdUrl(i), '_blank', 'noopener');
+  else if (k==='O') window.open(i.url, '_blank', 'noopener');
   else if (k>='0' && k<='9') { const u=U(i); if (k==='0') selectMatch(i,null); else { const opts=[...u.order, ...u.results.filter(id=>!u.order.includes(id))]; const id=opts[Number(k)-1]; if (id!=null) selectMatch(i,id); } }
   else return;
   e.preventDefault();

@@ -67,7 +67,7 @@ Every undecided title appears as a card with the venue's raw title, TMDB's best 
 
 Then press **Include** (saves the selected match, artwork and edits), **Exclude**, or use `t` for title only. The card stays where it is with a badge and an Undo button, and a toast at the bottom offers Undo too. Focus moves on to the next undecided card automatically. Decisions save to `data/decisions.json` and the schedule rebuilds about a second later; if `npm run dev` is running in another terminal, the site updates live. On an already-decided card the Include button becomes **Save changes** whenever your selection differs from what was saved.
 
-Two layouts, toggled in the header or with `f`: **Focus** (default) shows one film at a time across the full width, with the artwork on the left, details and the full description in the middle, and the movie and artwork options on the right. **Grid** packs several compact cards per row. The choice is remembered in the browser.
+Two layouts, toggled in the header or with `f`: **Focus** (default) shows one film at a time across the full width, with the artwork on the left, details and the full description in the middle, and the movie and artwork options on the right. **Grid** packs many compact cards per row (artwork, title, guess, reason, showtimes and the decision buttons); press Enter on a card there to open it in Focus. The choice is remembered in the browser.
 
 Keyboard shortcuts (press `h` `j` `k` `l` with nothing focused to focus the first card):
 
@@ -81,13 +81,14 @@ Keyboard shortcuts (press `h` `j` `k` `l` with nothing focused to focus the firs
 | `o` | View the artwork full size (`h` `l` browse, `esc` closes) |
 | `d` | Open or close the details editor |
 | `b` | Open the selected match on Letterboxd |
+| `O` | Open the theatre's listing page |
 | `/` | Focus the card's TMDB search box |
 | `y` | Include with the current selection |
 | `t` | Include, title only |
 | `n` | Exclude |
 | `u` | Undo the focused card's decision, or the last decision made |
 
-You are never asked about the same title twice. Use the Decided tab and Undo to change your mind.
+You are never asked about the same title twice. The header tabs filter by status: Pending, Included, Title only, Excluded, Edited (a hand-edited card or a custom artwork pick), and All, each with a count. Open a decided card from any of them and use Undo, or change the selection and press Save changes.
 
 **Rebuild now** in the header regenerates `data/screenings.json` from the last sync plus your decisions. This already happens automatically after every decision, so you only need it if a rebuild failed (the terminal running `npm run review` prints the error).
 
