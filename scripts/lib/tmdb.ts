@@ -68,6 +68,8 @@ export interface MatchResult {
   best: TmdbMovie | null;
   /** True when the best pick's title matches a candidate exactly. */
   confident: boolean;
+  /** True when the venue's director credit confirmed the pick. */
+  confirmed?: boolean;
   /** Other options to offer the user. */
   alternatives: TmdbMovie[];
 }
@@ -132,7 +134,7 @@ export async function matchFilm(candidates: string[], yearHint?: number, hints: 
       const confirmed = pool.filter((r) => byDirector.get(r.id) === true);
       if (confirmed.length) {
         confirmed.sort((a, b) => (exact.includes(b) ? 1 : 0) - (exact.includes(a) ? 1 : 0) || (nearYear(b) ? 1 : 0) - (nearYear(a) ? 1 : 0) || (b.popularity ?? 0) - (a.popularity ?? 0));
-        return { best: confirmed[0], confident: true, alternatives: results.filter((r) => r.id !== confirmed[0].id).slice(0, 4) };
+        return { best: confirmed[0], confident: true, confirmed: true, alternatives: results.filter((r) => r.id !== confirmed[0].id).slice(0, 4) };
       }
     }
 

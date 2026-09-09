@@ -494,6 +494,9 @@ function reasonGroup(r) {
   if (/^unreleased/.test(r)) return 'Unreleased';
   if (/^no release date/.test(r)) return 'No release date';
   if (/^first-run/.test(r)) return 'First-run booking';
+  if (/^popular re-release/.test(r)) return 'Popular re-release';
+  if (/^popular release/.test(r)) return 'Popular release';
+  if (/^generic title/.test(r)) return 'Generic title';
   if (/^repertory/.test(r)) return 'Repertory';
   return r.replace(/[0-9]+/g,'N');
 }

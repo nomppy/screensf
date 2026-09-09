@@ -13,10 +13,10 @@ const REGION: Record<string, string> = {
   Berkeley: 'East Bay',
   Oakland: 'East Bay',
   Albany: 'East Bay',
-  'Palo Alto': 'Peninsula',
+  'Palo Alto': 'South Bay',
   'San Rafael': 'North Bay',
 };
-const REGION_ORDER = ['San Francisco', 'East Bay', 'Peninsula', 'North Bay'];
+const REGION_ORDER = ['San Francisco', 'East Bay', 'South Bay', 'North Bay'];
 const regions = REGION_ORDER.map((name) => ({
   name,
   venues: venues.filter((v) => (REGION[v.city] ?? 'San Francisco') === name).map((v) => v.id),

@@ -15,6 +15,18 @@ export interface ClassifyOptions {
   settledDays: number;
   /** A non-repertory film with at least this many showtimes in the window is a first-run booking, not a rep screening. */
   firstRunShowtimes: number;
+  /** Repertory and settled releases at or above this TMDB popularity are asked about rather than included on sight. */
+  askPopularity: number;
+}
+
+/** Facts about the listing itself that bear on the verdict. */
+export interface ClassifyContext {
+  /** Showtimes for this title in the sync window. */
+  showtimes?: number;
+  /** The venue's title is one or two words ("Comedy", "Live Music"), so an exact TMDB title match proves little. */
+  generic?: boolean;
+  /** The match was confirmed by the venue's own director credit. */
+  confirmed?: boolean;
 }
 
 export const DEFAULTS: ClassifyOptions = {
@@ -22,6 +34,7 @@ export const DEFAULTS: ClassifyOptions = {
   repertoryDays: 730,
   settledDays: 90,
   firstRunShowtimes: Number(process.env.FIRST_RUN_SHOWTIMES ?? 20),
+  askPopularity: Number(process.env.REPERTORY_POPULARITY ?? 20),
 };
 
 /**
@@ -29,19 +42,31 @@ export const DEFAULTS: ClassifyOptions = {
  *
  *   No TMDB match ............................ ask (could be shorts, a live event, or a typo)
  *   Unconfident TMDB match ................... ask
+ *   Generic one/two-word title matched to an
+ *     obscure film, no director to confirm .... ask ("Live Music" is not a 2009 movie)
  *   Released <= repertoryDays ago with
  *     >= firstRunShowtimes showtimes ......... exclude (a first-run booking: several shows a day for weeks)
  *   In US now-playing and popular ............ exclude (the blockbuster case)
  *   In US now-playing but not popular ........ ask   (indie first-run at the Roxie, e.g.)
+ *   Released > repertoryDays ago, popular .... ask   (studio re-release, kids' matinee: decide once per film)
  *   Released > repertoryDays ago ............. include
+ *   Released > settledDays ago, popular ...... ask   (a blockbuster that has left the now-playing list)
  *   Released > settledDays ago, not wide ..... include
  *   Anything else (fresh release) ............ ask
+ *
+ * "Popular" for the two ask rules means TMDB popularity >= askPopularity
+ * (REPERTORY_POPULARITY, default 20). Decisions are keyed by title and year,
+ * so each such film is asked about once.
  */
-export function classify(film: Film | null, confident: boolean, showtimes = 0, opts: ClassifyOptions = DEFAULTS): Verdict {
+export function classify(film: Film | null, confident: boolean, ctx: ClassifyContext = {}, opts: ClassifyOptions = DEFAULTS): Verdict {
   if (!film || !film.tmdbId) return { action: 'ask', reason: 'no TMDB match' };
   if (!confident) return { action: 'ask', reason: 'uncertain TMDB match' };
 
   const pop = film.popularity ?? 0;
+  const showtimes = ctx.showtimes ?? 0;
+  if (ctx.generic && !ctx.confirmed && pop < 2) {
+    return { action: 'ask', reason: `generic title, obscure TMDB match (popularity ${pop.toFixed(1)})` };
+  }
   const age = film.releaseDate ? daysBetween(film.releaseDate, todayLA()) : null;
   const repertory = age !== null && age > opts.repertoryDays;
   if (!repertory && showtimes >= opts.firstRunShowtimes) {
@@ -55,8 +80,14 @@ export function classify(film: Film | null, confident: boolean, showtimes = 0, o
   }
 
   if (age === null) return { action: 'ask', reason: 'no release date' };
-  if (age > opts.repertoryDays) return { action: 'include', reason: `repertory (${film.year})` };
-  if (age > opts.settledDays) return { action: 'include', reason: `released ${age} days ago, not in wide release` };
+  if (age > opts.repertoryDays) {
+    if (pop >= opts.askPopularity) return { action: 'ask', reason: `popular re-release (${film.year}), popularity ${Math.round(pop)}` };
+    return { action: 'include', reason: `repertory (${film.year})` };
+  }
+  if (age > opts.settledDays) {
+    if (pop >= opts.askPopularity) return { action: 'ask', reason: `popular release, ${age} days old, popularity ${Math.round(pop)}` };
+    return { action: 'include', reason: `released ${age} days ago, not in wide release` };
+  }
   if (age < -30) return { action: 'ask', reason: 'unreleased / preview' };
   return { action: 'ask', reason: `new release (${age} days), popularity ${Math.round(pop)}` };
 }

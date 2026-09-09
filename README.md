@@ -27,9 +27,11 @@ This scrapes every enabled venue in `data/venues.json`, then for each distinct t
 
 | Situation | What happens |
 |---|---|
-| Released more than 2 years ago | included automatically (repertory) |
+| Released more than 2 years ago with TMDB popularity below `REPERTORY_POPULARITY` (default 20) | included automatically (repertory) |
+| Released more than 2 years ago but popular (studio re-releases, kids' matinees) | **you are asked**, once per film |
+| A one- or two-word title ("Comedy", "Live Music") matched to an obscure film with no director to confirm it | **you are asked** |
 | Newer than that with `FIRST_RUN_SHOWTIMES` or more showtimes in the window (default 20) | excluded automatically (a first-run booking playing several times a day) |
-| Released 90+ days ago, not in TMDB's US now-playing list | included automatically |
+| Released 90+ days ago, not in TMDB's US now-playing list, popularity below `REPERTORY_POPULARITY` | included automatically |
 | In TMDB's US now-playing list with popularity ≥ `BLOCKBUSTER_POPULARITY` (default 60) | excluded automatically (the "showing everywhere" case) |
 | In now-playing but not popular, brand new, no TMDB match, or an uncertain match | **you are asked** |
 
@@ -73,7 +75,7 @@ Letterboxd has no public API for watchlists; this reads the public HTML pages (a
 
 ## Venues and scrapers
 
-`data/venues.json` controls what runs; flip `enabled` to turn a theatre on or off. Fifteen are on, covering San Francisco, the East Bay, the Peninsula and Marin.
+`data/venues.json` controls what runs; flip `enabled` to turn a theatre on or off. Fifteen are on, covering San Francisco, the East Bay, the South Bay and Marin.
 
 | Venue | Source | Method |
 |---|---|---|

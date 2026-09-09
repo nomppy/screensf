@@ -147,6 +147,7 @@ async function main() {
 
     let film: Film | null = null;
     let confident = false;
+    let confirmed = false;
     let alternatives: ResolvedItem['alternatives'] = [];
     if (prior?.tmdbId) {
       film = await filmFromTmdb(prior.tmdbId, nowPlaying.has(prior.tmdbId));
@@ -157,9 +158,11 @@ async function main() {
       const m = await matchFilm(g.candidates, g.year, hints);
       alternatives = m.alternatives;
       confident = m.confident;
+      confirmed = !!m.confirmed;
       if (m.best) film = await filmFromTmdb(m.best.id, nowPlaying.has(m.best.id));
     }
-    const verdict = classify(film, confident, g.raws.length);
+    const generic = (g.candidates[0] ?? sample.rawTitle).trim().split(/\s+/).length <= 2;
+    const verdict = classify(film, confident, { showtimes: g.raws.length, generic, confirmed });
     const overview = film?.tmdbId && verdict.action === 'ask' ? await movieOverview(film.tmdbId) : undefined;
     items.push({
       key,

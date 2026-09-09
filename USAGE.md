@@ -19,6 +19,7 @@ Open `.env` and fill in:
 | `LETTERBOXD_USER` | no | Your Letterboxd username, for private watchlist alerts |
 | `BLOCKBUSTER_POPULARITY` | no | Popularity cutoff for auto-excluding wide releases (default 60) |
 | `FIRST_RUN_SHOWTIMES` | no | A film newer than two years with this many showtimes in the window is auto-excluded as a first-run booking (default 20) |
+| `REPERTORY_POPULARITY` | no | Older or settled films at or above this TMDB popularity are asked about instead of auto-included (default 20). Lower = stricter |
 | `NOTIFY_MACOS` | no | `1` to get desktop notifications on watchlist matches |
 | `SYNC_WEEKS` | no | How many weeks ahead to fetch and show (default 4) |
 
@@ -158,7 +159,7 @@ Every push to `main` now redeploys, including the commits the sync job makes.
 | Sync listings | daily, 6am PT | Scrapes, applies your decisions, commits `data/screenings.json`. Cloudflare redeploys. Fails (and emails you) only if a scraper or TMDB breaks. |
 | Weekly review reminder | Monday 8am PT | Runs a sync, then opens a GitHub issue listing every title held back for review with the steps to clear them. Closes last week's issue. You get an email. |
 
-Titles the classifier is unsure about never publish on their own; they wait for you. Confident matches publish, confident junk is dropped. To be stricter or looser about first-run bookings, set `FIRST_RUN_SHOWTIMES` (and `BLOCKBUSTER_POPULARITY`) in `.env` locally and as repository **Variables** on GitHub.
+Titles the classifier is unsure about never publish on their own; they wait for you. Confident matches publish, confident junk is dropped. To be stricter or looser, set `REPERTORY_POPULARITY` (what gets auto-included), `FIRST_RUN_SHOWTIMES` and `BLOCKBUSTER_POPULARITY` (what gets auto-excluded) in `.env` locally and as repository **Variables** on GitHub.
 
 ### 7d. Your weekly review
 
