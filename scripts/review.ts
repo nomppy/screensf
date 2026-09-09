@@ -350,6 +350,8 @@ const PAGE = /* html */ `<!doctype html>
   .actions button:disabled { opacity:.45; cursor:default }
   .actions .saved { font-size:.82rem; color:var(--muted); margin-left:auto }
   .empty { grid-column:1/-1; padding:80px 0; text-align:center; color:var(--muted) }
+  .dayhead { grid-column:1/-1; margin:14px 0 -4px; font-size:.8rem; font-weight:700; letter-spacing:.1em; text-transform:uppercase; color:var(--muted); border-bottom:1px solid var(--line); padding-bottom:6px; display:flex; gap:10px; align-items:baseline }
+  .dayhead small { font-weight:400; letter-spacing:0; text-transform:none }
   .toast { position:fixed; left:50%; bottom:22px; transform:translateX(-50%); background:var(--ink); color:#fff; padding:10px 14px; border-radius:10px; font-size:.9rem; display:flex; gap:12px; align-items:center; z-index:20; box-shadow:0 8px 30px rgba(0,0,0,.25); max-width:min(90vw,640px) }
   .toast button { border:1px solid rgba(255,255,255,.35); background:transparent; color:#fff; border-radius:6px; padding:4px 10px; font:inherit; font-size:.85rem; cursor:pointer }
   .toast[hidden] { display:none }
@@ -375,6 +377,10 @@ const PAGE = /* html */ `<!doctype html>
   </div>
   <div class="venues" id="venues"></div>
   <div class="venues" id="reasons" title="Why the classifier held these titles back"></div>
+  <div class="tabs" id="sort" title="Order cards by their first upcoming showtime, the way the site does, or by venue">
+    <button class="chip" data-sort="date" aria-pressed="true">Soonest first</button>
+    <button class="chip" data-sort="venue" aria-pressed="false">By venue</button>
+  </div>
   <div class="tabs" id="layout" title="Focus shows one film at a time with everything visible; Grid shows many compact cards. Press f to toggle, or Enter on a grid card to focus it">
     <button class="chip" data-layout="focus" aria-pressed="true">Focus</button>
     <button class="chip" data-layout="grid" aria-pressed="false">Grid</button>
@@ -390,12 +396,22 @@ const PAGE = /* html */ `<!doctype html>
 <div class="toast" id="toast" hidden><span id="toastText"></span><button id="toastUndo">Undo <span class="kbd">u</span></button></div>
 <div class="lb" id="lb" hidden><img id="lbImg" alt=""><div class="cap" id="lbCap"></div></div>
 <script>
-const state = { items: [], venues: [], tab: 'pending', venue: 'all', reason: 'all', autoIncluded: 0, autoExcluded: 0, recent: new Set(), last: null, lastBuild: null, layout: 'focus' };
-try { state.layout = localStorage.getItem('review.layout') || 'focus'; } catch {}
+const state = { items: [], venues: [], tab: 'pending', venue: 'all', reason: 'all', sort: 'date', autoIncluded: 0, autoExcluded: 0, recent: new Set(), last: null, lastBuild: null, layout: 'focus' };
+try { state.layout = localStorage.getItem('review.layout') || 'focus'; state.sort = localStorage.getItem('review.sort') || 'date'; } catch {}
+const todayISO = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Los_Angeles' }).format(new Date());
+/** First upcoming showtime, the moment the site would first list this title. */
+function firstShow(i) { const up = i.showtimes.find(s => s.date >= todayISO) || i.showtimes[i.showtimes.length-1]; return up ? up.date+' '+up.time : '9999'; }
+function setSort(v) {
+  state.sort = v; try { localStorage.setItem('review.sort', v); } catch {}
+  document.querySelectorAll('#sort button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.sort===v)));
+  render();
+}
+document.querySelectorAll('#sort button').forEach(b => b.onclick = () => setSort(b.dataset.sort));
 function setLayout(l) {
   state.layout = l; try { localStorage.setItem('review.layout', l); } catch {}
   document.body.classList.toggle('focus', l==='focus'); document.body.classList.toggle('grid', l!=='focus');
   document.querySelectorAll('#layout button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.layout===l)));
+  document.querySelectorAll('#sort button').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.sort===state.sort)));
   const el = focusedCard(); if (el) el.scrollIntoView({block: l==='focus' ? 'start' : 'center'});
 }
 document.querySelectorAll('#layout button').forEach(b => b.onclick = () => setLayout(b.dataset.layout));
@@ -527,14 +543,23 @@ function inTab(i) {
   if (t==='excluded') return st==='excluded' || st==='autoout';
   return st===t;
 }
-function visible() { return state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i) && (state.reason==='all' || reasonGroup(i.reason)===state.reason)); }
+function visible() {
+  const list = state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i) && (state.reason==='all' || reasonGroup(i.reason)===state.reason));
+  if (state.sort==='date') list.sort((a, b) => firstShow(a).localeCompare(firstShow(b)) || venueName(a.venueId).localeCompare(venueName(b.venueId)));
+  return list;
+}
 function render() {
   updateCounts();
   $('#tabs').querySelectorAll('button').forEach(b => { b.setAttribute('aria-pressed', String(b.dataset.tab===state.tab)); b.onclick = () => { state.tab=b.dataset.tab; state.recent.clear(); render(); }; });
   renderReasons();
   const list = visible();
   const grid = $('#grid');
-  grid.innerHTML = list.length ? list.map(card).join('') : '<div class="empty">'+(state.tab==='pending'?'Nothing left to review. Run <b>npm run sync</b> again later.':'Nothing here.')+'</div>';
+  let html = '';
+  if (state.sort==='date') { // day headings, like the site
+    let day = null;
+    for (const i of list) { const d = firstShow(i).slice(0,10); if (d!==day) { day = d; const n = list.filter(x => firstShow(x).slice(0,10)===d).length; html += '<h2 class="dayhead">'+(d===todayISO?'Today · ':'')+esc(fmtDate(d))+'<small>'+n+' title'+(n===1?'':'s')+'</small></h2>'; } html += card(i); }
+  } else html = list.map(card).join('');
+  grid.innerHTML = list.length ? html : '<div class="empty">'+(state.tab==='pending'?'Nothing left to review. Run <b>npm run sync</b> again later.':'Nothing here.')+'</div>';
   list.forEach(i => wire(i, cardEl(i)));
 }
 const cardEl = (i) => $('#grid').querySelector('[data-key="'+cssEsc(i.key)+'"]');
