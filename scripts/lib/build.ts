@@ -6,7 +6,7 @@
  */
 import { existsSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { horizonEndLA, todayLA } from './dates.ts';
-import { loadDecisions, loadManual, saveSchedule, screeningId } from './store.ts';
+import { loadDecisions, loadManual, loadSchedule, saveSchedule, screeningId } from './store.ts';
 import { filmFromTmdb } from './tmdb.ts';
 import { extractFormat, extractNoteFromTitle, fallbackKey } from './titles.ts';
 import type { DecisionRecord, Festival, Film, FilmEdits, RawScreening, VenueHints, ScheduleData, Screening, TmdbMovie, Venue } from './types.ts';
@@ -32,6 +32,8 @@ export interface ResolvedItem {
 export interface ResolvedSnapshot {
   generatedAt: string;
   venues: Venue[];
+  /** Venues whose scraper failed or returned nothing this run; their previous screenings are carried forward. */
+  failedVenues?: string[];
   festivals: Festival[];
   nowPlaying: number[];
   items: ResolvedItem[];
@@ -119,7 +121,7 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
           time: r.time,
           url: r.url,
           format: r.format ?? extractFormat(r.rawTitle),
-          note: r.note ?? extractNoteFromTitle(r.rawTitle),
+          note: decision?.edits?.note !== undefined ? decision.edits.note || undefined : (r.note ?? extractNoteFromTitle(r.rawTitle)),
           source: r.venueId,
         };
         screenings.push({ id: screeningId(base), ...base });
@@ -129,6 +131,24 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
     } else {
       pending.push(item);
     }
+  }
+
+  // A venue whose site was unreachable keeps what the last successful build
+  // had for it, so one 403 from a theatre does not empty its listings.
+  const failed = new Set(snap.failedVenues ?? []);
+  if (failed.size) {
+    const prev = loadSchedule();
+    let kept = 0;
+    for (const s of prev.screenings) {
+      if (!failed.has(s.venueId) || s.date < today || s.date > horizon) continue;
+      const f = prev.films[s.filmKey];
+      if (!f || screenings.some((x) => x.id === s.id)) continue;
+      films[s.filmKey] ??= f;
+      seenFilms[s.filmKey] ??= f;
+      screenings.push(s);
+      kept++;
+    }
+    if (kept) console.warn(`  kept ${kept} previous showtimes for unreachable venue(s): ${[...failed].join(', ')}`);
   }
 
   for (const m of loadManual()) {
@@ -162,7 +182,7 @@ export function withEdits(film: Film, edits?: FilmEdits): Film {
   if (!edits) return film;
   const out: Film = { ...film };
   for (const [k, v] of Object.entries(edits) as [keyof FilmEdits, unknown][]) {
-    if (v === undefined) continue;
+    if (v === undefined || k === 'note') continue;
     if (v === null || v === '') delete out[k];
     else (out as Record<string, unknown>)[k] = v;
   }

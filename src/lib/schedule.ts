@@ -47,12 +47,24 @@ export interface Festival {
   programme?: { date: string; time: string; title: string; url: string; note?: string }[];
 }
 
-/** One card: a film at one venue on one day, with all of that day's times. */
+/** One venue's showings of a film on one day. */
+export interface Showing {
+  venue: Venue;
+  times: { time: string; url: string }[];
+  format?: string;
+  note?: string;
+}
+
+/** One card: a film on one day, with every venue showing it that day. */
 export interface Card {
   film: Film;
-  venue: Venue;
   date: string;
-  times: { time: string; url: string }[];
+  showings: Showing[];
+  /** Convenience: the first showing's venue (cards used to be one venue each). */
+  venue: Venue;
+  /** All times across venues, earliest first. */
+  times: { time: string; url: string; venueId: string }[];
+  /** Format / note when every showing agrees, else undefined (shown per venue instead). */
   format?: string;
   note?: string;
 }
@@ -81,28 +93,36 @@ export function todayLA(): string {
 
 export function buildDays(): { date: string; cards: Card[] }[] {
   const today = todayLA();
-  const byDay = new Map<string, Map<string, Card>>();
+  // date -> filmKey -> venueId -> showing
+  const byDay = new Map<string, Map<string, Map<string, Showing>>>();
   for (const s of screenings) {
     if (s.date < today) continue;
-    const film = films[s.filmKey];
-    if (!film) continue;
-    const day = byDay.get(s.date) ?? new Map<string, Card>();
-    const key = `${s.venueId}|${s.filmKey}`;
-    const card =
-      day.get(key) ??
-      ({ film, venue: venueFor(s.venueId), date: s.date, times: [], format: s.format, note: s.note } satisfies Card);
-    card.times.push({ time: s.time, url: s.url });
-    card.format ??= s.format;
-    card.note ??= s.note;
-    day.set(key, card);
+    if (!films[s.filmKey]) continue;
+    const day = byDay.get(s.date) ?? new Map<string, Map<string, Showing>>();
+    const perFilm = day.get(s.filmKey) ?? new Map<string, Showing>();
+    const showing = perFilm.get(s.venueId) ?? ({ venue: venueFor(s.venueId), times: [], format: s.format, note: s.note } satisfies Showing);
+    showing.times.push({ time: s.time, url: s.url });
+    showing.format ??= s.format;
+    showing.note ??= s.note;
+    perFilm.set(s.venueId, showing);
+    day.set(s.filmKey, perFilm);
     byDay.set(s.date, day);
   }
+  const same = <T>(xs: (T | undefined)[]) => (xs.every((x) => x === xs[0]) ? xs[0] : undefined);
   return [...byDay.entries()]
     .sort(([a], [b]) => a.localeCompare(b))
-    .map(([date, cards]) => ({
+    .map(([date, perFilm]) => ({
       date,
-      cards: [...cards.values()]
-        .map((c) => ({ ...c, times: c.times.sort((x, y) => x.time.localeCompare(y.time)) }))
+      cards: [...perFilm.entries()]
+        .map(([filmKey, venues]): Card => {
+          const showings = [...venues.values()]
+            .map((sh) => ({ ...sh, times: sh.times.sort((x, y) => x.time.localeCompare(y.time)) }))
+            .sort((a, b) => a.times[0].time.localeCompare(b.times[0].time) || a.venue.shortName.localeCompare(b.venue.shortName));
+          const times = showings
+            .flatMap((sh) => sh.times.map((t) => ({ ...t, venueId: sh.venue.id })))
+            .sort((x, y) => x.time.localeCompare(y.time));
+          return { film: films[filmKey], date, showings, venue: showings[0].venue, times, format: same(showings.map((s) => s.format)), note: same(showings.map((s) => s.note)) };
+        })
         .sort((x, y) => x.times[0].time.localeCompare(y.times[0].time)),
     }));
 }

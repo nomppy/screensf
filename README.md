@@ -35,6 +35,8 @@ This scrapes every enabled venue in `data/venues.json`, then for each distinct t
 | In TMDB's US now-playing list with popularity ≥ `BLOCKBUSTER_POPULARITY` (default 60) | excluded automatically (the "showing everywhere" case) |
 | In now-playing but not popular, brand new, no TMDB match, or an uncertain match | **you are asked** |
 
+If a theatre's site is unreachable (Stanford's returns 403 to GitHub's servers, for instance), that venue's listings from the previous build are kept rather than dropped, and the log says so.
+
 Sync never blocks on questions. It writes a snapshot of everything it learned to `.cache/resolved.json`, applies the decisions you have already saved, writes the schedule, and tells you how many titles still need a call. Then:
 
 ```sh
@@ -128,7 +130,7 @@ The build publishes the schedule in machine-readable forms alongside the pages, 
 |---|---|
 | `/feed.xml` | RSS 2.0, one item per film per venue per day, upcoming only. `<guid>` is `venueId|filmKey|date`, so readers do not re-show an item when the schedule is resynced. |
 | `/feed/<venueId>.xml` | The same for one venue, e.g. `/feed/roxie.xml`. |
-| `/api/schedule.json` | `{ generatedAt, days: [{ date, cards: [{ film, venue, date, times, format, note }] }] }`, exactly what the schedule page renders. |
+| `/api/schedule.json` | `{ generatedAt, days: [{ date, cards: [{ film, date, showings: [{ venue, times, format, note }] }] }] }`, exactly what the schedule page renders: one card per film per day, one showing per theatre. |
 | `/api/screenings.json` | `{ venues, films, screenings }`: flat upcoming showtimes referencing films by `filmKey` and venues by `venueId`. |
 | `/api/films.json`, `/api/venues.json`, `/api/festivals.json` | The individual collections. |
 

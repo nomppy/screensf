@@ -19,6 +19,7 @@ import { loadEnv, option } from './lib/env.ts';
 import { loadDecisions, saveDecisions } from './lib/store.ts';
 import { filmFromTmdb, searchMovies } from './lib/tmdb.ts';
 import { fetchText } from './lib/http.ts';
+import { extractNoteFromTitle } from './lib/titles.ts';
 import type { DecisionRecord, Film, FilmEdits, TmdbMovie } from './lib/types.ts';
 
 loadEnv();
@@ -76,6 +77,7 @@ function view(item: ResolvedItem, decision?: DecisionRecord) {
     cleanTitle: item.candidates[0],
     candidates: item.candidates,
     showtimes: item.raws.map((r) => ({ date: r.date, time: r.time, url: r.url, note: r.note })).sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time)),
+    note: item.raws.map((r) => r.note ?? extractNoteFromTitle(r.rawTitle)).find(Boolean) ?? null,
     url: item.raws[0].url,
     action: item.action,
     reason: item.reason,
@@ -114,7 +116,7 @@ function cleanEdits(raw: unknown): FilmEdits | undefined {
   if (!raw || typeof raw !== 'object') return undefined;
   const out: FilmEdits = {};
   const r = raw as Record<string, unknown>;
-  for (const k of ['title', 'director', 'genre', 'overview'] as const) {
+  for (const k of ['title', 'director', 'genre', 'overview', 'note'] as const) {
     if (!(k in r)) continue;
     const v = r[k];
     if (v === null || v === '') out[k] = '' as never;
@@ -444,7 +446,7 @@ function artOptions(i) {
   return opts;
 }
 const previewArt = (i) => { const u=U(i); if (u.art) return { src:u.art, label:(artOptions(i).find(o=>o.id===u.art)||{}).label||'Custom' }; const d=defaultArt(i); return d ? { src:d.src, label:d.label+' (default)' } : null; };
-const EDIT_FIELDS = ['title','year','director','runtime','genre','overview'];
+const EDIT_FIELDS = ['title','year','director','runtime','genre','overview','note'];
 /** Compare the venue's director/year with the selected TMDB film: surname match, year within one. */
 function agreement(h, f) {
   const surname = (n) => n.normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLowerCase().replace(/[^a-z ]+/g,' ').trim().split(/\\s+/).pop();
@@ -455,7 +457,7 @@ function agreement(h, f) {
   return out.join('');
 }
 /** Card details as TMDB (or the venue title) supplies them, before hand edits. */
-function baseDetails(i) { const f=curFilm(i), h=i.hints||{}; return f ? { title:f.title||'', year:f.year||h.year||'', director:f.director||h.director||'', runtime:f.runtime||h.runtime||'', genre:f.genre||'', overview:f.overview||h.synopsis||'' } : { title:i.cleanTitle, year:h.year||'', director:h.director||'', runtime:h.runtime||'', genre:'', overview:h.synopsis||'' }; }
+function baseDetails(i) { const f=curFilm(i), h=i.hints||{}, note=i.note||''; return f ? { title:f.title||'', year:f.year||h.year||'', director:f.director||h.director||'', runtime:f.runtime||h.runtime||'', genre:f.genre||'', overview:f.overview||h.synopsis||'', note } : { title:i.cleanTitle, year:h.year||'', director:h.director||'', runtime:h.runtime||'', genre:'', overview:h.synopsis||'', note }; }
 /** What the site will show: base details with edits applied. */
 function shownDetails(i) { const b=baseDetails(i), e=U(i).edits, out={...b}; for (const k of EDIT_FIELDS) if (k in e) out[k] = e[k]===''||e[k]==null ? '' : e[k]; return out; }
 const hasEdits = (i) => Object.keys(U(i).edits).length>0;
@@ -576,6 +578,7 @@ function card(i) {
     + '<label>Director<input data-edit="director" value="'+esc(s.director)+'"'+(('director' in u.edits)?' class="changed"':'')+'></label>'
     + '<label>Genre<input data-edit="genre" value="'+esc(s.genre)+'"'+(('genre' in u.edits)?' class="changed"':'')+'></label>'
     + '<label class="full">Description<textarea data-edit="overview"'+(('overview' in u.edits)?' class="changed"':'')+'>'+esc(s.overview)+'</textarea></label>'
+    + '<label class="full">Card note <span class="hint">(the red line on the site card: Q&amp;A, series, print info)</span><input data-edit="note" value="'+esc(s.note)+'"'+(('note' in u.edits)?' class="changed"':'')+'></label>'
     + '<div class="row"><span>Edits apply on the site once you press Include. Clear a field to hide it.</span><span class="spacer"></span><button class="chip" data-reset-edits'+(edited?'':' disabled')+'>Reset'+(f?' to TMDB':'')+'</button><button class="chip" data-close-editor>Done</button></div>'
     + '</div>' : '';
   return '<article class="item '+(d?'decided '+d.decision:auto?'auto '+auto:'')+'" tabindex="0" data-key="'+esc(i.key)+'">'
@@ -592,6 +595,7 @@ function card(i) {
    + (f ? '<a href="https://www.themoviedb.org/movie/'+f.tmdbId+'" target="_blank" rel="noopener">TMDB ↗</a>' : '') + '</div>'
    + '<div class="overview'+(u.open?' open':'')+'" data-show="overview" title="Click to expand"'+(s.overview?'':' hidden')+'>'+esc(s.overview)+'</div>'
    + editor
+   + (s.note ? '<div class="reason" data-show="note" style="color:var(--no)"><i>'+esc(s.note)+'</i></div>' : '<div class="reason" data-show="note" hidden></div>')
    + '<div class="reason"><b>'+(auto?'Classifier:':'Why it was flagged:')+'</b> '+esc(i.reason)+(auto?' <span class="hint">· press Include or Exclude to override</span>':'')+'</div>'
    + '<div class="times">'+times+'</div>'
    + '<div class="actions">'
@@ -661,6 +665,7 @@ function livePreview(i, el) {
   const meta = [s.genre, s.runtime?s.runtime+' min':null, f&&f.popularity!=null?'popularity '+f.popularity:null, f&&f.nowPlaying?'in US release':null].filter(Boolean).join(' · ');
   const m = el.querySelector('[data-show="meta"]'); if (m) { m.textContent = meta; m.hidden = !meta; }
   const o = el.querySelector('[data-show="overview"]'); if (o) { o.textContent = s.overview; o.hidden = !s.overview; }
+  const nt = el.querySelector('[data-show="note"]'); if (nt) { nt.innerHTML = s.note ? '<i>'+esc(s.note)+'</i>' : ''; nt.hidden = !s.note; }
   const tag = el.querySelector('.guess .tag'); if (tag) { const ed=hasEdits(i); tag.classList.toggle('edited', ed); tag.textContent = ed ? 'Edited' : f ? (U(i).match===(i.film&&i.film.tmdbId)?'TMDB guess':'Selected') : 'Title only'; }
   const inc = el.querySelector('[data-act="include"]'); if (inc) { const dr=dirty(i); inc.classList.toggle('dirty', dr); inc.disabled = !!(i.decision && i.decision.decision==='include' && !dr); if (dr) inc.textContent='Save changes'; }
 }

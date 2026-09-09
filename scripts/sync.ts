@@ -80,6 +80,7 @@ async function main() {
 
   // ---- 1. scrape ----------------------------------------------------------
   const raws: RawScreening[] = [];
+  const failedVenues: string[] = [];
   for (const v of venues) {
     const scraper = SCRAPERS[v.scraper ?? v.id];
     if (!scraper) {
@@ -90,10 +91,14 @@ async function main() {
     try {
       const list = await scraper(v);
       console.log(`${list.length} showtimes`);
-      if (!list.length) console.warn(color.yellow(`  ${v.id} returned nothing. The site may have changed; see .cache/raw/`));
+      if (!list.length) {
+        console.warn(color.yellow(`  ${v.id} returned nothing. The site may have changed; see .cache/raw/. Keeping its previous listings.`));
+        failedVenues.push(v.id);
+      }
       raws.push(...list);
     } catch (err) {
-      console.log(color.red(`failed: ${(err as Error).message}`));
+      console.log(color.red(`failed: ${(err as Error).message}`) + color.dim('  (keeping its previous listings)'));
+      failedVenues.push(v.id);
     }
   }
   const today = todayLA();
@@ -199,6 +204,7 @@ async function main() {
     festivals,
     nowPlaying: [...nowPlaying.keys()],
     items,
+    failedVenues,
   };
   saveResolved(snapshot);
 

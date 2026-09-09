@@ -36,13 +36,25 @@ export function scheduleDays() {
     date: d.date,
     cards: d.cards.map((c) => ({
       film: c.film,
-      venue: { id: c.venue.id, name: c.venue.name, shortName: c.venue.shortName, city: c.venue.city, url: c.venue.url },
       date: c.date,
-      times: c.times,
-      format: c.format ?? null,
-      note: c.note ?? null,
+      /** One entry per theatre showing the film that day. */
+      showings: c.showings.map((s) => ({
+        venue: { id: s.venue.id, name: s.venue.name, shortName: s.venue.shortName, city: s.venue.city, url: s.venue.url },
+        times: s.times,
+        format: s.format ?? null,
+        note: s.note ?? null,
+      })),
     })),
   }));
+}
+
+/** Flattened: one entry per film, venue and day, the shape the RSS feed uses. */
+function cardShowings(): Card[] {
+  return buildDays().flatMap((d) =>
+    d.cards.flatMap((c) =>
+      c.showings.map((s) => ({ ...c, showings: [s], venue: s.venue, times: s.times.map((t) => ({ ...t, venueId: s.venue.id })), format: s.format, note: s.note })),
+    ),
+  );
 }
 
 export function meta() {
@@ -95,7 +107,7 @@ function itemFor(c: Card, site: string): string {
 
 export function rss(site: string, opts: { venueId?: string } = {}): string {
   const venue = opts.venueId ? venues.find((v) => v.id === opts.venueId) : undefined;
-  const cards = scheduleDays().flatMap((d) => d.cards).filter((c) => !opts.venueId || c.venue.id === opts.venueId);
+  const cards = cardShowings().filter((c) => !opts.venueId || c.venue.id === opts.venueId);
   const title = venue ? `Screen SF · ${venue.shortName}` : 'Screen SF';
   const desc = venue
     ? `Upcoming screenings at ${venue.name}, ${venue.city}. One item per film per day.`
@@ -111,7 +123,7 @@ export function rss(site: string, opts: { venueId?: string } = {}): string {
     `<language>en-us</language>` +
     `<lastBuildDate>${new Date(generatedAt ?? Date.now()).toUTCString()}</lastBuildDate>` +
     `<atom:link href="${esc(self)}" rel="self" type="application/rss+xml" />` +
-    cards.map((c) => itemFor(c as Card, site)).join('') +
+    cards.map((c) => itemFor(c, site)).join('') +
     `</channel></rss>\n`
   );
 }

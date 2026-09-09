@@ -113,7 +113,12 @@ const regions = REGION_ORDER.map((name) => ({
   function apply(sel: string) {
     const ok = allowed(sel);
     for (const c of chips) c.setAttribute('aria-pressed', String(c.dataset.sel === sel));
-    for (const card of cards) card.hidden = !ok(card.dataset.venue ?? '');
+    for (const card of cards) {
+      const rows = Array.from(card.querySelectorAll<HTMLElement>('.showing'));
+      let any = false;
+      for (const row of rows) { const show = ok(row.dataset.venue ?? ''); row.hidden = !show; any ||= show; }
+      card.hidden = !any;
+    }
     for (const day of days) {
       const visible = day.querySelectorAll('.card:not([hidden])').length;
       day.hidden = visible === 0;

@@ -111,7 +111,10 @@ export interface DecisionRecord {
 }
 
 /** Fields of a film card that can be overridden by hand in the review UI. */
-export type FilmEdits = Partial<Pick<Film, 'title' | 'year' | 'director' | 'runtime' | 'genre' | 'overview'>>;
+export type FilmEdits = Partial<Pick<Film, 'title' | 'year' | 'director' | 'runtime' | 'genre' | 'overview'>> & {
+  /** Replaces the card note (the red line: Q&A, series name, "35mm print"…) on every showtime of this title. '' hides it. */
+  note?: string;
+};
 
 export interface TmdbMovie {
   id: number;

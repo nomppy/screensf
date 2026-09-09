@@ -83,8 +83,10 @@ a:hover { text-decoration: underline; text-decoration-style: dotted; text-underl
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 60px;
+  gap: 8px 20px;
+  min-height: 60px;
 }
+.nav { display: flex; gap: 0 26px; white-space: nowrap; }
 .brand {
   font-weight: 700;
   font-size: 1.05rem;
@@ -97,7 +99,6 @@ a:hover { text-decoration: underline; text-decoration-style: dotted; text-underl
 .brand-mark .deck { color: var(--ink); }
 .brand:hover { text-decoration: none; }
 .nav a {
-  margin-left: 26px;
   font-size: 0.85rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -260,14 +261,17 @@ h1 {
   background: transparent;
 }
 .tag.format { border-color: var(--accent); color: var(--accent); }
+.card .showings { margin-top: auto; display: flex; flex-direction: column; }
+.card .showing { padding-top: 12px; border-top: 1px dashed var(--hair); }
+.card .showing + .showing { margin-top: 10px; }
+.card .showing[hidden] { display: none; }
 .card .venue {
-  margin-top: auto;
-  padding-top: 12px;
   font-size: 0.8rem;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  border-top: 1px dashed var(--hair);
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
 }
+.card .showing .note { margin-top: 4px; }
 .card .venue a:hover { color: var(--accent); }
 .times { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
 .times a {
@@ -302,6 +306,10 @@ main.wrap { padding-bottom: 64px; }
   h1 { font-size: 1.9rem; }
   .grid { grid-template-columns: 1fr; }
   .card { box-shadow: none; }
+  .site-header .wrap { flex-wrap: wrap; min-height: 0; padding: 10px 16px; }
+  .brand { font-size: 0.95rem; letter-spacing: 0.14em; gap: 8px; }
+  .nav { gap: 0 16px; }
+  .nav a { font-size: 0.78rem; letter-spacing: 0.1em; }
 }
 
 /* Clickable cards ------------------------------------------------------------- */
@@ -362,6 +370,10 @@ main.wrap { padding-bottom: 64px; }
   .modal-title { font-size: 1.5rem; }
   .modal-body { padding: 18px; }
 }
+
+.modal-showing + .modal-showing { margin-top: 12px; }
+.modal-showing-venue { margin-bottom: 6px; }
+.modal-showing-times { display: flex; flex-wrap: wrap; gap: 8px; }
 
 /* Keyboard help ------------------------------------------------------------ */
 .kb-help { max-width: 420px; padding: 28px 32px 32px; }

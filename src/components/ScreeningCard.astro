@@ -5,10 +5,11 @@ interface Props {
   card: Card;
 }
 const { card } = Astro.props;
-const { film, venue } = card;
+const { film } = card;
 const art = film.backdrop ?? film.poster;
 const meta = [film.year, film.genre, runtime(film.runtime)].filter(Boolean).join(', ');
-const id = `${card.date}|${venue.id}|${film.key}`;
+const id = `${card.date}|${film.key}`;
+const venueIds = card.showings.map((s) => s.venue.id);
 // Everything the detail modal needs, serialised once per card.
 const detail = {
   id,
@@ -23,12 +24,16 @@ const detail = {
   note: card.note ?? null,
   format: card.format ?? null,
   date: card.date,
-  venue: { name: venue.name, url: venue.url },
-  times: card.times,
+  showings: card.showings.map((s) => ({
+    venue: { id: s.venue.id, name: s.venue.name, url: s.venue.url },
+    times: s.times,
+    format: s.format ?? null,
+    note: s.note ?? null,
+  })),
 };
 ---
 
-<article class="card" data-venue={venue.id} data-detail={id} tabindex="0" role="button" aria-haspopup="dialog">
+<article class="card" data-venues={venueIds.join(',')} data-venue={venueIds[0]} data-detail={id} tabindex="0" role="button" aria-haspopup="dialog">
   <script type="application/json" set:html={JSON.stringify(detail)} />
   <div class:list={['art', { poster: !film.backdrop && film.poster }]}>
     {art ? <img src={art} alt={film.title} loading="lazy" /> : <div class="placeholder">No image</div>}
@@ -39,17 +44,25 @@ const detail = {
     {card.format ? <div class="tags"><span class="tag format">{card.format}</span></div> : null}
     {film.director ? <div class="meta">{film.director}</div> : null}
     {meta ? <div class="meta">{meta}</div> : null}
-    <div class="venue">
-      {venue.url ? <a href={venue.url} target="_blank" rel="noopener">{venue.name}</a> : venue.name}
-    </div>
-    <div class="times">
-      {card.times.map((t) =>
-        t.url ? (
-          <a href={t.url} target="_blank" rel="noopener">{time12(t.time)}</a>
-        ) : (
-          <a>{time12(t.time)}</a>
-        ),
-      )}
+    <div class="showings">
+      {card.showings.map((s) => (
+        <div class="showing" data-venue={s.venue.id}>
+          <div class="venue">
+            {s.venue.url ? <a href={s.venue.url} target="_blank" rel="noopener">{s.venue.name}</a> : s.venue.name}
+            {!card.format && s.format ? <span class="tag format">{s.format}</span> : null}
+          </div>
+          {!card.note && s.note ? <div class="note">{s.note}</div> : null}
+          <div class="times">
+            {s.times.map((t) =>
+              t.url ? (
+                <a href={t.url} target="_blank" rel="noopener">{time12(t.time)}</a>
+              ) : (
+                <a>{time12(t.time)}</a>
+              ),
+            )}
+          </div>
+        </div>
+      ))}
     </div>
   </div>
 </article>
