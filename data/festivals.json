@@ -4,7 +4,7 @@
     "\\bfestivals?\\b",
     "\\bfest\\b",
     "\\bfest\\s*20\\d\\d\\b",
-    "indiefest|docfest|frameline|cinequest|sffilm|noir city|mostly british|silent film|animation show of shows|cinema italia|berlin & beyond|arab film|jewish film|caamfest|3rd i|hong kong cinema|another hole in the head|midnites for maniacs",
+    "indiefest|docfest|frameline|cinequest|noir city|mostly british|silent film|animation show of shows|cinema italia|berlin & beyond|arab film|jewish film|caamfest|3rd i|hong kong cinema|another hole in the head|midnites for maniacs",
     "\\bshorts?\\s+(program|block|night|showcase|competition)\\b",
     "\\bmixtape\\b",
     "twin peaks fest|vampire film fest"

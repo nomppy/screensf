@@ -30,9 +30,18 @@ import { loadDecisions, loadVenues, saveDecisions } from './lib/store.ts';
 import { describeMovie, filmFromTmdb, matchFilm, movieOverview, nowPlayingIds } from './lib/tmdb.ts';
 import { cleanTitleCandidates, extractYear, normalizeTitle } from './lib/titles.ts';
 import type { DecisionRecord, Film, RawScreening, Venue } from './lib/types.ts';
+import { scrapeAlamo } from './venues/alamo.ts';
+import { scrapeAta } from './venues/ata.ts';
+import { scrapeBampfa } from './venues/bampfa.ts';
 import { scrapeCastro } from './venues/castro.ts';
 import { scrapeCinemaSF } from './venues/cinemasf.ts';
+import { scrapeGrandLake } from './venues/grandlake.ts';
+import { scrapeLandmark } from './venues/landmark.ts';
+import { scrapeNewParkway } from './venues/newparkway.ts';
+import { scrapeRafael } from './venues/rafael.ts';
 import { scrapeRoxie } from './venues/roxie.ts';
+import { scrapeSfmoma } from './venues/sfmoma.ts';
+import { scrapeStanford } from './venues/stanford.ts';
 
 loadEnv();
 
@@ -40,6 +49,15 @@ const SCRAPERS: Record<string, (v: Venue) => Promise<RawScreening[]>> = {
   roxie: scrapeRoxie,
   cinemasf: scrapeCinemaSF,
   castro: scrapeCastro,
+  alamo: scrapeAlamo,
+  bampfa: scrapeBampfa,
+  rafael: scrapeRafael,
+  stanford: scrapeStanford,
+  newparkway: scrapeNewParkway,
+  sfmoma: scrapeSfmoma,
+  ata: scrapeAta,
+  grandlake: scrapeGrandLake,
+  landmark: scrapeLandmark,
 };
 
 const terminalPrompt = flag('prompt');

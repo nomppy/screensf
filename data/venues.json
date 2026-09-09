@@ -23,7 +23,7 @@
     "shortName": "Vogue",
     "city": "San Francisco",
     "url": "https://voguemovies.com",
-    "enabled": false,
+    "enabled": true,
     "scraper": "cinemasf",
     "calendarUrl": "https://voguemovies.com/calendar-of-events"
   },
@@ -33,7 +33,7 @@
     "shortName": "4 Star",
     "city": "San Francisco",
     "url": "https://www.4-star-movies.com",
-    "enabled": false,
+    "enabled": true,
     "scraper": "cinemasf",
     "calendarUrl": "https://www.4-star-movies.com/calendar-of-events"
   },
@@ -43,6 +43,94 @@
     "shortName": "Castro",
     "city": "San Francisco",
     "url": "https://thecastro.com",
+    "enabled": true
+  },
+  {
+    "id": "alamo",
+    "name": "Alamo Drafthouse New Mission",
+    "shortName": "Alamo",
+    "city": "San Francisco",
+    "url": "https://drafthouse.com/sf",
+    "calendarUrl": "https://drafthouse.com/sf/theater/new-mission",
+    "enabled": true
+  },
+  {
+    "id": "sfmoma",
+    "name": "SFMOMA",
+    "shortName": "SFMOMA",
+    "city": "San Francisco",
+    "url": "https://www.sfmoma.org",
+    "calendarUrl": "https://www.sfmoma.org/events/",
+    "enabled": true
+  },
+  {
+    "id": "ata",
+    "name": "Artists' Television Access",
+    "shortName": "ATA",
+    "city": "San Francisco",
+    "url": "https://www.atasite.org",
+    "calendarUrl": "https://www.atasite.org/events/",
+    "enabled": true
+  },
+  {
+    "id": "operaplaza",
+    "name": "Landmark Opera Plaza Cinema",
+    "shortName": "Opera Plaza",
+    "city": "San Francisco",
+    "url": "https://www.landmarktheatres.com",
+    "enabled": true,
+    "scraper": "landmark",
+    "calendarUrl": "https://www.landmarktheatres.com/theaters/x00u8-landmark-opera-plaza-cinema-san-francisco/"
+  },
+  {
+    "id": "bampfa",
+    "name": "BAMPFA",
+    "shortName": "BAMPFA",
+    "city": "Berkeley",
+    "url": "https://bampfa.org",
+    "calendarUrl": "https://bampfa.org/visit/calendar",
+    "enabled": true
+  },
+  {
+    "id": "newparkway",
+    "name": "The New Parkway Theater",
+    "shortName": "New Parkway",
+    "city": "Oakland",
+    "url": "https://www.thenewparkway.com",
+    "enabled": true
+  },
+  {
+    "id": "grandlake",
+    "name": "Grand Lake Theatre",
+    "shortName": "Grand Lake",
+    "city": "Oakland",
+    "url": "https://www.renaissancerialto.com",
+    "enabled": true
+  },
+  {
+    "id": "piedmont",
+    "name": "Landmark Piedmont Theatre",
+    "shortName": "Piedmont",
+    "city": "Oakland",
+    "url": "https://www.landmarktheatres.com",
+    "enabled": true,
+    "scraper": "landmark",
+    "calendarUrl": "https://www.landmarktheatres.com/theaters/x00y7-landmark-piedmont-theatre-oakland/"
+  },
+  {
+    "id": "stanford",
+    "name": "Stanford Theatre",
+    "shortName": "Stanford",
+    "city": "Palo Alto",
+    "url": "https://stanfordtheatre.org",
+    "enabled": true
+  },
+  {
+    "id": "rafael",
+    "name": "Smith Rafael Film Center",
+    "shortName": "Rafael",
+    "city": "San Rafael",
+    "url": "https://rafaelfilm.cafilm.org",
     "enabled": true
   }
 ]

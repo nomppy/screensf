@@ -108,7 +108,7 @@ Nothing about the watchlist is written to `data/` or rendered on the site. Match
 
 Showtimes whose title, note or URL matches a pattern in `data/festivals.json` skip TMDB and review. A festival's showtimes at one venue collapse into a single dated entry in the "Festivals & series" strip at the top of the schedule. If a venue lists a festival without any of the recognised words, add its name to the patterns list in that file.
 
-## 6. Turning venues on and off
+## 6. Turning theatres on and off
 
 Edit `data/venues.json` and flip `enabled`. Roxie, Balboa and Castro are on by default. Vogue and 4 Star share the Balboa's site template and can be enabled directly.
 

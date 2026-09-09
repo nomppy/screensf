@@ -14,6 +14,9 @@ const DEFAULT_GAP_MS = 700;
 const HOST_GAP_MS: Record<string, number> = {
   'thecastro.com': 2500,
   'letterboxd.com': 1500,
+  // robots.txt asks for Crawl-delay: 10. Pages are cached a week, so this
+  // only bites on a cold cache.
+  'bampfa.org': 10_000,
 };
 
 async function politeDelay(url: string) {

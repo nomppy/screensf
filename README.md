@@ -70,15 +70,24 @@ Letterboxd has no public API for watchlists; this reads the public HTML pages (a
 
 ## Venues and scrapers
 
-`data/venues.json` controls what runs. `enabled: true` on Roxie, Balboa and Castro; Vogue and 4 Star are pre-configured (same operator and site template as the Balboa) and can be turned on by flipping the flag.
+`data/venues.json` controls what runs; flip `enabled` to turn a theatre on or off. Fifteen are on, covering San Francisco, the East Bay, the Peninsula and Marin.
 
 | Venue | Source | Method |
 |---|---|---|
 | Roxie | roxie.com/calendar/ (WordPress, Theater plugin) | HTML list view: day headings, `/film/` title links, `#showtimes` time links |
-| Balboa, Vogue, 4 Star | Squarespace events collection | `?format=json` (structured), falling back to HTML; per-day showtimes parsed from the event body |
-| Castro | thecastro.com (WordPress, Another Planet) | Event listing pages → each event page; kept only if categorised as film or the page says "This film is rated" / mentions a screening |
+| Balboa, Vogue, 4 Star | Squarespace events collection | `?format=json`; one event per showtime, trusting the event's own start date |
+| Castro | thecastro.com (WordPress, Another Planet) | Listing pages → each event page (cached a week), kept only if categorised as film |
+| Alamo New Mission | drafthouse.com market schedule JSON | One feed for the whole SF market, filtered to cinema 0801; series and event type into `note` |
+| BAMPFA | bampfa.org/visit/calendar/YYYY-MM (Drupal month grid) | Film-tagged rows plus the event page for print format; honours the site's 10 s crawl delay |
+| Rafael | cinema.cafilm.org schedule + film pages | Schedule page for film URLs, film pages for AM/PM times, `RAF*` screens only |
+| Stanford | stanfordtheatre.org season page (hand-edited HTML) | Calendar table: date cell, one paragraph per film with year and times; returns nothing when dark |
+| New Parkway | thenewparkway.com GraphQL (Indy Cinema Systems) | `showingsForDate` per day with the site/circuit headers from the JS bundle |
+| SFMOMA | sfmoma.org/events/ inline JSON | Film Screening term only; detail page for description and location |
+| ATA | atasite.org WP REST (The Events Calendar) | Screening category; skips workshops and open mics |
+| Grand Lake | RTS ticketing (formovietickets.com, plain HTTP) | Day schedule pages; poster and cased titles from renaissancerialto.com |
+| Opera Plaza, Piedmont | landmarktheatres.com Boxoffice API | Theatre id from `calendarUrl`; formats from projection tags. Embarcadero, Shattuck and Albany Twin have closed. |
 
-**These scrapers were written against the sites' structure as of September 7, 2026 but have not been executed against the live sites** (the environment they were written in had no network access). Expect to fix a selector or two on first run. Every response is saved to `.cache/raw/<host>-<hash>.txt`, so when a venue returns 0 showtimes, open that file and compare against the selectors in `scripts/venues/*.ts`.
+Every response is saved to `.cache/raw/<host>-<hash>.txt`, so when a venue returns 0 showtimes, open that file and compare against the selectors in `scripts/venues/*.ts`. Several of these feeds (Drafthouse, New Parkway, Landmark) are undocumented internals and can change without notice; the scraper warns and returns nothing rather than failing the run.
 
 Adding a venue: write `scripts/venues/<id>.ts` exporting `(venue) => Promise<RawScreening[]>`, register it in the `SCRAPERS` map in `scripts/sync.ts`, add an entry to `data/venues.json`.
 
@@ -114,7 +123,7 @@ Undecided titles never publish unattended. Run `npm run review` locally, commit 
 
 ## Keyboard
 
-The schedule page has vim-style keys: `j`/`k` move between films, `J`/`K` between days, `gg`/`G` to the ends, `o` or Enter opens details, `t` opens tickets, `1`…`9` filter by theatre, `?` shows the list. With details open, `c` adds to Google Calendar and `l` opens Letterboxd.
+The schedule page has vim-style keys: `h`/`j`/`k`/`l` move between films by position on screen, `J`/`K` between days, `gg`/`G` to the ends, `o` or Enter opens details, `t` opens tickets, `1`…`5` filter by region, `?` shows the list. With details open, `c` adds to Google Calendar and `l` opens Letterboxd.
 
 ## Known limits
 

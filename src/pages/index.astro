@@ -8,6 +8,20 @@ const days = buildDays();
 const venues = activeVenues();
 const total = days.reduce((n, d) => n + d.cards.length, 0);
 const festivals = upcomingFestivals();
+
+const REGION: Record<string, string> = {
+  'San Francisco': 'San Francisco',
+  Berkeley: 'East Bay',
+  Oakland: 'East Bay',
+  Albany: 'East Bay',
+  'Palo Alto': 'Peninsula',
+  'San Rafael': 'North Bay',
+};
+const REGION_ORDER = ['San Francisco', 'East Bay', 'Peninsula', 'North Bay'];
+const regions = REGION_ORDER.map((name) => ({
+  name,
+  venues: venues.filter((v) => (REGION[v.city] ?? 'San Francisco') === name).map((v) => v.id),
+})).filter((r) => r.venues.length);
 ---
 
 <Layout>
@@ -16,13 +30,27 @@ const festivals = upcomingFestivals();
     {
       venues.length > 1 ? (
         <div class="filters" id="filters" role="group" aria-label="Filter by theatre">
-          <button class="chip" data-venue="all" aria-pressed="true">All theatres</button>
-          {venues.map((v) => (
-            <button class="chip" data-venue={v.id} aria-pressed="false">{v.shortName}</button>
-          ))}
+          <div class="filter-row">
+            <button class="chip" data-sel="all" aria-pressed="true">All theatres</button>
+            {regions.length > 1
+              ? regions.map((r) => (
+                  <button class="chip" data-sel={`region:${r.name}`} data-venues={r.venues.join(',')} aria-pressed="false">
+                    {r.name}
+                  </button>
+                ))
+              : null}
+          </div>
+          <div class="filter-row">
+            {venues.map((v) => (
+              <button class="chip chip-venue" data-sel={v.id} aria-pressed="false">{v.shortName}</button>
+            ))}
+          </div>
         </div>
       ) : null
     }
+    <p class="kb-hint" aria-hidden="true">
+      <kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd> to move, <kbd>o</kbd> to open, <kbd>?</kbd> for all keys
+    </p>
   </div>
 
   {
@@ -72,14 +100,14 @@ const festivals = upcomingFestivals();
     <button class="modal-close" data-kb-close aria-label="Close">×</button>
     <h2 id="kb-help-title">Keyboard</h2>
     <dl class="kb-list">
-      <dt><kbd>j</kbd> <kbd>k</kbd></dt><dd>next / previous film</dd>
+      <dt><kbd>h</kbd> <kbd>j</kbd> <kbd>k</kbd> <kbd>l</kbd></dt><dd>move left / down / up / right</dd>
       <dt><kbd>J</kbd> <kbd>K</kbd></dt><dd>next / previous day</dd>
       <dt><kbd>g g</kbd> <kbd>G</kbd></dt><dd>first / last film</dd>
       <dt><kbd>o</kbd> <kbd>Enter</kbd></dt><dd>open details</dd>
       <dt><kbd>t</kbd></dt><dd>tickets for the selected showtime</dd>
       <dt><kbd>c</kbd></dt><dd>add to Google Calendar (details open)</dd>
       <dt><kbd>l</kbd></dt><dd>Letterboxd page (details open)</dd>
-      <dt><kbd>1</kbd> … <kbd>9</kbd></dt><dd>filter by theatre, <kbd>1</kbd> is all</dd>
+      <dt><kbd>1</kbd> … <kbd>5</kbd></dt><dd>filter by region, <kbd>1</kbd> is all</dd>
       <dt><kbd>Esc</kbd></dt><dd>close</dd>
       <dt><kbd>?</kbd></dt><dd>this list</dd>
     </dl>
@@ -88,26 +116,41 @@ const festivals = upcomingFestivals();
 
 <script>
   // Venue filter chips. Pure client-side; the page is fully static.
+  // A selection is 'all', 'region:<name>' (chip carries data-venues) or a venue id.
   const chips = Array.from(document.querySelectorAll<HTMLButtonElement>('#filters .chip'));
+  const regionChips = chips.filter((c) => !c.classList.contains('chip-venue'));
   const cards = Array.from(document.querySelectorAll<HTMLElement>('.card, .festival'));
   const days = Array.from(document.querySelectorAll<HTMLElement>('.day'));
-  const key = 'screensf:venue';
+  const key = 'screensf:filter';
 
-  function apply(venue: string) {
-    for (const c of chips) c.setAttribute('aria-pressed', String(c.dataset.venue === venue));
-    for (const card of cards) card.hidden = venue !== 'all' && card.dataset.venue !== venue;
+  function allowed(sel: string): ((venue: string) => boolean) {
+    if (sel === 'all') return () => true;
+    const chip = chips.find((c) => c.dataset.sel === sel);
+    if (chip?.dataset.venues) {
+      const set = new Set(chip.dataset.venues.split(','));
+      return (v) => set.has(v);
+    }
+    return (v) => v === sel;
+  }
+
+  function apply(sel: string) {
+    const ok = allowed(sel);
+    for (const c of chips) c.setAttribute('aria-pressed', String(c.dataset.sel === sel));
+    for (const card of cards) card.hidden = !ok(card.dataset.venue ?? '');
     for (const day of days) {
       const visible = day.querySelectorAll('.card:not([hidden])').length;
       day.hidden = visible === 0;
       const small = day.querySelector('.day-head small');
       if (small) small.textContent = `${visible} ${visible === 1 ? 'screening' : 'screenings'}`;
     }
+    const fest = document.querySelector<HTMLElement>('.festivals');
+    if (fest) fest.hidden = !fest.querySelector('.festival:not([hidden])');
     try {
-      localStorage.setItem(key, venue);
+      localStorage.setItem(key, sel);
     } catch {}
   }
 
-  for (const c of chips) c.addEventListener('click', () => apply(c.dataset.venue ?? 'all'));
+  for (const c of chips) c.addEventListener('click', () => apply(c.dataset.sel ?? 'all'));
 
   // Hide days that have already passed if the build is stale.
   const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Los_Angeles' }).format(new Date());
@@ -117,9 +160,11 @@ const festivals = upcomingFestivals();
   try {
     saved = localStorage.getItem(key) ?? 'all';
   } catch {}
-  if (chips.some((c) => c.dataset.venue === saved)) apply(saved);
+  if (chips.some((c) => c.dataset.sel === saved)) apply(saved);
 
   // ---- vim-style keys -------------------------------------------------------
+  // h/j/k/l move by screen position, not DOM order, so "down" is the card
+  // below in the grid and "right" is the card beside it.
   const help = document.getElementById('kb-help') as HTMLDialogElement | null;
   const film = document.getElementById('film-modal') as HTMLDialogElement | null;
   const visibleCards = () => Array.from(document.querySelectorAll<HTMLElement>('.day:not([hidden]) .card:not([hidden])'));
@@ -130,12 +175,45 @@ const festivals = upcomingFestivals();
     card.focus({ preventScroll: true });
     card.scrollIntoView({ block: 'center', behavior: 'smooth' });
   }
-  function step(delta: number) {
+
+  type Dir = 'h' | 'j' | 'k' | 'l';
+  function move(dir: Dir) {
     const list = visibleCards();
     if (!list.length) return;
     const cur = focused();
-    const i = cur ? list.indexOf(cur) : -1;
-    go(list[i < 0 ? (delta > 0 ? 0 : list.length - 1) : Math.min(list.length - 1, Math.max(0, i + delta))]);
+    if (!cur || !list.includes(cur)) {
+      // Nothing focused: start at the first card that is on screen.
+      go(list.find((c) => c.getBoundingClientRect().bottom > 0) ?? list[0]);
+      return;
+    }
+    const r = cur.getBoundingClientRect();
+    const cx = (r.left + r.right) / 2;
+    const cy = (r.top + r.bottom) / 2;
+    const EPS = 4;
+    let best: { el: HTMLElement; primary: number; secondary: number } | undefined;
+    for (const el of list) {
+      if (el === cur) continue;
+      const b = el.getBoundingClientRect();
+      const bcx = (b.left + b.right) / 2;
+      const bcy = (b.top + b.bottom) / 2;
+      let primary: number;
+      let secondary: number;
+      switch (dir) {
+        case 'j': if (b.top < r.bottom - EPS) continue; primary = b.top - r.bottom; secondary = Math.abs(bcx - cx); break;
+        case 'k': if (b.bottom > r.top + EPS) continue; primary = r.top - b.bottom; secondary = Math.abs(bcx - cx); break;
+        case 'l': if (b.left < r.right - EPS || Math.abs(bcy - cy) > r.height / 2) continue; primary = b.left - r.right; secondary = 0; break;
+        case 'h': if (b.right > r.left + EPS || Math.abs(bcy - cy) > r.height / 2) continue; primary = r.left - b.right; secondary = 0; break;
+      }
+      if (!best || primary < best.primary - EPS || (Math.abs(primary - best.primary) <= EPS && secondary < best.secondary)) {
+        best = { el, primary, secondary };
+      }
+    }
+    if (best) { go(best.el); return; }
+    // End of a row: h/l wrap to the previous/next card in reading order.
+    if (dir === 'h' || dir === 'l') {
+      const i = list.indexOf(cur);
+      go(list[i + (dir === 'l' ? 1 : -1)]);
+    }
   }
   function stepDay(delta: number) {
     const list = visibleCards();
@@ -153,6 +231,9 @@ const festivals = upcomingFestivals();
       if (a) { a.click(); return; }
     }
   }
+  function usedKeys() {
+    document.querySelector('.kb-hint')?.classList.add('used');
+  }
 
   document.addEventListener('keydown', (e) => {
     if (e.ctrlKey || e.metaKey || e.altKey) return;
@@ -168,22 +249,24 @@ const festivals = upcomingFestivals();
     if (help?.open) return; // native Esc closes it
 
     if (film?.open) {
-      // Details open: act on the modal's own links; j/k still move underneath.
+      // Details open: act on the modal's own links; j/k step to the neighbouring film.
       if (e.key === 't') { e.preventDefault(); inModal('.modal-times a[aria-pressed="true"]', '.modal-times a'); return; }
       if (e.key === 'c') { e.preventDefault(); inModal('[data-gcal]'); return; }
       if (e.key === 'l') { e.preventDefault(); inModal('[data-letterboxd]'); return; }
-      if (e.key === 'j' || e.key === 'k') {
+      if (e.key === 'j' || e.key === 'k' || e.key === 'h') {
         e.preventDefault();
         film.close();
-        step(e.key === 'j' ? 1 : -1);
-        focused()?.click();
+        const list = visibleCards();
+        const cur = focused();
+        const i = cur ? list.indexOf(cur) : -1;
+        const next = list[i + (e.key === 'k' || e.key === 'h' ? -1 : 1)];
+        if (next) { go(next); next.click(); }
       }
       return;
     }
 
     switch (e.key) {
-      case 'j': e.preventDefault(); step(1); break;
-      case 'k': e.preventDefault(); step(-1); break;
+      case 'h': case 'j': case 'k': case 'l': e.preventDefault(); usedKeys(); move(e.key); break;
       case 'J': e.preventDefault(); stepDay(1); break;
       case 'K': e.preventDefault(); stepDay(-1); break;
       case 'G': e.preventDefault(); go(visibleCards().at(-1)); break;
@@ -196,8 +279,8 @@ const festivals = upcomingFestivals();
       case 'Escape': focused()?.blur(); break;
       default: {
         if (/^[1-9]$/.test(e.key)) {
-          const chip = chips[Number(e.key) - 1];
-          if (chip) { e.preventDefault(); apply(chip.dataset.venue ?? 'all'); }
+          const chip = regionChips[Number(e.key) - 1];
+          if (chip) { e.preventDefault(); apply(chip.dataset.sel ?? 'all'); }
         }
       }
     }

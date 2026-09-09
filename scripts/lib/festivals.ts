@@ -45,6 +45,22 @@ function withoutShowtime(s: string): string {
  * the match came from the URL instead, uses the festival slug; otherwise the
  * whole cleaned title.
  */
+function festivalNameFromHit(hit: string): string {
+  // Trim trailing words after the festival phrase so "Twin Peaks Fest 2026
+  // Opening Party" and "Twin Peaks Fest 2026: Pilot" share one entry.
+  let end = -1;
+  for (const re of loadPatterns()) {
+    const m = re.exec(hit);
+    if (m && (end === -1 || m.index + m[0].length > end)) end = m.index + m[0].length;
+  }
+  if (end > 0) {
+    const rest = hit.slice(end);
+    const year = rest.match(/^\s*((?:19|20)\d{2}|'\d{2})\b/);
+    return (hit.slice(0, end) + (year ? ` ${year[1]}` : '')).trim();
+  }
+  return hit;
+}
+
 export function festivalName(r: RawScreening): string {
   const cleaned = cleanTitleCandidates(r.rawTitle)[0] ?? r.rawTitle;
   const raw = withoutShowtime(r.rawTitle);
@@ -63,19 +79,10 @@ export function festivalName(r: RawScreening): string {
     .filter(Boolean);
   const hit = parts.find((p) => loadPatterns().some((re) => re.test(p)));
   if (hit) {
-    // Trim trailing words after the festival phrase so "Twin Peaks Fest 2026
-    // Opening Party" and "Twin Peaks Fest 2026: Pilot" share one entry.
-    let end = -1;
-    for (const re of loadPatterns()) {
-      const m = re.exec(hit);
-      if (m && (end === -1 || m.index + m[0].length > end)) end = m.index + m[0].length;
-    }
-    if (end > 0) {
-      const rest = hit.slice(end);
-      const year = rest.match(/^\s*((?:19|20)\d{2}|'\d{2})\b/);
-      return (hit.slice(0, end) + (year ? ` ${year[1]}` : '')).trim();
-    }
-    return hit;
+    // "Opening night of X Film Festival" and "X Film Festival" are one fest.
+    const lead = hit.match(/^(?:opening|closing)\s+night\s+(?:of\s+)?(?:the\s+)?(.+)$/i);
+    if (lead) return festivalNameFromHit(lead[1]);
+    return festivalNameFromHit(hit);
   }
   const slug = r.url.match(/\/([a-z0-9-]*(?:fest|festival)[a-z0-9-]*)\/?/i)?.[1];
   if (slug) return slug.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
