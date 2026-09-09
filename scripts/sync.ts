@@ -18,7 +18,7 @@
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { finalizeSchedule, saveResolved, type ResolvedItem } from './lib/build.ts';
 import { classify } from './lib/classify.ts';
-import { formatDateHeading, formatTime12, todayLA } from './lib/dates.ts';
+import { formatDateHeading, formatTime12, horizonEndLA, syncWeeks, todayLA } from './lib/dates.ts';
 import { flag, loadEnv, option } from './lib/env.ts';
 import { buildFestivals, isFestival } from './lib/festivals.ts';
 import { JsonCache } from './lib/http.ts';
@@ -78,13 +78,14 @@ async function main() {
     }
   }
   const today = todayLA();
-  const allUpcoming = raws.filter((r) => r.date >= today);
+  const horizon = horizonEndLA();
+  const allUpcoming = raws.filter((r) => r.date >= today && r.date <= horizon);
 
   // ---- 2. festivals -------------------------------------------------------
   const festivalRaws = allUpcoming.filter(isFestival);
   const upcoming = allUpcoming.filter((r) => !isFestival(r));
   const festivals = buildFestivals(festivalRaws);
-  console.log(`\n${allUpcoming.length} upcoming showtimes across ${venues.length} venues.`);
+  console.log(`\n${allUpcoming.length} upcoming showtimes across ${venues.length} venues in the next ${syncWeeks()} weeks (through ${formatDateHeading(horizon)}).`);
   if (festivals.length) {
     console.log(`${festivalRaws.length} are festival programming, folded into ${festivals.length} festival entr${festivals.length === 1 ? 'y' : 'ies'}:`);
     for (const f of festivals) {

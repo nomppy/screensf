@@ -44,7 +44,7 @@ You are never asked twice about a title. To reopen one: Undo in the review UI, `
 
 `npm run sync` is safe to run from cron or launchd since it never prompts; check the review UI when it reports pending titles.
 
-Other flags: `--venue roxie` (one venue), `--no-watchlist`.
+Other flags: `--venue roxie` (one venue), `--no-watchlist`. Sync only keeps showtimes within the next `SYNC_WEEKS` weeks (default 4); Castro event pages beyond that window are not fetched at all.
 
 ### Festivals
 

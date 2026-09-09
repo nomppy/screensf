@@ -5,7 +5,7 @@
  * (and a re-finalize) can work without scraping again.
  */
 import { existsSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
-import { todayLA } from './dates.ts';
+import { horizonEndLA, todayLA } from './dates.ts';
 import { loadDecisions, loadManual, saveSchedule, screeningId } from './store.ts';
 import { filmFromTmdb } from './tmdb.ts';
 import { extractFormat, extractNoteFromTitle, fallbackKey } from './titles.ts';
@@ -71,6 +71,7 @@ export interface FinalizeResult {
  */
 export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadDecisions()): Promise<FinalizeResult> {
   const today = todayLA();
+  const horizon = horizonEndLA();
   const nowPlaying = new Set(snap.nowPlaying);
   const films: Record<string, Film> = {};
   const seenFilms: Record<string, Film> = {};
@@ -103,7 +104,7 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
       included++;
       films[record.key] = record;
       for (const r of item.raws) {
-        if (r.date < today) continue;
+        if (r.date < today || r.date > horizon) continue;
         const base = {
           venueId: r.venueId,
           filmKey: record.key,
@@ -124,14 +125,14 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
   }
 
   for (const m of loadManual()) {
-    if (m.screening.date < today) continue;
+    if (m.screening.date < today || m.screening.date > horizon) continue;
     films[m.film.key] = { ...m.film, ...(films[m.film.key] ?? {}) };
     seenFilms[m.film.key] = films[m.film.key];
     if (!screenings.some((s) => s.id === m.screening.id)) screenings.push(m.screening);
   }
 
   screenings.sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time));
-  const festivals = snap.festivals.filter((f) => f.endDate >= today);
+  const festivals = snap.festivals.filter((f) => f.endDate >= today && f.startDate <= horizon);
   const data: ScheduleData = { generatedAt: new Date().toISOString(), films, screenings, festivals };
   saveSchedule(data);
   return { data, included, excluded, pending, seenFilms, rawFilmKey };

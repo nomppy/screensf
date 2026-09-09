@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 import { fetchText, fetchTextCached } from '../lib/http.ts';
-import { parseLongDate, parseTime } from '../lib/dates.ts';
+import { horizonEndLA, parseLongDate, parseTime, todayLA } from '../lib/dates.ts';
 import type { RawScreening, Venue } from '../lib/types.ts';
 
 /**
@@ -49,8 +49,19 @@ export async function scrapeCastro(venue: Venue): Promise<RawScreening[]> {
     return (filmUrls.has(u) ? 2 : 0) + (FILMIC.test(cards.get(u) ?? '') ? 1 : 0);
   }
 
+  // Skip event pages whose listing card already shows a date outside the sync
+  // horizon, so the slow one-page-per-event fetch only covers the weeks we show.
+  const today = todayLA();
+  const horizon = horizonEndLA();
+  const inRange = (u: string) => {
+    const m = (cards.get(u) ?? '').match(/\b(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day,\s+[A-Za-z]+\s+\d{1,2},\s+\d{4}/);
+    const d = m ? parseLongDate(m[0]) : null;
+    return !d || (d >= today && d <= horizon);
+  };
+
   const out: RawScreening[] = [];
   for (const url of candidates) {
+    if (!inRange(url)) continue;
     try {
       const html = await fetchTextCached(url, 7 * 24 * 60 * 60 * 1000);
       const s = parseEvent(html, url, venue, filmUrls.has(url));

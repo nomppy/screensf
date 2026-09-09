@@ -179,7 +179,7 @@ const PAGE = /* html */ `<!doctype html>
   :root { --bg:#f6f4ee; --ink:#16181d; --muted:#6b6f7a; --line:#dcd8cd; --card:#fff; --accent:#4b5b8a; --chip:#eceae2;
           --ok:#2f7d4f; --no:#b2432f; --warn:#b98a1c; }
   * { box-sizing:border-box }
-  body { margin:0; background:var(--bg); color:var(--ink); font:15px/1.4 -apple-system,BlinkMacSystemFont,Inter,Helvetica,Arial,sans-serif; -webkit-font-smoothing:antialiased }
+  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.45 -apple-system,BlinkMacSystemFont,Inter,Helvetica,Arial,sans-serif; -webkit-font-smoothing:antialiased }
   a { color:inherit }
   header { position:sticky; top:0; z-index:5; background:color-mix(in srgb,var(--bg) 94%,transparent); backdrop-filter:blur(8px); border-bottom:1px solid var(--line) }
   .bar { max-width:1320px; margin:0 auto; padding:10px 20px; display:flex; flex-wrap:wrap; gap:10px 18px; align-items:center }
@@ -191,40 +191,40 @@ const PAGE = /* html */ `<!doctype html>
   .spacer { flex:1 }
   .status { font-size:.82rem; color:var(--muted) }
   button.primary { border:0; background:var(--ink); color:#fff; border-radius:8px; padding:7px 12px; font:inherit; font-size:.85rem; cursor:pointer }
-  main { max-width:1320px; margin:0 auto; padding:18px 20px 80px; display:grid; gap:16px; grid-template-columns:repeat(auto-fill,minmax(400px,1fr)) }
-  .item { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:grid; grid-template-columns:150px 1fr; outline:none }
+  main { max-width:1500px; margin:0 auto; padding:18px 20px 80px; display:grid; gap:16px; grid-template-columns:repeat(auto-fill,minmax(560px,1fr)) }
+  .item { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:grid; grid-template-columns:200px 1fr; outline:none }
   .item:focus-within, .item:focus { box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 35%,transparent) }
   .item.decided { opacity:.62 }
   .item.decided.include { border-color:var(--ok) } .item.decided.exclude { border-color:var(--no) }
-  .poster { background:#2a2d36; min-height:225px; position:relative }
+  .poster { background:#2a2d36; min-height:300px; position:relative }
   .poster img { width:100%; height:100%; object-fit:cover; display:block; position:absolute; inset:0 }
   .poster .none { position:absolute; inset:0; display:grid; place-items:center; color:#9aa0b0; font-size:.75rem; letter-spacing:.08em; text-transform:uppercase; text-align:center; padding:10px }
-  .body { padding:12px 14px 12px; display:flex; flex-direction:column; gap:6px; min-width:0 }
-  .venue { font-size:.72rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--accent) }
-  .raw { font-weight:700; font-size:1.05rem; line-height:1.2; letter-spacing:-.01em }
+  .body { padding:16px 18px 16px; display:flex; flex-direction:column; gap:8px; min-width:0 }
+  .venue { font-size:.8rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--accent) }
+  .raw { font-weight:700; font-size:1.35rem; line-height:1.2; letter-spacing:-.01em }
   .raw a { text-decoration:none } .raw a:hover { text-decoration:underline }
-  .guess { font-size:.9rem } .guess b { font-weight:600 }
-  .meta, .reason, .times { font-size:.82rem; color:var(--muted) }
+  .guess { font-size:1.05rem } .guess b { font-weight:600 }
+  .meta, .reason, .times { font-size:.95rem; color:var(--muted) }
   .reason b { color:var(--warn); font-weight:600 }
-  .overview { font-size:.8rem; color:var(--muted); display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden }
+  .overview { font-size:.95rem; line-height:1.45; color:var(--muted); display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden }
   .times { line-height:1.5 } .times span { white-space:nowrap }
   .actions { display:flex; gap:6px; flex-wrap:wrap; margin-top:auto; padding-top:6px }
-  .actions button { border:1px solid var(--line); background:var(--chip); border-radius:8px; padding:6px 10px; font:inherit; font-size:.83rem; cursor:pointer; color:var(--ink) }
+  .actions button { border:1px solid var(--line); background:var(--chip); border-radius:8px; padding:9px 14px; font:inherit; font-size:.95rem; font-weight:600; cursor:pointer; color:var(--ink) }
   .actions button.yes { background:var(--ok); color:#fff; border-color:var(--ok) }
   .actions button.no { background:var(--no); color:#fff; border-color:var(--no) }
   .actions button:disabled { opacity:.5; cursor:default }
   .alts { display:flex; gap:6px; flex-wrap:wrap; align-items:flex-start }
-  .alt { width:64px; border:0; padding:0; background:none; cursor:pointer; text-align:left; font:inherit; color:inherit }
-  .alt img, .alt .ph { width:64px; height:96px; object-fit:cover; border-radius:5px; background:#2a2d36; display:block; border:2px solid transparent }
+  .alt { width:84px; border:0; padding:0; background:none; cursor:pointer; text-align:left; font:inherit; color:inherit }
+  .alt img, .alt .ph { width:84px; height:126px; object-fit:cover; border-radius:5px; background:#2a2d36; display:block; border:2px solid transparent }
   .alt:hover img, .alt:hover .ph { border-color:var(--accent) }
-  .alt small { display:block; font-size:.68rem; line-height:1.2; color:var(--muted); margin-top:3px; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical }
-  .search { display:flex; gap:6px } .search input { flex:1; font:inherit; font-size:.83rem; padding:5px 8px; border:1px solid var(--line); border-radius:7px; background:#fff }
+  .alt small { display:block; font-size:.75rem; line-height:1.2; color:var(--muted); margin-top:3px; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical }
+  .search { display:flex; gap:6px } .search input { flex:1; font:inherit; font-size:.95rem; padding:7px 10px; border:1px solid var(--line); border-radius:7px; background:#fff }
   .badge { position:absolute; top:8px; left:8px; font-size:.7rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; padding:3px 7px; border-radius:5px; color:#fff; background:var(--ok) }
   .badge.exclude { background:var(--no) }
   .kbd { font-family:ui-monospace,Menlo,monospace; font-size:.75rem; background:var(--chip); border:1px solid var(--line); border-radius:4px; padding:0 5px; color:var(--muted) }
   .empty { grid-column:1/-1; padding:80px 0; text-align:center; color:var(--muted) }
   .help { font-size:.8rem; color:var(--muted) }
-  @media (max-width:520px){ .item{grid-template-columns:110px 1fr} main{grid-template-columns:1fr} }
+  @media (max-width:640px){ .item{grid-template-columns:120px 1fr} main{grid-template-columns:1fr} }
 </style>
 </head>
 <body>

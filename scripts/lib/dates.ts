@@ -96,3 +96,16 @@ export function daysBetween(a: string, b: string): number {
   const [by, bm, bd] = b.split('-').map(Number);
   return Math.round((Date.UTC(by, bm - 1, bd) - Date.UTC(ay, am - 1, ad)) / 86_400_000);
 }
+
+/** How far ahead sync looks, in weeks. SYNC_WEEKS in .env; default 4. */
+export function syncWeeks(): number {
+  const n = Number(process.env.SYNC_WEEKS);
+  return Number.isFinite(n) && n > 0 ? n : 4;
+}
+
+/** Last date (YYYY-MM-DD, LA time) inside the sync horizon. */
+export function horizonEndLA(weeks = syncWeeks()): string {
+  const [y, m, d] = todayLA().split('-').map(Number);
+  const end = new Date(Date.UTC(y, m - 1, d + weeks * 7));
+  return ymd(end.getUTCFullYear(), end.getUTCMonth() + 1, end.getUTCDate());
+}

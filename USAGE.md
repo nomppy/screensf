@@ -19,6 +19,7 @@ Open `.env` and fill in:
 | `LETTERBOXD_USER` | no | Your Letterboxd username, for private watchlist alerts |
 | `BLOCKBUSTER_POPULARITY` | no | Popularity cutoff for auto-excluding wide releases (default 60) |
 | `NOTIFY_MACOS` | no | `1` to get desktop notifications on watchlist matches |
+| `SYNC_WEEKS` | no | How many weeks ahead to fetch and show (default 4) |
 
 Check that Node is 22.18 or newer (`node --version`); the scripts are TypeScript run directly by Node.
 
