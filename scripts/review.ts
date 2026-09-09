@@ -445,7 +445,8 @@ function baseDetails(i) { const f=curFilm(i); return f ? { title:f.title||'', ye
 function shownDetails(i) { const b=baseDetails(i), e=U(i).edits, out={...b}; for (const k of EDIT_FIELDS) if (k in e) out[k] = e[k]===''||e[k]==null ? '' : e[k]; return out; }
 const hasEdits = (i) => Object.keys(U(i).edits).length>0;
 /** Letterboxd page for the selected match, or a title search when there is no TMDB id. */
-function letterboxdUrl(i) { const f=curFilm(i); return f ? 'https://letterboxd.com/tmdb/'+f.tmdbId+'/' : 'https://letterboxd.com/search/films/'+encodeURIComponent(shownDetails(i).title)+'/'; }
+/** Letterboxd page for the selected match; null when there is no TMDB film to link to. */
+function letterboxdUrl(i) { const f=curFilm(i); return f && f.tmdbId ? 'https://letterboxd.com/tmdb/'+f.tmdbId+'/' : null; }
 const normEdits = (e) => { const o={}; for (const k of EDIT_FIELDS) if (e && k in e) o[k]=String(e[k]??''); return JSON.stringify(o); };
 function dirty(i) { const d=i.decision, u=U(i); if (!d || d.decision!=='include') return false; const savedMatch = d.tmdbId===undefined ? (i.film?i.film.tmdbId:null) : d.tmdbId; return savedMatch!==u.match || (d.image||null)!==u.art || normEdits(d.edits)!==normEdits(u.edits); }
 
@@ -565,7 +566,7 @@ function card(i) {
    + '<div class="guess"><span class="tag'+(edited?' edited':'')+'">'+(edited?'Edited':f?(u.match===(i.film&&i.film.tmdbId)?'TMDB guess':'Selected'):'Title only')+'</span><b data-show="title">'+esc(s.title)+'</b><span data-show="yeardir">'+(s.year?' ('+s.year+')':'')+(s.director?', '+esc(s.director):'')+'</span>'+agree
         + (f ? '' : ' <span class="meta">— listed with no TMDB data'+(i.film?'':' (no match found)')+'</span>')+'</div>'
    + '<div class="meta" data-show="meta"'+(meta?'':' hidden')+'>'+meta+'</div>'
-   + '<div class="links"><a class="lbx" data-lbx href="'+esc(letterboxdUrl(i))+'" target="_blank" rel="noopener" title="Open on Letterboxd (b)">Letterboxd ↗</a>'
+   + '<div class="links">'+(letterboxdUrl(i) ? '<a class="lbx" data-lbx href="'+esc(letterboxdUrl(i))+'" target="_blank" rel="noopener" title="Open on Letterboxd (b)">Letterboxd ↗</a>' : '')
    + (f ? '<a href="https://www.themoviedb.org/movie/'+f.tmdbId+'" target="_blank" rel="noopener">TMDB ↗</a>' : '') + '</div>'
    + '<div class="overview'+(u.open?' open':'')+'" data-show="overview" title="Click to expand"'+(s.overview?'':' hidden')+'>'+esc(s.overview)+'</div>'
    + editor
@@ -727,7 +728,7 @@ document.addEventListener('keydown', (e) => {
   else if (k==='o') { const p=previewArt(i); if (p) openLightbox(i, p.src); }
   else if (k==='/') { const q=el.querySelector('.matches input'); if (q) { q.focus(); q.select(); } }
   else if (k==='d') toggleEditor(i);
-  else if (k==='b') window.open(letterboxdUrl(i), '_blank', 'noopener');
+  else if (k==='b') { const u=letterboxdUrl(i); if (u) window.open(u, '_blank', 'noopener'); }
   else if (k==='O') window.open(i.url, '_blank', 'noopener');
   else if (k>='0' && k<='9') { const u=U(i); if (k==='0') selectMatch(i,null); else { const opts=[...u.order, ...u.results.filter(id=>!u.order.includes(id))]; const id=opts[Number(k)-1]; if (id!=null) selectMatch(i,id); } }
   else return;

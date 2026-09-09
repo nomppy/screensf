@@ -147,7 +147,8 @@
     }
     selectTime(f, f.times[0]);
     const lb = q<HTMLAnchorElement>('[data-letterboxd]');
-    lb.href = f.tmdbId ? `https://letterboxd.com/tmdb/${f.tmdbId}/` : `https://letterboxd.com/search/films/${encodeURIComponent(f.title)}/`;
+    lb.hidden = !f.tmdbId;
+    if (f.tmdbId) lb.href = `https://letterboxd.com/tmdb/${f.tmdbId}/`;
     const venue = q<HTMLAnchorElement>('[data-venue-link]');
     venue.href = f.venue.url;
     venue.textContent = f.venue.name;
