@@ -368,14 +368,17 @@ const PAGE = /* html */ `<!doctype html>
   <div class="brand">Screen <span>SF</span> · review</div>
   <div class="counts" id="counts">loading…</div>
   <div class="tabs" id="tabs">
+    <button class="chip" data-tab="all" aria-pressed="false" title="Clear the status filter">All</button>
     <button class="chip" data-tab="pending" aria-pressed="true">Pending</button>
-    <button class="chip" data-tab="included" aria-pressed="false" title="Everything on the site: your includes (with a TMDB film or title only) and the classifier's automatic includes (grey badge)">Included</button>
-    <button class="chip" data-tab="excluded" aria-pressed="false" title="Everything kept off the site: your decisions and the classifier's automatic excludes (grey badge)">Excluded</button>
-    <button class="chip" data-tab="edited" aria-pressed="false">Edited</button>
-    <button class="chip" data-tab="all" aria-pressed="false">All</button>
+    <button class="chip" data-tab="included" aria-pressed="false" title="Included by you as a TMDB film">Included</button>
+    <button class="chip" data-tab="titleonly" aria-pressed="false" title="Included by you, title only">Title only</button>
+    <button class="chip" data-tab="autoin" aria-pressed="false" title="Included automatically by the classifier">Auto-included</button>
+    <button class="chip" data-tab="excluded" aria-pressed="false" title="Excluded by you">Excluded</button>
+    <button class="chip" data-tab="autoout" aria-pressed="false" title="Excluded automatically by the classifier">Auto-excluded</button>
+    <button class="chip" data-tab="edited" aria-pressed="false" title="A hand-edited card or custom artwork">Edited</button>
   </div>
-  <div class="venues" id="venues"></div>
-  <div class="venues" id="reasons" title="Why the classifier held these titles back"></div>
+  <div class="venues" id="venues" title="Click several to combine; All clears"></div>
+  <div class="venues" id="reasons" title="Why the classifier held these titles back. Click several to combine; Any clears"></div>
   <div class="tabs" id="sort" title="Order cards by their first upcoming showtime, the way the site does, or by venue">
     <button class="chip" data-sort="date" aria-pressed="true">Soonest first</button>
     <button class="chip" data-sort="venue" aria-pressed="false">By venue</button>
@@ -395,7 +398,7 @@ const PAGE = /* html */ `<!doctype html>
 <div class="toast" id="toast" hidden><span id="toastText"></span><button id="toastUndo">Undo <span class="kbd">u</span></button></div>
 <div class="lb" id="lb" hidden><img id="lbImg" alt=""><div class="cap" id="lbCap"></div></div>
 <script>
-const state = { items: [], venues: [], tab: 'pending', venue: 'all', reason: 'all', sort: 'date', autoIncluded: 0, autoExcluded: 0, recent: new Set(), last: null, lastBuild: null, layout: 'focus' };
+const state = { items: [], venues: [], tabs: new Set(['pending']), venueSel: new Set(), reasonSel: new Set(), sort: 'date', autoIncluded: 0, autoExcluded: 0, recent: new Set(), last: null, lastBuild: null, layout: 'focus' };
 try { state.layout = localStorage.getItem('review.layout') || 'focus'; state.sort = localStorage.getItem('review.sort') || 'date'; } catch {}
 const todayISO = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Los_Angeles' }).format(new Date());
 /** First upcoming showtime, the moment the site would first list this title. */
@@ -518,38 +521,40 @@ function reasonGroup(r) {
   if (/^repertory/.test(r)) return 'Repertory';
   return r.replace(/[0-9]+/g,'N');
 }
+// Every chip row is multi-select: an empty set means "everything"; the All/Any chip clears the row.
+function toggleSel(set, v) { if (v==='all') set.clear(); else if (set.has(v)) set.delete(v); else set.add(v); }
+const inVenue = (i) => state.venueSel.size===0 || state.venueSel.has(i.venueId);
+const inReason = (i) => state.reasonSel.size===0 || state.reasonSel.has(reasonGroup(i.reason));
 function renderReasons() {
-  const pool = state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i));
+  const pool = state.items.filter(i => inVenue(i) && inTab(i));
   const counts = {}; for (const i of pool) { const g=reasonGroup(i.reason); counts[g]=(counts[g]||0)+1; }
   const groups = Object.keys(counts).sort((a,b)=>counts[b]-counts[a]);
-  if (state.reason!=='all' && !counts[state.reason]) state.reason='all';
-  $('#reasons').innerHTML = groups.length>1 ? ['all',...groups].map(g => '<button class="chip" data-reason="'+esc(g)+'" aria-pressed="'+(state.reason===g)+'">'+esc(g==='all'?'Any reason':g)+(g==='all'?'':' '+counts[g])+'</button>').join('') : '';
-  $('#reasons').querySelectorAll('button').forEach(b => b.onclick = () => { state.reason=b.dataset.reason; render(); });
+  for (const g of [...state.reasonSel]) if (!counts[g]) state.reasonSel.delete(g);
+  $('#reasons').innerHTML = groups.length>1 ? ['all',...groups].map(g => '<button class="chip" data-reason="'+esc(g)+'" aria-pressed="'+(g==='all'?state.reasonSel.size===0:state.reasonSel.has(g))+'">'+esc(g==='all'?'Any reason':g)+(g==='all'?'':' '+counts[g])+'</button>').join('') : '';
+  $('#reasons').querySelectorAll('button').forEach(b => b.onclick = () => { toggleSel(state.reasonSel, b.dataset.reason); render(); });
 }
 function renderVenues() {
   const ids = [...new Set(state.items.map(i=>i.venueId))];
-  $('#venues').innerHTML = ['all',...ids].map(id => '<button class="chip" data-venue="'+esc(id)+'" aria-pressed="'+(state.venue===id)+'">'+esc(id==='all'?'All venues':venueName(id))+'</button>').join('');
-  $('#venues').querySelectorAll('button').forEach(b => b.onclick = () => { state.venue=b.dataset.venue; state.recent.clear(); render(); renderVenues(); });
+  $('#venues').innerHTML = ['all',...ids].map(id => '<button class="chip" data-venue="'+esc(id)+'" aria-pressed="'+(id==='all'?state.venueSel.size===0:state.venueSel.has(id))+'">'+esc(id==='all'?'All venues':venueName(id))+'</button>').join('');
+  $('#venues').querySelectorAll('button').forEach(b => b.onclick = () => { toggleSel(state.venueSel, b.dataset.venue); state.recent.clear(); render(); renderVenues(); });
 }
 /** Decision status of an item: pending, included, titleonly or excluded. */
 function statusOf(i) { const d=i.decision; if (!d) return i.action==='ask' ? 'pending' : i.action==='include' ? 'autoin' : 'autoout'; if (d.decision==='exclude') return 'excluded'; return d.tmdbId===null ? 'titleonly' : 'included'; }
-function inTab(i) {
-  const t = state.tab, st = statusOf(i);
-  if (t==='all') return true;
+function matchesTab(i, t) {
+  const st = statusOf(i);
   if (t==='pending') return st==='pending' || state.recent.has(i.key);
   if (t==='edited') return !!(i.decision && (i.decision.edits || i.decision.image));
-  if (t==='included') return st==='included' || st==='titleonly' || st==='autoin';
-  if (t==='excluded') return st==='excluded' || st==='autoout';
   return st===t;
 }
+function inTab(i) { return state.tabs.size===0 || [...state.tabs].some(t => matchesTab(i, t)); }
 function visible() {
-  const list = state.items.filter(i => (state.venue==='all'||i.venueId===state.venue) && inTab(i) && (state.reason==='all' || reasonGroup(i.reason)===state.reason));
+  const list = state.items.filter(i => inVenue(i) && inTab(i) && inReason(i));
   if (state.sort==='date') list.sort((a, b) => firstShow(a).localeCompare(firstShow(b)) || venueName(a.venueId).localeCompare(venueName(b.venueId)));
   return list;
 }
 function render() {
   updateCounts();
-  $('#tabs').querySelectorAll('button').forEach(b => { b.setAttribute('aria-pressed', String(b.dataset.tab===state.tab)); b.onclick = () => { state.tab=b.dataset.tab; state.recent.clear(); render(); }; });
+  $('#tabs').querySelectorAll('button').forEach(b => { const t=b.dataset.tab; b.setAttribute('aria-pressed', String(t==='all' ? state.tabs.size===0 : state.tabs.has(t))); b.onclick = () => { toggleSel(state.tabs, t); state.recent.clear(); render(); }; });
   renderReasons();
   const list = visible();
   const grid = $('#grid');
@@ -558,7 +563,7 @@ function render() {
     let day = null;
     for (const i of list) { const d = firstShow(i).slice(0,10); if (d!==day) { day = d; const n = list.filter(x => firstShow(x).slice(0,10)===d).length; html += '<h2 class="dayhead">'+(d===todayISO?'Today · ':'')+esc(fmtDate(d))+'<small>'+n+' title'+(n===1?'':'s')+'</small></h2>'; } html += card(i); }
   } else html = list.map(card).join('');
-  grid.innerHTML = list.length ? html : '<div class="empty">'+(state.tab==='pending'?'Nothing left to review. Run <b>npm run sync</b> again later.':'Nothing here.')+'</div>';
+  grid.innerHTML = list.length ? html : '<div class="empty">'+(state.tabs.size===1&&state.tabs.has('pending')&&state.venueSel.size===0&&state.reasonSel.size===0?'Nothing left to review. Run <b>npm run sync</b> again later.':'Nothing matches these filters.')+'</div>';
   list.forEach(i => wire(i, cardEl(i)));
 }
 const cardEl = (i) => $('#grid').querySelector('[data-key="'+cssEsc(i.key)+'"]');
@@ -660,14 +665,13 @@ async function undo(i) {
   await post('/api/undo', {key:i.key});
   i.decision = null; if (state.last===i) state.last = null;
   rerender(i); pollStatus(); hideToast(); updateCounts();
-  if (state.tab!=='pending' && state.tab!=='all') { const el=cardEl(i); if (el) el.style.opacity='.4'; }
+  if (state.tabs.size && !state.tabs.has('pending')) { const el=cardEl(i); if (el) el.style.opacity='.4'; }
 }
 function updateCounts() {
   const n = { pending:0, autoin:0, autoout:0, included:0, titleonly:0, excluded:0, edited:0 };
   for (const i of state.items) { n[statusOf(i)]++; if (i.decision && (i.decision.edits || i.decision.image)) n.edited++; }
   $('#counts').textContent = n.pending+' pending · '+(n.included+n.titleonly+n.excluded)+' decided by you · '+(n.autoin+n.autoout)+' by the classifier';
-  n.included += n.autoin + n.titleonly; n.excluded += n.autoout;
-  const labels = { pending:'Pending', included:'Included', excluded:'Excluded', edited:'Edited' };
+  const labels = { pending:'Pending', included:'Included', titleonly:'Title only', autoin:'Auto-included', excluded:'Excluded', autoout:'Auto-excluded', edited:'Edited' };
   $('#tabs').querySelectorAll('button').forEach(b => { const t=b.dataset.tab; if (labels[t]) b.textContent = labels[t]+' '+n[t]; });
 }
 let toastTimer = null;
