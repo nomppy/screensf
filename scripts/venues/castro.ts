@@ -1,5 +1,6 @@
 import * as cheerio from 'cheerio';
 import { fetchText, fetchTextCached } from '../lib/http.ts';
+import { ogImage } from '../lib/artwork.ts';
 import { horizonEndLA, parseLongDate, parseTime, todayLA } from '../lib/dates.ts';
 import type { RawScreening, Venue } from '../lib/types.ts';
 
@@ -105,6 +106,8 @@ function parseEvent(html: string, url: string, venue: Venue, knownFilm: boolean)
 
   let title = ($('title').text().split('|')[0] ?? '').trim();
   if (!title) title = $('h2').first().text().trim();
+  // Kicker and headline sometimes run together: "…Frameline presentA tribute…"
+  title = title.replace(/\b(presents?)([A-Z])/g, '$1 $2');
   if (!title) return null;
 
   const dateLine = text.match(/\b(?:Mon|Tues|Wednes|Thurs|Fri|Satur|Sun)day,\s+[A-Za-z]+\s+\d{1,2},\s+\d{4}/);
@@ -117,8 +120,19 @@ function parseEvent(html: string, url: string, venue: Venue, knownFilm: boolean)
   if (!time) return null;
 
   // Sub-headline above the title carries the event framing.
-  const kicker = $('h2').first().prevAll().text().replace(/\s+/g, ' ').trim();
+  // Siblings are joined with spaces; .text() alone would run them together
+  // ("…Frameline present" + "A tribute…" -> "presentA tribute").
+  const kicker = $('h2')
+    .first()
+    .prevAll()
+    .map((_, el) => $(el).text())
+    .get()
+    .reverse()
+    .join(' ')
+    .replace(/\s+/g, ' ')
+    .replace(/\b(presents?)([A-Z])/g, '$1 $2')
+    .trim();
   const note = kicker && kicker.length <= 160 ? kicker : undefined;
 
-  return [{ venueId: venue.id, rawTitle: title, date, time, url, note }];
+  return [{ venueId: venue.id, rawTitle: title, date, time, url, note, image: ogImage(html, url) }];
 }

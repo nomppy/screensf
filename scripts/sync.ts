@@ -19,6 +19,7 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 import { finalizeSchedule, saveResolved, type ResolvedItem } from './lib/build.ts';
 import { classify } from './lib/classify.ts';
 import { formatDateHeading, formatTime12, horizonEndLA, syncWeeks, todayLA } from './lib/dates.ts';
+import { venueImageFor } from './lib/artwork.ts';
 import { flag, loadEnv, option } from './lib/env.ts';
 import { buildFestivals, isFestival } from './lib/festivals.ts';
 import { JsonCache } from './lib/http.ts';
@@ -147,6 +148,19 @@ async function main() {
     });
   }
   process.stdout.write('\n');
+
+  // ---- 3a. venue artwork ------------------------------------------------------
+  // For anything TMDB could not illustrate, and anything you will be asked
+  // about, grab the venue's own image so the card is never blank and review
+  // can offer it as an alternative. Listing pages are cached for a week.
+  const wantArt = items.filter((i) => i.action === 'ask' || !(i.film?.poster || i.film?.backdrop));
+  let a = 0;
+  for (const it of wantArt) {
+    a++;
+    process.stdout.write(`\r${progressBar(a, wantArt.length)} venue artwork ${a}/${wantArt.length}   `);
+    it.venueImage = await venueImageFor(it.raws);
+  }
+  if (wantArt.length) process.stdout.write('\n');
 
   const snapshot = {
     generatedAt: new Date().toISOString(),

@@ -23,6 +23,8 @@ export interface ResolvedItem {
   alternatives: TmdbMovie[];
   action: 'include' | 'exclude' | 'ask';
   reason: string;
+  /** Artwork from the venue's listing page, used when TMDB has none or when chosen in review. */
+  venueImage?: string;
 }
 
 export interface ResolvedSnapshot {
@@ -96,7 +98,8 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
         }
       }
     }
-    const record: Film = film ?? { key: fallbackKey(item.candidates[0], item.year), title: item.candidates[0], year: item.year };
+    let record: Film = film ?? { key: fallbackKey(item.candidates[0], item.year), title: item.candidates[0], year: item.year };
+    record = withArtwork(record, item.venueImage, decision?.image);
     seenFilms[record.key] = record;
     for (const r of item.raws) rawFilmKey.set(r, record.key);
 
@@ -136,4 +139,15 @@ export async function finalizeSchedule(snap: ResolvedSnapshot, decisions = loadD
   const data: ScheduleData = { generatedAt: new Date().toISOString(), films, screenings, festivals };
   saveSchedule(data);
   return { data, included, excluded, pending, seenFilms, rawFilmKey };
+}
+
+/**
+ * Pick the card image. A review override wins; otherwise TMDB art; otherwise
+ * whatever the venue published. The site renders backdrop ?? poster, so the
+ * chosen image is stored as the backdrop.
+ */
+export function withArtwork(film: Film, venueImage?: string, override?: string): Film {
+  if (override) return { ...film, backdrop: override, poster: film.poster ?? override };
+  if (!film.poster && !film.backdrop && venueImage) return { ...film, backdrop: venueImage };
+  return film;
 }

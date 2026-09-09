@@ -91,8 +91,11 @@ a:hover { text-decoration: underline; text-decoration-style: dotted; text-underl
   letter-spacing: 0.18em;
   text-transform: uppercase;
 }
+.brand { display: inline-flex; align-items: center; gap: 12px; }
 .brand span { color: var(--accent); }
-.brand::before { content: '¶ '; color: var(--muted); font-weight: 400; }
+.brand-mark { color: var(--accent); flex: none; display: block; }
+.brand-mark .deck { color: var(--ink); }
+.brand:hover { text-decoration: none; }
 .nav a {
   margin-left: 26px;
   font-size: 0.85rem;

@@ -28,7 +28,20 @@ const updated = generatedAt
   <body>
     <header class="site-header">
       <div class="wrap">
-        <a class="brand" href="/">Screen <span>Bay</span></a>
+        <a class="brand" href="/">
+          <svg class="brand-mark" viewBox="0 0 64 28" width="46" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+            <!-- towers -->
+            <path d="M16 26V6M22 26V6M16 10h6M16 15h6M16 20h6" />
+            <path d="M42 26V6M48 26V6M42 10h6M42 15h6M42 20h6" />
+            <!-- main cable -->
+            <path d="M1 20C6 14 12 8 19 6c6 2 8 12 13 12s7-10 13-12c7 2 13 8 18 14" />
+            <!-- deck -->
+            <path d="M1 22h62" class="deck" />
+            <!-- hangers -->
+            <path d="M8 22v-5M12 22v-10M26 22v-8M32 22v-4M38 22v-8M52 22v-10M56 22v-5" stroke-width="1" />
+          </svg>
+          Screen <span>Bay</span>
+        </a>
         <nav class="nav">
           <a href="/" aria-current={current === 'schedule' ? 'page' : undefined}>Schedule</a>
           <a href="/about" aria-current={current === 'about' ? 'page' : undefined}>About</a>

@@ -6,7 +6,10 @@ import type { RawScreening, Venue } from '../lib/types.ts';
 /**
  * The Balboa, Vogue and 4 Star (CinemaSF) share one Squarespace template.
  * Each film run is one Squarespace "event" whose body lists per-day headings
- * ("Monday, September 7") followed by Veezi ticket links whose text is the
+ * ("Monday, September 7") followed by Veezi   // own startDate; walking the body would attach later showtimes to this
+  // page's URL and duplicate them across the run.
+  if (start) {
+ links whose text is the
  * showtime. Titles embed showtimes after a tilde ("Akira 4K ~ 1:30 PM ...")
  * which titles.ts strips later.
  *
@@ -21,6 +24,7 @@ interface SqsEvent {
   endDate?: number;
   body?: string;
   excerpt?: string;
+  assetUrl?: string;
 }
 
 export async function scrapeCinemaSF(venue: Venue): Promise<RawScreening[]> {
@@ -33,7 +37,7 @@ export async function scrapeCinemaSF(venue: Venue): Promise<RawScreening[]> {
     const data = JSON.parse(text) as { upcoming?: SqsEvent[]; items?: SqsEvent[] };
     const events = data.upcoming ?? data.items ?? [];
     for (const ev of events) {
-      out.push(...fromEvent(venue, origin, ev.title, ev.fullUrl, ev.startDate, ev.body ?? ''));
+      out.push(...fromEvent(venue, origin, decodeEntities(ev.title), ev.fullUrl, ev.startDate, ev.body ?? '', ev.assetUrl));
     }
     if (out.length) return out;
     console.warn(`  ${venue.id}: JSON endpoint returned no events, falling back to HTML`);
@@ -83,6 +87,7 @@ function fromEvent(
   href: string,
   startMs: number,
   bodyHtml: string,
+  image?: string,
 ): RawScreening[] {
   const url = href.startsWith('http') ? href : `${origin}${href}`;
   const start = Number.isFinite(startMs) ? laParts(startMs) : null;
@@ -98,6 +103,14 @@ function fromEvent(
   });
   if (!note && /subtitled/i.test(title)) note = 'Subtitled';
 
+  // Squarespace gives one event per showtime, and each event body repeats the
+  // whole remaining run (every day heading + ticket link). Trust the event's
+  // own startDate; walking the body would attach later showtimes to this
+  // page's URL and duplicate them across the run.
+  if (start) {
+    return [{ venueId: venue.id, rawTitle: title, date: start.date, time: start.time, url, note, image }];
+  }
+
   const out: RawScreening[] = [];
   let date: string | null = null;
   $('h1, h2, h3, h4, h5, p, strong, a').each((_, el) => {
@@ -108,7 +121,7 @@ function fromEvent(
       const link = $el.attr('href') ?? '';
       if (!/veezi|ticket|purchase/i.test(link) || !isTimeLike(text) || !date) return;
       const time = parseTime(text);
-      if (time) out.push({ venueId: venue.id, rawTitle: title, date, time, url: link, note });
+      if (time) out.push({ venueId: venue.id, rawTitle: title, date, time, url: link, note, image });
       return;
     }
     // Day headings never contain a time and are short.
@@ -118,9 +131,11 @@ function fromEvent(
     }
   });
 
-  if (!out.length && start) {
-    out.push({ venueId: venue.id, rawTitle: title, date: start.date, time: start.time, url, note });
-  }
-  // Ticket links are per-showtime; the public listing is the event page.
+    // Ticket links are per-showtime; the public listing is the event page.
   return out.map((s) => ({ ...s, url: s.url.includes('veezi') ? url : s.url }));
+}
+
+/** Squarespace JSON carries HTML entities in titles ("Ep. 1 &amp; 2"). */
+function decodeEntities(s: string): string {
+  return cheerio.load(`<i>${s}</i>`)('i').text().replace(/\s+/g, ' ').trim();
 }

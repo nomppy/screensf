@@ -72,7 +72,8 @@ function view(item: ResolvedItem, decision?: DecisionRecord) {
         }
       : null,
     alternatives: item.alternatives.map(pickMovie),
-    decision: decision ? { decision: decision.decision, tmdbId: decision.tmdbId, decidedAt: decision.decidedAt } : null,
+    venueImage: item.venueImage ?? null,
+    decision: decision ? { decision: decision.decision, tmdbId: decision.tmdbId, image: decision.image ?? null, decidedAt: decision.decidedAt } : null,
   };
 }
 
@@ -121,15 +122,39 @@ const server = createServer(async (req, res) => {
     }
     if (req.method === 'POST' && url.pathname === '/api/decide') {
       const body = await readBody(req);
-      const { key, decision, tmdbId, title } = body as { key: string; decision: 'include' | 'exclude'; tmdbId?: number | null; title?: string };
+      const { key, decision, tmdbId, title, image } = body as { key: string; decision: 'include' | 'exclude'; tmdbId?: number | null; title?: string; image?: string | null };
       if (!key || (decision !== 'include' && decision !== 'exclude')) return json(res, 400, { error: 'bad request' });
       const decisions = loadDecisions();
+      const keepImage = image === undefined ? decisions[key]?.image : image ?? undefined;
       decisions[key] = {
         decision,
         title: title ?? decisions[key]?.title ?? key,
         tmdbId: decision === 'include' ? (tmdbId === undefined ? undefined : tmdbId) : undefined,
+        ...(decision === 'include' && keepImage ? { image: keepImage } : {}),
         decidedAt: new Date().toISOString(),
       };
+      saveDecisions(decisions);
+      scheduleRebuild();
+      return json(res, 200, { ok: true, decision: decisions[key] });
+    }
+    if (req.method === 'POST' && url.pathname === '/api/image') {
+      // Choose the card artwork: a URL (venue image or pasted) or null for the
+      // TMDB default. Implies "include" if the title was still undecided.
+      const { key, image } = (await readBody(req)) as { key: string; image: string | null };
+      if (!key || (image !== null && !/^https?:\/\//i.test(String(image)))) return json(res, 400, { error: 'image must be an http(s) URL or null' });
+      const decisions = loadDecisions();
+      const item = loadResolved()?.items.find((i) => i.key === key);
+      const prior = decisions[key];
+      const rec: DecisionRecord = prior ?? {
+        decision: 'include',
+        title: item?.raws[0].rawTitle ?? key,
+        tmdbId: item?.film?.tmdbId ?? null,
+        decidedAt: new Date().toISOString(),
+      };
+      if (image) rec.image = image;
+      else delete rec.image;
+      rec.decidedAt = new Date().toISOString();
+      decisions[key] = rec;
       saveDecisions(decisions);
       scheduleRebuild();
       return json(res, 200, { ok: true, decision: decisions[key] });
@@ -218,6 +243,13 @@ const PAGE = /* html */ `<!doctype html>
   .alt img, .alt .ph { width:84px; height:126px; object-fit:cover; border-radius:5px; background:#2a2d36; display:block; border:2px solid transparent }
   .alt:hover img, .alt:hover .ph { border-color:var(--accent) }
   .alt small { display:block; font-size:.75rem; line-height:1.2; color:var(--muted); margin-top:3px; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical }
+  .arts { display:flex; gap:8px; flex-wrap:wrap; align-items:flex-start }
+  .arts .label { width:100%; font-size:.78rem; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--muted) }
+  .art { width:128px; border:0; padding:0; background:none; cursor:pointer; text-align:left; font:inherit; color:inherit }
+  .art img { width:128px; height:72px; object-fit:cover; border-radius:5px; background:#2a2d36; display:block; border:2px solid transparent }
+  .art.on img { border-color:var(--accent); box-shadow:0 0 0 2px var(--accent) }
+  .art small { display:block; font-size:.75rem; line-height:1.2; color:var(--muted); margin-top:3px }
+  .arturl { display:flex; gap:6px; width:100%; margin-top:2px } .arturl input { flex:1; font:inherit; font-size:.9rem; padding:6px 10px; border:1px solid var(--line); border-radius:7px; background:#fff }
   .search { display:flex; gap:6px } .search input { flex:1; font:inherit; font-size:.95rem; padding:7px 10px; border:1px solid var(--line); border-radius:7px; background:#fff }
   .badge { position:absolute; top:8px; left:8px; font-size:.7rem; font-weight:700; letter-spacing:.06em; text-transform:uppercase; padding:3px 7px; border-radius:5px; color:#fff; background:var(--ok) }
   .badge.exclude { background:var(--no) }
@@ -279,11 +311,18 @@ const cssEsc = (s) => s.replace(/["\\\\]/g, '\\\\$&');
 function card(i) {
   const f = i.film, d = i.decision;
   const chosenAlt = d && d.tmdbId && f && d.tmdbId!==f.tmdbId ? i.alternatives.find(a=>a.id===d.tmdbId) : null;
-  const poster = chosenAlt ? chosenAlt.poster : (f && f.poster);
+  const tmdbArt = chosenAlt ? chosenAlt.poster : (f && (f.backdrop || f.poster));
+  const poster = (d && d.image) || tmdbArt || i.venueImage;
+  const sel = d && d.image ? d.image : 'tmdb';
+  const arts = (tmdbArt || i.venueImage) ? '<div class="arts"><span class="label">Artwork</span>'
+    + (tmdbArt ? '<button class="art'+(sel==='tmdb'?' on':'')+'" data-img="" title="Use TMDB artwork"><img src="'+esc(tmdbArt)+'" alt=""><small>TMDB</small></button>' : '')
+    + (i.venueImage ? '<button class="art'+(sel===i.venueImage?' on':'')+'" data-img="'+esc(i.venueImage)+'" title="Use the venue\'s image"><img src="'+esc(i.venueImage)+'" alt=""><small>'+esc(venueName(i.venueId))+' listing</small></button>' : '')
+    + (d && d.image && d.image!==i.venueImage ? '<button class="art on" data-img="'+esc(d.image)+'" title="Custom image"><img src="'+esc(d.image)+'" alt=""><small>Custom</small></button>' : '')
+    + '<div class="arturl"><input type="url" placeholder="…or paste an image URL"><button class="chip">Use</button></div></div>' : '';
   const decidedLabel = d ? (d.decision==='exclude' ? 'excluded' : d.tmdbId===null ? 'title only' : 'included') : '';
   const times = i.showtimes.slice(0,6).map(s=>'<span>'+fmtDate(s.date)+' '+fmtTime(s.time)+'</span>').join(' · ') + (i.showtimes.length>6?' · +'+(i.showtimes.length-6)+' more':'');
   return '<article class="item '+(d?'decided '+d.decision:'')+'" tabindex="0" data-key="'+esc(i.key)+'">'
-   + '<div class="poster">'+(poster?'<img src="'+esc(poster)+'" alt="">':'<div class="none">no TMDB match</div>')+(d?'<span class="badge '+d.decision+'">'+decidedLabel+'</span>':'')+'</div>'
+   + '<div class="poster">'+(poster?'<img src="'+esc(poster)+'" alt="">':'<div class="none">no artwork</div>')+(d?'<span class="badge '+d.decision+'">'+decidedLabel+'</span>':'')+'</div>'
    + '<div class="body">'
    + '<div class="venue">'+esc(venueName(i.venueId))+'</div>'
    + '<div class="raw"><a href="'+esc(i.url)+'" target="_blank" rel="noopener">'+esc(i.rawTitle)+'</a></div>'
@@ -294,6 +333,7 @@ function card(i) {
    + '<div class="reason"><b>Why:</b> '+esc(i.reason)+'</div>'
    + '<div class="times">'+times+'</div>'
    + (i.alternatives.length ? '<div class="alts">'+i.alternatives.map(a=>'<button class="alt" data-alt="'+a.id+'" title="Include as '+esc(a.title)+'">'+(a.poster?'<img src="'+esc(a.poster)+'" alt="">':'<div class="ph"></div>')+'<small>'+esc(a.title)+(a.year?' ('+a.year+')':'')+'</small></button>').join('')+'</div>' : '')
+   + arts
    + '<div class="search"><input type="search" placeholder="Search TMDB for a different match…" value=""><button class="chip">Search</button></div>'
    + '<div class="alts results"></div>'
    + '<div class="actions">'
@@ -312,6 +352,12 @@ async function decide(i, decision, tmdbId) {
   i.decision = d.decision; $('#status').textContent = 'saved · rebuilding schedule…'; render();
   setTimeout(load, 1500);
 }
+async function setImage(i, image) {
+  const r = await fetch('/api/image',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({key:i.key, image})});
+  const d = await r.json(); if (d.error) return alert(d.error);
+  i.decision = d.decision; $('#status').textContent = 'artwork saved · rebuilding schedule…'; render();
+  setTimeout(load, 1500);
+}
 async function undo(i) {
   await fetch('/api/undo',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({key:i.key})});
   i.decision = null; render(); setTimeout(load, 1500);
@@ -321,6 +367,9 @@ function wire(i, el) {
   el.querySelectorAll('[data-act]').forEach(b => b.onclick = (e) => { e.stopPropagation();
     const a=b.dataset.act; if(a==='include') decide(i,'include'); else if(a==='title') decide(i,'include',null); else if(a==='exclude') decide(i,'exclude'); else if(a==='undo') undo(i); });
   el.querySelectorAll('[data-alt]').forEach(b => b.onclick = () => decide(i,'include',Number(b.dataset.alt)));
+  el.querySelectorAll('[data-img]').forEach(b => b.onclick = (e) => { e.stopPropagation(); setImage(i, b.dataset.img || null); });
+  const urlIn = el.querySelector('.arturl input'), urlGo = el.querySelector('.arturl button');
+  if (urlIn) { const use = () => { const u=urlIn.value.trim(); if(u) setImage(i,u); }; urlGo.onclick = use; urlIn.onkeydown = (e) => { if(e.key==='Enter') use(); e.stopPropagation(); }; }
   const input = el.querySelector('.search input'), go = el.querySelector('.search button'), out = el.querySelector('.results');
   const run = async () => { const q=input.value.trim(); if(!q) return; out.innerHTML='<small class="meta">searching…</small>';
     const r = await fetch('/api/search?q='+encodeURIComponent(q)); const d = await r.json();

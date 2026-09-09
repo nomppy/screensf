@@ -15,10 +15,28 @@ function loadPatterns(): RegExp[] {
   return patterns;
 }
 
+/**
+ * Co-presentation credits ("Co-presented by Frameline", "Frameline & Another
+ * Planet present …") name an organisation without the show being part of its
+ * festival. Strip those clauses before pattern matching.
+ */
+function withoutCredits(s: string): string {
+  return s
+    .replace(/\b(?:co-?)?presented\s+(?:by|with)\b[^.:|()]*/gi, ' ')
+    .replace(/[^.:|()]*\bpresents?(?=[\sA-Z]|$)/g, ' ')
+    .replace(/[^.:|()]*\bPRESENTS?(?=\s|$)/g, ' ')
+    .replace(/\bin\s+partnership\s+with\b[^.:|()]*/gi, ' ');
+}
+
 /** True when a scraped showtime looks like festival programming rather than a single film run. */
 export function isFestival(r: RawScreening): boolean {
-  const hay = `${r.rawTitle} ${r.note ?? ''} ${r.url}`;
+  const hay = withoutCredits(`${r.rawTitle} ${r.note ?? ''}`) + ` ${r.url}`;
   return loadPatterns().some((re) => re.test(hay));
+}
+
+/** Strip Balboa-style embedded showtimes: "Akira 4K ~ 7:30 PM (Subtitled)". */
+function withoutShowtime(s: string): string {
+  return s.replace(/\s*~\s*\d{1,2}(?::\d{2})?\s*[ap]\.?m\.?/gi, ' ').replace(/\s+/g, ' ').trim();
 }
 
 /**
@@ -29,7 +47,17 @@ export function isFestival(r: RawScreening): boolean {
  */
 export function festivalName(r: RawScreening): string {
   const cleaned = cleanTitleCandidates(r.rawTitle)[0] ?? r.rawTitle;
-  const parts = cleaned
+  const raw = withoutShowtime(r.rawTitle);
+
+  // "El Vampiro (as part of International Vampire Film Fest)" -> the fest.
+  const partOf = `${raw} ${r.note ?? ''}`.match(/\b(?:as\s+)?part\s+of\s+(?:the\s+)?([^()|:]+?)\s*(?:[)|:]|$)/i);
+  if (partOf && loadPatterns().some((re) => re.test(partOf[1]))) return partOf[1].trim();
+
+  // Otherwise the segment of the raw title that names the festival. The raw
+  // title is used because the cleaner strips parentheticals, which is often
+  // the only place the festival is mentioned.
+  const parts = raw
+    .replace(/[()]/g, ' | ')
     .split(/\s*[:|]\s*|\s+[-–—]\s+/)
     .map((p) => p.trim())
     .filter(Boolean);

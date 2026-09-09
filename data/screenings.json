@@ -1,49 +1,6 @@
 {
-  "generatedAt": "2026-09-09T08:37:23.321Z",
+  "generatedAt": "2026-09-09T08:54:35.426Z",
   "films": {
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana"
-    },
-    "tmdb:1596332": {
-      "key": "tmdb:1596332",
-      "title": "American Doctor",
-      "year": 2026,
-      "director": "Poh Si Teng",
-      "runtime": 91,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yzNoanH2Jfn5bj7d6reKeaAbd4S.jpg",
-      "tmdbId": 1596332,
-      "popularity": 3.0181,
-      "releaseDate": "2026-08-14"
-    },
-    "tmdb:1482938": {
-      "key": "tmdb:1482938",
-      "title": "Union County",
-      "year": 2026,
-      "director": "Adam Meeks",
-      "runtime": 97,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/73Dt773ChYDF5ZgTPDyH6E7qZhs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/96S1Sm5tsHsFJXpTKkH0czQoEVJ.jpg",
-      "tmdbId": 1482938,
-      "popularity": 2.6937,
-      "releaseDate": "2026-08-14"
-    },
-    "tmdb:45650": {
-      "key": "tmdb:45650",
-      "title": "The Hole",
-      "year": 2009,
-      "director": "Joe Dante",
-      "runtime": 92,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/tQMxsrsVtpB2D2n01nUqgOMmSWD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/zK4ST48F7pmhBmMILhv6vvQO4n4.jpg",
-      "tmdbId": 45650,
-      "popularity": 4.5247,
-      "releaseDate": "2009-09-12"
-    },
     "tmdb:11229": {
       "key": "tmdb:11229",
       "title": "Freeway",
@@ -94,6 +51,24 @@
       "tmdbId": 16306,
       "popularity": 3.586,
       "releaseDate": "1973-12-01"
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-16.jpg"
+    },
+    "tmdb:1596332": {
+      "key": "tmdb:1596332",
+      "title": "American Doctor",
+      "year": 2026,
+      "director": "Poh Si Teng",
+      "runtime": 91,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/sOSrlaXvItVdwU1P5Qpttcl12sd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yzNoanH2Jfn5bj7d6reKeaAbd4S.jpg",
+      "tmdbId": 1596332,
+      "popularity": 3.0181,
+      "releaseDate": "2026-08-14"
     },
     "tmdb:1240889": {
       "key": "tmdb:1240889",
@@ -266,7 +241,8 @@
     },
     "t:larry reed a life in light and shadow": {
       "key": "t:larry reed a life in light and shadow",
-      "title": "Larry Reed: A Life in Light and Shadow"
+      "title": "Larry Reed: A Life in Light and Shadow",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Larry-Reed-3.jpeg"
     },
     "tmdb:829": {
       "key": "tmdb:829",
@@ -334,15 +310,18 @@
     },
     "t:re vision my name aint suzie": {
       "key": "t:re vision my name aint suzie",
-      "title": "Re:Vision: My Name Ain’t Suzie"
+      "title": "Re:Vision: My Name Ain’t Suzie",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/5-13.jpg"
     },
     "t:re vision valley of the bees": {
       "key": "t:re vision valley of the bees",
-      "title": "Re:Vision: Valley of the Bees"
+      "title": "Re:Vision: Valley of the Bees",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/5-3.jpg"
     },
     "t:re vision dakan": {
       "key": "t:re vision dakan",
-      "title": "Re:Vision: Dakan"
+      "title": "Re:Vision: Dakan",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/1-21.jpg"
     },
     "tmdb:916": {
       "key": "tmdb:916",
@@ -359,51 +338,63 @@
     },
     "t:re vision the outcasts": {
       "key": "t:re vision the outcasts",
-      "title": "Re:Vision: The Outcasts"
+      "title": "Re:Vision: The Outcasts",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/3-23.jpg"
     },
     "t:re vision i am with a monk": {
       "key": "t:re vision i am with a monk",
-      "title": "Re:Vision: I Am With A Monk"
+      "title": "Re:Vision: I Am With A Monk",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-23.jpg"
     },
     "t:dreamers and i": {
       "key": "t:dreamers and i",
-      "title": "The Dreamers And I"
+      "title": "The Dreamers And I",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/09/4.jpg"
     },
     "t:re vision araya": {
       "key": "t:re vision araya",
-      "title": "Re:Vision: Araya"
+      "title": "Re:Vision: Araya",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-20.jpg"
     },
     "t:re vision the dislocation of amber": {
       "key": "t:re vision the dislocation of amber",
-      "title": "Re:Vision: The Dislocation of Amber"
+      "title": "Re:Vision: The Dislocation of Amber",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/1-25.jpg"
     },
     "t:re vision gehenu lamai the girls": {
       "key": "t:re vision gehenu lamai the girls",
-      "title": "Re:Vision: Gehenu Lamai (The Girls)"
+      "title": "Re:Vision: Gehenu Lamai (The Girls)",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/3-18.jpg"
     },
     "t:re vision lepers and sex aka santo vs the riders of terror": {
       "key": "t:re vision lepers and sex aka santo vs the riders of terror",
-      "title": "Re:Vision: Lepers & Sex AKA Santo vs The Riders of Terror"
+      "title": "Re:Vision: Lepers & Sex AKA Santo vs The Riders of Terror",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/Untitled-design-8.jpg"
     },
     "t:re vision tri": {
       "key": "t:re vision tri",
-      "title": "Re:Vision: Tri"
+      "title": "Re:Vision: Tri",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-28.jpg"
     },
     "t:re vision the waiting room": {
       "key": "t:re vision the waiting room",
-      "title": "Re:Vision: The Waiting Room"
+      "title": "Re:Vision: The Waiting Room",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/1-7.jpg"
     },
     "t:re vision the garden of eden": {
       "key": "t:re vision the garden of eden",
-      "title": "Re:Vision: The Garden of Eden"
+      "title": "Re:Vision: The Garden of Eden",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-26.jpg"
     },
     "t:re vision 8 girls in a boat": {
       "key": "t:re vision 8 girls in a boat",
-      "title": "Re:Vision: 8 Girls in a Boat"
+      "title": "Re:Vision: 8 Girls in a Boat",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-19.jpg"
     },
     "t:re vision melody of murder": {
       "key": "t:re vision melody of murder",
-      "title": "Re:Vision: Melody of Murder"
+      "title": "Re:Vision: Melody of Murder",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/Untitled-design-2-1.jpg"
     },
     "tmdb:1431004": {
       "key": "tmdb:1431004",
@@ -508,189 +499,8 @@
     },
     "t:zoe presents memorex rexsexex y mas": {
       "key": "t:zoe presents memorex rexsexex y mas",
-      "title": "Zoé Presents: Memorex + Rexsexex y Más"
-    },
-    "tmdb:744": {
-      "key": "tmdb:744",
-      "title": "Top Gun",
-      "year": 1986,
-      "director": "Tony Scott",
-      "runtime": 110,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
-      "tmdbId": 744,
-      "popularity": 26.3178,
-      "releaseDate": "1986-05-16"
-    },
-    "tmdb:1580375": {
-      "key": "tmdb:1580375",
-      "title": "Tenor: My Name Is Pati",
-      "year": 2026,
-      "director": "Rebecca Tansley",
-      "runtime": 103,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/9jrqEzz7u4fgLiljYYDnIrwIqdj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kQJDuP47EEjg3zvAwH7njtFhAHQ.jpg",
-      "tmdbId": 1580375,
-      "popularity": 2.0883,
-      "releaseDate": "2026-03-05"
-    },
-    "tmdb:2649": {
-      "key": "tmdb:2649",
-      "title": "The Game",
-      "year": 1997,
-      "director": "David Fincher",
-      "runtime": 129,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
-      "tmdbId": 2649,
-      "popularity": 14.1842,
-      "releaseDate": "1997-09-12"
-    },
-    "tmdb:7857": {
-      "key": "tmdb:7857",
-      "title": "Amarcord",
-      "year": 1973,
-      "director": "Federico Fellini",
-      "runtime": 123,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/kS7i093sQpkLTawUEdgf4HVOHSc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/iFQzlUmO5QmMPcSHHDdfd522x33.jpg",
-      "tmdbId": 7857,
-      "popularity": 4.1331,
-      "releaseDate": "1973-12-18"
-    },
-    "tmdb:3019": {
-      "key": "tmdb:3019",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1931,
-      "director": "Rouben Mamoulian",
-      "runtime": 96,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
-      "tmdbId": 3019,
-      "popularity": 3.7519,
-      "releaseDate": "1931-12-24"
-    },
-    "tmdb:10439": {
-      "key": "tmdb:10439",
-      "title": "Hocus Pocus",
-      "year": 1993,
-      "director": "Kenny Ortega",
-      "runtime": 96,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "tmdbId": 10439,
-      "popularity": 13.1179,
-      "releaseDate": "1993-07-16"
-    },
-    "tmdb:9100": {
-      "key": "tmdb:9100",
-      "title": "The Craft",
-      "year": 1996,
-      "director": "Andrew Fleming",
-      "runtime": 101,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yAaAsbossCADVFdiqm8qAhd2gL0.jpg",
-      "tmdbId": 9100,
-      "popularity": 14.337,
-      "releaseDate": "1996-05-03"
-    },
-    "tmdb:458723": {
-      "key": "tmdb:458723",
-      "title": "Us",
-      "year": 2019,
-      "director": "Jordan Peele",
-      "runtime": 116,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
-      "tmdbId": 458723,
-      "popularity": 14.1976,
-      "releaseDate": "2019-03-14"
-    },
-    "tmdb:2990": {
-      "key": "tmdb:2990",
-      "title": "Pacific Heights",
-      "year": 1990,
-      "director": "John Schlesinger",
-      "runtime": 102,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/9iHD6xIrGSuuMEFWhwSVGXSddY2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/duelwmJcXTeEs2huscpxZ97QqOx.jpg",
-      "tmdbId": 2990,
-      "popularity": 6.0975,
-      "releaseDate": "1990-09-28"
-    },
-    "tmdb:13207": {
-      "key": "tmdb:13207",
-      "title": "Friday the 13th",
-      "year": 2009,
-      "director": "Marcus Nispel",
-      "runtime": 97,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/88wlJ4teYlck4hJ2bnlxBrAVh0m.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nQ7uBnLum3SB5LbCCBTKBYWnEzL.jpg",
-      "tmdbId": 13207,
-      "popularity": 10.9531,
-      "releaseDate": "2009-02-11"
-    },
-    "tmdb:5825": {
-      "key": "tmdb:5825",
-      "title": "National Lampoon's Christmas Vacation",
-      "year": 1989,
-      "director": "Jeremiah S. Chechik",
-      "runtime": 97,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
-      "tmdbId": 5825,
-      "popularity": 7.8665,
-      "releaseDate": "1989-11-30"
-    },
-    "tmdb:850": {
-      "key": "tmdb:850",
-      "title": "A Christmas Story",
-      "year": 1983,
-      "director": "Bob Clark",
-      "runtime": 93,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/feCcRTZNGUop3LnWBLTToYhd03S.jpg",
-      "tmdbId": 850,
-      "popularity": 7.3476,
-      "releaseDate": "1983-11-18"
-    },
-    "tmdb:915935": {
-      "key": "tmdb:915935",
-      "title": "Anatomy of a Fall",
-      "year": 2023,
-      "director": "Justine Triet",
-      "runtime": 151,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg",
-      "tmdbId": 915935,
-      "popularity": 20.6171,
-      "releaseDate": "2023-08-23"
-    },
-    "tmdb:1452267": {
-      "key": "tmdb:1452267",
-      "title": "cocoon - One Summer of Girlhood",
-      "year": 2026,
-      "director": "Yukimitsu Ina",
-      "runtime": 60,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/pTql9ek3bCdTkZTh2UvvXIy69qN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bvi7QguV3scShBGABC2eUkaBoi6.jpg",
-      "tmdbId": 1452267,
-      "popularity": 3.6213,
-      "releaseDate": "2026-09-04"
+      "title": "Zoé Presents: Memorex + Rexsexex y Más",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/1-11.jpg"
     },
     "tmdb:149": {
       "key": "tmdb:149",
@@ -705,19 +515,6 @@
       "popularity": 23.6657,
       "releaseDate": "1988-06-10",
       "nowPlaying": true
-    },
-    "tmdb:11586": {
-      "key": "tmdb:11586",
-      "title": "Exorcist II: The Heretic",
-      "year": 1977,
-      "director": "John Boorman",
-      "runtime": 118,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/g9i3LTMYLRHvCYSKimZEfd1Vqy7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/wyRJPq5lUy7V5ETiiwihff9wl3G.jpg",
-      "tmdbId": 11586,
-      "popularity": 6.065,
-      "releaseDate": "1977-06-17"
     },
     "tmdb:1517111": {
       "key": "tmdb:1517111",
@@ -799,12 +596,14 @@
     },
     "t:super shangri la": {
       "key": "t:super shangri la",
-      "title": "Super Shangri-La"
+      "title": "Super Shangri-La",
+      "backdrop": "https://images.squarespace-cdn.com/content/v1/616e038bb792dc0e9cf1381e/1724559545169-SLXWUO9BY6JJJY5V6Q4P/SuperShang.jpg"
     },
     "t:twilight:1999": {
       "key": "t:twilight:1999",
       "title": "Twilight",
-      "year": 1999
+      "year": 1999,
+      "backdrop": "https://images.squarespace-cdn.com/content/v1/616e038bb792dc0e9cf1381e/1643965717768-53O6KDN7XQ1QPE237LF2/Twilightpostermedium+copy.jpg"
     },
     "tmdb:1423191": {
       "key": "tmdb:1423191",
@@ -896,35 +695,6 @@
       "popularity": 26.3822,
       "releaseDate": "2004-04-30"
     },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0336,
-      "releaseDate": "2009-11-20"
-    },
-    "tmdb:1597242": {
-      "key": "tmdb:1597242",
-      "title": "Cameron Winter at Carnegie Hall",
-      "year": 2026,
-      "director": "Paul Thomas Anderson",
-      "runtime": 75,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/sQt2KQWkpGb79UKlCJNJ2BKobjo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/7wwJh55u7y5YoUJaABy5o47d14z.jpg",
-      "tmdbId": 1597242,
-      "popularity": 1.4038,
-      "releaseDate": "2026-11-20"
-    },
-    "t:claudio simonettis goblin performs the live score to tenebre": {
-      "key": "t:claudio simonettis goblin performs the live score to tenebre",
-      "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
-    },
     "tmdb:11976": {
       "key": "tmdb:11976",
       "title": "Legend",
@@ -938,9 +708,18 @@
       "popularity": 12.6627,
       "releaseDate": "1985-08-28"
     },
-    "t:finn wolfhard": {
-      "key": "t:finn wolfhard",
-      "title": "Finn Wolfhard"
+    "tmdb:16363": {
+      "key": "tmdb:16363",
+      "title": "The Best Little Whorehouse in Texas",
+      "year": 1982,
+      "director": "Colin Higgins",
+      "runtime": 114,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/yw3PNR3NVeKKfLWv8SgFQnXoHZh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2da9Hqr5FxMLYpcYi3BW2LyLIwf.jpg",
+      "tmdbId": 16363,
+      "popularity": 7.3671,
+      "releaseDate": "1982-07-23"
     }
   },
   "screenings": [
@@ -968,17 +747,6 @@
       "filmKey": "tmdb:149",
       "date": "2026-09-09",
       "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-8",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-09:19:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-09",
-      "time": "19:00",
       "url": "https://www.balboamovies.com/calendar-of-events/akira-september-9",
       "format": "4K",
       "note": "Presented with English subtitles in a new 4K restoration",
@@ -991,7 +759,7 @@
       "date": "2026-09-09",
       "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/boorman-and-the-devil-september-9",
-      "note": "Q&amp;A W/ Doc Interviewee Joseph McBride and Critic G. Allen Johnson",
+      "note": "Q&A W/ Doc Interviewee Joseph McBride and Critic G. Allen Johnson",
       "source": "balboa"
     },
     {
@@ -1046,28 +814,6 @@
       "filmKey": "tmdb:149",
       "date": "2026-09-10",
       "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-8",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-10:19:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-10",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-9",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-10:19:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-10",
-      "time": "19:00",
       "url": "https://www.balboamovies.com/calendar-of-events/akira-september-10",
       "format": "4K",
       "note": "Presented with English subtitles in a new 4K restoration",
@@ -1083,6 +829,16 @@
       "format": "35mm",
       "note": "Presented on 35mm by",
       "source": "balboa"
+    },
+    {
+      "id": "castro:2026-09-10:19:30:tmdb:16363",
+      "venueId": "castro",
+      "filmKey": "tmdb:16363",
+      "date": "2026-09-10",
+      "time": "19:30",
+      "url": "https://thecastro.com/events/the-best-little-whorehouse-in-texas-260910",
+      "note": "Another Planet Entertainment & Frameline present A tribute to Dolly Parton",
+      "source": "castro"
     },
     {
       "id": "roxie:2026-09-10:20:10:tmdb:1240889",
@@ -1149,17 +905,6 @@
       "time": "20:10",
       "url": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/",
       "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-12:12:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-12",
-      "time": "12:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-11",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
     },
     {
       "id": "balboa:2026-09-12:12:00:tmdb:149",
@@ -1252,28 +997,6 @@
       "filmKey": "tmdb:149",
       "date": "2026-09-13",
       "time": "15:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-11",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-13:15:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-13",
-      "time": "15:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-12",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-13:15:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-13",
-      "time": "15:00",
       "url": "https://www.balboamovies.com/calendar-of-events/akira-september-13",
       "format": "4K",
       "note": "Presented with English subtitles in a new 4K restoration",
@@ -1324,39 +1047,6 @@
       "time": "20:00",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-14:17:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-14",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-11",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-14:17:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-14",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-12",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-14:17:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-14",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-13",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
     },
     {
       "id": "balboa:2026-09-14:17:00:tmdb:149",
@@ -1485,17 +1175,6 @@
       "source": "roxie"
     },
     {
-      "id": "balboa:2026-09-16:16:30:t:twilight:1999",
-      "venueId": "balboa",
-      "filmKey": "t:twilight:1999",
-      "date": "2026-09-16",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/twilight-september-16",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
-    },
-    {
       "id": "roxie:2026-09-16:18:00:tmdb:21538",
       "venueId": "roxie",
       "filmKey": "tmdb:21538",
@@ -1522,6 +1201,17 @@
       "time": "19:00",
       "url": "https://www.balboamovies.com/calendar-of-events/super-shangri-la-september-16",
       "note": "Strange movies presented by Kai Wada Roath at the haunted & historic Balboa theater in San Francisco!",
+      "source": "balboa"
+    },
+    {
+      "id": "balboa:2026-09-16:19:30:t:twilight:1999",
+      "venueId": "balboa",
+      "filmKey": "t:twilight:1999",
+      "date": "2026-09-16",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/twilight-september-16",
+      "format": "35mm",
+      "note": "Presented on 35mm by",
       "source": "balboa"
     },
     {
@@ -1571,13 +1261,13 @@
       "source": "roxie"
     },
     {
-      "id": "balboa:2026-09-17:21:00:tmdb:1423191",
+      "id": "balboa:2026-09-17:19:00:tmdb:1596326",
       "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
+      "filmKey": "tmdb:1596326",
       "date": "2026-09-17",
-      "time": "21:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
+      "time": "19:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/barbara-forever-september-17",
+      "note": "Co-presented by Frameline",
       "source": "balboa"
     },
     {
@@ -1613,16 +1303,6 @@
       "filmKey": "tmdb:1423191",
       "date": "2026-09-18",
       "time": "18:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-18:18:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-18",
-      "time": "18:00",
       "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-18",
       "note": "Weapons, Barbarian",
       "source": "balboa"
@@ -1648,24 +1328,13 @@
       "source": "balboa"
     },
     {
-      "id": "balboa:2026-09-18:20:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
+      "id": "roxie:2026-09-18:20:15:tmdb:1240889",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1240889",
       "date": "2026-09-18",
-      "time": "20:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-18:20:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-18",
-      "time": "20:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-18",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
+      "time": "20:15",
+      "url": "https://roxie.com/film/teenage-sex-and-death-at-camp-miasma/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-09-18:21:00:tmdb:9323",
@@ -1709,39 +1378,8 @@
       "filmKey": "tmdb:1423191",
       "date": "2026-09-19",
       "time": "16:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-19:16:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-19",
-      "time": "16:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-18",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-19:16:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-19",
-      "time": "16:00",
       "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-19",
       "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-19:16:30:tmdb:11178",
-      "venueId": "balboa",
-      "filmKey": "tmdb:11178",
-      "date": "2026-09-19",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/my-sassy-girl-september-18",
-      "format": "4K",
-      "note": "New 25th Anniversary 4K",
       "source": "balboa"
     },
     {
@@ -1774,34 +1412,13 @@
       "source": "roxie"
     },
     {
-      "id": "balboa:2026-09-19:19:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
+      "id": "roxie:2026-09-19:19:40:tmdb:1620313",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1620313",
       "date": "2026-09-19",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-19:19:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-19",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-18",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-19:19:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-19",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-19",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
+      "time": "19:40",
+      "url": "https://roxie.com/film/the-samurai-and-the-prisoner/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-09-19:20:05:tmdb:30959",
@@ -1837,36 +1454,6 @@
       "filmKey": "tmdb:1423191",
       "date": "2026-09-20",
       "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:14:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-18",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:14:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-19",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:14:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "14:30",
       "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-20",
       "note": "Weapons, Barbarian",
       "source": "balboa"
@@ -1895,71 +1482,9 @@
       "filmKey": "tmdb:11178",
       "date": "2026-09-20",
       "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/my-sassy-girl-september-18",
-      "format": "4K",
-      "note": "New 25th Anniversary 4K",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:16:30:tmdb:11178",
-      "venueId": "balboa",
-      "filmKey": "tmdb:11178",
-      "date": "2026-09-20",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/my-sassy-girl-september-19",
-      "format": "4K",
-      "note": "New 25th Anniversary 4K",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:16:30:tmdb:11178",
-      "venueId": "balboa",
-      "filmKey": "tmdb:11178",
-      "date": "2026-09-20",
-      "time": "16:30",
       "url": "https://www.balboamovies.com/calendar-of-events/my-sassy-girl-september-20",
       "format": "4K",
       "note": "New 25th Anniversary 4K",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:16:45:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "16:45",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:16:45:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "16:45",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-18",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:16:45:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "16:45",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-19",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:16:45:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "16:45",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-20",
-      "note": "Weapons, Barbarian",
       "source": "balboa"
     },
     {
@@ -1971,46 +1496,6 @@
       "url": "https://roxie.com/film/kwaidan-4k-restoration/",
       "format": "4K",
       "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-20:19:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-17",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:19:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-18",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:19:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-19",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-20:19:00:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-20",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-20",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
     },
     {
       "id": "roxie:2026-09-21:18:00:tmdb:1596326",
@@ -2074,16 +1559,6 @@
       "filmKey": "tmdb:1423191",
       "date": "2026-09-22",
       "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-21",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-22:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-22",
-      "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-22",
       "note": "Weapons, Barbarian",
       "source": "balboa"
@@ -2112,26 +1587,6 @@
       "filmKey": "tmdb:1423191",
       "date": "2026-09-23",
       "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-21",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-23:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-23",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-22",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-23:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-23",
-      "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-23",
       "note": "Weapons, Barbarian",
       "source": "balboa"
@@ -2153,36 +1608,6 @@
       "time": "19:00",
       "url": "https://roxie.com/film/revision-my-name-aint-suzie/",
       "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-24:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-24",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-21",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-24:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-24",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-22",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-24:19:30:tmdb:1423191",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1423191",
-      "date": "2026-09-24",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-23",
-      "note": "Weapons, Barbarian",
-      "source": "balboa"
     },
     {
       "id": "balboa:2026-09-24:19:30:tmdb:1423191",
@@ -2272,15 +1697,6 @@
       "filmKey": "tmdb:1596296",
       "date": "2026-09-26",
       "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-26:14:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "14:30",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-26",
       "source": "balboa"
     },
@@ -2294,24 +1710,6 @@
       "source": "roxie"
     },
     {
-      "id": "balboa:2026-09-26:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-26:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-26",
-      "source": "balboa"
-    },
-    {
       "id": "roxie:2026-09-26:18:00:t:re vision gehenu lamai the girls",
       "venueId": "roxie",
       "filmKey": "t:re vision gehenu lamai the girls",
@@ -2320,24 +1718,6 @@
       "url": "https://roxie.com/film/revision-gehenu-lamai-the-girls/",
       "note": "The Girls",
       "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-26:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-26:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-26",
-      "source": "balboa"
     },
     {
       "id": "roxie:2026-09-26:21:00:t:re vision lepers and sex aka santo vs the riders of terror",
@@ -2372,24 +1752,6 @@
       "filmKey": "tmdb:1596296",
       "date": "2026-09-27",
       "time": "14:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-27:14:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "14:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-26",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-27:14:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "14:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-27",
       "source": "balboa"
     },
@@ -2403,33 +1765,6 @@
       "source": "roxie"
     },
     {
-      "id": "balboa:2026-09-27:16:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-27:16:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-26",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-27:16:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-27",
-      "source": "balboa"
-    },
-    {
       "id": "roxie:2026-09-27:18:10:t:re vision 8 girls in a boat",
       "venueId": "roxie",
       "filmKey": "t:re vision 8 girls in a boat",
@@ -2437,15 +1772,6 @@
       "time": "18:10",
       "url": "https://roxie.com/film/revision-8-girls-in-a-boat/",
       "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-27:19:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-27",
-      "source": "balboa"
     },
     {
       "id": "balboa:2026-09-27:19:15:tmdb:27031",
@@ -2519,33 +1845,6 @@
       "filmKey": "tmdb:1596296",
       "date": "2026-09-29",
       "time": "19:45",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-28",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-29:19:45:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-29",
-      "time": "19:45",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-29",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-30:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-30",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-28",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-30:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-30",
-      "time": "17:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-29",
       "source": "balboa"
     },
@@ -2601,33 +1900,6 @@
       "filmKey": "tmdb:1596296",
       "date": "2026-10-01",
       "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-28",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-10-01:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-01",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-29",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-10-01:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-01",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-30",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-10-01:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-01",
-      "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-1",
       "source": "balboa"
     },
@@ -2675,170 +1947,9 @@
       "time": "18:00",
       "url": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/",
       "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-09:19:00:tmdb:744",
-      "venueId": "roxie",
-      "filmKey": "tmdb:744",
-      "date": "2026-10-09",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-top-gun-2/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-11:18:00:tmdb:1580375",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1580375",
-      "date": "2026-10-11",
-      "time": "18:00",
-      "url": "https://roxie.com/film/tenor-my-name-is-pati/",
-      "source": "roxie"
-    },
-    {
-      "id": "castro:2026-10-14:20:00:t:finn wolfhard",
-      "venueId": "castro",
-      "filmKey": "t:finn wolfhard",
-      "date": "2026-10-14",
-      "time": "20:00",
-      "url": "https://thecastro.com/events/finn-wolfhard-261014",
-      "note": "The Common Side Effects Tour",
-      "source": "castro"
-    },
-    {
-      "id": "roxie:2026-10-16:19:00:tmdb:2649",
-      "venueId": "roxie",
-      "filmKey": "tmdb:2649",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-the-game/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-17:12:30:tmdb:7857",
-      "venueId": "roxie",
-      "filmKey": "tmdb:7857",
-      "date": "2026-10-17",
-      "time": "12:30",
-      "url": "https://roxie.com/film/zyzzyva-movie-matinee-with-ingrid-rojas-contreras-amarcord/",
-      "format": "35mm",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-20:18:00:tmdb:3019",
-      "venueId": "roxie",
-      "filmKey": "tmdb:3019",
-      "date": "2026-10-20",
-      "time": "18:00",
-      "url": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-23:19:00:tmdb:10439",
-      "venueId": "roxie",
-      "filmKey": "tmdb:10439",
-      "date": "2026-10-23",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-hocus-pocus-2/",
-      "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-10-23:20:00:tmdb:98096",
-      "venueId": "balboa",
-      "filmKey": "tmdb:98096",
-      "date": "2026-10-23",
-      "time": "20:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/izaak-opatz-joe-kaplow-october-23",
-      "note": "Izaak Opatz",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-27:21:15:tmdb:9100",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9100",
-      "date": "2026-10-27",
-      "time": "21:15",
-      "url": "https://roxie.com/film/rewind-presents-the-craft/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-30:19:00:tmdb:458723",
-      "venueId": "roxie",
-      "filmKey": "tmdb:458723",
-      "date": "2026-10-30",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-us/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-06:19:00:tmdb:2990",
-      "venueId": "roxie",
-      "filmKey": "tmdb:2990",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-pacific-heights/",
-      "source": "roxie"
-    },
-    {
-      "id": "castro:2026-11-10:19:30:t:claudio simonettis goblin performs the live score to tenebre",
-      "venueId": "castro",
-      "filmKey": "t:claudio simonettis goblin performs the live score to tenebre",
-      "date": "2026-11-10",
-      "time": "19:30",
-      "url": "https://thecastro.com/events/claudio-simonettis-goblin-261110",
-      "note": "Another Planet Entertainment and The Italian Cultural Institute of San Francisco present",
-      "source": "castro"
-    },
-    {
-      "id": "roxie:2026-11-13:19:00:tmdb:13207",
-      "venueId": "roxie",
-      "filmKey": "tmdb:13207",
-      "date": "2026-11-13",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-friday-the-13th/",
-      "source": "roxie"
-    },
-    {
-      "id": "castro:2026-12-02:19:30:tmdb:1597242",
-      "venueId": "castro",
-      "filmKey": "tmdb:1597242",
-      "date": "2026-12-02",
-      "time": "19:30",
-      "url": "https://thecastro.com/events/cameron-winter-at-carnegie-hall-261202",
-      "note": "A Janus Films and Criterion Release",
-      "source": "castro"
-    },
-    {
-      "id": "roxie:2026-12-12:18:30:tmdb:5825",
-      "venueId": "roxie",
-      "filmKey": "tmdb:5825",
-      "date": "2026-12-12",
-      "time": "18:30",
-      "url": "https://roxie.com/film/floating-features-national-lampoons-christmas-vacation/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-12-19:18:30:tmdb:850",
-      "venueId": "roxie",
-      "filmKey": "tmdb:850",
-      "date": "2026-12-19",
-      "time": "18:30",
-      "url": "https://roxie.com/film/floating-features-a-christmas-story-1983/",
-      "source": "roxie"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:castro:another planet entertainment and frameline presenta tribute to dolly parton",
-      "name": "Another Planet Entertainment & Frameline presentA tribute to Dolly Parton",
-      "venueId": "castro",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "url": "https://thecastro.com/events/the-best-little-whorehouse-in-texas-260910",
-      "showtimes": 1,
-      "sample": [
-        "The Best Little Whorehouse in Texas"
-      ]
-    },
     {
       "key": "fest:balboa:twin peaks fest",
       "name": "TWIN PEAKS FEST",
@@ -2849,105 +1960,10 @@
       "showtimes": 16,
       "sample": [
         "Season 1, Ep. 1 (Northwest Passage)",
-        "The Return, Ep. 1 &amp; 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
-        "Season 1, Ep. 2 &amp; 3 (Traces to Nowhere/Zen, Or the Skill To Catch a Killer)",
-        "Season 1, Ep. 4 &amp; 5 (Rest in Pain/The One-Armed Man)"
+        "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
+        "Season 1, Ep. 2 & 3 (Traces to Nowhere/Zen, Or the Skill To Catch a Killer)",
+        "Season 1, Ep. 4 & 5 (Rest in Pain/The One-Armed Man)"
       ]
-    },
-    {
-      "key": "fest:balboa:co presented by frameline",
-      "name": "Co-presented by Frameline",
-      "venueId": "balboa",
-      "startDate": "2026-09-17",
-      "endDate": "2026-10-12",
-      "url": "https://www.balboamovies.com/calendar-of-events/barbara-forever-september-17",
-      "showtimes": 2,
-      "sample": [
-        "Barbara Forever",
-        "Bea Arthur: The Documentary"
-      ]
-    },
-    {
-      "key": "fest:castro:frameline and another planet entertainment presenta tribute to dolly parton",
-      "name": "Frameline & Another Planet Entertainment presentA tribute to Dolly Parton",
-      "venueId": "castro",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "url": "https://thecastro.com/events/9-to-5-261011",
-      "showtimes": 1,
-      "sample": [
-        "9 to 5"
-      ]
-    },
-    {
-      "key": "fest:balboa:el vampiro",
-      "name": "El Vampiro",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/calendar-of-events/el-vampiro-october-17",
-      "showtimes": 1,
-      "sample": []
-    },
-    {
-      "key": "fest:balboa:let the right one",
-      "name": "Let the Right One",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/calendar-of-events/let-the-right-one-in-october-17",
-      "showtimes": 1,
-      "sample": []
-    },
-    {
-      "key": "fest:balboa:girl walks home alone at night",
-      "name": "A Girl Walks Home Alone at Night",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/calendar-of-events/a-girl-walks-home-alone-at-night-october-17",
-      "showtimes": 1,
-      "sample": []
-    },
-    {
-      "key": "fest:balboa:vourdalak",
-      "name": "The Vourdalak",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-vourdalak-october-17",
-      "showtimes": 1,
-      "sample": []
-    },
-    {
-      "key": "fest:balboa:horror of dracula",
-      "name": "Horror of Dracula",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/calendar-of-events/horror-of-dracula-october-17",
-      "showtimes": 1,
-      "sample": []
-    },
-    {
-      "key": "fest:balboa:planet of the vampires",
-      "name": "Planet of the Vampires",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/calendar-of-events/planet-of-the-vampires-october-17",
-      "showtimes": 1,
-      "sample": []
-    },
-    {
-      "key": "fest:balboa:lake of dracula",
-      "name": "Lake of Dracula",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/calendar-of-events/lake-of-dracula-october-17",
-      "showtimes": 1,
-      "sample": []
     }
   ]
 }

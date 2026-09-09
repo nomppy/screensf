@@ -24,6 +24,8 @@ export interface RawScreening {
   note?: string;
   /** Projection format if the venue states it: 35mm, 70mm, 16mm, 4K, DCP. */
   format?: string;
+  /** Artwork from the venue's own listing (Squarespace asset, og:image). */
+  image?: string;
 }
 
 export interface Film {
@@ -81,6 +83,8 @@ export interface DecisionRecord {
   title: string;
   /** Overrides the TMDB pick when the user chose an alternative match. */
   tmdbId?: number | null;
+  /** Artwork override chosen in review: a URL (venue image or pasted). Absent = TMDB default. */
+  image?: string;
   decidedAt: string;
 }
 
