@@ -132,6 +132,8 @@ h1 {
 .kb-hint kbd { font-size: 0.68rem; padding: 0 5px; margin-right: 2px; border-color: var(--muted); }
 .kb-hint.used { opacity: 0.55; }
 @media (hover: hover) and (pointer: fine) { .kb-hint { display: block; } }
+/* Schedule page: the filters + hint already separate the head from the list. */
+.page-head:has(.kb-hint) { border-bottom: 0; }
 .chip {
   border: 1px solid var(--line);
   background: transparent;

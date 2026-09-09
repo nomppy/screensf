@@ -90,6 +90,23 @@ export function festivalName(r: RawScreening): string {
   return cleaned;
 }
 
+/**
+ * Scraped notes on festival showtimes are mostly boilerplate that the
+ * programme heading already says: "Playing as part of", "X Fest Presents",
+ * the festival's own name, or the film title again. Keep only the rest.
+ */
+export function programmeNote(note: string | undefined, festival: string, title: string): string | undefined {
+  if (!note) return undefined;
+  const n = note.trim();
+  if (!n) return undefined;
+  if (/\b(?:as\s+)?part\s+of\b/i.test(n)) return undefined;
+  if (/\bpresents?\b/i.test(n) && loadPatterns().some((re) => re.test(n))) return undefined;
+  const nt = normalizeTitle(n);
+  if (nt === normalizeTitle(festival) || nt === normalizeTitle(title) || nt.startsWith(normalizeTitle(title) + ' ')) return undefined;
+  if (loadPatterns().some((re) => re.test(withoutCredits(n))) && n.split(/\s+/).length <= 8) return undefined;
+  return n;
+}
+
 export function buildFestivals(raws: RawScreening[]): Festival[] {
   const map = new Map<string, Festival & { titles: Set<string>; programme: NonNullable<Festival['programme']> }>();
   for (const r of raws) {
@@ -116,7 +133,7 @@ export function buildFestivals(raws: RawScreening[]): Festival[] {
     const cleaned = cleanTitleCandidates(r.rawTitle)[0] ?? r.rawTitle;
     const title = cleaned.replace(new RegExp(`^${escapeRe(name)}\\s*[:|\\-–—]?\\s*`, 'i'), '').trim();
     if (title && normalizeTitle(title) !== normalizeTitle(name)) f.titles.add(title);
-    f.programme.push({ date: r.date, time: r.time, title: title || cleaned, url: r.url, note: r.note });
+    f.programme.push({ date: r.date, time: r.time, title: title || cleaned, url: r.url, note: programmeNote(r.note, name, title || cleaned) });
     map.set(key, f);
   }
   return [...map.values()]
