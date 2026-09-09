@@ -128,6 +128,9 @@ function fromShowing(s: NpShowing, movies: Map<string, NpMovie>, origin: string,
   if (suffix) notes.push(suffix[1].replace(/\s*\([^()]*\)\s*$/, '').trim());
   if (s.isPreview) notes.push('Preview screening');
   const cls = movie.titleClass?.name?.trim();
+  // The venue lists mezzanine events under the same model as films.
+  if (/^on the mezz\b/i.test(title) || /^free events$/i.test(cls ?? '')) return null;
+  if (/\b(trivia|bingo|karaoke|dinner|brunch|comedy|open mic|drag|quiz|market|dance party|dj)\b/i.test(title)) return null;
   if (cls && !/^film$/i.test(cls)) notes.push(cls);
   for (const b of [...(movie.showingBadges ?? []), ...(s.showingBadges ?? [])]) {
     const t = b?.title?.trim();

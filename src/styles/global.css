@@ -148,34 +148,39 @@ h1 {
 .chip[aria-pressed='true']:hover { background: var(--ink); }
 
 /* Festivals ------------------------------------------------------------------ */
-.festivals { padding: 24px 0 4px; }
-.festivals-head {
-  margin: 0 0 12px;
-  font-size: 0.8rem;
-  font-weight: 700;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-.festivals-head::before { content: '// '; }
-.festival-row {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 14px;
-}
-.festival {
-  display: block;
-  padding: 16px 18px;
+.fest-list { display: flex; flex-direction: column; gap: 14px; padding: 8px 0 32px; }
+.fest { border: 1px solid var(--ink); background: var(--card); box-shadow: 4px 4px 0 var(--hair); }
+.fest > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 18px 20px;
   background: var(--ink);
   color: var(--bg);
-  border: 1px solid var(--ink);
 }
-.festival:hover { text-decoration: none; background: var(--accent); border-color: var(--accent); }
-.festival[hidden] { display: none; }
+.fest > summary::-webkit-details-marker { display: none; }
+.fest > summary:hover { background: var(--accent); }
+.fest[open] > summary { border-bottom: 1px solid var(--ink); }
+.fest-name { font-size: 1.5rem; font-weight: 500; letter-spacing: -0.01em; margin: 6px 0 4px; }
+.fest-toggle { white-space: nowrap; opacity: 0.8; padding-top: 4px; }
+.fest-toggle::after { content: ' +'; }
+.fest[open] .fest-toggle::after { content: ' −'; }
 .festival-dates { font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; opacity: 0.8; }
-.festival-name { font-size: 1.3rem; font-weight: 500; letter-spacing: -0.01em; margin: 6px 0 4px; }
 .festival-meta { font-size: 0.8rem; opacity: 0.85; }
 .festival-sample { font-size: 0.9rem; opacity: 0.75; margin-top: 8px; font-style: italic; }
+.fest-body { padding: 18px 20px 22px; }
+.fest-body > .btn { display: inline-block; margin-bottom: 8px; }
+.fest-day { margin-top: 18px; }
+.fest-day .day-head { font-size: 0.78rem; margin: 0 0 8px; padding: 0 0 6px; }
+.fest-programme { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.fest-programme li { display: grid; grid-template-columns: 90px 1fr; gap: 4px 14px; align-items: baseline; }
+.fest-time { text-decoration: none; border: 1px solid var(--line); padding: 3px 8px; text-align: center; }
+.fest-time:hover { background: var(--ink); color: var(--bg); text-decoration: none; }
+.fest-title { font-size: 1.05rem; }
+.fest-note { grid-column: 2; color: var(--accent); font-style: italic; font-size: 0.9rem; }
 
 /* Days ----------------------------------------------------------------------- */
 .day { padding: 28px 0 10px; }

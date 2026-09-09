@@ -2,12 +2,11 @@
 import Layout from '../components/Layout.astro';
 import ScreeningCard from '../components/ScreeningCard.astro';
 import FilmModal from '../components/FilmModal.astro';
-import { activeVenues, buildDays, dateRange, headingFor, upcomingFestivals, venueFor } from '../lib/schedule';
+import { activeVenues, buildDays, headingFor } from '../lib/schedule';
 
 const days = buildDays();
 const venues = activeVenues();
 const total = days.reduce((n, d) => n + d.cards.length, 0);
-const festivals = upcomingFestivals();
 
 const REGION: Record<string, string> = {
   'San Francisco': 'San Francisco',
@@ -49,35 +48,13 @@ const regions = REGION_ORDER.map((name) => ({
       ) : null
     }
     <p class="kb-hint" aria-hidden="true">
-      <kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd> to move, <kbd>o</kbd> to open, <kbd>?</kbd> for all keys
+      <kbd>h</kbd><kbd>j</kbd><kbd>k</kbd><kbd>l</kbd> to move, <kbd>o</kbd> to open, <kbd>1</kbd>–<kbd>5</kbd> region, <kbd>?</kbd> for all keys
     </p>
   </div>
 
-  {
-    festivals.length ? (
-      <section class="festivals" aria-label="Festivals">
-        <h2 class="festivals-head">Festivals &amp; series</h2>
-        <div class="festival-row">
-          {festivals.map((f) => {
-            const v = venueFor(f.venueId);
-            return (
-              <a class="festival" href={f.url} target="_blank" rel="noopener" data-venue={f.venueId}>
-                <div class="festival-dates">{dateRange(f.startDate, f.endDate)}</div>
-                <div class="festival-name">{f.name}</div>
-                <div class="festival-meta">
-                  {v.shortName} · {f.showtimes} {f.showtimes === 1 ? 'screening' : 'screenings'}
-                </div>
-                {f.sample.length ? <div class="festival-sample">{f.sample.join(' · ')}</div> : null}
-              </a>
-            );
-          })}
-        </div>
-      </section>
-    ) : null
-  }
 
   {
-    total === 0 && festivals.length === 0 ? (
+    total === 0 ? (
       <div class="empty">
         <p>No upcoming screenings yet.</p>
         <p>Run <code>npm run sync</code> to pull listings, or <code>npm run add</code> to enter one by hand.</p>
@@ -119,7 +96,7 @@ const regions = REGION_ORDER.map((name) => ({
   // A selection is 'all', 'region:<name>' (chip carries data-venues) or a venue id.
   const chips = Array.from(document.querySelectorAll<HTMLButtonElement>('#filters .chip'));
   const regionChips = chips.filter((c) => !c.classList.contains('chip-venue'));
-  const cards = Array.from(document.querySelectorAll<HTMLElement>('.card, .festival'));
+  const cards = Array.from(document.querySelectorAll<HTMLElement>('.card'));
   const days = Array.from(document.querySelectorAll<HTMLElement>('.day'));
   const key = 'screensf:filter';
 
@@ -143,8 +120,6 @@ const regions = REGION_ORDER.map((name) => ({
       const small = day.querySelector('.day-head small');
       if (small) small.textContent = `${visible} ${visible === 1 ? 'screening' : 'screenings'}`;
     }
-    const fest = document.querySelector<HTMLElement>('.festivals');
-    if (fest) fest.hidden = !fest.querySelector('.festival:not([hidden])');
     try {
       localStorage.setItem(key, sel);
     } catch {}

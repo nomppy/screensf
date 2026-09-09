@@ -1,0 +1,69 @@
+---
+import Layout from '../components/Layout.astro';
+import { dateRange, headingFor, time12, upcomingFestivals, venueFor } from '../lib/schedule';
+
+const festivals = upcomingFestivals();
+
+function byDay(f: (typeof festivals)[number]) {
+  const days = new Map<string, NonNullable<typeof f.programme>>();
+  for (const p of f.programme ?? []) {
+    if (!days.has(p.date)) days.set(p.date, []);
+    days.get(p.date)!.push(p);
+  }
+  return [...days.entries()];
+}
+---
+
+<Layout title="Festivals" current="festivals">
+  <div class="page-head">
+    <h1>Festivals &amp; Series</h1>
+  </div>
+
+  {
+    festivals.length === 0 ? (
+      <div class="empty">
+        <p>No festivals or series on the calendar right now.</p>
+      </div>
+    ) : (
+      <div class="fest-list">
+        {festivals.map((f) => {
+          const v = venueFor(f.venueId);
+          const days = byDay(f);
+          return (
+            <details class="fest" data-venue={f.venueId}>
+              <summary>
+                <div class="fest-summary">
+                  <div class="festival-dates">{dateRange(f.startDate, f.endDate)}</div>
+                  <div class="fest-name">{f.name}</div>
+                  <div class="festival-meta">
+                    {v.shortName} · {f.showtimes} {f.showtimes === 1 ? 'screening' : 'screenings'}
+                    {days.length > 1 ? ` · ${days.length} days` : ''}
+                  </div>
+                  {f.sample.length ? <div class="festival-sample">{f.sample.join(' · ')}</div> : null}
+                </div>
+                <span class="fest-toggle label" aria-hidden="true">Programme</span>
+              </summary>
+              <div class="fest-body">
+                <a class="btn" href={f.url} target="_blank" rel="noopener">Festival page ↗</a>
+                {days.map(([date, items]) => (
+                  <section class="fest-day">
+                    <h3 class="day-head">{headingFor(date)}</h3>
+                    <ul class="fest-programme">
+                      {items.map((p) => (
+                        <li>
+                          <a class="fest-time label" href={p.url} target="_blank" rel="noopener">{time12(p.time)}</a>
+                          <span class="fest-title">{p.title}</span>
+                          {p.note ? <span class="fest-note">{p.note}</span> : null}
+                        </li>
+                      ))}
+                    </ul>
+                  </section>
+                ))}
+              </div>
+            </details>
+          );
+        })}
+      </div>
+    )
+  }
+</Layout>

@@ -44,6 +44,7 @@ export interface Festival {
   url: string;
   showtimes: number;
   sample: string[];
+  programme?: { date: string; time: string; title: string; url: string; note?: string }[];
 }
 
 /** One card: a film at one venue on one day, with all of that day's times. */

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T09:56:42.953Z",
+  "generatedAt": "2026-09-09T10:11:40.569Z",
   "films": {
     "tmdb:11229": {
       "key": "tmdb:11229",
@@ -1160,6 +1160,21 @@
       "releaseDate": "2009-11-18",
       "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks."
     },
+    "tmdb:1329016": {
+      "key": "tmdb:1329016",
+      "title": "Tony",
+      "year": 2026,
+      "director": "Matt Johnson",
+      "runtime": 106,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "backdrop": "https://indy-systems.imgix.net/c7sevnz3nx152mcz9tpahdsf5mqc?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress",
+      "tmdbId": 1329016,
+      "popularity": 12.4154,
+      "releaseDate": "2026-08-07",
+      "nowPlaying": true,
+      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+    },
     "tmdb:298235": {
       "key": "tmdb:298235",
       "title": "Capone Cries a Lot",
@@ -1578,20 +1593,6 @@
       "releaseDate": "1964-08-05",
       "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want."
     },
-    "tmdb:11849": {
-      "key": "tmdb:11849",
-      "title": "Dungeons & Dragons",
-      "year": 2000,
-      "director": "Courtney Solomon",
-      "runtime": 107,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/tLCsyHLHhTbzKzsL3IcBNyDKlZm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/wsPLN1iFifrgxbbX76FUEVfR7WG.jpg",
-      "tmdbId": 11849,
-      "popularity": 4.4447,
-      "releaseDate": "2000-12-08",
-      "overview": "The Empire of Izmer is a divided land: elite magicians called “mages” rule while lowly commoners are powerless. When Empress Savina vows to bring equality and prosperity to her land, the evil mage Profion plots to depose her."
-    },
     "tmdb:1567560": {
       "key": "tmdb:1567560",
       "title": "Wood Street",
@@ -1611,10 +1612,10 @@
       "year": 2026,
       "director": "Connie He",
       "genre": "Animation",
-      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress",
       "tmdbId": 1639520,
       "popularity": 0.8495,
-      "releaseDate": "2026-06-06"
+      "releaseDate": "2026-06-06",
+      "backdrop": "https://indy-systems.imgix.net/csd3xgiajezhop2a9cwkrx3tiqk1?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:36685": {
       "key": "tmdb:36685",
@@ -1685,19 +1686,6 @@
       "popularity": 11.5524,
       "releaseDate": "1994-10-28",
       "overview": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra."
-    },
-    "tmdb:427935": {
-      "key": "tmdb:427935",
-      "title": "Shrink Rap",
-      "year": 2003,
-      "director": "Doug Cox",
-      "runtime": 80,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/9C6LmEnc0ykHuo4epiTcofV4tAy.jpg",
-      "tmdbId": 427935,
-      "popularity": 0.7865,
-      "releaseDate": "2003-07-30",
-      "overview": "The lives of a glamorous power couple are turned upside down when the bartender for their anniversary party turns out to be a student therapist who won't go home...until he helps them and becomes the next Dr. Phil!"
     },
     "tmdb:1788": {
       "key": "tmdb:1788",
@@ -2046,12 +2034,30 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-09-09:13:00:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-09",
+      "time": "13:00",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=82869",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-09:13:30:tmdb:1240889",
       "venueId": "piedmont",
       "filmKey": "tmdb:1240889",
       "date": "2026-09-09",
       "time": "13:30",
       "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
+      "source": "piedmont"
+    },
+    {
+      "id": "piedmont:2026-09-09:14:00:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-09",
+      "time": "14:00",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
       "source": "piedmont"
     },
     {
@@ -2085,6 +2091,15 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-09-09:15:50:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-09",
+      "time": "15:50",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=82870",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-09:16:15:tmdb:1240889",
       "venueId": "piedmont",
       "filmKey": "tmdb:1240889",
@@ -2101,6 +2116,15 @@
       "time": "16:30",
       "url": "https://www.landmarktheatres.com/movies/316257-the-salt-path/",
       "source": "operaplaza"
+    },
+    {
+      "id": "piedmont:2026-09-09:16:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-09",
+      "time": "16:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
     },
     {
       "id": "operaplaza:2026-09-09:16:45:tmdb:1000866",
@@ -2150,6 +2174,15 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-09-09:18:40:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-09",
+      "time": "18:40",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=82871",
+      "source": "alamo"
+    },
+    {
       "id": "balboa:2026-09-09:19:00:tmdb:149",
       "venueId": "balboa",
       "filmKey": "tmdb:149",
@@ -2161,6 +2194,15 @@
       "source": "balboa"
     },
     {
+      "id": "operaplaza:2026-09-09:19:00:tmdb:1329016",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-09",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "operaplaza"
+    },
+    {
       "id": "rafael:2026-09-09:19:00:tmdb:1000866",
       "venueId": "rafael",
       "filmKey": "tmdb:1000866",
@@ -2170,14 +2212,13 @@
       "source": "rafael"
     },
     {
-      "id": "newparkway:2026-09-09:19:00:tmdb:11849",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:11849",
+      "id": "piedmont:2026-09-09:19:15:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
       "date": "2026-09-09",
-      "time": "19:00",
-      "url": "https://thenewparkway.com/movie/on-the-mezz-dungeons-dragons/",
-      "note": "Free Events",
-      "source": "newparkway"
+      "time": "19:15",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
     },
     {
       "id": "operaplaza:2026-09-09:19:20:tmdb:577",
@@ -2256,6 +2297,24 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-09-09:21:30:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-09",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=82875",
+      "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-09-09:21:30:tmdb:1329016",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-09",
+      "time": "21:30",
+      "url": "https://thenewparkway.com/movie/tony/",
+      "source": "newparkway"
+    },
+    {
       "id": "alamo:2026-09-09:21:30:tmdb:123620",
       "venueId": "alamo",
       "filmKey": "tmdb:123620",
@@ -2275,6 +2334,15 @@
       "source": "piedmont"
     },
     {
+      "id": "piedmont:2026-09-10:13:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-10",
+      "time": "13:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
       "id": "operaplaza:2026-09-10:14:15:tmdb:1000866",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1000866",
@@ -2283,6 +2351,24 @@
       "url": "https://www.landmarktheatres.com/movies/314009-the-marching-band/",
       "note": "Subtitled",
       "source": "operaplaza"
+    },
+    {
+      "id": "alamo:2026-09-10:16:00:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-10",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83044",
+      "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-09-10:16:00:tmdb:1329016",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-10",
+      "time": "16:00",
+      "url": "https://thenewparkway.com/movie/tony/",
+      "source": "newparkway"
     },
     {
       "id": "roxie:2026-09-10:16:10:tmdb:16306",
@@ -2300,6 +2386,15 @@
       "date": "2026-09-10",
       "time": "16:15",
       "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
+      "source": "piedmont"
+    },
+    {
+      "id": "piedmont:2026-09-10:16:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-10",
+      "time": "16:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
       "source": "piedmont"
     },
     {
@@ -2338,6 +2433,15 @@
       "url": "https://thenewparkway.com/movie/wood-street-with-post-film-discussion/",
       "note": "with post-film discussion",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-09-10:18:50:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-10",
+      "time": "18:50",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83045",
+      "source": "alamo"
     },
     {
       "id": "rafael:2026-09-10:19:00:tmdb:1596332",
@@ -2379,6 +2483,15 @@
       "format": "DCP",
       "note": "Alice Diop in Person · In Conversation: Alice Diop, Iggy Cortez",
       "source": "bampfa"
+    },
+    {
+      "id": "piedmont:2026-09-10:19:20:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-10",
+      "time": "19:20",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
     },
     {
       "id": "balboa:2026-09-10:19:30:tmdb:564",
@@ -2448,6 +2561,24 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-09-10:21:40:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-10",
+      "time": "21:40",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83046",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-11:12:50:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "12:50",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83052",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-11:13:30:tmdb:1240889",
       "venueId": "piedmont",
       "filmKey": "tmdb:1240889",
@@ -2455,6 +2586,24 @@
       "time": "13:30",
       "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
       "source": "piedmont"
+    },
+    {
+      "id": "piedmont:2026-09-11:13:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "13:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
+      "id": "alamo:2026-09-11:15:40:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "15:40",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83048",
+      "source": "alamo"
     },
     {
       "id": "newparkway:2026-09-11:15:50:tmdb:1567560",
@@ -2493,6 +2642,15 @@
       "format": "4K",
       "note": "Presented with English subtitles in a new 4K restoration",
       "source": "balboa"
+    },
+    {
+      "id": "piedmont:2026-09-11:16:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "16:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
     },
     {
       "id": "stanford:2026-09-11:17:45:tmdb:108222",
@@ -2542,6 +2700,15 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-09-11:18:30:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83049",
+      "source": "alamo"
+    },
+    {
       "id": "bampfa:2026-09-11:19:00:tmdb:1626",
       "venueId": "bampfa",
       "filmKey": "tmdb:1626",
@@ -2562,6 +2729,15 @@
       "source": "piedmont"
     },
     {
+      "id": "piedmont:2026-09-11:19:30:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "19:30",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
       "id": "stanford:2026-09-11:19:30:tmdb:43839",
       "venueId": "stanford",
       "filmKey": "tmdb:43839",
@@ -2570,6 +2746,15 @@
       "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
       "note": "Double feature with Tin Pan Alley",
       "source": "stanford"
+    },
+    {
+      "id": "grandlake:2026-09-11:19:45:tmdb:1329016",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "19:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260911",
+      "source": "grandlake"
     },
     {
       "id": "4star:2026-09-11:20:00:tmdb:98096",
@@ -2609,6 +2794,15 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-09-11:21:20:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "21:20",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83050",
+      "source": "alamo"
+    },
+    {
       "id": "stanford:2026-09-11:21:30:tmdb:108222",
       "venueId": "stanford",
       "filmKey": "tmdb:108222",
@@ -2617,6 +2811,15 @@
       "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
       "note": "Double feature with Alexander's Ragtime Band",
       "source": "stanford"
+    },
+    {
+      "id": "piedmont:2026-09-11:22:00:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-11",
+      "time": "22:00",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
     },
     {
       "id": "piedmont:2026-09-11:22:20:tmdb:1240889",
@@ -2657,6 +2860,15 @@
       "source": "balboa"
     },
     {
+      "id": "alamo:2026-09-12:12:30:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-12",
+      "time": "12:30",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83054",
+      "source": "alamo"
+    },
+    {
       "id": "alamo:2026-09-12:13:15:tmdb:1596332",
       "venueId": "alamo",
       "filmKey": "tmdb:1596332",
@@ -2684,6 +2896,15 @@
       "source": "piedmont"
     },
     {
+      "id": "piedmont:2026-09-12:13:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-12",
+      "time": "13:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
       "id": "newparkway:2026-09-12:14:45:tmdb:1240889",
       "venueId": "newparkway",
       "filmKey": "tmdb:1240889",
@@ -2691,6 +2912,15 @@
       "time": "14:45",
       "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-09-12:15:20:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-12",
+      "time": "15:20",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83055",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-09-12:15:30:tmdb:1596332",
@@ -2759,6 +2989,15 @@
       "source": "piedmont"
     },
     {
+      "id": "piedmont:2026-09-12:16:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-12",
+      "time": "16:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
       "id": "newparkway:2026-09-12:17:15:t:filipinana",
       "venueId": "newparkway",
       "filmKey": "t:filipinana",
@@ -2797,6 +3036,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-09-12:18:10:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-12",
+      "time": "18:10",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83056",
+      "source": "alamo"
+    },
+    {
       "id": "bampfa:2026-09-12:19:00:tmdb:103",
       "venueId": "bampfa",
       "filmKey": "tmdb:103",
@@ -2826,6 +3074,15 @@
       "source": "newparkway"
     },
     {
+      "id": "piedmont:2026-09-12:19:30:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-12",
+      "time": "19:30",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
       "id": "stanford:2026-09-12:19:30:tmdb:43839",
       "venueId": "stanford",
       "filmKey": "tmdb:43839",
@@ -2843,6 +3100,15 @@
       "time": "19:40",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
+    },
+    {
+      "id": "grandlake:2026-09-12:19:45:tmdb:1329016",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-12",
+      "time": "19:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260912",
+      "source": "grandlake"
     },
     {
       "id": "roxie:2026-09-12:20:15:tmdb:11171",
@@ -2872,6 +3138,15 @@
       "time": "21:45",
       "url": "https://drafthouse.com/sf/show/barrio-triste?cinemaId=0801&sessionId=82497",
       "source": "alamo"
+    },
+    {
+      "id": "piedmont:2026-09-12:22:00:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-12",
+      "time": "22:00",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
     },
     {
       "id": "newparkway:2026-09-12:22:00:tmdb:36685",
@@ -2945,6 +3220,24 @@
       "date": "2026-09-13",
       "time": "13:30",
       "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
+      "source": "piedmont"
+    },
+    {
+      "id": "alamo:2026-09-13:13:40:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-13",
+      "time": "13:40",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83057",
+      "source": "alamo"
+    },
+    {
+      "id": "piedmont:2026-09-13:13:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-13",
+      "time": "13:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
       "source": "piedmont"
     },
     {
@@ -3026,6 +3319,24 @@
       "source": "piedmont"
     },
     {
+      "id": "alamo:2026-09-13:16:30:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-13",
+      "time": "16:30",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83058",
+      "source": "alamo"
+    },
+    {
+      "id": "piedmont:2026-09-13:16:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-13",
+      "time": "16:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
       "id": "roxie:2026-09-13:17:20:tmdb:1620313",
       "venueId": "roxie",
       "filmKey": "tmdb:1620313",
@@ -3074,6 +3385,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-09-13:19:00:tmdb:1329016",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-13",
+      "time": "19:00",
+      "url": "https://thenewparkway.com/movie/tony/",
+      "source": "newparkway"
+    },
+    {
       "id": "bampfa:2026-09-13:19:00:tmdb:391578",
       "venueId": "bampfa",
       "filmKey": "tmdb:391578",
@@ -3094,6 +3414,24 @@
       "source": "piedmont"
     },
     {
+      "id": "alamo:2026-09-13:19:20:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-13",
+      "time": "19:20",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83059",
+      "source": "alamo"
+    },
+    {
+      "id": "piedmont:2026-09-13:19:30:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-13",
+      "time": "19:30",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
       "id": "stanford:2026-09-13:19:30:tmdb:43839",
       "venueId": "stanford",
       "filmKey": "tmdb:43839",
@@ -3102,6 +3440,15 @@
       "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
       "note": "Double feature with Tin Pan Alley",
       "source": "stanford"
+    },
+    {
+      "id": "grandlake:2026-09-13:19:45:tmdb:1329016",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-13",
+      "time": "19:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260913",
+      "source": "grandlake"
     },
     {
       "id": "roxie:2026-09-13:20:00:t:filipinana",
@@ -3150,6 +3497,15 @@
       "source": "piedmont"
     },
     {
+      "id": "piedmont:2026-09-14:13:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-14",
+      "time": "13:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
       "id": "alamo:2026-09-14:15:20:tmdb:1596332",
       "venueId": "alamo",
       "filmKey": "tmdb:1596332",
@@ -3159,12 +3515,30 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-09-14:15:40:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-14",
+      "time": "15:40",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83061",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-14:16:30:tmdb:1240889",
       "venueId": "piedmont",
       "filmKey": "tmdb:1240889",
       "date": "2026-09-14",
       "time": "16:30",
       "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
+      "source": "piedmont"
+    },
+    {
+      "id": "piedmont:2026-09-14:16:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-14",
+      "time": "16:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
       "source": "piedmont"
     },
     {
@@ -3224,6 +3598,15 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-09-14:18:30:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-14",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83063",
+      "source": "alamo"
+    },
+    {
       "id": "vogue:2026-09-14:19:00:tmdb:1598661",
       "venueId": "vogue",
       "filmKey": "tmdb:1598661",
@@ -3260,6 +3643,24 @@
       "url": "https://www.balboamovies.com/calendar-of-events/mcqueen-september-14",
       "note": "Presented by Gallery 3630",
       "source": "balboa"
+    },
+    {
+      "id": "piedmont:2026-09-14:19:30:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-14",
+      "time": "19:30",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
+      "id": "grandlake:2026-09-14:19:45:tmdb:1329016",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-14",
+      "time": "19:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260914",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-09-14:20:00:tmdb:42098",
@@ -3299,6 +3700,15 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-09-14:21:20:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-14",
+      "time": "21:20",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83062",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-15:13:30:tmdb:1240889",
       "venueId": "piedmont",
       "filmKey": "tmdb:1240889",
@@ -3306,6 +3716,25 @@
       "time": "13:30",
       "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
       "source": "piedmont"
+    },
+    {
+      "id": "piedmont:2026-09-15:13:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-15",
+      "time": "13:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
+      "id": "alamo:2026-09-15:16:10:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-15",
+      "time": "16:10",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83065",
+      "note": "Baby Day",
+      "source": "alamo"
     },
     {
       "id": "piedmont:2026-09-15:16:30:tmdb:1240889",
@@ -3326,6 +3755,15 @@
       "format": "3D",
       "note": "Projected in digital 3-D",
       "source": "vogue"
+    },
+    {
+      "id": "piedmont:2026-09-15:16:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-15",
+      "time": "16:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
     },
     {
       "id": "newparkway:2026-09-15:17:45:tmdb:1639520",
@@ -3376,6 +3814,15 @@
       "source": "balboa"
     },
     {
+      "id": "alamo:2026-09-15:19:00:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-15",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83066",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-15:19:15:tmdb:1240889",
       "venueId": "piedmont",
       "filmKey": "tmdb:1240889",
@@ -3402,6 +3849,24 @@
       "url": "https://www.balboamovies.com/calendar-of-events/the-legend-of-the-stardust-brothers-september-15",
       "note": "As part of Camp Balboa",
       "source": "balboa"
+    },
+    {
+      "id": "piedmont:2026-09-15:19:30:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-15",
+      "time": "19:30",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
+      "id": "grandlake:2026-09-15:19:45:tmdb:1329016",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-15",
+      "time": "19:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260915",
+      "source": "grandlake"
     },
     {
       "id": "roxie:2026-09-15:20:10:tmdb:1240889",
@@ -3443,6 +3908,15 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-09-15:21:50:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-15",
+      "time": "21:50",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83067",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-16:13:30:tmdb:1240889",
       "venueId": "piedmont",
       "filmKey": "tmdb:1240889",
@@ -3452,12 +3926,39 @@
       "source": "piedmont"
     },
     {
+      "id": "piedmont:2026-09-16:13:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-16",
+      "time": "13:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
+      "id": "alamo:2026-09-16:16:10:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-16",
+      "time": "16:10",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83069",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-16:16:30:tmdb:1240889",
       "venueId": "piedmont",
       "filmKey": "tmdb:1240889",
       "date": "2026-09-16",
       "time": "16:30",
       "url": "https://www.landmarktheatres.com/movies/1000024260-teenage-sex-and-death-at-camp-miasma/",
+      "source": "piedmont"
+    },
+    {
+      "id": "piedmont:2026-09-16:16:45:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-16",
+      "time": "16:45",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
       "source": "piedmont"
     },
     {
@@ -3499,6 +4000,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-09-16:18:20:tmdb:1329016",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-16",
+      "time": "18:20",
+      "url": "https://thenewparkway.com/movie/tony/",
+      "source": "newparkway"
+    },
+    {
       "id": "bampfa:2026-09-16:19:00:tmdb:1596326",
       "venueId": "bampfa",
       "filmKey": "tmdb:1596326",
@@ -3520,6 +4030,15 @@
       "source": "balboa"
     },
     {
+      "id": "alamo:2026-09-16:19:00:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-16",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83070",
+      "source": "alamo"
+    },
+    {
       "id": "operaplaza:2026-09-16:19:00:tmdb:345",
       "venueId": "operaplaza",
       "filmKey": "tmdb:345",
@@ -3528,16 +4047,6 @@
       "url": "https://www.landmarktheatres.com/movies/20502-eyes-wide-shut/",
       "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
       "source": "operaplaza"
-    },
-    {
-      "id": "newparkway:2026-09-16:19:00:tmdb:11849",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:11849",
-      "date": "2026-09-16",
-      "time": "19:00",
-      "url": "https://thenewparkway.com/movie/on-the-mezz-dungeons-dragons/",
-      "note": "Free Events",
-      "source": "newparkway"
     },
     {
       "id": "piedmont:2026-09-16:19:15:tmdb:1240889",
@@ -3576,6 +4085,24 @@
       "time": "19:30",
       "url": "https://voguemovies.com/calendar-of-events/tommy-september-16",
       "source": "vogue"
+    },
+    {
+      "id": "piedmont:2026-09-16:19:30:tmdb:1329016",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-16",
+      "time": "19:30",
+      "url": "https://www.landmarktheatres.com/movies/1000009107-tony/",
+      "source": "piedmont"
+    },
+    {
+      "id": "grandlake:2026-09-16:19:45:tmdb:1329016",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-16",
+      "time": "19:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260916",
+      "source": "grandlake"
     },
     {
       "id": "newparkway:2026-09-16:19:55:tmdb:1639520",
@@ -3622,6 +4149,15 @@
       "time": "20:45",
       "url": "https://thenewparkway.com/movie/teenage-sex-and-death-at-camp-miasma-baby-brigade/",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-09-16:21:50:tmdb:1329016",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1329016",
+      "date": "2026-09-16",
+      "time": "21:50",
+      "url": "https://drafthouse.com/sf/show/tony?cinemaId=0801&sessionId=83071",
+      "source": "alamo"
     },
     {
       "id": "piedmont:2026-09-17:14:00:tmdb:1423191",
@@ -3981,16 +4517,6 @@
       "url": "https://www.balboamovies.com/calendar-of-events/resident-evil-september-19",
       "note": "Weapons, Barbarian",
       "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-09-19:16:00:tmdb:427935",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:427935",
-      "date": "2026-09-19",
-      "time": "16:00",
-      "url": "https://thenewparkway.com/movie/on-the-mezz-shrink-rap/",
-      "note": "Free Events",
-      "source": "newparkway"
     },
     {
       "id": "stanford:2026-09-19:16:05:tmdb:43794",
@@ -4509,16 +5035,6 @@
       "source": "operaplaza"
     },
     {
-      "id": "newparkway:2026-09-23:19:00:tmdb:11849",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:11849",
-      "date": "2026-09-23",
-      "time": "19:00",
-      "url": "https://thenewparkway.com/movie/on-the-mezz-dungeons-dragons/",
-      "note": "Free Events",
-      "source": "newparkway"
-    },
-    {
       "id": "piedmont:2026-09-23:19:00:tmdb:426063",
       "venueId": "piedmont",
       "filmKey": "tmdb:426063",
@@ -4822,16 +5338,6 @@
       "time": "15:15",
       "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260926",
       "source": "grandlake"
-    },
-    {
-      "id": "newparkway:2026-09-26:16:00:tmdb:427935",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:427935",
-      "date": "2026-09-26",
-      "time": "16:00",
-      "url": "https://thenewparkway.com/movie/on-the-mezz-shrink-rap/",
-      "note": "Free Events",
-      "source": "newparkway"
     },
     {
       "id": "stanford:2026-09-26:16:00:tmdb:43797",
@@ -5348,16 +5854,6 @@
       "source": "bampfa"
     },
     {
-      "id": "newparkway:2026-09-30:19:00:tmdb:11849",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:11849",
-      "date": "2026-09-30",
-      "time": "19:00",
-      "url": "https://thenewparkway.com/movie/on-the-mezz-dungeons-dragons/",
-      "note": "Free Events",
-      "source": "newparkway"
-    },
-    {
       "id": "grandlake:2026-09-30:19:00:tmdb:24428",
       "venueId": "grandlake",
       "filmKey": "tmdb:24428",
@@ -5506,16 +6002,6 @@
       "source": "operaplaza"
     },
     {
-      "id": "newparkway:2026-10-03:16:00:tmdb:427935",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:427935",
-      "date": "2026-10-03",
-      "time": "16:00",
-      "url": "https://thenewparkway.com/movie/on-the-mezz-shrink-rap/",
-      "note": "Free Events",
-      "source": "newparkway"
-    },
-    {
       "id": "4star:2026-10-03:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -5593,16 +6079,6 @@
       "time": "19:00",
       "url": "https://www.landmarktheatres.com/movies/9434-halloween-1978/",
       "source": "operaplaza"
-    },
-    {
-      "id": "newparkway:2026-10-07:19:00:tmdb:11849",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:11849",
-      "date": "2026-10-07",
-      "time": "19:00",
-      "url": "https://thenewparkway.com/movie/on-the-mezz-dungeons-dragons/",
-      "note": "Free Events",
-      "source": "newparkway"
     }
   ],
   "festivals": [
@@ -5619,6 +6095,120 @@
         "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
         "Season 1, Ep. 2 & 3 (Traces to Nowhere/Zen, Or the Skill To Catch a Killer)",
         "Season 1, Ep. 4 & 5 (Rest in Pain/The One-Armed Man)"
+      ],
+      "programme": [
+        {
+          "date": "2026-09-11",
+          "time": "18:00",
+          "title": "Season 1, Ep. 1 (Northwest Passage)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-1-september-11",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "19:00",
+          "title": "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-the-return-ep-1-2-september-11",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-11",
+          "time": "20:00",
+          "title": "Season 1, Ep. 2 & 3 (Traces to Nowhere/Zen, Or the Skill To Catch a Killer)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-2-3-september-11",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "13:00",
+          "title": "Season 1, Ep. 4 & 5 (Rest in Pain/The One-Armed Man)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-4-5-september-12",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "14:45",
+          "title": "Season 1, Ep. 1 (Northwest Passage)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-1-september-12",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "15:00",
+          "title": "Season 1, Ep. 6, 7, & 8 (Cooper's Dreams/The Realization/The Last Evening)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-6-7-8-september-12",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "16:45",
+          "title": "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-the-return-ep-1-2-september-12",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "18:00",
+          "title": "Season 2, Ep. 1 (May The Giant Be With You)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-2-ep-1-september-12",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "19:00",
+          "title": "Music of the Red Room (Performed by Marc Capelle)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-music-of-the-red-room-september-12",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "20:00",
+          "title": "The Return, Ep. 8 (Gotta Light)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-the-return-ep-8-september-12",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-12",
+          "time": "20:00",
+          "title": "Fire Walk With Me",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-fire-walk-with-me-september-12",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "14:00",
+          "title": "Season 2, Ep. 6 & 7 (Demons/Lonely Souls)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-2-ep-6-7-september-13",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "16:00",
+          "title": "Season 2, Ep. 8 & 9 (Drive with a Dead Girl/Arbitrary Law)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-2-ep-8-9-september-13",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "18:00",
+          "title": "Fire Walk With Me",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-fire-walk-with-me-september-13",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "18:00",
+          "title": "The Return, Ep. 1, 2, & 8 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself/Gotta Light?)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-the-return-ep-1-2-8-september-13",
+          "note": "Playing as part of"
+        },
+        {
+          "date": "2026-09-13",
+          "time": "20:45",
+          "title": "Season 2, Ep. 22 (Beyond Life and Death)",
+          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-2-ep-22-september-13",
+          "note": "Playing as part of"
+        }
       ]
     },
     {
@@ -5632,6 +6222,113 @@
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Resident Evil"
+      ],
+      "programme": [
+        {
+          "date": "2026-09-17",
+          "time": "15:45",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82723",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "18:45",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82722",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-17",
+          "time": "21:45",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82724",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "12:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82728",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "15:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82725",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "18:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82726",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-18",
+          "time": "21:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82727",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "12:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82768",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "15:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82769",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "18:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82731",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-19",
+          "time": "21:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82732",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "12:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82733",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "15:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82734",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-20",
+          "time": "18:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82735",
+          "note": "Fantastic Fest Presents"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "19:00",
+          "title": "Deathgasm 2: Goremageddon",
+          "url": "https://drafthouse.com/sf/show/deathgasm-2-goremageddon?cinemaId=0801&sessionId=82501",
+          "note": "Fantastic Fest Presents"
+        }
       ]
     },
     {
@@ -5642,7 +6339,15 @@
       "endDate": "2026-09-17",
       "url": "https://indy-systems.imgix.net/m302gvc5upt8xpad4jzlqhaurnej?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
       "showtimes": 1,
-      "sample": []
+      "sample": [],
+      "programme": [
+        {
+          "date": "2026-09-17",
+          "time": "21:30",
+          "title": "Blood & Popcorn Film Festival",
+          "url": "https://thenewparkway.com/movie/blood-popcorn-film-festival/"
+        }
+      ]
     },
     {
       "key": "fest:vogue:san francisco brazilian film festival",
@@ -5657,6 +6362,92 @@
         "Little Creatures",
         "Gugu's World",
         "The Flesh Itself w/ No Final, Jazz"
+      ],
+      "programme": [
+        {
+          "date": "2026-09-24",
+          "time": "19:00",
+          "title": "I Only Rest in the Storm",
+          "url": "https://voguemovies.com/calendar-of-events/i-only-rest-in-the-storm-september-24",
+          "note": "I only rest in the storm"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "17:00",
+          "title": "Little Creatures",
+          "url": "https://voguemovies.com/calendar-of-events/little-creatures-september-25",
+          "note": "San Francisco Brazilian Film Festival"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "19:00",
+          "title": "Gugu's World",
+          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-25",
+          "note": "San Francisco Brazilian Film Festival"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "21:00",
+          "title": "The Flesh Itself w/ No Final, Jazz",
+          "url": "https://voguemovies.com/calendar-of-events/the-flesh-itself-w/-no-final-jazz-september-25",
+          "note": "Before the movie: No Final, Jazz (2025) Directed by Cecilia Shoerder Catarino"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "14:00",
+          "title": "Short Stories: Resistance!",
+          "url": "https://voguemovies.com/calendar-of-events/short-stories-resistance-september-26",
+          "note": "Four Short stories about resilience and more…"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "16:00",
+          "title": "Streets of Glory",
+          "url": "https://voguemovies.com/calendar-of-events/streets-of-glory-september-26",
+          "note": "San Francisco Brazilian Film Festival"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "18:00",
+          "title": "The Day I Met You",
+          "url": "https://voguemovies.com/calendar-of-events/the-day-i-met-you-september-26",
+          "note": "San Francisco Brazilian Film Festival"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "19:30",
+          "title": "Marighella",
+          "url": "https://voguemovies.com/calendar-of-events/marighella-september-26",
+          "note": "Marighella - The Guerrilla Who Lit the World on Fire"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "14:00",
+          "title": "Clay Men",
+          "url": "https://voguemovies.com/calendar-of-events/clay-men-september-27",
+          "note": "San Francisco Brazilian Film Festival"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "15:45",
+          "title": "Cyclone",
+          "url": "https://voguemovies.com/calendar-of-events/cyclone-september-27",
+          "note": "San Francisco Brazilian Film Festival"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "18:00",
+          "title": "Central Station",
+          "url": "https://voguemovies.com/calendar-of-events/central-station-september-27",
+          "note": "Central Station"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "20:30",
+          "title": "The Blue Trail",
+          "url": "https://voguemovies.com/calendar-of-events/the-blue-trail-september-27",
+          "note": "The Blue Trail"
+        }
       ]
     },
     {
@@ -5672,6 +6463,50 @@
         "Let the Right One",
         "A Girl Walks Home Alone at Night",
         "The Vourdalak"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-17",
+          "time": "11:30",
+          "title": "El Vampiro",
+          "url": "https://www.balboamovies.com/calendar-of-events/el-vampiro-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "13:15",
+          "title": "Let the Right One",
+          "url": "https://www.balboamovies.com/calendar-of-events/let-the-right-one-in-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "15:30",
+          "title": "A Girl Walks Home Alone at Night",
+          "url": "https://www.balboamovies.com/calendar-of-events/a-girl-walks-home-alone-at-night-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "17:30",
+          "title": "The Vourdalak",
+          "url": "https://www.balboamovies.com/calendar-of-events/the-vourdalak-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "19:15",
+          "title": "Horror of Dracula",
+          "url": "https://www.balboamovies.com/calendar-of-events/horror-of-dracula-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "20:55",
+          "title": "Planet of the Vampires",
+          "url": "https://www.balboamovies.com/calendar-of-events/planet-of-the-vampires-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "22:30",
+          "title": "Lake of Dracula",
+          "url": "https://www.balboamovies.com/calendar-of-events/lake-of-dracula-october-17"
+        }
       ]
     }
   ]

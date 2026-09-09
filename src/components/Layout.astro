@@ -4,7 +4,7 @@ import { SITE_NAME, SITE_TAGLINE } from '../lib/schedule';
 
 interface Props {
   title?: string;
-  current?: 'schedule' | 'about';
+  current?: 'schedule' | 'festivals' | 'about';
 }
 const { title, current = 'schedule' } = Astro.props;
 const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
@@ -41,6 +41,7 @@ const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME;
         </a>
         <nav class="nav">
           <a href="/" aria-current={current === 'schedule' ? 'page' : undefined}>Schedule</a>
+          <a href="/festivals" aria-current={current === 'festivals' ? 'page' : undefined}>Festivals</a>
           <a href="/about" aria-current={current === 'about' ? 'page' : undefined}>About</a>
         </nav>
       </div>

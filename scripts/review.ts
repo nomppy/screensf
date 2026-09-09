@@ -316,7 +316,7 @@ function card(i) {
   const sel = d && d.image ? d.image : 'tmdb';
   const arts = (tmdbArt || i.venueImage) ? '<div class="arts"><span class="label">Artwork</span>'
     + (tmdbArt ? '<button class="art'+(sel==='tmdb'?' on':'')+'" data-img="" title="Use TMDB artwork"><img src="'+esc(tmdbArt)+'" alt=""><small>TMDB</small></button>' : '')
-    + (i.venueImage ? '<button class="art'+(sel===i.venueImage?' on':'')+'" data-img="'+esc(i.venueImage)+'" title="Use the venue\'s image"><img src="'+esc(i.venueImage)+'" alt=""><small>'+esc(venueName(i.venueId))+' listing</small></button>' : '')
+    + (i.venueImage ? '<button class="art'+(sel===i.venueImage?' on':'')+'" data-img="'+esc(i.venueImage)+'" title="Use the venue image"><img src="'+esc(i.venueImage)+'" alt=""><small>'+esc(venueName(i.venueId))+' listing</small></button>' : '')
     + (d && d.image && d.image!==i.venueImage ? '<button class="art on" data-img="'+esc(d.image)+'" title="Custom image"><img src="'+esc(d.image)+'" alt=""><small>Custom</small></button>' : '')
     + '<div class="arturl"><input type="url" placeholder="…or paste an image URL"><button class="chip">Use</button></div></div>' : '';
   const decidedLabel = d ? (d.decision==='exclude' ? 'excluded' : d.tmdbId===null ? 'title only' : 'included') : '';

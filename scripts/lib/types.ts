@@ -69,6 +69,8 @@ export interface Festival {
   showtimes: number;
   /** A few of the film titles listed under the festival, for the card. */
   sample: string[];
+  /** Every showtime folded into this entry, for the festivals page. */
+  programme?: { date: string; time: string; title: string; url: string; note?: string }[];
 }
 
 export interface ScheduleData {

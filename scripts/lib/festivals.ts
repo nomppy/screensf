@@ -91,7 +91,7 @@ export function festivalName(r: RawScreening): string {
 }
 
 export function buildFestivals(raws: RawScreening[]): Festival[] {
-  const map = new Map<string, Festival & { titles: Set<string> }>();
+  const map = new Map<string, Festival & { titles: Set<string>; programme: NonNullable<Festival['programme']> }>();
   for (const r of raws) {
     const name = festivalName(r);
     const key = `fest:${r.venueId}:${normalizeTitle(name)}`;
@@ -105,6 +105,7 @@ export function buildFestivals(raws: RawScreening[]): Festival[] {
       showtimes: 0,
       sample: [],
       titles: new Set<string>(),
+      programme: [],
     };
     f.showtimes++;
     if (r.date < f.startDate) {
@@ -115,10 +116,15 @@ export function buildFestivals(raws: RawScreening[]): Festival[] {
     const cleaned = cleanTitleCandidates(r.rawTitle)[0] ?? r.rawTitle;
     const title = cleaned.replace(new RegExp(`^${escapeRe(name)}\\s*[:|\\-–—]?\\s*`, 'i'), '').trim();
     if (title && normalizeTitle(title) !== normalizeTitle(name)) f.titles.add(title);
+    f.programme.push({ date: r.date, time: r.time, title: title || cleaned, url: r.url, note: r.note });
     map.set(key, f);
   }
   return [...map.values()]
-    .map(({ titles, ...f }) => ({ ...f, sample: [...titles].slice(0, 4) }))
+    .map(({ titles, ...f }) => ({
+      ...f,
+      sample: [...titles].slice(0, 4),
+      programme: f.programme.sort((a, b) => (a.date + a.time).localeCompare(b.date + b.time)),
+    }))
     .sort((a, b) => a.startDate.localeCompare(b.startDate));
 }
 
