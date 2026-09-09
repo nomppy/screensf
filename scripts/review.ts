@@ -296,6 +296,10 @@ const PAGE = /* html */ `<!doctype html>
   .editor .row { grid-column:1/-1; display:flex; gap:8px; align-items:center; font-size:.8rem; color:var(--muted) }
   .editor input.changed, .editor textarea.changed { border-color:var(--warn); background:#fffaf0 }
   .tag.edited { color:var(--warn) }
+  .links { display:flex; gap:6px; flex-wrap:wrap }
+  .links a { font-size:.8rem; font-weight:600; text-decoration:none; border:1px solid var(--line); background:var(--chip); border-radius:999px; padding:3px 10px; color:var(--ink) }
+  .links a:hover { border-color:var(--accent); color:var(--accent) }
+  .links a.lbx { background:#202830; color:#fff; border-color:#202830 } .links a.lbx:hover { background:#00e054; border-color:#00e054; color:#14181c }
   .inline { display:flex; gap:6px; width:100% }
   .inline input { flex:1; font:inherit; font-size:.9rem; padding:6px 10px; border:1px solid var(--line); border-radius:7px; background:#fff; min-width:0 }
   .actions { display:flex; gap:6px; flex-wrap:wrap; margin-top:auto; padding-top:6px; align-items:center }
@@ -330,7 +334,7 @@ const PAGE = /* html */ `<!doctype html>
   <div class="spacer"></div>
   <span class="help"><span class="kbd">h</span><span class="kbd">j</span><span class="kbd">k</span><span class="kbd">l</span> move ·
     <span class="kbd">m</span> match · <span class="kbd">a</span> artwork · <span class="kbd">o</span> full size · <span class="kbd">/</span> search ·
-    <span class="kbd">e</span> edit details · <span class="kbd">y</span> include · <span class="kbd">t</span> title only · <span class="kbd">n</span> exclude · <span class="kbd">u</span> undo</span>
+    <span class="kbd">e</span> edit details · <span class="kbd">b</span> letterboxd · <span class="kbd">y</span> include · <span class="kbd">t</span> title only · <span class="kbd">n</span> exclude · <span class="kbd">u</span> undo</span>
   <span class="status" id="status"></span>
   <button class="chip" id="rebuild" title="Regenerate data/screenings.json from the last sync snapshot plus your decisions. This already happens automatically about a second after every decision; the button is only for forcing it (for example after a failed build).">Rebuild now</button>
 </div></header>
@@ -392,6 +396,8 @@ function baseDetails(i) { const f=curFilm(i); return f ? { title:f.title||'', ye
 /** What the site will show: base details with edits applied. */
 function shownDetails(i) { const b=baseDetails(i), e=U(i).edits, out={...b}; for (const k of EDIT_FIELDS) if (k in e) out[k] = e[k]===''||e[k]==null ? '' : e[k]; return out; }
 const hasEdits = (i) => Object.keys(U(i).edits).length>0;
+/** Letterboxd page for the selected match, or a title search when there is no TMDB id. */
+function letterboxdUrl(i) { const f=curFilm(i); return f ? 'https://letterboxd.com/tmdb/'+f.tmdbId+'/' : 'https://letterboxd.com/search/films/'+encodeURIComponent(shownDetails(i).title)+'/'; }
 const normEdits = (e) => { const o={}; for (const k of EDIT_FIELDS) if (e && k in e) o[k]=String(e[k]??''); return JSON.stringify(o); };
 function dirty(i) { const d=i.decision, u=U(i); if (!d || d.decision!=='include') return false; const savedMatch = d.tmdbId===undefined ? (i.film?i.film.tmdbId:null) : d.tmdbId; return savedMatch!==u.match || (d.image||null)!==u.art || normEdits(d.edits)!==normEdits(u.edits); }
 
@@ -481,6 +487,8 @@ function card(i) {
    + '<div class="guess"><span class="tag'+(edited?' edited':'')+'">'+(edited?'Edited':f?(u.match===(i.film&&i.film.tmdbId)?'TMDB guess':'Selected'):'Title only')+'</span><b data-show="title">'+esc(s.title)+'</b><span data-show="yeardir">'+(s.year?' ('+s.year+')':'')+(s.director?', '+esc(s.director):'')+'</span>'
         + (f ? '' : ' <span class="meta">— listed with no TMDB data'+(i.film?'':' (no match found)')+'</span>')+'</div>'
    + '<div class="meta" data-show="meta"'+(meta?'':' hidden')+'>'+meta+'</div>'
+   + '<div class="links"><a class="lbx" data-lbx href="'+esc(letterboxdUrl(i))+'" target="_blank" rel="noopener" title="Open on Letterboxd (b)">Letterboxd ↗</a>'
+   + (f ? '<a href="https://www.themoviedb.org/movie/'+f.tmdbId+'" target="_blank" rel="noopener">TMDB ↗</a>' : '') + '</div>'
    + '<div class="overview'+(u.open?' open':'')+'" data-show="overview" title="Click to expand"'+(s.overview?'':' hidden')+'>'+esc(s.overview)+'</div>'
    + editor
    + '<div class="reason"><b>Why it was flagged:</b> '+esc(i.reason)+'</div>'
@@ -628,6 +636,7 @@ document.addEventListener('keydown', (e) => {
   else if (k==='o') { const p=previewArt(i); if (p) openLightbox(i, p.src); }
   else if (k==='/') { const q=el.querySelector('.matches input'); if (q) { q.focus(); q.select(); } }
   else if (k==='e') toggleEditor(i);
+  else if (k==='b') window.open(letterboxdUrl(i), '_blank', 'noopener');
   else if (k>='0' && k<='9') { const u=U(i); if (k==='0') selectMatch(i,null); else { const opts=[...u.order, ...u.results.filter(id=>!u.order.includes(id))]; const id=opts[Number(k)-1]; if (id!=null) selectMatch(i,id); } }
   else return;
   e.preventDefault();

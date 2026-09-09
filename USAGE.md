@@ -62,6 +62,7 @@ Every undecided title appears as a card with the venue's raw title, TMDB's best 
 
 - **Match row**: click TMDB's guess, an alternative, or a search result to preview it. The card's title, credits and description switch to that film. The last option is *Title only* for shorts programs, live events, and anything TMDB will never have.
 - **Artwork row**: click the TMDB backdrop, TMDB poster, the venue's own listing image, or paste any image URL. The big image on the left shows exactly what the site card will use. Click it (or press `o`) to see every image at full size.
+- **Letterboxd / TMDB**: buttons under the credits open the selected match on either site. With no TMDB match, Letterboxd opens a title search.
 - **Edit details**: opens a form for title, year, director, runtime, genre and description. Anything you change overrides TMDB on the site; clear a field to hide it. *Reset to TMDB* drops the edits.
 
 Then press **Include** (saves the selected match, artwork and edits), **Exclude**, or use `t` for title only. The card stays where it is with a badge and an Undo button, and a toast at the bottom offers Undo too. Decisions save to `data/decisions.json` and the schedule rebuilds about a second later; if `npm run dev` is running in another terminal, the site updates live. On an already-decided card the Include button becomes **Save changes** whenever your selection differs from what was saved.
@@ -76,6 +77,7 @@ Keyboard shortcuts (press `h` `j` `k` `l` with nothing focused to focus the firs
 | `a` / `A` | Cycle the artwork |
 | `o` | View the artwork full size (`h` `l` browse, `esc` closes) |
 | `e` | Open or close the details editor |
+| `b` | Open the selected match on Letterboxd |
 | `/` | Focus the card's TMDB search box |
 | `y` | Include with the current selection |
 | `t` | Include, title only |
