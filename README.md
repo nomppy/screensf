@@ -118,6 +118,20 @@ src/
 .cache/              resolved.json snapshot, TMDB and page caches, raw responses, watchlist matches (git-ignored)
 ```
 
+## Feeds and data API
+
+The build publishes the schedule in machine-readable forms alongside the pages, all generated from `data/screenings.json` and served with `Access-Control-Allow-Origin: *`:
+
+| URL | What |
+|---|---|
+| `/feed.xml` | RSS 2.0, one item per film per venue per day, upcoming only. `<guid>` is `venueId|filmKey|date`, so readers do not re-show an item when the schedule is resynced. |
+| `/feed/<venueId>.xml` | The same for one venue, e.g. `/feed/roxie.xml`. |
+| `/api/schedule.json` | `{ generatedAt, days: [{ date, cards: [{ film, venue, date, times, format, note }] }] }`, exactly what the schedule page renders. |
+| `/api/screenings.json` | `{ venues, films, screenings }`: flat upcoming showtimes referencing films by `filmKey` and venues by `venueId`. |
+| `/api/films.json`, `/api/venues.json`, `/api/festivals.json` | The individual collections. |
+
+Every response carries `generatedAt` (the last sync). Cloudflare caches them for 15 minutes (`public/_headers`).
+
 ## Hosting and automation
 
 Cloudflare Pages builds and hosts `dist/` on every push (connect the repo, preset Astro, `NODE_VERSION=22`). Two GitHub Actions workflows in `.github/workflows/` do the rest: `sync.yml` runs `npm run sync` daily and commits `data/screenings.json`; `review-reminder.yml` opens a weekly issue listing the titles held back for review. The only secret is `TMDB_API_KEY`. Full walkthrough in [USAGE.md](USAGE.md#7-hosting-and-automation).

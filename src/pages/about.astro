@@ -24,6 +24,22 @@ const tracked = venues.filter((v) => v.enabled);
       <a href="https://www.themoviedb.org/">TMDB</a>. Always confirm showtimes with the venue.
     </p>
     <p>Built and maintained by <a href="https://www.sunkht.xyz/">Kenneth Sun</a>.</p>
+    <h2 class="prose-sub">Feeds and data</h2>
+    <p>
+      Subscribe to <a href="/feed.xml">/feed.xml</a> for every upcoming screening (one item per film, theatre and day), or to a single
+      theatre at <code>/feed/&lt;theatre&gt;.xml</code>, for example {tracked.slice(0, 3).map((v, i) => (
+        <>
+          <a href={`/feed/${v.id}.xml`}>/feed/{v.id}.xml</a>{i < 2 ? ', ' : ''}
+        </>
+      ))}.
+    </p>
+    <p>
+      The same data is published as JSON, regenerated with every sync and free to use with attribution:
+      <a href="/api/schedule.json">/api/schedule.json</a> (days of cards, as shown here),
+      <a href="/api/screenings.json">/api/screenings.json</a> (flat showtimes plus films and venues),
+      <a href="/api/films.json">/api/films.json</a>, <a href="/api/venues.json">/api/venues.json</a> and
+      <a href="/api/festivals.json">/api/festivals.json</a>. Film metadata and artwork come from TMDB and carry its terms.
+    </p>
     <h2 class="prose-sub">Keyboard</h2>
     <p>The schedule can be driven from the keyboard, vim style. Press <kbd>?</kbd> on the schedule page for the full list.</p>
   </div>

@@ -81,6 +81,7 @@ function view(item: ResolvedItem, decision?: DecisionRecord) {
     film: item.film ? filmView(item.film, item.overview) : null,
     alternatives: item.alternatives.map(pickMovie),
     venueImage: item.venueImage ?? null,
+    hints: item.hints ?? null,
     decision: decision ? { decision: decision.decision, tmdbId: decision.tmdbId, image: decision.image ?? null, edits: decision.edits ?? null, decidedAt: decision.decidedAt } : null,
   };
 }
@@ -315,6 +316,9 @@ const PAGE = /* html */ `<!doctype html>
   .editor .row { grid-column:1/-1; display:flex; gap:8px; align-items:center; font-size:.8rem; color:var(--muted) }
   .editor input.changed, .editor textarea.changed { border-color:var(--warn); background:#fffaf0 }
   .tag.edited { color:var(--warn) }
+  .says { font-size:.9rem; color:var(--muted) } .says b { color:var(--ink); font-weight:600 }
+  .agree { font-size:.75rem; font-weight:700; letter-spacing:.04em; padding:1px 7px; border-radius:999px; margin-left:8px; vertical-align:middle }
+  .agree.ok { background:color-mix(in srgb,var(--ok) 15%,transparent); color:var(--ok) } .agree.bad { background:color-mix(in srgb,var(--no) 12%,transparent); color:var(--no) }
   .links { display:flex; gap:6px; flex-wrap:wrap }
   .links a { font-size:.8rem; font-weight:600; text-decoration:none; border:1px solid var(--line); background:var(--chip); border-radius:999px; padding:3px 10px; color:var(--ink) }
   .links a:hover { border-color:var(--accent); color:var(--accent) }
@@ -426,6 +430,15 @@ function artOptions(i) {
 }
 const previewArt = (i) => { const u=U(i); if (u.art) return { src:u.art, label:(artOptions(i).find(o=>o.id===u.art)||{}).label||'Custom' }; const d=defaultArt(i); return d ? { src:d.src, label:d.label+' (default)' } : null; };
 const EDIT_FIELDS = ['title','year','director','runtime','genre','overview'];
+/** Compare the venue's director/year with the selected TMDB film: surname match, year within one. */
+function agreement(h, f) {
+  const surname = (n) => n.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z ]+/g,' ').trim().split(/\s+/).pop();
+  const names = (s) => String(s).split(/,|&|\band\b|\//i).map(x=>x.trim()).filter(Boolean);
+  const out = [];
+  if (h.director && f.director) { const ok = names(h.director).some(a => names(f.director).some(b => surname(a)===surname(b))); out.push(ok ? '<span class="agree ok" title="Venue and TMDB name the same director">✓ director</span>' : '<span class="agree bad" title="Venue lists a different director">✗ director</span>'); }
+  if (h.year && f.year) { const ok = Math.abs(h.year-f.year)<=1; out.push(ok ? '<span class="agree ok" title="Year matches the venue listing">✓ year</span>' : '<span class="agree bad" title="Venue lists '+h.year+'">✗ year</span>'); }
+  return out.join('');
+}
 /** Card details as TMDB (or the venue title) supplies them, before hand edits. */
 function baseDetails(i) { const f=curFilm(i); return f ? { title:f.title||'', year:f.year||'', director:f.director||'', runtime:f.runtime||'', genre:f.genre||'', overview:f.overview||'' } : { title:i.cleanTitle, year:'', director:'', runtime:'', genre:'', overview:'' }; }
 /** What the site will show: base details with edits applied. */
@@ -517,7 +530,8 @@ function thumb(src, label, cls, on, n, wide) {
     + '<small>'+esc(label)+'</small></button>';
 }
 function card(i) {
-  const u = U(i), f = curFilm(i), d = i.decision, art = previewArt(i);
+  const u = U(i), f = curFilm(i), d = i.decision, art = previewArt(i), h = i.hints;
+  const agree = f && h && !f.partial ? agreement(h, f) : '';
   const matchOpts = [...u.order, ...u.results.filter(id=>!u.order.includes(id))];
   const matches = '<div class="sect matches"><span class="label">Movie <span class="hint">click or <span class="kbd">m</span> to preview · saved when you press Include</span></span>'
     + matchOpts.map((id, n) => { const m=u.films[id]; return thumb(m.poster, m.title+(m.year?' ('+m.year+')':'')+(n===0&&i.film&&id===i.film.tmdbId?' · best guess':''), 'data-match="'+id+'"', u.match===id, n+1<10?n+1:null); }).join('')
@@ -547,7 +561,8 @@ function card(i) {
    + '<div class="body">'
    + '<div class="venue">'+esc(venueName(i.venueId))+'</div>'
    + '<div class="raw"><a href="'+esc(i.url)+'" target="_blank" rel="noopener" title="Open the theatre listing (O)">'+esc(i.rawTitle)+'</a></div>'
-   + '<div class="guess"><span class="tag'+(edited?' edited':'')+'">'+(edited?'Edited':f?(u.match===(i.film&&i.film.tmdbId)?'TMDB guess':'Selected'):'Title only')+'</span><b data-show="title">'+esc(s.title)+'</b><span data-show="yeardir">'+(s.year?' ('+s.year+')':'')+(s.director?', '+esc(s.director):'')+'</span>'
+   + (h ? '<div class="says">'+esc(venueName(i.venueId))+' lists: '+[h.director?'<b>'+esc(h.director)+'</b>':null, h.year?'<b>'+h.year+'</b>':null, h.runtime?h.runtime+' min':null].filter(Boolean).join(' · ')+'</div>' : '')
+   + '<div class="guess"><span class="tag'+(edited?' edited':'')+'">'+(edited?'Edited':f?(u.match===(i.film&&i.film.tmdbId)?'TMDB guess':'Selected'):'Title only')+'</span><b data-show="title">'+esc(s.title)+'</b><span data-show="yeardir">'+(s.year?' ('+s.year+')':'')+(s.director?', '+esc(s.director):'')+'</span>'+agree
         + (f ? '' : ' <span class="meta">— listed with no TMDB data'+(i.film?'':' (no match found)')+'</span>')+'</div>'
    + '<div class="meta" data-show="meta"'+(meta?'':' hidden')+'>'+meta+'</div>'
    + '<div class="links"><a class="lbx" data-lbx href="'+esc(letterboxdUrl(i))+'" target="_blank" rel="noopener" title="Open on Letterboxd (b)">Letterboxd ↗</a>'

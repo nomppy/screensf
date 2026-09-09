@@ -1,0 +1,10 @@
+# Cloudflare Pages headers. The data endpoints and feeds are meant to be fetched from anywhere.
+/api/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=900
+/feed.xml
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=900
+/feed/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=900
