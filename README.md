@@ -144,6 +144,8 @@ Cloudflare Pages builds and hosts `dist/` on every push (connect the repo, prese
 
 Undecided titles never publish unattended. Run `npm run review` locally, commit `data/decisions.json`, and the next sync includes them.
 
+Commit only `data/decisions.json`; the sync bot owns `data/screenings.json`, and committing a local copy conflicts with its daily commit. Run `git pull --rebase` before you start reviewing and again before you push. A pre-commit hook in `.githooks/` refuses commits that stage the screenings file; enable it once per clone with `git config core.hooksPath .githooks` (override with `ALLOW_SCREENINGS=1` if you really mean it).
+
 ## Keyboard
 
 The schedule page has vim-style keys: `h`/`j`/`k`/`l` move between films by position on screen, `J`/`K` between days, `gg`/`G` to the ends, `o` or Enter opens details, `t` opens tickets, `1`…`5` filter by region, `?` shows the list. With details open, `c` adds to Google Calendar and `l` opens Letterboxd.

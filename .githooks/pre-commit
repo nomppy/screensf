@@ -1,0 +1,11 @@
+#!/bin/sh
+# Block commits that include data/screenings.json. The sync workflow owns that
+# file and regenerates it daily; committing a local copy causes rebase conflicts.
+# Override deliberately with:  ALLOW_SCREENINGS=1 git commit ...
+if [ -z "$ALLOW_SCREENINGS" ] && git diff --cached --name-only | grep -qx 'data/screenings.json'; then
+  echo "pre-commit: data/screenings.json is staged. The sync bot owns this file." >&2
+  echo "  Unstage it:   git restore --staged data/screenings.json" >&2
+  echo "  Discard it:   git checkout data/screenings.json" >&2
+  echo "  Override:     ALLOW_SCREENINGS=1 git commit ..." >&2
+  exit 1
+fi
