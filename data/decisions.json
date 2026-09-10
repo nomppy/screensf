@@ -954,5 +954,63 @@
     "title": "On Call",
     "tmdbId": 405779,
     "decidedAt": "2026-09-09T18:45:34.776Z"
+  },
+  "live music croz boyce avey tare and geologist of animal collective jas stade presented by folkyeah": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: Croz Boyce (Avey Tare and Geologist of Animal Collective), Jas Stade (Presented by folkYEAH!) ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T18:51:37.391Z"
+  },
+  "sf critterfest the ark": {
+    "decision": "exclude",
+    "title": "SF CRITTERFEST: The Ark ~ 2:00 PM",
+    "decidedAt": "2026-09-09T18:54:22.419Z"
+  },
+  "twilight saga new moon": {
+    "decision": "exclude",
+    "title": "The Twilight Saga: New Moon",
+    "decidedAt": "2026-09-09T18:54:31.870Z"
+  },
+  "my neighbor totoro": {
+    "decision": "include",
+    "title": "My Neighbor Totoro ~ 7:30 PM (SUB)",
+    "tmdbId": 8392,
+    "decidedAt": "2026-09-09T18:55:51.076Z"
+  },
+  "live music mildred charlie bishop presented by throwin bos": {
+    "decision": "exclude",
+    "title": "LIVE MUSIC: Mildred, Charlie Bishop (Presented by THROWIN' BO'S) ~ Doors at 7:00 PM & Music at 8:00 PM",
+    "decidedAt": "2026-09-09T18:56:25.827Z"
+  },
+  "house on haunted hill": {
+    "decision": "exclude",
+    "title": "House on Haunted Hill ~ 7:30 PM (Presented on 16mm by Odyssey Film Institute)",
+    "decidedAt": "2026-09-09T18:58:05.991Z"
+  },
+  "ice cream man": {
+    "decision": "exclude",
+    "title": "Ice Cream Man (1995)",
+    "decidedAt": "2026-09-09T18:58:16.115Z"
+  },
+  "stepford wives": {
+    "decision": "exclude",
+    "title": "The Stepford Wives",
+    "decidedAt": "2026-09-09T18:58:21.434Z"
+  },
+  "black swan perfect blue": {
+    "decision": "exclude",
+    "title": "Black Swan + Perfect Blue",
+    "decidedAt": "2026-09-09T18:59:11.732Z"
+  },
+  "blue velvet": {
+    "decision": "include",
+    "title": "Blue Velvet",
+    "tmdbId": 793,
+    "decidedAt": "2026-09-09T18:59:56.113Z"
+  },
+  "best little whorehouse in texas": {
+    "decision": "include",
+    "title": "The Best Little Whorehouse in Texas",
+    "tmdbId": 16363,
+    "decidedAt": "2026-09-09T19:01:01.132Z"
   }
 }
