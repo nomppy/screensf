@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-09-10T16:46:36.960Z",
+  "generatedAt": "2026-09-11T16:49:36.419Z",
   "films": {
-    "tmdb:16306": {
-      "key": "tmdb:16306",
-      "title": "Fantastic Planet",
-      "year": 1973,
-      "director": "René Laloux",
-      "runtime": 72,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/prq0j1S0K07UjwLZLF6oMGflRUI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/AwrqoanoZVYoc0MRyE0RiHEKm71.jpg",
-      "tmdbId": 16306,
-      "popularity": 3.574,
-      "releaseDate": "1973-12-01",
-      "overview": "On the planet Ygam, the Draags, extremely technologically and spiritually advanced blue humanoids, consider the tiny Oms, human beings descendants of Terra's inhabitants, as ignorant animals. Those who live in slavery are treated as simple pets and used to entertain Draag children; those who live hidden in the hostile wilderness of the planet are periodically hunted and ruthlessly slaughtered as if they were vermin."
-    },
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
     "tmdb:22500": {
       "key": "tmdb:22500",
       "title": "Gandahar",
@@ -47,6 +24,15 @@
       "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
       "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
       "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:44778": {
       "key": "tmdb:44778",
@@ -487,6 +473,20 @@
       "overview": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was far\nmore than an unprecedented record for Mexican rock; it was a historic and intimate gathering between a\nband that has soundtracked entire universes and a multigenerational fanbase that is more devoted than\never. This is the story of what vibrated on stage and what was kept in the hearts of the fans: an unfiltered\nbreakdown of the absolute magnetism, nostalgia, and enduring relevance of Zoé.",
       "backdrop": "https://roxie.com/wp-content/uploads/2026/08/1-11.jpg"
     },
+    "tmdb:744": {
+      "key": "tmdb:744",
+      "title": "Top Gun",
+      "year": 1986,
+      "director": "Tony Scott",
+      "runtime": 110,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+      "tmdbId": 744,
+      "popularity": 19.5442,
+      "releaseDate": "1986-05-16",
+      "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot."
+    },
     "tmdb:149": {
       "key": "tmdb:149",
       "title": "Akira",
@@ -501,20 +501,6 @@
       "releaseDate": "1988-06-10",
       "nowPlaying": true,
       "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop."
-    },
-    "tmdb:564": {
-      "key": "tmdb:564",
-      "title": "The Mummy",
-      "year": 1999,
-      "director": "Stephen Sommers",
-      "runtime": 124,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
-      "tmdbId": 564,
-      "popularity": 26.4712,
-      "releaseDate": "1999-04-16",
-      "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken."
     },
     "tmdb:508003": {
       "key": "tmdb:508003",
@@ -633,20 +619,6 @@
       "releaseDate": "1967-05-27",
       "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
     },
-    "tmdb:11377": {
-      "key": "tmdb:11377",
-      "title": "House on Haunted Hill",
-      "year": 1999,
-      "director": "William Malone",
-      "runtime": 93,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/weiGTsZqBglKxkIn5xj1nEjxn81.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/gxZ478weUdq3tiDG348lqlpSE5F.jpg",
-      "tmdbId": 11377,
-      "popularity": 4.8597,
-      "releaseDate": "1999-10-29",
-      "overview": "An amusement park mogul offers a random group of diverse people $1 million to spend the night in a decrepit former mental institution."
-    },
     "tmdb:142773": {
       "key": "tmdb:142773",
       "title": "Queen: Budapest",
@@ -674,20 +646,6 @@
       "popularity": 2.6412,
       "releaseDate": "2026-08-07",
       "overview": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
-    },
-    "tmdb:2280": {
-      "key": "tmdb:2280",
-      "title": "Big",
-      "year": 1988,
-      "director": "Penny Marshall",
-      "runtime": 104,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bi9ihIMB9DoXs7odkS5oKkHoK2o.jpg",
-      "tmdbId": 2280,
-      "popularity": 9.9459,
-      "releaseDate": "1988-06-03",
-      "overview": "When a young boy makes a wish at a carnival machine to be big, he wakes up the following morning to find that it has been granted and his body has grown older overnight, but he is still the same 13-year-old boy inside. Now he must learn how to cope with the unfamiliar world of grown-ups, including getting a job and having his first romantic encounter with a woman."
     },
     "tmdb:76341": {
       "key": "tmdb:76341",
@@ -758,33 +716,6 @@
       "popularity": 7.3671,
       "releaseDate": "1982-07-23",
       "overview": "When a Conservative TV crusader threatens to shut down beloved brothel The Chicken Ranch, proprietress Miss Mona Stangley and her girls won't go down without a fight."
-    },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0169,
-      "releaseDate": "2009-11-20",
-      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
-    },
-    "tmdb:328426": {
-      "key": "tmdb:328426",
-      "title": "The Ark",
-      "year": 2015,
-      "director": "Kenneth Glenaan",
-      "runtime": 88,
-      "genre": "TV Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/fmHJviZHDPBz5V5DQiPW38ixYmz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/i88Zpo1n3IMFot8fSQOsxzt7mdG.jpg",
-      "tmdbId": 328426,
-      "popularity": 2.0581,
-      "releaseDate": "2015-03-30",
-      "overview": "Noah, a farmer and family man, is instructed by an angel to build an ark in the middle of a desert in order to save both his family and the faithful from a devastating flood. A seemingly impossible task, especially when his sons refuse to believe him and help, Noah risks ridicule and humiliation from the degenerate townsfolk as well as his loving but exasperated family, in his quest to carry out his God-given task."
     },
     "tmdb:91694": {
       "key": "tmdb:91694",
@@ -884,19 +815,6 @@
       "releaseDate": "1968-08-01",
       "overview": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
     },
-    "tmdb:1410939": {
-      "key": "tmdb:1410939",
-      "title": "Dire Duplicity",
-      "year": 2026,
-      "director": "Neil Breen",
-      "runtime": 93,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/jN5J4x2KzA9v8qtt2TnTTqCh5BY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4mlkSfmJgB8Br1H3YQlWGedlv6O.jpg",
-      "tmdbId": 1410939,
-      "popularity": 2.4597,
-      "overview": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
-    },
     "tmdb:1308858": {
       "key": "tmdb:1308858",
       "title": "Dreams in Nightmares",
@@ -924,6 +842,20 @@
       "popularity": 5.4533,
       "releaseDate": "1999-10-06",
       "overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob."
+    },
+    "tmdb:9003": {
+      "key": "tmdb:9003",
+      "title": "Hellraiser",
+      "year": 1987,
+      "director": "Clive Barker",
+      "runtime": 93,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+      "tmdbId": 9003,
+      "popularity": 8.2702,
+      "releaseDate": "1987-09-11",
+      "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible."
     },
     "tmdb:9353": {
       "key": "tmdb:9353",
@@ -1009,20 +941,6 @@
       "releaseDate": "1997-08-15",
       "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
     },
-    "tmdb:44470": {
-      "key": "tmdb:44470",
-      "title": "Ice Cream Man",
-      "year": 1995,
-      "director": "Paul Norman",
-      "runtime": 87,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/c6ZouvwSkBPnmKVjeBDwdA44Tx8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uSKlocM3PXfQIS8cv0uOVMWmIC2.jpg",
-      "tmdbId": 44470,
-      "popularity": 3.4788,
-      "releaseDate": "1995-05-09",
-      "overview": "Young Gregory Tudor sees his local ice cream man murdered and later grows up to inherit his business, opting to inject gruesome ingredients—including human body parts—into his frozen confections. When one of the neighborhood boys goes missing, the local kids suspect Gregory and band together to get to the bottom of things."
-    },
     "tmdb:274": {
       "key": "tmdb:274",
       "title": "The Silence of the Lambs",
@@ -1050,20 +968,6 @@
       "popularity": 5.4864,
       "releaseDate": "1991-03-01",
       "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison."
-    },
-    "tmdb:18239": {
-      "key": "tmdb:18239",
-      "title": "The Twilight Saga: New Moon",
-      "year": 2009,
-      "director": "Chris Weitz",
-      "runtime": 131,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/k2qTooPlHffgNABNWxeJdGMglPK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dF2c20sRDgySZLaLS2OUerL07sz.jpg",
-      "tmdbId": 18239,
-      "popularity": 15.9533,
-      "releaseDate": "2009-11-18",
-      "overview": "Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks."
     },
     "tmdb:298235": {
       "key": "tmdb:298235",
@@ -1169,6 +1073,20 @@
       "releaseDate": "1992-11-13",
       "overview": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down."
     },
+    "tmdb:948": {
+      "key": "tmdb:948",
+      "title": "Halloween",
+      "year": 1978,
+      "director": "John Carpenter",
+      "runtime": 91,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+      "tmdbId": 948,
+      "popularity": 18.0912,
+      "releaseDate": "1978-10-24",
+      "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again."
+    },
     "tmdb:345": {
       "key": "tmdb:345",
       "title": "Eyes Wide Shut",
@@ -1197,20 +1115,6 @@
       "releaseDate": "2000-12-22",
       "overview": "When the local FBI office receives a letter from a terrorist known only as 'The Citizen', it's quickly determined that he's planning his next act at the Miss America beauty pageant. Because tough-as-nails Gracie Hart is the only female Agent at the office, she's chosen to go undercover as the contestant from New Jersey."
     },
-    "tmdb:9890": {
-      "key": "tmdb:9890",
-      "title": "The Stepford Wives",
-      "year": 2004,
-      "director": "Frank Oz",
-      "runtime": 93,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/ygr0Wlmm1KmE16TUefNitIscVBG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/rjUeBEhX3xZ5gN5RNcCwUDGHCqx.jpg",
-      "tmdbId": 9890,
-      "popularity": 4.5883,
-      "releaseDate": "2004-06-10",
-      "overview": "What does it take to become a Stepford wife, a woman perfect beyond belief? Ask the Stepford husbands, who've created this high-tech, terrifying little town."
-    },
     "tmdb:1283515": {
       "key": "tmdb:1283515",
       "title": "Verify (Early Access)",
@@ -1224,20 +1128,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "tmdb:405779": {
-      "key": "tmdb:405779",
-      "title": "On Call",
-      "year": 2016,
-      "director": "Alice Diop",
-      "runtime": 97,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/gVJvhuRMfB2fNBvSCS9xZBah5uN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/g7wceuKALuu123YVV7KVnGWBSFi.jpg",
-      "tmdbId": 405779,
-      "popularity": 1.9507,
-      "releaseDate": "2016-03-23",
-      "overview": "At the consulting service for immigrants at the Avicenne Hospital in suburban Paris, we observe the sorrow and powerlessness of the immigrants who come here."
     },
     "tmdb:1626": {
       "key": "tmdb:1626",
@@ -1693,6 +1583,20 @@
       "releaseDate": "2007-02-14",
       "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village."
     },
+    "tmdb:246741": {
+      "key": "tmdb:246741",
+      "title": "What We Do in the Shadows",
+      "year": 2014,
+      "director": "Jemaine Clement, Taika Waititi",
+      "runtime": 86,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
+      "tmdbId": 246741,
+      "popularity": 5.2808,
+      "releaseDate": "2014-06-19",
+      "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead."
+    },
     "tmdb:992": {
       "key": "tmdb:992",
       "title": "Sherlock Jr.",
@@ -1706,6 +1610,20 @@
       "popularity": 5.2507,
       "releaseDate": "1924-04-17",
       "overview": "A film projectionist longs to be a detective, and puts his meager skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch."
+    },
+    "tmdb:9392": {
+      "key": "tmdb:9392",
+      "title": "The Descent",
+      "year": 2005,
+      "director": "Neil Marshall",
+      "runtime": 100,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
+      "tmdbId": 9392,
+      "popularity": 11.3942,
+      "releaseDate": "2005-07-08",
+      "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other."
     },
     "tmdb:252": {
       "key": "tmdb:252",
@@ -1864,139 +1782,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "roxie:2026-09-10:16:10:tmdb:16306",
-      "venueId": "roxie",
-      "filmKey": "tmdb:16306",
-      "date": "2026-09-10",
-      "time": "16:10",
-      "url": "https://roxie.com/film/fantastic-planet/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-10:16:15:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-10",
-      "time": "16:15",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "operaplaza:2026-09-10:16:35:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-10",
-      "time": "16:35",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "vogue:2026-09-10:17:00:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-10",
-      "time": "17:00",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-10",
-      "source": "vogue"
-    },
-    {
-      "id": "roxie:2026-09-10:18:00:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-10",
-      "time": "18:00",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-10:18:30:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-10",
-      "time": "18:30",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-10:19:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-10",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-10",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "alamo:2026-09-10:19:00:tmdb:1410939",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1410939",
-      "date": "2026-09-10",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/dire-duplicity?cinemaId=0801&sessionId=82496",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-09-10:19:00:tmdb:405779",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:405779",
-      "date": "2026-09-10",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/on-call",
-      "format": "DCP",
-      "note": "Alice Diop in Person · In Conversation: Alice Diop, Iggy Cortez",
-      "source": "bampfa"
-    },
-    {
-      "id": "operaplaza:2026-09-10:19:15:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-10",
-      "time": "19:15",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "balboa:2026-09-10:19:30:tmdb:564",
-      "venueId": "balboa",
-      "filmKey": "tmdb:564",
-      "date": "2026-09-10",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-mummy-september-10",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
-    },
-    {
-      "id": "vogue:2026-09-10:19:30:tmdb:2280",
-      "venueId": "vogue",
-      "filmKey": "tmdb:2280",
-      "date": "2026-09-10",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/big-september-10",
-      "source": "vogue"
-    },
-    {
-      "id": "castro:2026-09-10:19:30:tmdb:16363",
-      "venueId": "castro",
-      "filmKey": "tmdb:16363",
-      "date": "2026-09-10",
-      "time": "19:30",
-      "url": "https://thecastro.com/events/the-best-little-whorehouse-in-texas-260910",
-      "note": "Another Planet Entertainment & Frameline present A tribute to Dolly Parton",
-      "source": "castro"
-    },
-    {
-      "id": "newparkway:2026-09-10:21:25:tmdb:950028",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:950028",
-      "date": "2026-09-10",
-      "time": "21:25",
-      "url": "https://thenewparkway.com/movie/the-invite/",
-      "source": "newparkway"
-    },
     {
       "id": "operaplaza:2026-09-11:12:10:tmdb:1285895",
       "venueId": "operaplaza",
@@ -3019,16 +2804,6 @@
       "source": "operaplaza"
     },
     {
-      "id": "4star:2026-09-16:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-09-16",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-croz-boyce",
-      "note": "(((folkYEAH!))) presents:",
-      "source": "4star"
-    },
-    {
       "id": "roxie:2026-09-16:20:10:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -3471,16 +3246,6 @@
       "source": "newparkway"
     },
     {
-      "id": "4star:2026-09-20:14:00:tmdb:328426",
-      "venueId": "4star",
-      "filmKey": "tmdb:328426",
-      "date": "2026-09-20",
-      "time": "14:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/critterfest-the-ark",
-      "note": "SF CritterFest presents:",
-      "source": "4star"
-    },
-    {
       "id": "roxie:2026-09-20:15:00:tmdb:1596326",
       "venueId": "roxie",
       "filmKey": "tmdb:1596326",
@@ -3578,16 +3343,6 @@
       "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
       "note": "Double feature with Moon Over Miami",
       "source": "stanford"
-    },
-    {
-      "id": "alamo:2026-09-20:19:00:tmdb:18239",
-      "venueId": "alamo",
-      "filmKey": "tmdb:18239",
-      "date": "2026-09-20",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/the-twilight-saga-the-twilight-saga-new-moon-fan-screening?cinemaId=0801&sessionId=82308",
-      "note": "Fan Screening · The next chapter begins",
-      "source": "alamo"
     },
     {
       "id": "bampfa:2026-09-20:19:00:tmdb:13963",
@@ -4035,16 +3790,6 @@
       "source": "stanford"
     },
     {
-      "id": "4star:2026-09-26:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-09-26",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-mildred-charlie-bishop",
-      "note": "Throwin’ Bo’s presents:",
-      "source": "4star"
-    },
-    {
       "id": "ata:2026-09-26:20:00:t:other cinema post kolonial spectres",
       "venueId": "ata",
       "filmKey": "t:other cinema post kolonial spectres",
@@ -4265,17 +4010,6 @@
       "source": "rafael"
     },
     {
-      "id": "balboa:2026-09-29:19:30:tmdb:11377",
-      "venueId": "balboa",
-      "filmKey": "tmdb:11377",
-      "date": "2026-09-29",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/house-on-haunted-hill-september-29",
-      "format": "16mm",
-      "note": "Presented on 16mm by",
-      "source": "balboa"
-    },
-    {
       "id": "balboa:2026-09-29:19:45:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -4283,26 +4017,6 @@
       "time": "19:45",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-29",
       "source": "balboa"
-    },
-    {
-      "id": "alamo:2026-09-29:21:30:tmdb:44470",
-      "venueId": "alamo",
-      "filmKey": "tmdb:44470",
-      "date": "2026-09-29",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-ice-cream-man-1995?cinemaId=0801&sessionId=82423",
-      "note": "Terror Tuesday · Starring PEOPLE's Sexiest Man Alive, Clint Howard.",
-      "source": "alamo"
-    },
-    {
-      "id": "operaplaza:2026-09-30:13:00:tmdb:9890",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:9890",
-      "date": "2026-09-30",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/48856-the-stepford-wives/",
-      "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
-      "source": "operaplaza"
     },
     {
       "id": "balboa:2026-09-30:17:00:tmdb:1596296",
@@ -4321,16 +4035,6 @@
       "time": "18:00",
       "url": "https://roxie.com/film/d-e-b-s/",
       "source": "roxie"
-    },
-    {
-      "id": "operaplaza:2026-09-30:19:00:tmdb:9890",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:9890",
-      "date": "2026-09-30",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/48856-the-stepford-wives/",
-      "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
-      "source": "operaplaza"
     },
     {
       "id": "operaplaza:2026-09-30:19:00:tmdb:1283515",
@@ -4397,15 +4101,6 @@
       "date": "2026-10-01",
       "time": "18:30",
       "url": "https://roxie.com/film/black-swan/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-01:18:30:tmdb:44214",
-      "venueId": "roxie",
-      "filmKey": "tmdb:44214",
-      "date": "2026-10-01",
-      "time": "18:30",
-      "url": "https://roxie.com/film/black-swan-perfect-blue/",
       "source": "roxie"
     },
     {
@@ -4572,6 +4267,15 @@
       "source": "balboa"
     },
     {
+      "id": "operaplaza:2026-10-07:19:00:tmdb:948",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:948",
+      "date": "2026-10-07",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/9434-halloween-1978/",
+      "source": "operaplaza"
+    },
+    {
       "id": "bampfa:2026-10-07:19:00:t:films by the cousin collective and christophe katrib",
       "venueId": "bampfa",
       "filmKey": "t:films by the cousin collective and christophe katrib",
@@ -4581,6 +4285,42 @@
       "format": "DCP",
       "note": "Alternative Visions",
       "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-10-09:19:00:tmdb:744",
+      "venueId": "roxie",
+      "filmKey": "tmdb:744",
+      "date": "2026-10-09",
+      "time": "19:00",
+      "url": "https://roxie.com/film/floating-features-top-gun-2/",
+      "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-09:19:00:tmdb:9003",
+      "venueId": "alamo",
+      "filmKey": "tmdb:9003",
+      "date": "2026-10-09",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/hellraiser?cinemaId=0801&sessionId=83038",
+      "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-10-09:22:30:tmdb:246741",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:246741",
+      "date": "2026-10-09",
+      "time": "22:30",
+      "url": "https://thenewparkway.com/movie/what-we-do-in-the-shadows/",
+      "source": "newparkway"
+    },
+    {
+      "id": "piedmont:2026-10-09:22:30:tmdb:9392",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:9392",
+      "date": "2026-10-09",
+      "time": "22:30",
+      "url": "https://www.landmarktheatres.com/movies/47101-the-descent/",
+      "source": "piedmont"
     }
   ],
   "festivals": [
