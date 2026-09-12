@@ -1,30 +1,6 @@
 {
-  "generatedAt": "2026-09-11T16:49:36.419Z",
+  "generatedAt": "2026-09-12T15:56:00.438Z",
   "films": {
-    "tmdb:22500": {
-      "key": "tmdb:22500",
-      "title": "Gandahar",
-      "year": 1987,
-      "director": "René Laloux",
-      "runtime": 83,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/cjwEa9RZ8BqoGMddrrYm8ftP9f9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/omysgecSqildPjk4LL8To0L3tgm.jpg",
-      "tmdbId": 22500,
-      "popularity": 3.9573,
-      "releaseDate": "1987-12-11",
-      "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
-    },
-    "t:cycle of love": {
-      "key": "t:cycle of love",
-      "title": "The Cycle of Love",
-      "year": 2026,
-      "director": "Orlando von Einsiedel",
-      "runtime": 95,
-      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
-      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -47,6 +23,30 @@
       "popularity": 1.3452,
       "releaseDate": "2006-03-03",
       "overview": "Just over the border in Mexico is an area peppered with maquiladoras: massive sweatshops often owned by the world's largest multinational corporations. Carmen and Lourdes work at maquiladoras in Tijuana, and it is there that they try to balance the struggle for survival with their own radicalization in this documentary."
+    },
+    "t:cycle of love": {
+      "key": "t:cycle of love",
+      "title": "The Cycle of Love",
+      "year": 2026,
+      "director": "Orlando von Einsiedel",
+      "runtime": 95,
+      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
+    },
+    "tmdb:22500": {
+      "key": "tmdb:22500",
+      "title": "Gandahar",
+      "year": 1987,
+      "director": "René Laloux",
+      "runtime": 83,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/cjwEa9RZ8BqoGMddrrYm8ftP9f9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/omysgecSqildPjk4LL8To0L3tgm.jpg",
+      "tmdbId": 22500,
+      "popularity": 3.9573,
+      "releaseDate": "1987-12-11",
+      "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
     },
     "tmdb:11171": {
       "key": "tmdb:11171",
@@ -451,6 +451,20 @@
       "releaseDate": "1998-02-28",
       "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
     },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+    },
     "tmdb:1193495": {
       "key": "tmdb:1193495",
       "title": "Ashima",
@@ -787,20 +801,6 @@
       "releaseDate": "1988-03-30",
       "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
     },
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
     "tmdb:3107": {
       "key": "tmdb:3107",
       "title": "Destroy All Monsters",
@@ -1011,6 +1011,19 @@
       "releaseDate": "2023-10-08",
       "overview": "The true story of The Unarius Academy of Science, a long-running extraterrestrial-channeling spiritual school in El Cajon, California that in the late 1970s became a wildly prolific filmmaking and art collective under the direction of outlandish spiritual leader and visionary filmmaker Ruth E. Norman, AKA “Archangel Uriel.”"
     },
+    "tmdb:1278622": {
+      "key": "tmdb:1278622",
+      "title": "Black Is Beautiful",
+      "year": 2023,
+      "director": "Marco Ortega",
+      "runtime": 32,
+      "genre": "Documentary",
+      "backdrop": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/09/10132859/cleared_Radiah-Fyre_Kwame-Brathawaite_BLACK-IS-BEAUTIFUL-01-1024x1024.jpg",
+      "tmdbId": 1278622,
+      "popularity": 0.682,
+      "releaseDate": "2023-08-05",
+      "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
+    },
     "t:other cinema incredibly strange religion": {
       "key": "t:other cinema incredibly strange religion",
       "title": "Other Cinema: Incredibly Strange Religion",
@@ -1073,6 +1086,20 @@
       "releaseDate": "1992-11-13",
       "overview": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down."
     },
+    "tmdb:3035": {
+      "key": "tmdb:3035",
+      "title": "Frankenstein",
+      "year": 1931,
+      "director": "James Whale",
+      "runtime": 70,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg",
+      "tmdbId": 3035,
+      "popularity": 5.0623,
+      "releaseDate": "1931-11-21",
+      "overview": "Henry Frankenstein pieces together body parts in the hope of bringing a human-like creature to life. The mad scientist’s dreams are shattered by his monstrous creation awakening with rage to a world that hates and fears him."
+    },
     "tmdb:948": {
       "key": "tmdb:948",
       "title": "Halloween",
@@ -1128,20 +1155,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "tmdb:1626": {
-      "key": "tmdb:1626",
-      "title": "Vivre Sa Vie",
-      "year": 1962,
-      "director": "Jean-Luc Godard",
-      "runtime": 84,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/A0BjScjASfMFgyGI5sU0CwfKh3l.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/68NGFE8zD2gaQVH6MqJeKzojFJM.jpg",
-      "tmdbId": 1626,
-      "popularity": 3.2004,
-      "releaseDate": "1962-09-20",
-      "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution."
     },
     "tmdb:3082": {
       "key": "tmdb:3082",
@@ -1597,6 +1610,20 @@
       "releaseDate": "2014-06-19",
       "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead."
     },
+    "tmdb:1091": {
+      "key": "tmdb:1091",
+      "title": "The Thing",
+      "year": 1982,
+      "director": "John Carpenter",
+      "runtime": 109,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "tmdbId": 1091,
+      "popularity": 18.9272,
+      "releaseDate": "1982-06-25",
+      "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+    },
     "tmdb:992": {
       "key": "tmdb:992",
       "title": "Sherlock Jr.",
@@ -1710,20 +1737,6 @@
       "releaseDate": "2018-11-02",
       "overview": "A woman steals a man's identity and forces him to confront a secret that he's hidden for over thirty years."
     },
-    "tmdb:108222": {
-      "key": "tmdb:108222",
-      "title": "Tin Pan Alley",
-      "year": 1940,
-      "director": "Walter Lang",
-      "runtime": 94,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/A98sbrtuO5X7HpG3CcH8qJHsLzg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nX41E4mWlJ7FBCpimuceVoijxIC.jpg",
-      "tmdbId": 108222,
-      "popularity": 1.1947,
-      "releaseDate": "1940-11-29",
-      "overview": "Songwriters Calhoun and Harrigan get Katie and Lily Blane to introduce a new one. Lily goes to England, and Katy joins her after the boys give a new song to Nora Bayes. All are reunited when the boys, now in the army, show up in England."
-    },
     "tmdb:43839": {
       "key": "tmdb:43839",
       "title": "Alexander's Ragtime Band",
@@ -1737,6 +1750,20 @@
       "popularity": 1.4996,
       "releaseDate": "1938-05-24",
       "overview": "Classical violinist Roger Grant disappoints his family and teacher when he organizes a jazz band, but he and the band become successful. Roger falls in love with the band's singer, Stella, but his reluctance to lose her leads him to thwart her efforts to become a solo star. When the World War separates them in 1917, Stella marries Roger's best friend and, when Roger returns home after the war, an important concert at Carnegie Hall brings the corners of the romantic triangle together."
+    },
+    "tmdb:108222": {
+      "key": "tmdb:108222",
+      "title": "Tin Pan Alley",
+      "year": 1940,
+      "director": "Walter Lang",
+      "runtime": 94,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/A98sbrtuO5X7HpG3CcH8qJHsLzg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nX41E4mWlJ7FBCpimuceVoijxIC.jpg",
+      "tmdbId": 108222,
+      "popularity": 1.1947,
+      "releaseDate": "1940-11-29",
+      "overview": "Songwriters Calhoun and Harrigan get Katie and Lily Blane to introduce a new one. Lily goes to England, and Katy joins her after the boys give a new song to Nora Bayes. All are reunited when the boys, now in the army, show up in England."
     },
     "tmdb:43810": {
       "key": "tmdb:43810",
@@ -1782,185 +1809,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "operaplaza:2026-09-11:12:10:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-11",
-      "time": "12:10",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "operaplaza:2026-09-11:14:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-11",
-      "time": "14:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "rafael:2026-09-11:16:15:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-11",
-      "time": "16:15",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-11:16:15:tmdb:10537",
-      "venueId": "alamo",
-      "filmKey": "tmdb:10537",
-      "date": "2026-09-11",
-      "time": "16:15",
-      "url": "https://drafthouse.com/sf/show/the-doors?cinemaId=0801&sessionId=83073",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-09-11:16:30:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-11",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-11",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "vogue:2026-09-11:17:00:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-11",
-      "time": "17:00",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-11",
-      "source": "vogue"
-    },
-    {
-      "id": "operaplaza:2026-09-11:17:15:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-11",
-      "time": "17:15",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "stanford:2026-09-11:17:45:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-11",
-      "time": "17:45",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
-    },
-    {
-      "id": "roxie:2026-09-11:18:00:tmdb:22500",
-      "venueId": "roxie",
-      "filmKey": "tmdb:22500",
-      "date": "2026-09-11",
-      "time": "18:00",
-      "url": "https://roxie.com/film/gandahar-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-11:18:00:t:cycle of love",
-      "venueId": "roxie",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-11",
-      "time": "18:00",
-      "url": "https://roxie.com/film/the-cycle-of-love/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-11:18:00:tmdb:950028",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:950028",
-      "date": "2026-09-11",
-      "time": "18:00",
-      "url": "https://thenewparkway.com/movie/the-invite/",
-      "source": "newparkway"
-    },
-    {
-      "id": "rafael:2026-09-11:18:30:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-11",
-      "time": "18:30",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "bampfa:2026-09-11:19:00:tmdb:1626",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:1626",
-      "date": "2026-09-11",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/vivre-sa-vie",
-      "format": "35mm",
-      "note": "Jean-Luc Godard’s Early Films",
-      "source": "bampfa"
-    },
-    {
-      "id": "stanford:2026-09-11:19:30:tmdb:43839",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43839",
-      "date": "2026-09-11",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Tin Pan Alley",
-      "source": "stanford"
-    },
-    {
-      "id": "operaplaza:2026-09-11:19:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-11",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-11:20:10:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-11",
-      "time": "20:10",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-11:20:20:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-11",
-      "time": "20:20",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "stanford:2026-09-11:21:30:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-11",
-      "time": "21:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
-    },
-    {
-      "id": "newparkway:2026-09-11:22:30:tmdb:36685",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:36685",
-      "date": "2026-09-11",
-      "time": "22:30",
-      "url": "https://thenewparkway.com/movie/rocky-horror-picture-show/",
-      "source": "newparkway"
-    },
     {
       "id": "rafael:2026-09-12:12:00:t:cycle of love",
       "venueId": "rafael",
@@ -2175,7 +2023,7 @@
       "filmKey": "t:other cinema incredibly strange religion",
       "date": "2026-09-12",
       "time": "20:00",
-      "url": "https://www.atasite.org/event/other-cinema-20260912/",
+      "url": "https://www.atasite.org/event/other-cinema-incredibly-strange-religion-2026/",
       "source": "ata"
     },
     {
@@ -2905,6 +2753,15 @@
       "source": "operaplaza"
     },
     {
+      "id": "vogue:2026-09-18:17:00:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-18",
+      "time": "17:00",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-18",
+      "source": "vogue"
+    },
+    {
       "id": "stanford:2026-09-18:17:50:tmdb:43810",
       "venueId": "stanford",
       "filmKey": "tmdb:43810",
@@ -3061,6 +2918,15 @@
       "source": "roxie"
     },
     {
+      "id": "vogue:2026-09-19:14:30:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-19",
+      "time": "14:30",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-19",
+      "source": "vogue"
+    },
+    {
       "id": "alamo:2026-09-19:14:45:tmdb:1179147",
       "venueId": "alamo",
       "filmKey": "tmdb:1179147",
@@ -3193,7 +3059,7 @@
       "filmKey": "tmdb:1189320",
       "date": "2026-09-19",
       "time": "20:00",
-      "url": "https://www.atasite.org/event/other-cinema-20260919/",
+      "url": "https://www.atasite.org/event/other-cinema-psychedelic-cinema-2026/",
       "note": "OC is truly honored to welcome back esteemed European critic, author, and curator Kornelia Boczkowska!",
       "source": "ata"
     },
@@ -3246,6 +3112,15 @@
       "source": "newparkway"
     },
     {
+      "id": "vogue:2026-09-20:14:30:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-20",
+      "time": "14:30",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-20",
+      "source": "vogue"
+    },
+    {
       "id": "roxie:2026-09-20:15:00:tmdb:1596326",
       "venueId": "roxie",
       "filmKey": "tmdb:1596326",
@@ -3280,7 +3155,7 @@
       "date": "2026-09-20",
       "time": "16:20",
       "url": "https://drafthouse.com/sf/show/ghost-in-the-shell-subtitled?cinemaId=0801&sessionId=82922",
-      "note": "SUBTITLED",
+      "note": "Subtitled",
       "source": "alamo"
     },
     {
@@ -3404,6 +3279,16 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-09-21:16:20:tmdb:9323",
+      "venueId": "alamo",
+      "filmKey": "tmdb:9323",
+      "date": "2026-09-21",
+      "time": "16:20",
+      "url": "https://drafthouse.com/sf/show/ghost-in-the-shell-dubbed?cinemaId=0801&sessionId=82924",
+      "note": "Dubbed",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-09-21:18:00:tmdb:1596326",
       "venueId": "roxie",
       "filmKey": "tmdb:1596326",
@@ -3422,13 +3307,22 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-09-21:20:10:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-21",
+      "time": "20:10",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-09-22:15:00:tmdb:9323",
       "venueId": "alamo",
       "filmKey": "tmdb:9323",
       "date": "2026-09-22",
       "time": "15:00",
       "url": "https://drafthouse.com/sf/show/ghost-in-the-shell-subtitled?cinemaId=0801&sessionId=82923",
-      "note": "SUBTITLED",
+      "note": "Subtitled",
       "source": "alamo"
     },
     {
@@ -3486,6 +3380,24 @@
       "url": "https://www.landmarktheatres.com/movies/26861-miss-congeniality/",
       "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
       "source": "operaplaza"
+    },
+    {
+      "id": "vogue:2026-09-23:17:00:tmdb:1285895",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-23",
+      "time": "17:00",
+      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-23",
+      "source": "vogue"
+    },
+    {
+      "id": "roxie:2026-09-23:18:00:tmdb:1631822",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1631822",
+      "date": "2026-09-23",
+      "time": "18:00",
+      "url": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-09-23:18:00:tmdb:9323",
@@ -3567,6 +3479,16 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-09-23:20:00:tmdb:11171",
+      "venueId": "roxie",
+      "filmKey": "tmdb:11171",
+      "date": "2026-09-23",
+      "time": "20:00",
+      "url": "https://roxie.com/film/mysterious-skin-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-09-23:21:30:tmdb:298235",
       "venueId": "alamo",
       "filmKey": "tmdb:298235",
@@ -3595,6 +3517,16 @@
       "format": "DCP",
       "note": "Georgian Cinema Now: Part 1 · In Conversation: Elene Naveriani, Salomé Asatiani, Salomé Jashi",
       "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-09-24:20:05:tmdb:22500",
+      "venueId": "roxie",
+      "filmKey": "tmdb:22500",
+      "date": "2026-09-24",
+      "time": "20:05",
+      "url": "https://roxie.com/film/gandahar-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-09-24:21:50:tmdb:4816",
@@ -3740,6 +3672,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-09-26:15:15:tmdb:1620313",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1620313",
+      "date": "2026-09-26",
+      "time": "15:15",
+      "url": "https://roxie.com/film/the-samurai-and-the-prisoner/",
+      "source": "roxie"
+    },
+    {
       "id": "stanford:2026-09-26:16:00:tmdb:43797",
       "venueId": "stanford",
       "filmKey": "tmdb:43797",
@@ -3795,7 +3736,7 @@
       "filmKey": "t:other cinema post kolonial spectres",
       "date": "2026-09-26",
       "time": "20:00",
-      "url": "https://www.atasite.org/event/other-cinema-20260926/",
+      "url": "https://www.atasite.org/event/other-cinema-post-kolonial-spectres-2026/",
       "note": "Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play,…",
       "source": "ata"
     },
@@ -3815,7 +3756,7 @@
       "date": "2026-09-27",
       "time": "10:00",
       "url": "https://www.4-star-movies.com/calendar-of-events/neighbor-totoro-sun-2026",
-      "note": "Popcorn Palace - DUB - FREE!; DUB; SUB",
+      "note": "Popcorn Palace - Hosted by SFPL Richmond Branch - DUB - FREE!; DUB; SUB",
       "source": "4star"
     },
     {
@@ -3914,6 +3855,15 @@
       "format": "DCP",
       "note": "Georgian Cinema Now: Part 1",
       "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-09-27:17:15:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-27",
+      "time": "17:15",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-09-27:18:10:t:re vision 8 girls in a boat",
@@ -4142,6 +4092,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-10-02:18:00:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-10-02",
+      "time": "18:00",
+      "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-10-02:19:00:tmdb:846806",
       "venueId": "bampfa",
       "filmKey": "tmdb:846806",
@@ -4149,7 +4108,7 @@
       "time": "19:00",
       "url": "https://bampfa.org/event/wet-sand",
       "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1 · In Conversation: Elene Naveriani, Carmen Gray",
+      "note": "Georgian Cinema Now: Part 1",
       "source": "bampfa"
     },
     {
@@ -4194,7 +4153,7 @@
       "filmKey": "t:other cinema incredibly strange music",
       "date": "2026-10-03",
       "time": "20:00",
-      "url": "https://www.atasite.org/event/other-cinema-20261003/",
+      "url": "https://www.atasite.org/event/other-cinema-incredibly-strange-music-2026/",
       "source": "ata"
     },
     {
@@ -4217,6 +4176,16 @@
       "format": "DCP",
       "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "sfmoma:2026-10-04:16:00:tmdb:1278622",
+      "venueId": "sfmoma",
+      "filmKey": "tmdb:1278622",
+      "date": "2026-10-04",
+      "time": "16:00",
+      "url": "https://www.sfmoma.org/event/black-is-beautiful-the-kwame-brathwaite-story-film-screening-and-conversation/",
+      "note": "Join Nexus: San Francisco/Bay Area Black Art Week, SFMOMA, and MoAD for a film screening of \"Black Is Beautiful: The Kwame Brathwaite Story,\" followed by a…",
+      "source": "sfmoma"
     },
     {
       "id": "newparkway:2026-10-04:21:00:tmdb:4638",
@@ -4321,6 +4290,33 @@
       "time": "22:30",
       "url": "https://www.landmarktheatres.com/movies/47101-the-descent/",
       "source": "piedmont"
+    },
+    {
+      "id": "operaplaza:2026-10-10:13:00:tmdb:3035",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:3035",
+      "date": "2026-10-10",
+      "time": "13:00",
+      "url": "https://www.landmarktheatres.com/movies/6038-frankenstein-1931/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "balboa:2026-10-10:19:00:tmdb:142773",
+      "venueId": "balboa",
+      "filmKey": "tmdb:142773",
+      "date": "2026-10-10",
+      "time": "19:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/queen-budapest-october-10",
+      "source": "balboa"
+    },
+    {
+      "id": "newparkway:2026-10-10:22:00:tmdb:1091",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1091",
+      "date": "2026-10-10",
+      "time": "22:00",
+      "url": "https://thenewparkway.com/movie/the-thing/",
+      "source": "newparkway"
     }
   ],
   "festivals": [
@@ -4328,29 +4324,17 @@
       "key": "fest:balboa:twin peaks fest",
       "name": "TWIN PEAKS FEST",
       "venueId": "balboa",
-      "startDate": "2026-09-11",
+      "startDate": "2026-09-12",
       "endDate": "2026-09-14",
       "url": "https://www.balboamovies.com/twin-peaks-fest-2026",
-      "showtimes": 16,
+      "showtimes": 14,
       "sample": [
-        "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
-        "Season 1, Ep. 2 & 3 (Traces to Nowhere/Zen, Or the Skill To Catch a Killer)",
         "Season 1, Ep. 4 & 5 (Rest in Pain/The One-Armed Man)",
-        "Season 1, Ep. 1 (Northwest Passage)"
+        "Season 1, Ep. 1 (Northwest Passage)",
+        "Season 1, Ep. 6, 7, & 8 (Cooper's Dreams/The Realization/The Last Evening)",
+        "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)"
       ],
       "programme": [
-        {
-          "date": "2026-09-11",
-          "time": "19:00",
-          "title": "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-the-return-ep-1-2-september-11"
-        },
-        {
-          "date": "2026-09-11",
-          "time": "20:00",
-          "title": "Season 1, Ep. 2 & 3 (Traces to Nowhere/Zen, Or the Skill To Catch a Killer)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-2-3-september-11"
-        },
         {
           "date": "2026-09-12",
           "time": "13:00",
@@ -4798,6 +4782,26 @@
           "time": "22:30",
           "title": "Lake of Dracula",
           "url": "https://www.balboamovies.com/calendar-of-events/lake-of-dracula-october-17"
+        }
+      ]
+    },
+    {
+      "key": "fest:roxie:dance thrill fest",
+      "name": "Dance Thrill Fest",
+      "venueId": "roxie",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "url": "https://roxie.com/film/dance-thrill-fest-vi/",
+      "showtimes": 1,
+      "sample": [
+        "VI"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-31",
+          "time": "15:30",
+          "title": "VI",
+          "url": "https://roxie.com/film/dance-thrill-fest-vi/"
         }
       ]
     }
