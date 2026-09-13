@@ -1,28 +1,15 @@
 {
-  "generatedAt": "2026-09-12T15:56:00.438Z",
+  "generatedAt": "2026-09-13T16:42:24.449Z",
   "films": {
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:44778": {
-      "key": "tmdb:44778",
-      "title": "Maquilapolis",
-      "year": 2006,
-      "director": "Sergio de la Torre, Vicky Funari",
-      "runtime": 68,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/1BNJibYvAxUQgQED76igoN2tVRN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mTgwkwa86aQsgsD3ptzGTJdFGS1.jpg",
-      "tmdbId": 44778,
-      "popularity": 1.3452,
-      "releaseDate": "2006-03-03",
-      "overview": "Just over the border in Mexico is an area peppered with maquiladoras: massive sweatshops often owned by the world's largest multinational corporations. Carmen and Lourdes work at maquiladoras in Tijuana, and it is there that they try to balance the struggle for survival with their own radicalization in this documentary."
+    "t:big cheese": {
+      "key": "t:big cheese",
+      "title": "The Big Cheese",
+      "year": 2026,
+      "director": "Sara Joe Wolansky",
+      "runtime": 87,
+      "overview": "Guests will receive complimentary cheese samples courtesy of Bi-Rite Market and a coupon for 10% off cheese at Bi-Rite upon entry.\n\nFollowing the film, join Sam Mogannam of Bi-Rite and Ray Bair of Cheese Plus for a conversation about all things cheese, moderated by Sigfried “Ziggy” von Frankenberg-Leu, West Coast Sales Manager for Market to Monger",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/4-6.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/4-6.jpg"
     },
     "t:cycle of love": {
       "key": "t:cycle of love",
@@ -34,43 +21,14 @@
       "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
       "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
     },
-    "tmdb:22500": {
-      "key": "tmdb:22500",
-      "title": "Gandahar",
-      "year": 1987,
-      "director": "René Laloux",
-      "runtime": 83,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/cjwEa9RZ8BqoGMddrrYm8ftP9f9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/omysgecSqildPjk4LL8To0L3tgm.jpg",
-      "tmdbId": 22500,
-      "popularity": 3.9573,
-      "releaseDate": "1987-12-11",
-      "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
-    },
-    "tmdb:11171": {
-      "key": "tmdb:11171",
-      "title": "Mysterious Skin",
-      "year": 2004,
-      "director": "Gregg Araki",
-      "runtime": 105,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yiNHoIFUlFAByjXkTDdJOK9nw2Z.jpg",
-      "tmdbId": 11171,
-      "popularity": 5.5647,
-      "releaseDate": "2005-03-30",
-      "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth."
-    },
-    "t:big cheese": {
-      "key": "t:big cheese",
-      "title": "The Big Cheese",
-      "year": 2026,
-      "director": "Sara Joe Wolansky",
-      "runtime": 87,
-      "overview": "Guests will receive complimentary cheese samples courtesy of Bi-Rite Market and a coupon for 10% off cheese at Bi-Rite upon entry.\n\nFollowing the film, join Sam Mogannam of Bi-Rite and Ray Bair of Cheese Plus for a conversation about all things cheese, moderated by Sigfried “Ziggy” von Frankenberg-Leu, West Coast Sales Manager for Market to Monger",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/4-6.jpg",
-      "poster": "https://roxie.com/wp-content/uploads/2026/08/4-6.jpg"
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:1620313": {
       "key": "tmdb:1620313",
@@ -85,6 +43,20 @@
       "popularity": 3.5859,
       "releaseDate": "2026-06-19",
       "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
+    },
+    "tmdb:11171": {
+      "key": "tmdb:11171",
+      "title": "Mysterious Skin",
+      "year": 2004,
+      "director": "Gregg Araki",
+      "runtime": 105,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yiNHoIFUlFAByjXkTDdJOK9nw2Z.jpg",
+      "tmdbId": 11171,
+      "popularity": 5.5647,
+      "releaseDate": "2005-03-30",
+      "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth."
     },
     "tmdb:162064": {
       "key": "tmdb:162064",
@@ -127,6 +99,20 @@
       "popularity": 1.3894,
       "releaseDate": "2026-07-03",
       "overview": "From a lonely childhood to literary fame, her life was shaped by devotion to nature, paying attention, and the long journey toward learning to love and to be loved.  If poetry had a pop icon, Mary Oliver would be it."
+    },
+    "tmdb:22500": {
+      "key": "tmdb:22500",
+      "title": "Gandahar",
+      "year": 1987,
+      "director": "René Laloux",
+      "runtime": 83,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/cjwEa9RZ8BqoGMddrrYm8ftP9f9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/omysgecSqildPjk4LL8To0L3tgm.jpg",
+      "tmdbId": 22500,
+      "popularity": 3.9573,
+      "releaseDate": "1987-12-11",
+      "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
     },
     "tmdb:21538": {
       "key": "tmdb:21538",
@@ -501,6 +487,20 @@
       "releaseDate": "1986-05-16",
       "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot."
     },
+    "tmdb:1134909": {
+      "key": "tmdb:1134909",
+      "title": "River of Life LGBTQ+",
+      "year": 2023,
+      "director": "Grace Walcott",
+      "runtime": 80,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/zos09pDHURjKW1O8afbiorWACx7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nGvgSXAnx98ysGDXXHUT1yMScbR.jpg",
+      "tmdbId": 1134909,
+      "popularity": 0.4066,
+      "releaseDate": "2023-07-05",
+      "overview": "This documentary film follows a 10-week drama therapy workshop, with 13 multigenerational queer participants, coming together to unpack internalized queerphobia and the evolution of the LGBTQ+ community."
+    },
     "tmdb:149": {
       "key": "tmdb:149",
       "title": "Akira",
@@ -618,6 +618,20 @@
       "popularity": 2.7675,
       "releaseDate": "2026-09-18",
       "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
+    "tmdb:36685": {
+      "key": "tmdb:36685",
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "director": "Jim Sharman",
+      "runtime": 100,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
+      "tmdbId": 36685,
+      "popularity": 12.5251,
+      "releaseDate": "1975-08-14",
+      "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
     },
     "tmdb:27031": {
       "key": "tmdb:27031",
@@ -759,6 +773,10 @@
       "releaseDate": "1988-04-16",
       "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
     },
+    "t:9 to 5": {
+      "key": "t:9 to 5",
+      "title": "9 to 5"
+    },
     "tmdb:793": {
       "key": "tmdb:793",
       "title": "Blue Velvet",
@@ -772,6 +790,20 @@
       "popularity": 9.4029,
       "releaseDate": "1986-09-19",
       "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
+    },
+    "tmdb:10802": {
+      "key": "tmdb:10802",
+      "title": "Showgirls",
+      "year": 1995,
+      "director": "Paul Verhoeven",
+      "runtime": 131,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jL3G2f8uNCFejJRlIqCzRp8Y7eV.jpg",
+      "tmdbId": 10802,
+      "popularity": 9.061,
+      "releaseDate": "1995-09-22",
+      "overview": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way."
     },
     "tmdb:402": {
       "key": "tmdb:402",
@@ -1024,14 +1056,6 @@
       "releaseDate": "2023-08-05",
       "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
     },
-    "t:other cinema incredibly strange religion": {
-      "key": "t:other cinema incredibly strange religion",
-      "title": "Other Cinema: Incredibly Strange Religion",
-      "director": "Ben Folstein",
-      "overview": "FALL CHARM BRACELET takes a skeptical bow towards alt-religion, art-religion, and fantasy cults with our annual Incredibly Strange Religion revival!! In tonight’s celebration of new, creative ritual imagination and performance, an apocalyptic 99 minutes of spiritual absurdity serves to support the all-too-rare return of the truly awesome Church of Magic, a tour de force performance-art initiative by ATA soulmate Ben Folstein!! After Cinema Studies under Gene Youngblood, the prodigiously talented Folstein dares to deliver his utterly INSANE appeal to celestial communion, with costumes, comic gestures, cosmic jokes, and a jubilant revival of his past music-video hits Zog, the First Feminist, Below Decks, Rock Too Big, and so much more! Opening this religious riot is a litany of jaw-dropping proposals by the now-legendary freak-belief sources Unarius, the Mormons (in Guatemala!), Hippies High on Alpha, Christian Scientists, Scientologists, Church of Satan, etc. Sacred wine is free! $11",
-      "runtime": 99,
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/sizzle_poster-1024x596.png"
-    },
     "tmdb:1189320": {
       "key": "tmdb:1189320",
       "title": "Psychedelic Cinema",
@@ -1155,34 +1179,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "tmdb:3082": {
-      "key": "tmdb:3082",
-      "title": "Modern Times",
-      "year": 1936,
-      "director": "Charlie Chaplin",
-      "runtime": 87,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/AthaPakkuCLROdKxtRbKWclkDBK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
-      "tmdbId": 3082,
-      "popularity": 11.8657,
-      "releaseDate": "1936-02-05",
-      "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..."
-    },
-    "tmdb:103": {
-      "key": "tmdb:103",
-      "title": "Taxi Driver",
-      "year": 1976,
-      "director": "Martin Scorsese",
-      "runtime": 114,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
-      "tmdbId": 103,
-      "popularity": 22.5478,
-      "releaseDate": "1976-02-09",
-      "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city."
     },
     "tmdb:526227": {
       "key": "tmdb:526227",
@@ -1413,34 +1409,6 @@
       "title": "Films by the COUSIN Collective and Christophe Katrib",
       "overview": "Founded in 2018 by Sky Hopinka, Adam Khalil, Alexandra Lazarowich, and Adam Piron, COUSIN was created to support Indigenous artists expanding traditional definitions of, and experimenting with, moving image form and genre. This program offers a selection of works made by COUSIN collective artists, including Hopinka’s 2017 consideration of the Dakota Access Pipeline protest and Lindsay McIntyre’s film about caribou and lichen—made using those materials in the photographic process. A short film by Lebanese artist Christophe Katrib reflects on the dissonance he experiences living on the stolen land of the United States as “U.S-backed Israel commits genocide and ethnic cleansing on Palestine and my homeland of Lebanon.”",
       "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/COUS%2001_Hopinka_Dislocation-Blues_003.jpg?itok=57C8gKQA"
-    },
-    "tmdb:950028": {
-      "key": "tmdb:950028",
-      "title": "The Invite",
-      "year": 2026,
-      "director": "Olivia Wilde",
-      "runtime": 107,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
-      "tmdbId": 950028,
-      "popularity": 37.4766,
-      "releaseDate": "2026-06-25",
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?"
-    },
-    "tmdb:36685": {
-      "key": "tmdb:36685",
-      "title": "The Rocky Horror Picture Show",
-      "year": 1975,
-      "director": "Jim Sharman",
-      "runtime": 100,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
-      "tmdbId": 36685,
-      "popularity": 12.5251,
-      "releaseDate": "1975-08-14",
-      "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
     },
     "tmdb:1439808": {
       "key": "tmdb:1439808",
@@ -1809,252 +1777,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "rafael:2026-09-12:12:00:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-12",
-      "time": "12:00",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-12:12:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-12",
-      "time": "12:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-12",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "operaplaza:2026-09-12:12:30:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-12",
-      "time": "12:30",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-12:13:25:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-12",
-      "time": "13:25",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-12:14:00:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-12",
-      "time": "14:00",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-12:14:30:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-12",
-      "time": "14:30",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-12",
-      "source": "vogue"
-    },
-    {
-      "id": "operaplaza:2026-09-12:14:50:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-12",
-      "time": "14:50",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-12:15:45:tmdb:44778",
-      "venueId": "roxie",
-      "filmKey": "tmdb:44778",
-      "date": "2026-09-12",
-      "time": "15:45",
-      "url": "https://roxie.com/film/maquilapolis/",
-      "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-12:15:45:tmdb:43839",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43839",
-      "date": "2026-09-12",
-      "time": "15:45",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Tin Pan Alley",
-      "source": "stanford"
-    },
-    {
-      "id": "bampfa:2026-09-12:16:00:tmdb:3082",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:3082",
-      "date": "2026-09-12",
-      "time": "16:00",
-      "url": "https://bampfa.org/event/modern-times",
-      "format": "DCP",
-      "note": "Special Screenings",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-12:16:15:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-12",
-      "time": "16:15",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "newparkway:2026-09-12:17:15:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-12",
-      "time": "17:15",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "operaplaza:2026-09-12:17:15:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-12",
-      "time": "17:15",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-12:17:35:t:cycle of love",
-      "venueId": "roxie",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-12",
-      "time": "17:35",
-      "url": "https://roxie.com/film/the-cycle-of-love/",
-      "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-12:17:45:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-12",
-      "time": "17:45",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
-    },
-    {
-      "id": "roxie:2026-09-12:18:10:tmdb:22500",
-      "venueId": "roxie",
-      "filmKey": "tmdb:22500",
-      "date": "2026-09-12",
-      "time": "18:10",
-      "url": "https://roxie.com/film/gandahar-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-12:18:30:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-12",
-      "time": "18:30",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "newparkway:2026-09-12:18:35:tmdb:950028",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:950028",
-      "date": "2026-09-12",
-      "time": "18:35",
-      "url": "https://thenewparkway.com/movie/the-invite/",
-      "source": "newparkway"
-    },
-    {
-      "id": "bampfa:2026-09-12:19:00:tmdb:103",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:103",
-      "date": "2026-09-12",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/taxi-driver",
-      "format": "4K",
-      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "stanford:2026-09-12:19:30:tmdb:43839",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43839",
-      "date": "2026-09-12",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Tin Pan Alley",
-      "source": "stanford"
-    },
-    {
-      "id": "roxie:2026-09-12:19:40:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-12",
-      "time": "19:40",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "operaplaza:2026-09-12:19:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-12",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "ata:2026-09-12:20:00:t:other cinema incredibly strange religion",
-      "venueId": "ata",
-      "filmKey": "t:other cinema incredibly strange religion",
-      "date": "2026-09-12",
-      "time": "20:00",
-      "url": "https://www.atasite.org/event/other-cinema-incredibly-strange-religion-2026/",
-      "source": "ata"
-    },
-    {
-      "id": "roxie:2026-09-12:20:15:tmdb:11171",
-      "venueId": "roxie",
-      "filmKey": "tmdb:11171",
-      "date": "2026-09-12",
-      "time": "20:15",
-      "url": "https://roxie.com/film/mysterious-skin-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-12:21:30:tmdb:108222",
-      "venueId": "stanford",
-      "filmKey": "tmdb:108222",
-      "date": "2026-09-12",
-      "time": "21:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Alexander's Ragtime Band",
-      "source": "stanford"
-    },
-    {
-      "id": "newparkway:2026-09-12:22:00:tmdb:36685",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:36685",
-      "date": "2026-09-12",
-      "time": "22:00",
-      "url": "https://thenewparkway.com/movie/rocky-horror-picture-show/",
-      "source": "newparkway"
-    },
     {
       "id": "rafael:2026-09-13:12:00:t:cycle of love",
       "venueId": "rafael",
@@ -3750,6 +3472,16 @@
       "source": "roxie"
     },
     {
+      "id": "balboa:2026-09-26:23:00:tmdb:36685",
+      "venueId": "balboa",
+      "filmKey": "tmdb:36685",
+      "date": "2026-09-26",
+      "time": "23:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-rocky-horror-picture-show-september-26",
+      "note": "Barry Bostwick",
+      "source": "balboa"
+    },
+    {
       "id": "4star:2026-09-27:10:00:tmdb:8392",
       "venueId": "4star",
       "filmKey": "tmdb:8392",
@@ -4127,6 +3859,7 @@
       "date": "2026-10-02",
       "time": "22:30",
       "url": "https://www.landmarktheatres.com/movies/137973-the-cabin-in-the-woods/",
+      "note": "Cine Insomnia - Scary Spaces",
       "source": "piedmont"
     },
     {
@@ -4145,6 +3878,7 @@
       "date": "2026-10-03",
       "time": "13:00",
       "url": "https://www.landmarktheatres.com/movies/1729-dracula-1931/",
+      "note": "Marquee Matinees - Monster Madness",
       "source": "operaplaza"
     },
     {
@@ -4289,6 +4023,7 @@
       "date": "2026-10-09",
       "time": "22:30",
       "url": "https://www.landmarktheatres.com/movies/47101-the-descent/",
+      "note": "Cine Insomnia - Scary Spaces",
       "source": "piedmont"
     },
     {
@@ -4298,6 +4033,7 @@
       "date": "2026-10-10",
       "time": "13:00",
       "url": "https://www.landmarktheatres.com/movies/6038-frankenstein-1931/",
+      "note": "Marquee Matinees - Monster Madness",
       "source": "operaplaza"
     },
     {
@@ -4317,6 +4053,35 @@
       "time": "22:00",
       "url": "https://thenewparkway.com/movie/the-thing/",
       "source": "newparkway"
+    },
+    {
+      "id": "roxie:2026-10-11:15:00:tmdb:1134909",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1134909",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "url": "https://roxie.com/film/river-of-life-lgbtq/",
+      "source": "roxie"
+    },
+    {
+      "id": "castro:2026-10-11:15:00:t:9 to 5",
+      "venueId": "castro",
+      "filmKey": "t:9 to 5",
+      "date": "2026-10-11",
+      "time": "15:00",
+      "url": "https://thecastro.com/events/9-to-5-261011",
+      "note": "Frameline & Another Planet Entertainment present A tribute to Dolly Parton",
+      "source": "castro"
+    },
+    {
+      "id": "alamo:2026-10-11:16:00:tmdb:10802",
+      "venueId": "alamo",
+      "filmKey": "tmdb:10802",
+      "date": "2026-10-11",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-showgirls?cinemaId=0801&sessionId=82939",
+      "note": "Alamo Drafthouse Movie Book Club · Book Club Screening · Read it, thrust it",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -4324,65 +4089,17 @@
       "key": "fest:balboa:twin peaks fest",
       "name": "TWIN PEAKS FEST",
       "venueId": "balboa",
-      "startDate": "2026-09-12",
+      "startDate": "2026-09-13",
       "endDate": "2026-09-14",
       "url": "https://www.balboamovies.com/twin-peaks-fest-2026",
-      "showtimes": 14,
+      "showtimes": 6,
       "sample": [
-        "Season 1, Ep. 4 & 5 (Rest in Pain/The One-Armed Man)",
-        "Season 1, Ep. 1 (Northwest Passage)",
-        "Season 1, Ep. 6, 7, & 8 (Cooper's Dreams/The Realization/The Last Evening)",
-        "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)"
+        "Season 2, Ep. 6 & 7 (Demons/Lonely Souls)",
+        "Season 2, Ep. 8 & 9 (Drive with a Dead Girl/Arbitrary Law)",
+        "Fire Walk With Me",
+        "The Return, Ep. 1, 2, & 8 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself/Gotta Light?)"
       ],
       "programme": [
-        {
-          "date": "2026-09-12",
-          "time": "13:00",
-          "title": "Season 1, Ep. 4 & 5 (Rest in Pain/The One-Armed Man)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-4-5-september-12"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "14:45",
-          "title": "Season 1, Ep. 1 (Northwest Passage)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-1-september-12"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "15:00",
-          "title": "Season 1, Ep. 6, 7, & 8 (Cooper's Dreams/The Realization/The Last Evening)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-6-7-8-september-12"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "16:45",
-          "title": "The Return, Ep. 1 & 2 (My Log Has A Message For You/The Stars Turn and a Time Presents Itself)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-the-return-ep-1-2-september-12"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "18:00",
-          "title": "Season 2, Ep. 1 (May The Giant Be With You)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-2-ep-1-september-12"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "19:00",
-          "title": "Music of the Red Room (Performed by Marc Capelle)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-music-of-the-red-room-september-12"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "20:00",
-          "title": "The Return, Ep. 8 (Gotta Light)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-the-return-ep-8-september-12"
-        },
-        {
-          "date": "2026-09-12",
-          "time": "20:00",
-          "title": "Fire Walk With Me",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-fire-walk-with-me-september-12"
-        },
         {
           "date": "2026-09-13",
           "time": "14:00",
