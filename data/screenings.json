@@ -1,58 +1,6 @@
 {
-  "generatedAt": "2026-09-14T18:15:19.220Z",
+  "generatedAt": "2026-09-15T17:21:49.284Z",
   "films": {
-    "tmdb:162064": {
-      "key": "tmdb:162064",
-      "title": "Letty Lynton",
-      "year": 1932,
-      "director": "Clarence Brown",
-      "runtime": 84,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/1Sx9mRtdzW3M61134h72NjWHiJ4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/a7yqMDdDXNL2KjXznswNRkWeNhI.jpg",
-      "tmdbId": 162064,
-      "popularity": 1.7869,
-      "releaseDate": "1932-04-30",
-      "overview": "Socialite Letty Lynton is returning to New York, abandoning one-time lover Emile Renaul in South America, when she strikes up a shipboard romance with Jerry Darrow. Renault is waiting for her in New York and will not leave her alone, so she poisons him. When detectives take her to the D.A.'s office, Jerry cooks up an alibi."
-    },
-    "t:cycle of love": {
-      "key": "t:cycle of love",
-      "title": "The Cycle of Love",
-      "year": 2026,
-      "director": "Orlando von Einsiedel",
-      "runtime": 95,
-      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
-      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
-    },
-    "tmdb:11229": {
-      "key": "tmdb:11229",
-      "title": "Freeway",
-      "year": 1996,
-      "director": "Matthew Bright",
-      "runtime": 104,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/m0pAARUq3foDWFsrUmlYDHtNPE9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/q86f264W90GIUeg1Ovf4T1PIBA.jpg",
-      "tmdbId": 11229,
-      "popularity": 3.9089,
-      "releaseDate": "1996-08-23",
-      "overview": "Following the arrest of her mother, Ramona, young Vanessa Lutz decides to go in search of her estranged grandmother. On the way, she is given a ride by school counselor Bob Wolverton. During the journey, Lutz begins to realize that Bob is the notorious I-5 Killer and manages to escape by shooting him several times. Wounded but still very much alive, Bob pursues Lutz across the state in this modern retelling of Little Red Riding Hood."
-    },
-    "tmdb:1631822": {
-      "key": "tmdb:1631822",
-      "title": "Mary Oliver: Saved by the Beauty of the World",
-      "year": 2026,
-      "director": "Sasha Waters",
-      "runtime": 91,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dUnjTkwLNNWsvx981VcA46toTPi.jpg",
-      "tmdbId": 1631822,
-      "popularity": 1.3894,
-      "releaseDate": "2026-07-03",
-      "overview": "From a lonely childhood to literary fame, her life was shaped by devotion to nature, paying attention, and the long journey toward learning to love and to be loved.  If poetry had a pop icon, Mary Oliver would be it."
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -103,6 +51,30 @@
       "popularity": 1.2456,
       "releaseDate": "2001-01-20",
       "overview": "Samual Curtis's first mission in this bizarre science fiction musical comedy requires him to take a cat to a saloon on an asteroid. There, he meets his former dance partner (the Blueberry Pirate) and collects his payment: a device capable of producing a Real Live Girl. Including music by alternative rock group The Billy Nayer Show, this film began life as a live show with a loyal following."
+    },
+    "tmdb:162064": {
+      "key": "tmdb:162064",
+      "title": "Letty Lynton",
+      "year": 1932,
+      "director": "Clarence Brown",
+      "runtime": 84,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/1Sx9mRtdzW3M61134h72NjWHiJ4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/a7yqMDdDXNL2KjXznswNRkWeNhI.jpg",
+      "tmdbId": 162064,
+      "popularity": 1.7869,
+      "releaseDate": "1932-04-30",
+      "overview": "Socialite Letty Lynton is returning to New York, abandoning one-time lover Emile Renaul in South America, when she strikes up a shipboard romance with Jerry Darrow. Renault is waiting for her in New York and will not leave her alone, so she poisons him. When detectives take her to the D.A.'s office, Jerry cooks up an alibi."
+    },
+    "t:cycle of love": {
+      "key": "t:cycle of love",
+      "title": "The Cycle of Love",
+      "year": 2026,
+      "director": "Orlando von Einsiedel",
+      "runtime": 95,
+      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
     },
     "tmdb:1596326": {
       "key": "tmdb:1596326",
@@ -235,6 +207,20 @@
       "popularity": 2.0793,
       "releaseDate": "1982-11-18",
       "overview": "Sid Lucero, a 21-year old pre-Med student, is an aspiring neophyte of the Alpha Kappa Omega fraternity. Over a six-month initiation period, he and six other neophytes are subjected to severe physical and psychological torture in and outside the fraternity house."
+    },
+    "tmdb:1631822": {
+      "key": "tmdb:1631822",
+      "title": "Mary Oliver: Saved by the Beauty of the World",
+      "year": 2026,
+      "director": "Sasha Waters",
+      "runtime": 91,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dUnjTkwLNNWsvx981VcA46toTPi.jpg",
+      "tmdbId": 1631822,
+      "popularity": 1.3894,
+      "releaseDate": "2026-07-03",
+      "overview": "From a lonely childhood to literary fame, her life was shaped by devotion to nature, paying attention, and the long journey toward learning to love and to be loved.  If poetry had a pop icon, Mary Oliver would be it."
     },
     "t:re vision my name aint suzie": {
       "key": "t:re vision my name aint suzie",
@@ -491,49 +477,6 @@
       "releaseDate": "2023-07-05",
       "overview": "This documentary film follows a 10-week drama therapy workshop, with 13 multigenerational queer participants, coming together to unpack internalized queerphobia and the evolution of the LGBTQ+ community."
     },
-    "tmdb:149": {
-      "key": "tmdb:149",
-      "title": "Akira",
-      "year": 1988,
-      "director": "Katsuhiro Otomo",
-      "runtime": 124,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
-      "tmdbId": 149,
-      "popularity": 21.6666,
-      "releaseDate": "1988-06-10",
-      "nowPlaying": true,
-      "overview": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop."
-    },
-    "tmdb:508003": {
-      "key": "tmdb:508003",
-      "title": "McQueen",
-      "year": 2018,
-      "director": "Ian Bonhôte, Peter Ettedgui",
-      "runtime": 111,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/bc5kAqhNfLitH7zMlLvLRbxV0xD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/k0o0sFSbv8BPsQijH6QWxUlDpoG.jpg",
-      "tmdbId": 508003,
-      "popularity": 3.5411,
-      "releaseDate": "2018-06-08",
-      "overview": "Alexander McQueen's rags-to-riches story is a modern-day fairy tale, laced with the gothic. Mirroring the savage beauty, boldness and vivacity of his design, this documentary is an intimate revelation of McQueen's own world, both tortured and inspired, which celebrates a radical and mesmerizing genius of profound influence."
-    },
-    "tmdb:42098": {
-      "key": "tmdb:42098",
-      "title": "Streetwise",
-      "year": 1984,
-      "director": "Martin Bell",
-      "runtime": 91,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/fW9z3HXWYTKzlqE3CYMMxaXyyy2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bTi7ggNJeNpmyHAaehtDXp9cmdm.jpg",
-      "tmdbId": 42098,
-      "popularity": 1.7454,
-      "releaseDate": "1984-12-07",
-      "overview": "This documentary about teenagers living on the streets in Seattle began as a magazine article. The film follows nine teenagers who discuss how they live by panhandling, prostitution, and petty theft."
-    },
     "tmdb:21135": {
       "key": "tmdb:21135",
       "title": "L'Eclisse",
@@ -664,20 +607,6 @@
       "releaseDate": "2026-10-03",
       "overview": "An intimate portrait of the actress celebrated for Maude, The Golden Girls and Mame. Built around a previously unseen interview conducted by producer and director Dan Watt, the film traces Arthur’s path from The New School and New York theatre to Broadway and television. Through Arthur’s own reflections and interviews with colleagues and close friends, the documentary looks beyond the tall, hilariously brassy public persona to reveal a woman who was also sensitive, vulnerable, compassionate and deeply committed to the people and causes she valued."
     },
-    "tmdb:1285895": {
-      "key": "tmdb:1285895",
-      "title": "Late Fame",
-      "year": 2025,
-      "director": "Kent Jones",
-      "runtime": 97,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
-      "tmdbId": 1285895,
-      "popularity": 2.6412,
-      "releaseDate": "2026-08-07",
-      "overview": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
-    },
     "tmdb:76341": {
       "key": "tmdb:76341",
       "title": "Mad Max: Fury Road",
@@ -691,6 +620,20 @@
       "popularity": 30.2831,
       "releaseDate": "2015-05-13",
       "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order."
+    },
+    "tmdb:1285895": {
+      "key": "tmdb:1285895",
+      "title": "Late Fame",
+      "year": 2025,
+      "director": "Kent Jones",
+      "runtime": 97,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
+      "tmdbId": 1285895,
+      "popularity": 2.6412,
+      "releaseDate": "2026-08-07",
+      "overview": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
     },
     "tmdb:11326": {
       "key": "tmdb:11326",
@@ -892,6 +835,20 @@
       "releaseDate": "2006-06-16",
       "overview": "Ignacio, a disrespected cook at a Mexican monastery, can barely afford to feed the orphans who live there. Inspired by a local wrestling hero, he decides to moonlight as the not-so-famous Luchador \"Nacho Libre\" to earn money for the monastery -- not to mention the admiration of beautiful nun Sister Encarnación."
     },
+    "tmdb:14353": {
+      "key": "tmdb:14353",
+      "title": "Repo! The Genetic Opera",
+      "year": 2008,
+      "director": "Darren Lynn Bousman",
+      "runtime": 98,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/2G5LczM1clXu3byEudWk9w0KDYD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xLH9jvY4tNzcKvopgEGYI7YeAy7.jpg",
+      "tmdbId": 14353,
+      "popularity": 2.9162,
+      "releaseDate": "2008-11-07",
+      "overview": "By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo."
+    },
     "tmdb:10054": {
       "key": "tmdb:10054",
       "title": "Spy Kids",
@@ -962,6 +919,20 @@
       "releaseDate": "1997-08-15",
       "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
     },
+    "tmdb:9871": {
+      "key": "tmdb:9871",
+      "title": "Ginger Snaps",
+      "year": 2000,
+      "director": "John Fawcett",
+      "runtime": 108,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/ozohDiJd7Oi65NEf8B0ya7lR9Fr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
+      "tmdbId": 9871,
+      "popularity": 4.3392,
+      "releaseDate": "2000-12-11",
+      "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself."
+    },
     "tmdb:274": {
       "key": "tmdb:274",
       "title": "The Silence of the Lambs",
@@ -975,20 +946,6 @@
       "popularity": 6.6854,
       "releaseDate": "1991-02-14",
       "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out."
-    },
-    "tmdb:10537": {
-      "key": "tmdb:10537",
-      "title": "The Doors",
-      "year": 1991,
-      "director": "Oliver Stone",
-      "runtime": 140,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/p4XrrXZqxeqXKH7zBeP6wRkDbhc.jpg",
-      "tmdbId": 10537,
-      "popularity": 5.4864,
-      "releaseDate": "1991-03-01",
-      "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison."
     },
     "tmdb:30497": {
       "key": "tmdb:30497",
@@ -1539,20 +1496,6 @@
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
-    "tmdb:992": {
-      "key": "tmdb:992",
-      "title": "Sherlock Jr.",
-      "year": 1924,
-      "director": "Buster Keaton",
-      "runtime": 45,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tSipsYTp565LkopntX1lZNLPYHP.jpg",
-      "tmdbId": 992,
-      "popularity": 5.2507,
-      "releaseDate": "1924-04-17",
-      "overview": "A film projectionist longs to be a detective, and puts his meager skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch."
-    },
     "tmdb:9392": {
       "key": "tmdb:9392",
       "title": "The Descent",
@@ -1693,121 +1636,23 @@
       "popularity": 1.3245,
       "releaseDate": "1941-08-29",
       "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
+    },
+    "tmdb:992": {
+      "key": "tmdb:992",
+      "title": "Sherlock Jr.",
+      "year": 1924,
+      "director": "Buster Keaton",
+      "runtime": 45,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tSipsYTp565LkopntX1lZNLPYHP.jpg",
+      "tmdbId": 992,
+      "popularity": 5.2507,
+      "releaseDate": "1924-04-17",
+      "overview": "A film projectionist longs to be a detective, and puts his meager skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch."
     }
   },
   "screenings": [
-    {
-      "id": "rafael:2026-09-14:16:15:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-14",
-      "time": "16:15",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-14:16:30:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-14",
-      "time": "16:30",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-14",
-      "source": "vogue"
-    },
-    {
-      "id": "balboa:2026-09-14:17:00:tmdb:149",
-      "venueId": "balboa",
-      "filmKey": "tmdb:149",
-      "date": "2026-09-14",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/akira-september-14",
-      "format": "4K",
-      "note": "Presented with English subtitles in a new 4K restoration",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-09-14:18:00:tmdb:162064",
-      "venueId": "roxie",
-      "filmKey": "tmdb:162064",
-      "date": "2026-09-14",
-      "time": "18:00",
-      "url": "https://roxie.com/film/letty-lynton/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-14:18:00:t:cycle of love",
-      "venueId": "roxie",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-14",
-      "time": "18:00",
-      "url": "https://roxie.com/film/the-cycle-of-love/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-14:18:30:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-14",
-      "time": "18:30",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-14:19:00:tmdb:10537",
-      "venueId": "alamo",
-      "filmKey": "tmdb:10537",
-      "date": "2026-09-14",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/the-doors?cinemaId=0801&sessionId=82415",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-09-14:19:30:tmdb:508003",
-      "venueId": "balboa",
-      "filmKey": "tmdb:508003",
-      "date": "2026-09-14",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/mcqueen-september-14",
-      "note": "Presented by Gallery 3630",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-09-14:20:00:tmdb:42098",
-      "venueId": "balboa",
-      "filmKey": "tmdb:42098",
-      "date": "2026-09-14",
-      "time": "20:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/streetwise-september-14",
-      "note": "Streetwise",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-09-14:20:10:tmdb:11229",
-      "venueId": "roxie",
-      "filmKey": "tmdb:11229",
-      "date": "2026-09-14",
-      "time": "20:10",
-      "url": "https://roxie.com/film/arthouse-50-freeway/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-14:20:10:tmdb:1631822",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1631822",
-      "date": "2026-09-14",
-      "time": "20:10",
-      "url": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-14:20:45:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-14",
-      "time": "20:45",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
     {
       "id": "operaplaza:2026-09-15:15:05:tmdb:1285895",
       "venueId": "operaplaza",
@@ -2082,15 +1927,6 @@
       "source": "vogue"
     },
     {
-      "id": "operaplaza:2026-09-17:17:20:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-17",
-      "time": "17:20",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
       "id": "roxie:2026-09-17:18:20:t:cycle of love",
       "venueId": "roxie",
       "filmKey": "t:cycle of love",
@@ -2136,6 +1972,79 @@
       "time": "19:45",
       "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
       "source": "operaplaza"
+    },
+    {
+      "id": "alamo:2026-09-18:13:00:tmdb:1599181",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-09-18",
+      "time": "13:00",
+      "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=83182",
+      "source": "alamo"
+    },
+    {
+      "id": "operaplaza:2026-09-18:13:00:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-18",
+      "time": "13:00",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "alamo:2026-09-18:13:20:tmdb:402",
+      "venueId": "alamo",
+      "filmKey": "tmdb:402",
+      "date": "2026-09-18",
+      "time": "13:20",
+      "url": "https://drafthouse.com/sf/show/basic-instinct?cinemaId=0801&sessionId=83173",
+      "source": "alamo"
+    },
+    {
+      "id": "operaplaza:2026-09-18:15:10:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-18",
+      "time": "15:10",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "alamo:2026-09-18:15:45:tmdb:9323",
+      "venueId": "alamo",
+      "filmKey": "tmdb:9323",
+      "date": "2026-09-18",
+      "time": "15:45",
+      "url": "https://drafthouse.com/sf/show/ghost-in-the-shell-dubbed?cinemaId=0801&sessionId=83170",
+      "note": "Dubbed",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-18:16:30:tmdb:1179147",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1179147",
+      "date": "2026-09-18",
+      "time": "16:30",
+      "url": "https://drafthouse.com/sf/show/welcome-space-brothers?cinemaId=0801&sessionId=83169",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-18:16:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-18",
+      "time": "16:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-18:17:00:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-18",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
     },
     {
       "id": "vogue:2026-09-18:17:00:tmdb:1285895",
@@ -2185,6 +2094,15 @@
       "source": "newparkway"
     },
     {
+      "id": "rafael:2026-09-18:18:45:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-18",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
+    },
+    {
       "id": "roxie:2026-09-18:19:00:tmdb:9802",
       "venueId": "roxie",
       "filmKey": "tmdb:9802",
@@ -2203,6 +2121,15 @@
       "format": "DCP",
       "note": "Alice Diop in Person",
       "source": "bampfa"
+    },
+    {
+      "id": "rafael:2026-09-18:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-18",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
     },
     {
       "id": "balboa:2026-09-18:19:30:tmdb:11178",
@@ -2256,6 +2183,15 @@
       "source": "stanford"
     },
     {
+      "id": "alamo:2026-09-18:22:10:tmdb:1599181",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-09-18",
+      "time": "22:10",
+      "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=83171",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-09-18:22:30:tmdb:252",
       "venueId": "piedmont",
       "filmKey": "tmdb:252",
@@ -2294,6 +2230,24 @@
       "source": "newparkway"
     },
     {
+      "id": "rafael:2026-09-19:12:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-19",
+      "time": "12:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "operaplaza:2026-09-19:13:00:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-19",
+      "time": "13:00",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
       "id": "roxie:2026-09-19:13:15:t:larry reed a life in light and shadow",
       "venueId": "roxie",
       "filmKey": "t:larry reed a life in light and shadow",
@@ -2303,6 +2257,15 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-19:13:45:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-19",
+      "time": "13:45",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
       "id": "vogue:2026-09-19:14:30:tmdb:1285895",
       "venueId": "vogue",
       "filmKey": "tmdb:1285895",
@@ -2310,6 +2273,15 @@
       "time": "14:30",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-19",
       "source": "vogue"
+    },
+    {
+      "id": "rafael:2026-09-19:14:45:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-19",
+      "time": "14:45",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
     },
     {
       "id": "alamo:2026-09-19:14:45:tmdb:1179147",
@@ -2338,6 +2310,15 @@
       "time": "15:10",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
+    },
+    {
+      "id": "operaplaza:2026-09-19:15:10:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-19",
+      "time": "15:10",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
     },
     {
       "id": "roxie:2026-09-19:16:00:tmdb:829",
@@ -2381,6 +2362,24 @@
       "source": "bampfa"
     },
     {
+      "id": "rafael:2026-09-19:16:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-19",
+      "time": "16:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-19:17:00:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-19",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
       "id": "roxie:2026-09-19:17:20:tmdb:1596326",
       "venueId": "roxie",
       "filmKey": "tmdb:1596326",
@@ -2388,6 +2387,15 @@
       "time": "17:20",
       "url": "https://roxie.com/film/barbara-forever/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-09-19:17:45:tmdb:402",
+      "venueId": "alamo",
+      "filmKey": "tmdb:402",
+      "date": "2026-09-19",
+      "time": "17:45",
+      "url": "https://drafthouse.com/sf/show/basic-instinct?cinemaId=0801&sessionId=83172",
+      "source": "alamo"
     },
     {
       "id": "stanford:2026-09-19:17:50:tmdb:43810",
@@ -2409,6 +2417,15 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-19:18:45:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-19",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
+    },
+    {
       "id": "bampfa:2026-09-19:19:00:tmdb:47060",
       "venueId": "bampfa",
       "filmKey": "tmdb:47060",
@@ -2418,6 +2435,15 @@
       "format": "35mm",
       "note": "Special Screenings · New 35mm Print",
       "source": "bampfa"
+    },
+    {
+      "id": "rafael:2026-09-19:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-19",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
     },
     {
       "id": "stanford:2026-09-19:19:30:tmdb:43794",
@@ -2437,6 +2463,15 @@
       "time": "19:40",
       "url": "https://roxie.com/film/the-samurai-and-the-prisoner/",
       "source": "roxie"
+    },
+    {
+      "id": "operaplaza:2026-09-19:19:45:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-19",
+      "time": "19:45",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
     },
     {
       "id": "ata:2026-09-19:20:00:tmdb:1189320",
@@ -2487,6 +2522,24 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-20:12:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-20",
+      "time": "12:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "operaplaza:2026-09-20:13:00:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-20",
+      "time": "13:00",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
       "id": "newparkway:2026-09-20:13:00:tmdb:1788",
       "venueId": "newparkway",
       "filmKey": "tmdb:1788",
@@ -2497,6 +2550,15 @@
       "source": "newparkway"
     },
     {
+      "id": "rafael:2026-09-20:13:45:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-20",
+      "time": "13:45",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
       "id": "vogue:2026-09-20:14:30:tmdb:1285895",
       "venueId": "vogue",
       "filmKey": "tmdb:1285895",
@@ -2504,6 +2566,15 @@
       "time": "14:30",
       "url": "https://voguemovies.com/calendar-of-events/late-fame-september-20",
       "source": "vogue"
+    },
+    {
+      "id": "rafael:2026-09-20:14:45:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-20",
+      "time": "14:45",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
     },
     {
       "id": "roxie:2026-09-20:15:00:tmdb:1596326",
@@ -2522,6 +2593,15 @@
       "time": "15:10",
       "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
       "source": "roxie"
+    },
+    {
+      "id": "operaplaza:2026-09-20:15:10:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-20",
+      "time": "15:10",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
     },
     {
       "id": "stanford:2026-09-20:16:05:tmdb:43794",
@@ -2564,6 +2644,24 @@
       "format": "4K",
       "note": "Special Screenings · 4K Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "rafael:2026-09-20:16:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-20",
+      "time": "16:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-20:17:00:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-20",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
     },
     {
       "id": "rafael:2026-09-20:17:00:tmdb:1596302",
@@ -2616,6 +2714,15 @@
       "source": "bampfa"
     },
     {
+      "id": "rafael:2026-09-20:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-20",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
       "id": "4star:2026-09-20:19:30:tmdb:91694",
       "venueId": "4star",
       "filmKey": "tmdb:91694",
@@ -2634,6 +2741,15 @@
       "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
       "note": "Double feature with Down Argentine Way",
       "source": "stanford"
+    },
+    {
+      "id": "operaplaza:2026-09-20:19:45:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-20",
+      "time": "19:45",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
     },
     {
       "id": "newparkway:2026-09-20:21:00:tmdb:1574",
@@ -2655,6 +2771,24 @@
       "source": "stanford"
     },
     {
+      "id": "alamo:2026-09-21:13:40:tmdb:1599181",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-09-21",
+      "time": "13:40",
+      "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=83178",
+      "source": "alamo"
+    },
+    {
+      "id": "operaplaza:2026-09-21:15:10:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-21",
+      "time": "15:10",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
       "id": "alamo:2026-09-21:15:30:tmdb:1179147",
       "venueId": "alamo",
       "filmKey": "tmdb:1179147",
@@ -2672,6 +2806,24 @@
       "url": "https://drafthouse.com/sf/show/ghost-in-the-shell-dubbed?cinemaId=0801&sessionId=82924",
       "note": "Dubbed",
       "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-21:16:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-21",
+      "time": "16:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-21:17:00:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-21",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
     },
     {
       "id": "roxie:2026-09-21:18:00:tmdb:1596326",
@@ -2692,6 +2844,33 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-21:18:45:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-21",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-21:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-21",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
+      "id": "operaplaza:2026-09-21:19:45:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-21",
+      "time": "19:45",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
       "id": "roxie:2026-09-21:20:10:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -2699,6 +2878,43 @@
       "time": "20:10",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
+    },
+    {
+      "id": "operaplaza:2026-09-22:15:10:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-22",
+      "time": "15:10",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "alamo:2026-09-22:16:00:tmdb:9323",
+      "venueId": "alamo",
+      "filmKey": "tmdb:9323",
+      "date": "2026-09-22",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/ghost-in-the-shell-subtitled?cinemaId=0801&sessionId=82923",
+      "note": "Baby Day",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-22:16:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-22",
+      "time": "16:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-22:17:00:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-22",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
     },
     {
       "id": "roxie:2026-09-22:18:00:tmdb:1596326",
@@ -2719,6 +2935,15 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-22:18:45:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-22",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
+    },
+    {
       "id": "alamo:2026-09-22:19:00:tmdb:1599181",
       "venueId": "alamo",
       "filmKey": "tmdb:1599181",
@@ -2726,6 +2951,24 @@
       "time": "19:00",
       "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=82536",
       "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-22:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-22",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
+      "id": "operaplaza:2026-09-22:19:45:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-22",
+      "time": "19:45",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
     },
     {
       "id": "roxie:2026-09-22:20:35:t:filipinana",
@@ -2757,6 +3000,24 @@
       "source": "operaplaza"
     },
     {
+      "id": "rafael:2026-09-23:16:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-23",
+      "time": "16:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-23:17:00:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-23",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
       "id": "vogue:2026-09-23:17:00:tmdb:1285895",
       "venueId": "vogue",
       "filmKey": "tmdb:1285895",
@@ -2766,13 +3027,13 @@
       "source": "vogue"
     },
     {
-      "id": "roxie:2026-09-23:18:00:tmdb:1631822",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1631822",
+      "id": "operaplaza:2026-09-23:17:50:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
       "date": "2026-09-23",
-      "time": "18:00",
-      "url": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/",
-      "source": "roxie"
+      "time": "17:50",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
     },
     {
       "id": "roxie:2026-09-23:18:00:tmdb:9323",
@@ -2784,6 +3045,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-09-23:18:00:tmdb:1631822",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1631822",
+      "date": "2026-09-23",
+      "time": "18:00",
+      "url": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-09-23:18:00:tmdb:402",
       "venueId": "alamo",
       "filmKey": "tmdb:402",
@@ -2791,6 +3061,15 @@
       "time": "18:00",
       "url": "https://drafthouse.com/sf/show/basic-instinct?cinemaId=0801&sessionId=82499",
       "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-23:18:45:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-23",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
     },
     {
       "id": "balboa:2026-09-23:19:00:tmdb:884551",
@@ -2834,6 +3113,15 @@
       "source": "piedmont"
     },
     {
+      "id": "rafael:2026-09-23:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-23",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
       "id": "vogue:2026-09-23:19:30:tmdb:41050",
       "venueId": "vogue",
       "filmKey": "tmdb:41050",
@@ -2874,6 +3162,42 @@
       "source": "alamo"
     },
     {
+      "id": "operaplaza:2026-09-24:13:45:tmdb:1285895",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-24",
+      "time": "13:45",
+      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "rafael:2026-09-24:16:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-24",
+      "time": "16:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-24:17:00:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-24",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-24:18:45:tmdb:1285895",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1285895",
+      "date": "2026-09-24",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/late-fame",
+      "source": "rafael"
+    },
+    {
       "id": "roxie:2026-09-24:19:00:t:re vision my name aint suzie",
       "venueId": "roxie",
       "filmKey": "t:re vision my name aint suzie",
@@ -2892,6 +3216,15 @@
       "format": "DCP",
       "note": "Georgian Cinema Now: Part 1 · In Conversation: Elene Naveriani, Salomé Asatiani, Salomé Jashi",
       "source": "bampfa"
+    },
+    {
+      "id": "rafael:2026-09-24:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-24",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipinana",
+      "source": "rafael"
     },
     {
       "id": "roxie:2026-09-24:20:05:tmdb:22500",
@@ -3242,15 +3575,6 @@
       "source": "bampfa"
     },
     {
-      "id": "roxie:2026-09-27:17:15:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-27",
-      "time": "17:15",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-09-27:18:10:t:re vision 8 girls in a boat",
       "venueId": "roxie",
       "filmKey": "t:re vision 8 girls in a boat",
@@ -3326,15 +3650,6 @@
       "source": "roxie"
     },
     {
-      "id": "grandlake:2026-09-29:19:00:tmdb:992",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:992",
-      "date": "2026-09-29",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260929",
-      "source": "grandlake"
-    },
-    {
       "id": "rafael:2026-09-29:19:00:tmdb:1131123",
       "venueId": "rafael",
       "filmKey": "tmdb:1131123",
@@ -3343,6 +3658,15 @@
       "url": "https://cinema.cafilm.org/film/the-filmmaker",
       "note": "Screening and Conversation",
       "source": "rafael"
+    },
+    {
+      "id": "grandlake:2026-09-29:19:00:tmdb:992",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:992",
+      "date": "2026-09-29",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260929",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-09-29:19:45:tmdb:1596296",
@@ -3543,6 +3867,15 @@
       "url": "https://www.landmarktheatres.com/movies/1729-dracula-1931/",
       "note": "Marquee Matinees - Monster Madness",
       "source": "operaplaza"
+    },
+    {
+      "id": "roxie:2026-10-03:15:10:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-10-03",
+      "time": "15:10",
+      "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
     },
     {
       "id": "ata:2026-10-03:20:00:t:other cinema incredibly strange music",
@@ -3764,29 +4097,29 @@
       "url": "https://www.balboamovies.com/calendar-of-events/bea-arthur-the-documentary-october-12",
       "note": "Co-presented by Frameline",
       "source": "balboa"
+    },
+    {
+      "id": "alamo:2026-10-13:19:00:tmdb:14353",
+      "venueId": "alamo",
+      "filmKey": "tmdb:14353",
+      "date": "2026-10-13",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/movie-party-repo-the-genetic-opera?cinemaId=0801&sessionId=82946",
+      "note": "Movie Parties · Catchy songs, flesh masks, and squishy human organs",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-13:21:15:tmdb:9871",
+      "venueId": "alamo",
+      "filmKey": "tmdb:9871",
+      "date": "2026-10-13",
+      "time": "21:15",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-ginger-snaps?cinemaId=0801&sessionId=82947",
+      "note": "Terror Tuesday · The ultimate feminist werewolf parable",
+      "source": "alamo"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:balboa:twin peaks fest",
-      "name": "TWIN PEAKS FEST",
-      "venueId": "balboa",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-14",
-      "url": "https://www.balboamovies.com/twin-peaks-fest-2026",
-      "showtimes": 1,
-      "sample": [
-        "Season 1, Ep. 1 (Northwest Passage)"
-      ],
-      "programme": [
-        {
-          "date": "2026-09-14",
-          "time": "17:00",
-          "title": "Season 1, Ep. 1 (Northwest Passage)",
-          "url": "https://www.balboamovies.com/calendar-of-events/twin-peaks-fest-season-1-ep-1-september-14"
-        }
-      ]
-    },
     {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
@@ -3794,7 +4127,7 @@
       "startDate": "2026-09-17",
       "endDate": "2026-09-29",
       "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82723",
-      "showtimes": 15,
+      "showtimes": 23,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Resident Evil"
@@ -3885,6 +4218,54 @@
           "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82735"
         },
         {
+          "date": "2026-09-21",
+          "time": "15:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82736"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "18:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82737"
+        },
+        {
+          "date": "2026-09-21",
+          "time": "21:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82738"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "18:40",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83180"
+        },
+        {
+          "date": "2026-09-22",
+          "time": "21:20",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83152"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "15:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83159"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "18:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83163"
+        },
+        {
+          "date": "2026-09-23",
+          "time": "22:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83162"
+        },
+        {
           "date": "2026-09-29",
           "time": "19:00",
           "title": "Deathgasm 2: Goremageddon",
@@ -3907,6 +4288,26 @@
           "time": "21:30",
           "title": "Blood & Popcorn Film Festival",
           "url": "https://thenewparkway.com/movie/blood-popcorn-film-festival/"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents baby day",
+      "name": "Fantastic Fest Presents · Baby Day",
+      "venueId": "alamo",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-22",
+      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83150",
+      "showtimes": 1,
+      "sample": [
+        "Resident Evil"
+      ],
+      "programme": [
+        {
+          "date": "2026-09-22",
+          "time": "15:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83150"
         }
       ]
     },
@@ -4089,6 +4490,26 @@
           "time": "18:30",
           "title": "The Dreamed Adventure",
           "url": "https://bampfa.org/event/dreamed-adventure"
+        }
+      ]
+    },
+    {
+      "key": "fest:roxie:3rd i 2026",
+      "name": "3rd i 2026",
+      "venueId": "roxie",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "url": "https://roxie.com/film/3rd-i-2026-technocats/",
+      "showtimes": 1,
+      "sample": [
+        "TechnoCats"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-11",
+          "time": "15:00",
+          "title": "TechnoCats",
+          "url": "https://roxie.com/film/3rd-i-2026-technocats/"
         }
       ]
     },
