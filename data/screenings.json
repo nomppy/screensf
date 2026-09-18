@@ -1,30 +1,6 @@
 {
-  "generatedAt": "2026-09-17T17:28:44.116Z",
+  "generatedAt": "2026-09-18T16:48:24.683Z",
   "films": {
-    "tmdb:162064": {
-      "key": "tmdb:162064",
-      "title": "Letty Lynton",
-      "year": 1932,
-      "director": "Clarence Brown",
-      "runtime": 84,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/1Sx9mRtdzW3M61134h72NjWHiJ4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/a7yqMDdDXNL2KjXznswNRkWeNhI.jpg",
-      "tmdbId": 162064,
-      "popularity": 1.7869,
-      "releaseDate": "1932-04-30",
-      "overview": "Socialite Letty Lynton is returning to New York, abandoning one-time lover Emile Renaul in South America, when she strikes up a shipboard romance with Jerry Darrow. Renault is waiting for her in New York and will not leave her alone, so she poisons him. When detectives take her to the D.A.'s office, Jerry cooks up an alibi."
-    },
-    "t:cycle of love": {
-      "key": "t:cycle of love",
-      "title": "The Cycle of Love",
-      "year": 2026,
-      "director": "Orlando von Einsiedel",
-      "runtime": 95,
-      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
-      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
-    },
     "tmdb:1596326": {
       "key": "tmdb:1596326",
       "title": "Barbara Forever",
@@ -137,6 +113,16 @@
       "popularity": 1.3817,
       "releaseDate": "2026-09-10",
       "overview": "A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive."
+    },
+    "t:cycle of love": {
+      "key": "t:cycle of love",
+      "title": "The Cycle of Love",
+      "year": 2026,
+      "director": "Orlando von Einsiedel",
+      "runtime": 95,
+      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
     },
     "tmdb:56126": {
       "key": "tmdb:56126",
@@ -454,6 +440,20 @@
       "releaseDate": "2023-11-12",
       "overview": "One of the world’s youngest elite rock climbers, Ashima Shiraishi spent her formative years breaking numerous age-based climbing milestones, spurred on by her number one fan and coach, her father, Poppo a retired Butoh dancer and avant-garde performer with no formal climbing experience. When these New Yorkers travel to South Africa to conquer a V14 boulder problem, father and daughter must face their interpersonal struggles in tandem with the challenging ascent."
     },
+    "tmdb:63025": {
+      "key": "tmdb:63025",
+      "title": "A Lizard in a Woman's Skin",
+      "year": 1971,
+      "director": "Lucio Fulci",
+      "runtime": 104,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/nS0M12LDDnYJAzJMmI4ULSJlsvw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/FoxWPSJjxlUyylZgN35qkWvpTz.jpg",
+      "tmdbId": 63025,
+      "popularity": 1.8211,
+      "releaseDate": "1971-02-18",
+      "overview": "Carol Hammond, daughter of a politician, has vivid nightmares involving sex orgies and LSD. In a dream, she murders a neighbor she envies and wakes up to a real investigation into her neighbor's murder."
+    },
     "t:zoe presents memorex rexsexex y mas": {
       "key": "t:zoe presents memorex rexsexex y mas",
       "title": "Zoé Presents: Memorex + Rexsexex y Más",
@@ -491,6 +491,130 @@
       "releaseDate": "2023-07-05",
       "overview": "This documentary film follows a 10-week drama therapy workshop, with 13 multigenerational queer participants, coming together to unpack internalized queerphobia and the evolution of the LGBTQ+ community."
     },
+    "tmdb:50173": {
+      "key": "tmdb:50173",
+      "title": "Jigoku",
+      "year": 1960,
+      "director": "Nobuo Nakagawa",
+      "runtime": 99,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/ehiMOuKE7i9WHgvs7dSIZelsHwA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4ZVAAGCGDYncbZhjEgnfU1v2iQD.jpg",
+      "tmdbId": 50173,
+      "popularity": 2.081,
+      "releaseDate": "1960-07-30",
+      "overview": "A group of sinners involved in interconnected tales of murder, revenge, deceit and adultery all meet at the Gates of Hell."
+    },
+    "tmdb:2649": {
+      "key": "tmdb:2649",
+      "title": "The Game",
+      "year": 1997,
+      "director": "David Fincher",
+      "runtime": 129,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
+      "tmdbId": 2649,
+      "popularity": 11.9202,
+      "releaseDate": "1997-09-12",
+      "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins."
+    },
+    "tmdb:11178": {
+      "key": "tmdb:11178",
+      "title": "My Sassy Girl",
+      "year": 2001,
+      "director": "Kwak Jae-yong",
+      "runtime": 137,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/i964xFDEMwZ5uaweParv8ItBfbJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/13uKAt4M87HQi1lMZAwBmsNZRGg.jpg",
+      "tmdbId": 11178,
+      "popularity": 5.6985,
+      "releaseDate": "2001-07-27",
+      "overview": "A young man’s world is turned upside down when a female force of nature takes his life by storm in this outrageous and uplifting ode to true love."
+    },
+    "tmdb:884551": {
+      "key": "tmdb:884551",
+      "title": "Ghost Dog",
+      "year": 2021,
+      "director": "Adam Green",
+      "runtime": 7,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/k6JUJwLN1Ey6mvlzBbDmQdsVVYM.jpg",
+      "tmdbId": 884551,
+      "popularity": 0.7103,
+      "releaseDate": "2021-10-12",
+      "overview": "Ever wonder what your dog would say to you if he/she could speak? When a broken hearted man's Halloween wish comes true he winds up paying a price he never saw coming."
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
+    "tmdb:36685": {
+      "key": "tmdb:36685",
+      "title": "The Rocky Horror Picture Show",
+      "year": 1975,
+      "director": "Jim Sharman",
+      "runtime": 100,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
+      "tmdbId": 36685,
+      "popularity": 12.5251,
+      "releaseDate": "1975-08-14",
+      "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
+    },
+    "tmdb:27031": {
+      "key": "tmdb:27031",
+      "title": "Samurai Rebellion",
+      "year": 1967,
+      "director": "Masaki Kobayashi",
+      "runtime": 121,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
+      "tmdbId": 27031,
+      "popularity": 2.8506,
+      "releaseDate": "1967-05-27",
+      "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
+    },
+    "tmdb:142773": {
+      "key": "tmdb:142773",
+      "title": "Queen: Budapest",
+      "year": 1986,
+      "director": "János Zsombolyai",
+      "runtime": 91,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
+      "tmdbId": 142773,
+      "popularity": 11.0904,
+      "releaseDate": "2012-09-20",
+      "overview": "On July 27, 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury."
+    },
+    "tmdb:1765982": {
+      "key": "tmdb:1765982",
+      "title": "Bea Arthur: The Documentary",
+      "year": 2026,
+      "director": "Dan Watt",
+      "runtime": 113,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/wGy6aLmzVcNFRz4pwg5w6x5rue4.jpg",
+      "tmdbId": 1765982,
+      "popularity": 0.4712,
+      "releaseDate": "2026-10-03",
+      "overview": "An intimate portrait of the actress celebrated for Maude, The Golden Girls and Mame. Built around a previously unseen interview conducted by producer and director Dan Watt, the film traces Arthur’s path from The New School and New York theatre to Broadway and television. Through Arthur’s own reflections and interviews with colleagues and close friends, the documentary looks beyond the tall, hilariously brassy public persona to reveal a woman who was also sensitive, vulnerable, compassionate and deeply committed to the people and causes she valued."
+    },
     "tmdb:1285895": {
       "key": "tmdb:1285895",
       "title": "Late Fame",
@@ -504,20 +628,6 @@
       "popularity": 2.6412,
       "releaseDate": "2026-08-07",
       "overview": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
-    },
-    "tmdb:11326": {
-      "key": "tmdb:11326",
-      "title": "Tommy",
-      "year": 1975,
-      "director": "Ken Russell",
-      "runtime": 111,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/pAImVnqBJwoFAKrcpAe17JjLGUs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5XSitXno6yxYkNppwP5gOhC7SfA.jpg",
-      "tmdbId": 11326,
-      "popularity": 3.7498,
-      "releaseDate": "1975-03-19",
-      "overview": "After a series of traumatic childhood events, a psychosomatically deaf, dumb and blind boy becomes a master pinball player and the object of a religious cult."
     },
     "tmdb:41050": {
       "key": "tmdb:41050",
@@ -694,6 +804,19 @@
       "releaseDate": "1968-08-01",
       "overview": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
     },
+    "tmdb:1410939": {
+      "key": "tmdb:1410939",
+      "title": "Dire Duplicity",
+      "year": 2026,
+      "director": "Neil Breen",
+      "runtime": 93,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/jN5J4x2KzA9v8qtt2TnTTqCh5BY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4mlkSfmJgB8Br1H3YQlWGedlv6O.jpg",
+      "tmdbId": 1410939,
+      "popularity": 2.4597,
+      "overview": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
+    },
     "tmdb:4816": {
       "key": "tmdb:4816",
       "title": "Ghost Dog: The Way of the Samurai",
@@ -707,6 +830,20 @@
       "popularity": 5.4533,
       "releaseDate": "1999-10-06",
       "overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob."
+    },
+    "tmdb:9064": {
+      "key": "tmdb:9064",
+      "title": "Hellbound: Hellraiser II",
+      "year": 1988,
+      "director": "Tony Randel",
+      "runtime": 97,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/auPOq1wgZuYSaADejOskBKG6fuV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pl5OzUABUK5AgAsMlQg2VyybRHL.jpg",
+      "tmdbId": 9064,
+      "popularity": 6.5927,
+      "releaseDate": "1988-12-23",
+      "overview": "Now confined to a mental hospital, young Kirsty insists her supposedly dead father is actually stuck in Hell following his wife’s betrayal. Few believe the young woman’s lurid stories aside from the thrill-seeking Dr. Channard. Kirsty is undeterred and, with the help of a fellow patient, heads to Hell for a rescue."
     },
     "tmdb:9003": {
       "key": "tmdb:9003",
@@ -848,6 +985,20 @@
       "releaseDate": "1974-10-11",
       "overview": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw."
     },
+    "tmdb:1482938": {
+      "key": "tmdb:1482938",
+      "title": "Union County",
+      "year": 2026,
+      "director": "Adam Meeks",
+      "runtime": 97,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/73Dt773ChYDF5ZgTPDyH6E7qZhs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/96S1Sm5tsHsFJXpTKkH0czQoEVJ.jpg",
+      "tmdbId": 1482938,
+      "popularity": 2.9602,
+      "releaseDate": "2026-08-14",
+      "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio."
+    },
     "tmdb:298235": {
       "key": "tmdb:298235",
       "title": "Capone Cries a Lot",
@@ -940,6 +1091,20 @@
       "title": "Other Cinema: Incredibly Strange Music",
       "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14",
       "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/othercinema-20261003-e1788904356676.webp"
+    },
+    "tmdb:11976": {
+      "key": "tmdb:11976",
+      "title": "Legend",
+      "year": 1985,
+      "director": "Ridley Scott",
+      "runtime": 94,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/6n3PQSYpZRK5YPk2w8JEwED7AZk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3g8rLMw0SbA0h2GHiOCBoqFTXVq.jpg",
+      "tmdbId": 11976,
+      "popularity": 11.1703,
+      "releaseDate": "1985-08-28",
+      "overview": "Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess  Lili and defeat the demonic Lord of Darkness, or the world will be plunged into a never-ending ice age."
     },
     "tmdb:138": {
       "key": "tmdb:138",
@@ -1254,6 +1419,20 @@
       "releaseDate": "2014-02-10",
       "overview": "Stefanie Schulte Strathaus has spent a considerable amount of time living in Cairo and working closely with the staff at Cimatheque – Alternative Film Centre. She presents two recently completed restorations by the Egyptian archive. Sad Song of Touha by Atteyat Al Abnoudy is a dreamlike portrait of Cairo’s street performers, whose stories are told by the voice of poet Abdel Rahman El-Abnoudy. Hussein Shariffe’s The Dislocation of Amber was filmed in the city of Suakin, formerly a flourishing port in Sudan, now reduced to ruins. Also shown will be a selection of home movies shot in Egypt from the Rafla Collection, amassed by Magdy Rafla, a jeweler who was also a passionate film collector."
     },
+    "tmdb:1578": {
+      "key": "tmdb:1578",
+      "title": "Raging Bull",
+      "year": 1980,
+      "director": "Martin Scorsese",
+      "runtime": 129,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+      "tmdbId": 1578,
+      "popularity": 9.0655,
+      "releaseDate": "1980-11-14",
+      "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
+    },
     "tmdb:858": {
       "key": "tmdb:858",
       "title": "Sleepless in Seattle",
@@ -1338,6 +1517,20 @@
       "releaseDate": "2000-05-12",
       "overview": "A group of 12 teenagers from various backgrounds enroll at the American Ballet Academy in New York to make it as ballet dancers and each one deals with the problems and stress of training and getting ahead in the world of dance."
     },
+    "tmdb:762": {
+      "key": "tmdb:762",
+      "title": "Monty Python and the Holy Grail",
+      "year": 1975,
+      "director": "Terry Jones, Terry Gilliam",
+      "runtime": 91,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
+      "tmdbId": 762,
+      "popularity": 13.2457,
+      "releaseDate": "1975-04-03",
+      "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\"."
+    },
     "tmdb:814776": {
       "key": "tmdb:814776",
       "title": "Bottoms",
@@ -1394,6 +1587,20 @@
       "releaseDate": "2007-02-14",
       "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village."
     },
+    "tmdb:2593": {
+      "key": "tmdb:2593",
+      "title": "The Fire Within",
+      "year": 1963,
+      "director": "Louis Malle",
+      "runtime": 108,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/9iHsReoh2VuHihDmNXgLXCi18rR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aHMsHOCPSVD4Mv5rLf5k4JetPAv.jpg",
+      "tmdbId": 2593,
+      "popularity": 2.5337,
+      "releaseDate": "1963-10-15",
+      "overview": "Depressed Alain Leroy leaves the clinic where he was detoxified. He meets friends, acquaintances and women, trying to find a reason to continue living."
+    },
     "tmdb:246741": {
       "key": "tmdb:246741",
       "title": "What We Do in the Shadows",
@@ -1421,6 +1628,20 @@
       "popularity": 18.9272,
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+    },
+    "tmdb:8337": {
+      "key": "tmdb:8337",
+      "title": "They Live",
+      "year": 1988,
+      "director": "John Carpenter",
+      "runtime": 93,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+      "tmdbId": 8337,
+      "popularity": 9.6116,
+      "releaseDate": "1988-11-04",
+      "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission."
     },
     "tmdb:992": {
       "key": "tmdb:992",
@@ -1478,6 +1699,20 @@
       "releaseDate": "2012-04-12",
       "overview": "Five friends set out for a weekend at a remote cabin in the woods, expecting nothing more than fun and relaxation. As night falls, they discover that something far more unsettling is at work and that nothing about their getaway is what it seems."
     },
+    "tmdb:46838": {
+      "key": "tmdb:46838",
+      "title": "Tucker and Dale vs. Evil",
+      "year": 2010,
+      "director": "Eli Craig",
+      "runtime": 89,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kgaQLCOpH8K5kZZRmeiI4btSrl0.jpg",
+      "tmdbId": 46838,
+      "popularity": 8.2768,
+      "releaseDate": "2010-01-22",
+      "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
+    },
     "tmdb:653": {
       "key": "tmdb:653",
       "title": "Nosferatu",
@@ -1492,20 +1727,18 @@
       "releaseDate": "1922-02-16",
       "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
     },
-    "t:song for the snow lion theatrical premiere": {
-      "key": "t:song for the snow lion theatrical premiere",
-      "title": "A SONG FOR THE SNOW LION-Theatrical Premiere",
-      "overview": "Please join us for a very special one time event featuring two films from Bhutan by Academy Award nominated Pawo Choyning Dorji who will attend. Famed cellist/activist Yo Yo Ma will participate via Zoom.",
-      "backdrop": "https://cinema.cafilm.org/drive_serve/a-song-for-the-snow-lion-theatrical-premiere/0-600.webp"
-    },
-    "t:la cienega": {
-      "key": "t:la cienega",
-      "title": "LA CIÉNEGA",
-      "year": 2011,
-      "director": "Lucrecia Martel",
-      "overview": "The release of Lucrecia Martel’s La Ciénag aheralded the arrival of an astonishingly vital and original voice in Argentine cinema.\nWith a radical and disturbing take on narrative, beautiful cinematography, and a highly sophisticated use of on- and offscreen sound, Martel turns her tale of a dissolute bourgeois extended family, whiling away the hours of one sweaty, sticky summer, into a cinematic marvel.\nThis visceral take on class, nature, sexuality, and the ways that political turmoil and social stagnation can manifest in human relationships is a drama of extraordinary tactility, and one of the great contemporary film debuts.",
-      "runtime": 103,
-      "backdrop": "https://cinema.cafilm.org/drive_serve/la-cinega/0-600.webp"
+    "tmdb:373353": {
+      "key": "tmdb:373353",
+      "title": "Between Sea and Land",
+      "year": 2016,
+      "director": "Carlos del Castillo",
+      "runtime": 98,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/tbxAvBAvXTofN6EeDQUrDlLvipf.jpg",
+      "tmdbId": 373353,
+      "popularity": 2.8714,
+      "releaseDate": "2016-06-28",
+      "overview": "A man yearns to go into the ocean across the street from his house, but suffers from an illness that prevents him from doing so."
     },
     "tmdb:653757": {
       "key": "tmdb:653757",
@@ -1549,20 +1782,6 @@
       "releaseDate": "1940-10-11",
       "overview": "The story—in which an American heiress on holiday in South America falls in love with an Argentine horse breeder against the wishes of their families—takes a backseat to the spectacular location shooting and parade of extravagant musical numbers, which include the larger-than-life Carmen Miranda singing the hit “South American Way” and a showstopping dance routine by the always amazing Nicholas Brothers."
     },
-    "tmdb:11178": {
-      "key": "tmdb:11178",
-      "title": "My Sassy Girl",
-      "year": 2001,
-      "director": "Kwak Jae-yong",
-      "runtime": 137,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/i964xFDEMwZ5uaweParv8ItBfbJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/13uKAt4M87HQi1lMZAwBmsNZRGg.jpg",
-      "tmdbId": 11178,
-      "popularity": 5.6985,
-      "releaseDate": "2001-07-27",
-      "overview": "A young man’s world is turned upside down when a female force of nature takes his life by storm in this outrageous and uplifting ode to true love."
-    },
     "tmdb:43794": {
       "key": "tmdb:43794",
       "title": "Moon Over Miami",
@@ -1577,33 +1796,6 @@
       "releaseDate": "1941-07-04",
       "overview": "After losing nearly all of an inheritance to taxes, sisters Kay and Barbara Latimer, waitresses at a drive-in restaurant in Texas, scheme to find rich husbands. With the aid of their aunt Susan, the sisters take the last of their money and head to a well-known Miami resort where they soon meet two wealthy young men, Phil and Jeff, who begin a fierce rivalry for Kay, not realizing that Barbara has fallen in love with one of them."
     },
-    "tmdb:884551": {
-      "key": "tmdb:884551",
-      "title": "Ghost Dog",
-      "year": 2021,
-      "director": "Adam Green",
-      "runtime": 7,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/k6JUJwLN1Ey6mvlzBbDmQdsVVYM.jpg",
-      "tmdbId": 884551,
-      "popularity": 0.7103,
-      "releaseDate": "2021-10-12",
-      "overview": "Ever wonder what your dog would say to you if he/she could speak? When a broken hearted man's Halloween wish comes true he winds up paying a price he never saw coming."
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "tmdb:43797": {
       "key": "tmdb:43797",
       "title": "Sun Valley Serenade",
@@ -1617,147 +1809,9 @@
       "popularity": 1.3245,
       "releaseDate": "1941-08-29",
       "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
-    },
-    "tmdb:36685": {
-      "key": "tmdb:36685",
-      "title": "The Rocky Horror Picture Show",
-      "year": 1975,
-      "director": "Jim Sharman",
-      "runtime": 100,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
-      "tmdbId": 36685,
-      "popularity": 12.5251,
-      "releaseDate": "1975-08-14",
-      "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
-    },
-    "tmdb:27031": {
-      "key": "tmdb:27031",
-      "title": "Samurai Rebellion",
-      "year": 1967,
-      "director": "Masaki Kobayashi",
-      "runtime": 121,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
-      "tmdbId": 27031,
-      "popularity": 2.8506,
-      "releaseDate": "1967-05-27",
-      "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
-    },
-    "tmdb:142773": {
-      "key": "tmdb:142773",
-      "title": "Queen: Budapest",
-      "year": 1986,
-      "director": "János Zsombolyai",
-      "runtime": 91,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
-      "tmdbId": 142773,
-      "popularity": 11.0904,
-      "releaseDate": "2012-09-20",
-      "overview": "On July 27, 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury."
-    },
-    "tmdb:1765982": {
-      "key": "tmdb:1765982",
-      "title": "Bea Arthur: The Documentary",
-      "year": 2026,
-      "director": "Dan Watt",
-      "runtime": 113,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/wGy6aLmzVcNFRz4pwg5w6x5rue4.jpg",
-      "tmdbId": 1765982,
-      "popularity": 0.4712,
-      "releaseDate": "2026-10-03",
-      "overview": "An intimate portrait of the actress celebrated for Maude, The Golden Girls and Mame. Built around a previously unseen interview conducted by producer and director Dan Watt, the film traces Arthur’s path from The New School and New York theatre to Broadway and television. Through Arthur’s own reflections and interviews with colleagues and close friends, the documentary looks beyond the tall, hilariously brassy public persona to reveal a woman who was also sensitive, vulnerable, compassionate and deeply committed to the people and causes she valued."
     }
   },
   "screenings": [
-    {
-      "id": "operaplaza:2026-09-17:15:05:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-17",
-      "time": "15:05",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-17:15:30:tmdb:162064",
-      "venueId": "roxie",
-      "filmKey": "tmdb:162064",
-      "date": "2026-09-17",
-      "time": "15:30",
-      "url": "https://roxie.com/film/letty-lynton/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-17:16:15:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-17",
-      "time": "16:15",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-17:17:00:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-17",
-      "time": "17:00",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-17",
-      "source": "vogue"
-    },
-    {
-      "id": "roxie:2026-09-17:18:20:t:cycle of love",
-      "venueId": "roxie",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-17",
-      "time": "18:20",
-      "url": "https://roxie.com/film/the-cycle-of-love/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-17:18:30:t:song for the snow lion theatrical premiere",
-      "venueId": "rafael",
-      "filmKey": "t:song for the snow lion theatrical premiere",
-      "date": "2026-09-17",
-      "time": "18:30",
-      "url": "https://cinema.cafilm.org/film/a-song-for-the-snow-lion-theatrical-premiere",
-      "note": "Screening and Conversation — Q&A with Director Pawo Choyning Dorji moderated by Buddhist Film Foundation executive director Gaetano Kazuo Maida",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-17:19:00:tmdb:1596326",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-17",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/barbara-forever-september-17",
-      "note": "Co-presented by Frameline",
-      "source": "balboa"
-    },
-    {
-      "id": "vogue:2026-09-17:19:30:tmdb:11326",
-      "venueId": "vogue",
-      "filmKey": "tmdb:11326",
-      "date": "2026-09-17",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/tommy-september-17",
-      "source": "vogue"
-    },
-    {
-      "id": "operaplaza:2026-09-17:19:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-17",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
     {
       "id": "alamo:2026-09-18:13:00:tmdb:1599181",
       "venueId": "alamo",
@@ -1968,12 +2022,12 @@
       "source": "piedmont"
     },
     {
-      "id": "rafael:2026-09-19:11:00:t:la cienega",
+      "id": "rafael:2026-09-19:11:00:tmdb:373353",
       "venueId": "rafael",
-      "filmKey": "t:la cienega",
+      "filmKey": "tmdb:373353",
       "date": "2026-09-19",
       "time": "11:00",
-      "url": "https://cinema.cafilm.org/film/la-cinega",
+      "url": "https://cinema.cafilm.org/film/la-cinaga",
       "source": "rafael"
     },
     {
@@ -2106,17 +2160,6 @@
       "source": "stanford"
     },
     {
-      "id": "bampfa:2026-09-19:16:30:tmdb:266",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:266",
-      "date": "2026-09-19",
-      "time": "16:30",
-      "url": "https://bampfa.org/event/contempt",
-      "format": "4K",
-      "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
       "id": "balboa:2026-09-19:16:30:tmdb:11178",
       "venueId": "balboa",
       "filmKey": "tmdb:11178",
@@ -2126,6 +2169,17 @@
       "format": "4K",
       "note": "New 25th Anniversary 4K",
       "source": "balboa"
+    },
+    {
+      "id": "bampfa:2026-09-19:16:30:tmdb:266",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:266",
+      "date": "2026-09-19",
+      "time": "16:30",
+      "url": "https://bampfa.org/event/contempt",
+      "format": "4K",
+      "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
+      "source": "bampfa"
     },
     {
       "id": "rafael:2026-09-19:16:45:t:cycle of love",
@@ -2380,17 +2434,6 @@
       "source": "stanford"
     },
     {
-      "id": "bampfa:2026-09-20:16:30:tmdb:43372",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:43372",
-      "date": "2026-09-20",
-      "time": "16:30",
-      "url": "https://bampfa.org/event/bellissima",
-      "format": "4K",
-      "note": "Special Screenings · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
       "id": "balboa:2026-09-20:16:30:tmdb:11178",
       "venueId": "balboa",
       "filmKey": "tmdb:11178",
@@ -2400,6 +2443,17 @@
       "format": "4K",
       "note": "New 25th Anniversary 4K",
       "source": "balboa"
+    },
+    {
+      "id": "bampfa:2026-09-20:16:30:tmdb:43372",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:43372",
+      "date": "2026-09-20",
+      "time": "16:30",
+      "url": "https://bampfa.org/event/bellissima",
+      "format": "4K",
+      "note": "Special Screenings · 4K Digital Restoration",
+      "source": "bampfa"
     },
     {
       "id": "rafael:2026-09-20:16:45:t:cycle of love",
@@ -2707,6 +2761,16 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-09-22:19:00:tmdb:884551",
+      "venueId": "balboa",
+      "filmKey": "tmdb:884551",
+      "date": "2026-09-22",
+      "time": "19:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/ghost-dog-way-of-the-samurai-september-22",
+      "note": "Ghost Dog: The Way of the Samurai",
+      "source": "balboa"
+    },
+    {
       "id": "rafael:2026-09-22:19:15:t:filipinana",
       "venueId": "rafael",
       "filmKey": "t:filipinana",
@@ -2846,16 +2910,6 @@
       "url": "https://www.landmarktheatres.com/movies/318380-nosferatu-with-live-quarkestra-orchestra/",
       "note": "Nosferatu with Live Quarkestra Orchestra",
       "source": "piedmont"
-    },
-    {
-      "id": "balboa:2026-09-23:19:00:tmdb:884551",
-      "venueId": "balboa",
-      "filmKey": "tmdb:884551",
-      "date": "2026-09-23",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/ghost-dog-way-of-the-samurai-september-23",
-      "note": "Ghost Dog: The Way of the Samurai",
-      "source": "balboa"
     },
     {
       "id": "rafael:2026-09-23:19:15:t:filipinana",
@@ -3029,6 +3083,15 @@
       "time": "19:00",
       "url": "https://roxie.com/film/floating-features-bullitt/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-09-25:19:00:tmdb:1410939",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1410939",
+      "date": "2026-09-25",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/dire-duplicity?cinemaId=0801&sessionId=83201",
+      "source": "alamo"
     },
     {
       "id": "bampfa:2026-09-25:19:00:tmdb:776556",
@@ -3347,6 +3410,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-09-27:18:30:tmdb:762",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:762",
+      "date": "2026-09-27",
+      "time": "18:30",
+      "url": "https://thenewparkway.com/movie/monty-python-and-the-holy-grail/",
+      "source": "newparkway"
+    },
+    {
       "id": "balboa:2026-09-27:19:15:tmdb:27031",
       "venueId": "balboa",
       "filmKey": "tmdb:27031",
@@ -3394,6 +3466,15 @@
       "source": "newparkway"
     },
     {
+      "id": "balboa:2026-09-28:19:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-28",
+      "time": "19:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-28",
+      "source": "balboa"
+    },
+    {
       "id": "alamo:2026-09-28:19:00:tmdb:11000",
       "venueId": "alamo",
       "filmKey": "tmdb:11000",
@@ -3402,15 +3483,6 @@
       "url": "https://drafthouse.com/sf/show/queer-film-theory-101-the-birdcage?cinemaId=0801&sessionId=82422",
       "note": "Queer Film Theory 101 · Williams & Lane burst open THE BIRDCAGE in this flamboyant farcical adaptation",
       "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-09-28:19:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-28",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-28",
-      "source": "balboa"
     },
     {
       "id": "roxie:2026-09-29:18:00:t:filipinana",
@@ -3575,6 +3647,15 @@
       "source": "bampfa"
     },
     {
+      "id": "balboa:2026-10-01:19:30:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-01",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-1",
+      "source": "balboa"
+    },
+    {
       "id": "vogue:2026-10-01:19:30:tmdb:522",
       "venueId": "vogue",
       "filmKey": "tmdb:522",
@@ -3594,15 +3675,6 @@
       "source": "4star"
     },
     {
-      "id": "balboa:2026-10-01:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-01",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-1",
-      "source": "balboa"
-    },
-    {
       "id": "roxie:2026-10-01:20:50:tmdb:10494",
       "venueId": "roxie",
       "filmKey": "tmdb:10494",
@@ -3612,6 +3684,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-10-01:21:30:tmdb:1410939",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1410939",
+      "date": "2026-10-01",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/dire-duplicity?cinemaId=0801&sessionId=83202",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-10-02:18:00:tmdb:1599181",
       "venueId": "roxie",
       "filmKey": "tmdb:1599181",
@@ -3619,6 +3700,15 @@
       "time": "18:00",
       "url": "https://roxie.com/film/chronovisor/",
       "source": "roxie"
+    },
+    {
+      "id": "balboa:2026-10-02:18:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-02",
+      "time": "18:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-2",
+      "source": "balboa"
     },
     {
       "id": "roxie:2026-10-02:18:30:tmdb:25623",
@@ -3727,12 +3817,39 @@
       "source": "operaplaza"
     },
     {
+      "id": "balboa:2026-10-03:14:30:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "14:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-3",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-10-03:15:10:tmdb:1599181",
       "venueId": "roxie",
       "filmKey": "tmdb:1599181",
       "date": "2026-10-03",
       "time": "15:10",
       "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-03:16:00:tmdb:25623",
+      "venueId": "roxie",
+      "filmKey": "tmdb:25623",
+      "date": "2026-10-03",
+      "time": "16:00",
+      "url": "https://roxie.com/film/new-people-hausu/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-03:18:10:tmdb:1556",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1556",
+      "date": "2026-10-03",
+      "time": "18:10",
+      "url": "https://roxie.com/film/funeral-parade-of-roses/",
       "source": "roxie"
     },
     {
@@ -3764,6 +3881,15 @@
       "format": "DCP",
       "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "balboa:2026-10-04:14:30:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-04",
+      "time": "14:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-4",
+      "source": "balboa"
     },
     {
       "id": "sfmoma:2026-10-04:16:00:tmdb:1278622",
@@ -3805,6 +3931,33 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-10-06:16:10:tmdb:1482938",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1482938",
+      "date": "2026-10-06",
+      "time": "16:10",
+      "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83203",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-06:19:00:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-06",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83204",
+      "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-10-06:20:30:tmdb:63025",
+      "venueId": "roxie",
+      "filmKey": "tmdb:63025",
+      "date": "2026-10-06",
+      "time": "20:30",
+      "url": "https://roxie.com/film/a-lizard-in-a-womans-skin/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-10-06:21:30:tmdb:274",
       "venueId": "alamo",
       "filmKey": "tmdb:274",
@@ -3816,6 +3969,24 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-10-07:16:30:tmdb:1482938",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1482938",
+      "date": "2026-10-07",
+      "time": "16:30",
+      "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83205",
+      "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-10-07:17:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-07",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-7",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-10-07:18:00:t:zoe presents memorex rexsexex y mas",
       "venueId": "roxie",
       "filmKey": "t:zoe presents memorex rexsexex y mas",
@@ -3823,6 +3994,15 @@
       "time": "18:00",
       "url": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/",
       "source": "roxie"
+    },
+    {
+      "id": "balboa:2026-10-07:19:00:tmdb:142773",
+      "venueId": "balboa",
+      "filmKey": "tmdb:142773",
+      "date": "2026-10-07",
+      "time": "19:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/queen-budapest-october-7",
+      "source": "balboa"
     },
     {
       "id": "operaplaza:2026-10-07:19:00:tmdb:948",
@@ -3846,13 +4026,33 @@
       "source": "bampfa"
     },
     {
-      "id": "balboa:2026-10-07:19:00:tmdb:142773",
+      "id": "balboa:2026-10-08:17:30:tmdb:1596296",
       "venueId": "balboa",
-      "filmKey": "tmdb:142773",
-      "date": "2026-10-07",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/queen-budapest-october-7",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-08",
+      "time": "17:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-8",
       "source": "balboa"
+    },
+    {
+      "id": "newparkway:2026-10-08:19:00:tmdb:2593",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:2593",
+      "date": "2026-10-08",
+      "time": "19:00",
+      "url": "https://thenewparkway.com/movie/fire-within-with-filmmaker-qa/",
+      "note": "with filmmaker Q&A",
+      "source": "newparkway"
+    },
+    {
+      "id": "4star:2026-10-08:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-10-08",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-freight-train-lady",
+      "note": "Freight Train Lady",
+      "source": "4star"
     },
     {
       "id": "roxie:2026-10-09:19:00:tmdb:744",
@@ -4026,6 +4226,74 @@
       "url": "https://bampfa.org/event/collaborations-cairos-cimatheque",
       "note": "Stefanie Schulte Strathaus: Modes of Archivism",
       "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-10-16:18:15:tmdb:50173",
+      "venueId": "roxie",
+      "filmKey": "tmdb:50173",
+      "date": "2026-10-16",
+      "time": "18:15",
+      "url": "https://roxie.com/film/new-people-jigoku/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-16:19:00:tmdb:2649",
+      "venueId": "roxie",
+      "filmKey": "tmdb:2649",
+      "date": "2026-10-16",
+      "time": "19:00",
+      "url": "https://roxie.com/film/floating-features-the-game/",
+      "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-16:19:00:tmdb:9064",
+      "venueId": "alamo",
+      "filmKey": "tmdb:9064",
+      "date": "2026-10-16",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/hellbound-hellraiser-ii?cinemaId=0801&sessionId=83039",
+      "source": "alamo"
+    },
+    {
+      "id": "bampfa:2026-10-16:19:00:tmdb:1578",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:1578",
+      "date": "2026-10-16",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/raging-bull",
+      "format": "4K",
+      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "operaplaza:2026-10-16:20:30:tmdb:11976",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:11976",
+      "date": "2026-10-16",
+      "time": "20:30",
+      "url": "https://www.landmarktheatres.com/movies/541-legend-1986/",
+      "note": "Honoring Tim Curry, an Icon of Stage and ScreenHosted by Peaches Christwith a special screening of Legend",
+      "source": "operaplaza"
+    },
+    {
+      "id": "newparkway:2026-10-16:22:30:tmdb:8337",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:8337",
+      "date": "2026-10-16",
+      "time": "22:30",
+      "url": "https://thenewparkway.com/movie/they-live/",
+      "source": "newparkway"
+    },
+    {
+      "id": "piedmont:2026-10-16:22:30:tmdb:46838",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:46838",
+      "date": "2026-10-16",
+      "time": "22:30",
+      "url": "https://www.landmarktheatres.com/movies/176961-tucker-and-dale-vs-evil/",
+      "note": "Cine Insomnia - Scary Spaces",
+      "source": "piedmont"
     }
   ],
   "festivals": [
@@ -4033,33 +4301,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-29",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82723",
-      "showtimes": 23,
+      "startDate": "2026-09-18",
+      "endDate": "2026-10-07",
+      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82728",
+      "showtimes": 22,
       "sample": [
         "Deathgasm 2: Goremageddon",
+        "Ghost in the Cell",
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-17",
-          "time": "15:45",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82723"
-        },
-        {
-          "date": "2026-09-17",
-          "time": "18:45",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82722"
-        },
-        {
-          "date": "2026-09-17",
-          "time": "21:45",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82724"
-        },
         {
           "date": "2026-09-18",
           "time": "12:00",
@@ -4179,24 +4430,18 @@
           "time": "19:00",
           "title": "Deathgasm 2: Goremageddon",
           "url": "https://drafthouse.com/sf/show/deathgasm-2-goremageddon?cinemaId=0801&sessionId=82501"
-        }
-      ]
-    },
-    {
-      "key": "fest:newparkway:blood and popcorn film festival",
-      "name": "Blood & Popcorn Film Festival",
-      "venueId": "newparkway",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-17",
-      "url": "https://indy-systems.imgix.net/m302gvc5upt8xpad4jzlqhaurnej?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
-      "showtimes": 1,
-      "sample": [],
-      "programme": [
+        },
         {
-          "date": "2026-09-17",
-          "time": "21:30",
-          "title": "Blood & Popcorn Film Festival",
-          "url": "https://thenewparkway.com/movie/blood-popcorn-film-festival/"
+          "date": "2026-10-04",
+          "time": "16:00",
+          "title": "Ghost in the Cell",
+          "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82933"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "19:00",
+          "title": "Ghost in the Cell",
+          "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82935"
         }
       ]
     },
@@ -4463,12 +4708,12 @@
       "startDate": "2026-10-09",
       "endDate": "2026-10-11",
       "url": "https://roxie.com/series/3rd-i-sf-intl-south-asian-film-festival/",
-      "showtimes": 4,
+      "showtimes": 8,
       "sample": [
         "Avie Luthra",
-        "The Great Shamsuddin Family",
-        "Lali",
-        "TechnoCats"
+        "Sand City",
+        "TechnoCats",
+        "The Great Shamsuddin Family"
       ],
       "programme": [
         {
@@ -4476,6 +4721,18 @@
           "time": "19:30",
           "title": "Avie Luthra",
           "url": "https://roxie.com/film/3rd-i-2026-avie-luthra/"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "13:00",
+          "title": "Sand City",
+          "url": "https://roxie.com/film/3rd-i-2026-sand-city/"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "15:00",
+          "title": "TechnoCats",
+          "url": "https://roxie.com/film/3rd-i-2026-technocats/"
         },
         {
           "date": "2026-10-10",
@@ -4491,9 +4748,80 @@
         },
         {
           "date": "2026-10-11",
-          "time": "15:00",
-          "title": "TechnoCats",
-          "url": "https://roxie.com/film/3rd-i-2026-technocats/"
+          "time": "12:15",
+          "title": "Eternal Trees, Eternal Mountains",
+          "url": "https://roxie.com/film/3rd-i-2026-eternal-trees-eternal-mountains/"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "14:00",
+          "title": "Ghost School",
+          "url": "https://roxie.com/film/3rd-i-2026-ghost-school/"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "16:00",
+          "title": "The Loyal Man",
+          "url": "https://roxie.com/film/3rd-i-2026-the-loyal-man/"
+        }
+      ]
+    },
+    {
+      "key": "fest:balboa:international vampire film fest",
+      "name": "International Vampire Film Fest",
+      "venueId": "balboa",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "url": "https://www.balboamovies.com/international-vampire-film-fest",
+      "showtimes": 7,
+      "sample": [
+        "El Vampiro",
+        "Let the Right One",
+        "A Girl Walks Home Alone at Night",
+        "The Vourdalak"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-17",
+          "time": "11:30",
+          "title": "El Vampiro",
+          "url": "https://www.balboamovies.com/calendar-of-events/el-vampiro-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "13:15",
+          "title": "Let the Right One",
+          "url": "https://www.balboamovies.com/calendar-of-events/let-the-right-one-in-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "15:30",
+          "title": "A Girl Walks Home Alone at Night",
+          "url": "https://www.balboamovies.com/calendar-of-events/a-girl-walks-home-alone-at-night-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "17:30",
+          "title": "The Vourdalak",
+          "url": "https://www.balboamovies.com/calendar-of-events/the-vourdalak-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "19:15",
+          "title": "Horror of Dracula",
+          "url": "https://www.balboamovies.com/calendar-of-events/horror-of-dracula-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "20:55",
+          "title": "Planet of the Vampires",
+          "url": "https://www.balboamovies.com/calendar-of-events/planet-of-the-vampires-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "22:30",
+          "title": "Lake of Dracula",
+          "url": "https://www.balboamovies.com/calendar-of-events/lake-of-dracula-october-17"
         }
       ]
     },
@@ -4514,6 +4842,26 @@
           "time": "14:00",
           "title": "No Nothing Cinema + George Kuchar",
           "url": "https://www.sfmoma.org/event/studio-8-film-festival-no-nothing-cinema-george-kuchar/"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations 4k digital restoration",
+      "name": "Hong Kong Cinema: Rarities and Restorations · 4K Digital Restoration",
+      "venueId": "bampfa",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "url": "https://bampfa.org/event/arch",
+      "showtimes": 1,
+      "sample": [
+        "The Arch"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-23",
+          "time": "19:00",
+          "title": "The Arch",
+          "url": "https://bampfa.org/event/arch"
         }
       ]
     },
