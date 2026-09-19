@@ -1,19 +1,12 @@
 {
-  "generatedAt": "2026-09-18T16:48:24.683Z",
+  "generatedAt": "2026-09-19T16:10:43.440Z",
   "films": {
-    "tmdb:1596326": {
-      "key": "tmdb:1596326",
-      "title": "Barbara Forever",
-      "year": 2026,
-      "director": "Brydie O'Connor",
-      "runtime": 102,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
-      "tmdbId": 1596326,
-      "popularity": 2.5685,
-      "releaseDate": "2026-09-04",
-      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
+    "t:larry reed a life in light and shadow": {
+      "key": "t:larry reed a life in light and shadow",
+      "title": "Larry Reed: A Life in Light and Shadow",
+      "runtime": 90,
+      "overview": "Join us at the Roxie Theater for a special screening honoring the life and work of Larry Reed (1944–2026), master of Balinese shadow theater, theater and film director, and founder of ShadowLight Productions.",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Larry-Reed-3.jpeg"
     },
     "t:filipinana": {
       "key": "t:filipinana",
@@ -23,27 +16,6 @@
       "runtime": 100,
       "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
       "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:9802": {
-      "key": "tmdb:9802",
-      "title": "The Rock",
-      "year": 1996,
-      "director": "Michael Bay",
-      "runtime": 137,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/eBcoxveWzzXQrCrwWMGAROcqgpP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qDVdTL1KqGmGLGsy7UPA3vksku7.jpg",
-      "tmdbId": 9802,
-      "popularity": 15.491,
-      "releaseDate": "1996-06-07",
-      "overview": "When vengeful General Francis X. Hummel seizes control of Alcatraz Island and threatens to launch missiles loaded with deadly chemical weapons into San Francisco, only a young FBI chemical weapons expert and notorious Federal prisoner have the skills to penetrate the impregnable island fortress and take him down."
-    },
-    "t:larry reed a life in light and shadow": {
-      "key": "t:larry reed a life in light and shadow",
-      "title": "Larry Reed: A Life in Light and Shadow",
-      "runtime": 90,
-      "overview": "Join us at the Roxie Theater for a special screening honoring the life and work of Larry Reed (1944–2026), master of Balinese shadow theater, theater and film director, and founder of ShadowLight Productions.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Larry-Reed-3.jpeg"
     },
     "tmdb:829": {
       "key": "tmdb:829",
@@ -58,6 +30,20 @@
       "popularity": 9.965,
       "releaseDate": "1974-06-20",
       "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together."
+    },
+    "tmdb:1596326": {
+      "key": "tmdb:1596326",
+      "title": "Barbara Forever",
+      "year": 2026,
+      "director": "Brydie O'Connor",
+      "runtime": 102,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
+      "tmdbId": 1596326,
+      "popularity": 2.5685,
+      "releaseDate": "2026-09-04",
+      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
     },
     "tmdb:1620313": {
       "key": "tmdb:1620313",
@@ -519,6 +505,20 @@
       "releaseDate": "1997-09-12",
       "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins."
     },
+    "tmdb:7857": {
+      "key": "tmdb:7857",
+      "title": "Amarcord",
+      "year": 1973,
+      "director": "Federico Fellini",
+      "runtime": 123,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/kS7i093sQpkLTawUEdgf4HVOHSc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iFQzlUmO5QmMPcSHHDdfd522x33.jpg",
+      "tmdbId": 7857,
+      "popularity": 3.9139,
+      "releaseDate": "1973-12-18",
+      "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios."
+    },
     "tmdb:11178": {
       "key": "tmdb:11178",
       "title": "My Sassy Girl",
@@ -803,6 +803,20 @@
       "popularity": 3.2451,
       "releaseDate": "1968-08-01",
       "overview": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
+    },
+    "tmdb:1214554": {
+      "key": "tmdb:1214554",
+      "title": "DEVO",
+      "year": 2024,
+      "director": "Chris Smith",
+      "runtime": 94,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/6aO7f1J5kr8SlSqHnHpYawzHPAS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ybVOOiP68Hd5727YzIQh3IX98Ku.jpg",
+      "tmdbId": 1214554,
+      "popularity": 1.9147,
+      "releaseDate": "2024-01-21",
+      "overview": "Originally formed amidst the chaos of the 1970 Kent State anti-Vietnam War protest killings, the not quite new wave band Devo scored a hit with \"Whip It\" and gained mainstream success with their message of societal \"de-evolution.\""
     },
     "tmdb:1410939": {
       "key": "tmdb:1410939",
@@ -1106,6 +1120,20 @@
       "releaseDate": "1985-08-28",
       "overview": "Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess  Lili and defeat the demonic Lord of Darkness, or the world will be plunged into a never-ending ice age."
     },
+    "tmdb:564": {
+      "key": "tmdb:564",
+      "title": "The Mummy",
+      "year": 1999,
+      "director": "Stephen Sommers",
+      "runtime": 124,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+      "tmdbId": 564,
+      "popularity": 26.4712,
+      "releaseDate": "1999-04-16",
+      "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken."
+    },
     "tmdb:138": {
       "key": "tmdb:138",
       "title": "Dracula",
@@ -1119,20 +1147,6 @@
       "popularity": 5.3244,
       "releaseDate": "1931-02-12",
       "overview": "A British estate agent travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves the agent and drives him to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites."
-    },
-    "tmdb:6114": {
-      "key": "tmdb:6114",
-      "title": "Bram Stoker's Dracula",
-      "year": 1992,
-      "director": "Francis Ford Coppola",
-      "runtime": 128,
-      "genre": "Romance",
-      "poster": "https://image.tmdb.org/t/p/w500/jSxCIZXudp5q8wQO8VERGX8hRAl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/88S6EYQBVyQktDfSqsB33I169jN.jpg",
-      "tmdbId": 6114,
-      "popularity": 14.1894,
-      "releaseDate": "1992-11-13",
-      "overview": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down."
     },
     "tmdb:3035": {
       "key": "tmdb:3035",
@@ -1203,15 +1217,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "t:senegalese meet sene gallic": {
-      "key": "t:senegalese meet sene gallic",
-      "title": "Senegalese Meet Sene-Gallic",
-      "year": 2997,
-      "director": "Alice Diop",
-      "runtime": 56,
-      "overview": "Upon visiting Senegal for the first time after her parents’ deaths, Alice Diop began filming in the courtyard of her mother’s former home, documenting the everyday existence and conversations of her aunts and cousins. Within this exclusively female space, Diop mused, \"I’m sort of filming what could have been my life. . . . I measure from here what exile transforms.\"",
-      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/FRAG%2001_Diop_Senegalaises-and-Senegauloise_004.jpg?itok=ywAobfBR"
     },
     "tmdb:266": {
       "key": "tmdb:266",
@@ -1433,19 +1438,19 @@
       "releaseDate": "1980-11-14",
       "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
     },
-    "tmdb:858": {
-      "key": "tmdb:858",
-      "title": "Sleepless in Seattle",
-      "year": 1993,
-      "director": "Nora Ephron",
-      "runtime": 105,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/jAXfku1u1uaLGh4cUmK0ESf1pPu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/7ME0fJZxjEoSGPP4E4bbYT5zoqt.jpg",
-      "tmdbId": 858,
-      "popularity": 8.5456,
-      "releaseDate": "1993-06-24",
-      "overview": "After the death of his mother, a young boy calls a radio station in an attempt to set his father up on a date. Across the country, an engaged woman becomes convinced that they belong together, despite their never having met. Will their paths collide despite the odds?"
+    "tmdb:43231": {
+      "key": "tmdb:43231",
+      "title": "White Nights",
+      "year": 1957,
+      "director": "Luchino Visconti",
+      "runtime": 101,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/sAFR7LbXnPSjZGpG1ihSAN7vrfR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fWkNhudvl6dtEHWSdQD6nl92GnD.jpg",
+      "tmdbId": 43231,
+      "popularity": 3.6748,
+      "releaseDate": "1957-11-14",
+      "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return."
     },
     "tmdb:850": {
       "key": "tmdb:850",
@@ -1643,6 +1648,20 @@
       "releaseDate": "1988-11-04",
       "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission."
     },
+    "tmdb:1694": {
+      "key": "tmdb:1694",
+      "title": "Re-Animator",
+      "year": 1985,
+      "director": "Stuart Gordon",
+      "runtime": 86,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/7FYhY70LTumoFfQgTI8TK0UDdsF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ogojPeWqjHBVUGCPGhfMxyQJLZ7.jpg",
+      "tmdbId": 1694,
+      "popularity": 6.5151,
+      "releaseDate": "1985-10-18",
+      "overview": "Conducting clandestine experiments within the morgue at Miskatonic University, scientist Herbert West reveals to a fellow graduate student his groundbreaking work concerning the re-animation of fresh corpses."
+    },
     "tmdb:992": {
       "key": "tmdb:992",
       "title": "Sherlock Jr.",
@@ -1670,20 +1689,6 @@
       "popularity": 11.3942,
       "releaseDate": "2005-07-08",
       "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other."
-    },
-    "tmdb:252": {
-      "key": "tmdb:252",
-      "title": "Willy Wonka & the Chocolate Factory",
-      "year": 1971,
-      "director": "Mel Stuart",
-      "runtime": 100,
-      "genre": "Family",
-      "poster": "https://image.tmdb.org/t/p/w500/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ko7hMSCtXoJFfpYAIbrowwgH0eq.jpg",
-      "tmdbId": 252,
-      "popularity": 11.5194,
-      "releaseDate": "1971-06-29",
-      "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner."
     },
     "tmdb:22970": {
       "key": "tmdb:22970",
@@ -1768,20 +1773,6 @@
       "releaseDate": "2018-11-02",
       "overview": "A woman steals a man's identity and forces him to confront a secret that he's hidden for over thirty years."
     },
-    "tmdb:43810": {
-      "key": "tmdb:43810",
-      "title": "Down Argentine Way",
-      "year": 1940,
-      "director": "Irving Cummings",
-      "runtime": 89,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
-      "tmdbId": 43810,
-      "popularity": 1.2522,
-      "releaseDate": "1940-10-11",
-      "overview": "The story—in which an American heiress on holiday in South America falls in love with an Argentine horse breeder against the wishes of their families—takes a backseat to the spectacular location shooting and parade of extravagant musical numbers, which include the larger-than-life Carmen Miranda singing the hit “South American Way” and a showstopping dance routine by the always amazing Nicholas Brothers."
-    },
     "tmdb:43794": {
       "key": "tmdb:43794",
       "title": "Moon Over Miami",
@@ -1795,6 +1786,20 @@
       "popularity": 1.2195,
       "releaseDate": "1941-07-04",
       "overview": "After losing nearly all of an inheritance to taxes, sisters Kay and Barbara Latimer, waitresses at a drive-in restaurant in Texas, scheme to find rich husbands. With the aid of their aunt Susan, the sisters take the last of their money and head to a well-known Miami resort where they soon meet two wealthy young men, Phil and Jeff, who begin a fierce rivalry for Kay, not realizing that Barbara has fallen in love with one of them."
+    },
+    "tmdb:43810": {
+      "key": "tmdb:43810",
+      "title": "Down Argentine Way",
+      "year": 1940,
+      "director": "Irving Cummings",
+      "runtime": 89,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
+      "tmdbId": 43810,
+      "popularity": 1.2522,
+      "releaseDate": "1940-10-11",
+      "overview": "The story—in which an American heiress on holiday in South America falls in love with an Argentine horse breeder against the wishes of their families—takes a backseat to the spectacular location shooting and parade of extravagant musical numbers, which include the larger-than-life Carmen Miranda singing the hit “South American Way” and a showstopping dance routine by the always amazing Nicholas Brothers."
     },
     "tmdb:43797": {
       "key": "tmdb:43797",
@@ -1812,215 +1817,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-09-18:13:00:tmdb:1599181",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-09-18",
-      "time": "13:00",
-      "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=83182",
-      "source": "alamo"
-    },
-    {
-      "id": "operaplaza:2026-09-18:13:00:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-18",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "alamo:2026-09-18:13:20:tmdb:402",
-      "venueId": "alamo",
-      "filmKey": "tmdb:402",
-      "date": "2026-09-18",
-      "time": "13:20",
-      "url": "https://drafthouse.com/sf/show/basic-instinct?cinemaId=0801&sessionId=83173",
-      "source": "alamo"
-    },
-    {
-      "id": "operaplaza:2026-09-18:15:10:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-18",
-      "time": "15:10",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "alamo:2026-09-18:16:30:tmdb:1179147",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1179147",
-      "date": "2026-09-18",
-      "time": "16:30",
-      "url": "https://drafthouse.com/sf/show/welcome-space-brothers?cinemaId=0801&sessionId=83169",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-18:16:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-18",
-      "time": "16:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-18:17:00:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-18",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-18:17:00:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-18",
-      "time": "17:00",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-18",
-      "source": "vogue"
-    },
-    {
-      "id": "stanford:2026-09-18:17:50:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-18",
-      "time": "17:50",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
-    {
-      "id": "roxie:2026-09-18:18:00:tmdb:1596326",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-18",
-      "time": "18:00",
-      "url": "https://roxie.com/film/barbara-forever/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-18:18:00:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-18",
-      "time": "18:00",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-18:18:00:tmdb:858",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:858",
-      "date": "2026-09-18",
-      "time": "18:00",
-      "url": "https://thenewparkway.com/movie/sleepless-in-seattle-pasta-at-the-parkway/",
-      "note": "Pasta at the Parkway",
-      "source": "newparkway"
-    },
-    {
-      "id": "rafael:2026-09-18:18:45:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-18",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-18:19:00:tmdb:9802",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9802",
-      "date": "2026-09-18",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-the-rock-2/",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-09-18:19:00:t:senegalese meet sene gallic",
-      "venueId": "bampfa",
-      "filmKey": "t:senegalese meet sene gallic",
-      "date": "2026-09-18",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/senegalese-meet-sene-gallic",
-      "format": "DCP",
-      "note": "Alice Diop in Person",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-18:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-18",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-18:19:30:tmdb:11178",
-      "venueId": "balboa",
-      "filmKey": "tmdb:11178",
-      "date": "2026-09-18",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/my-sassy-girl-september-18",
-      "format": "4K",
-      "note": "New 25th Anniversary 4K",
-      "source": "balboa"
-    },
-    {
-      "id": "stanford:2026-09-18:19:30:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-18",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
-      "id": "operaplaza:2026-09-18:20:30:tmdb:6114",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:6114",
-      "date": "2026-09-18",
-      "time": "20:30",
-      "url": "https://www.landmarktheatres.com/movies/5434-bram-stokers-dracula/",
-      "format": "4K",
-      "note": "Trixxie Carr's Fantasy Film Series",
-      "source": "operaplaza"
-    },
-    {
-      "id": "stanford:2026-09-18:21:15:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-18",
-      "time": "21:15",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
-    {
-      "id": "alamo:2026-09-18:22:10:tmdb:1599181",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-09-18",
-      "time": "22:10",
-      "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=83171",
-      "source": "alamo"
-    },
-    {
-      "id": "piedmont:2026-09-18:22:30:tmdb:252",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:252",
-      "date": "2026-09-18",
-      "time": "22:30",
-      "url": "https://www.landmarktheatres.com/movies/52931-willy-wonka-and-the-chocolate-factory/",
-      "note": "Landmark's Piedmont Theatre - Cine Insomnia Late Shows",
-      "source": "piedmont"
-    },
     {
       "id": "rafael:2026-09-19:11:00:tmdb:373353",
       "venueId": "rafael",
@@ -4149,6 +3945,15 @@
       "source": "castro"
     },
     {
+      "id": "alamo:2026-10-11:15:30:tmdb:1214554",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1214554",
+      "date": "2026-10-11",
+      "time": "15:30",
+      "url": "https://drafthouse.com/sf/show/devo-restorations-and-revelations-collected-film-works-1976-1984?cinemaId=0801&sessionId=82951",
+      "source": "alamo"
+    },
+    {
       "id": "alamo:2026-10-11:16:00:tmdb:10802",
       "venueId": "alamo",
       "filmKey": "tmdb:10802",
@@ -4294,6 +4099,56 @@
       "url": "https://www.landmarktheatres.com/movies/176961-tucker-and-dale-vs-evil/",
       "note": "Cine Insomnia - Scary Spaces",
       "source": "piedmont"
+    },
+    {
+      "id": "roxie:2026-10-17:12:30:tmdb:7857",
+      "venueId": "roxie",
+      "filmKey": "tmdb:7857",
+      "date": "2026-10-17",
+      "time": "12:30",
+      "url": "https://roxie.com/film/zyzzyva-movie-matinee-with-ingrid-rojas-contreras-amarcord/",
+      "format": "35mm",
+      "source": "roxie"
+    },
+    {
+      "id": "operaplaza:2026-10-17:13:00:tmdb:564",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:564",
+      "date": "2026-10-17",
+      "time": "13:00",
+      "url": "https://www.landmarktheatres.com/movies/631-the-mummy-1932/",
+      "note": "Marquee Matinees - Monster Madness",
+      "source": "operaplaza"
+    },
+    {
+      "id": "roxie:2026-10-17:18:00:tmdb:50173",
+      "venueId": "roxie",
+      "filmKey": "tmdb:50173",
+      "date": "2026-10-17",
+      "time": "18:00",
+      "url": "https://roxie.com/film/new-people-jigoku/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "bampfa:2026-10-17:18:30:tmdb:43231",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:43231",
+      "date": "2026-10-17",
+      "time": "18:30",
+      "url": "https://bampfa.org/event/white-nights",
+      "format": "4K",
+      "note": "Special Screenings · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-10-17:22:00:tmdb:1694",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1694",
+      "date": "2026-10-17",
+      "time": "22:00",
+      "url": "https://thenewparkway.com/movie/re-animator/",
+      "source": "newparkway"
     }
   ],
   "festivals": [
@@ -4301,40 +4156,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-18",
+      "startDate": "2026-09-19",
       "endDate": "2026-10-07",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82728",
-      "showtimes": 22,
+      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82768",
+      "showtimes": 18,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-18",
-          "time": "12:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82728"
-        },
-        {
-          "date": "2026-09-18",
-          "time": "15:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82725"
-        },
-        {
-          "date": "2026-09-18",
-          "time": "18:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82726"
-        },
-        {
-          "date": "2026-09-18",
-          "time": "21:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82727"
-        },
         {
           "date": "2026-09-19",
           "time": "12:00",
@@ -4449,18 +4280,12 @@
       "key": "fest:newparkway:manhattan short film festival 2026",
       "name": "Manhattan Short Film Festival 2026",
       "venueId": "newparkway",
-      "startDate": "2026-09-18",
+      "startDate": "2026-09-19",
       "endDate": "2026-09-24",
       "url": "https://indy-systems.imgix.net/1j8jz48ewx3tqmvmap50uvy4nb1v?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
-      "showtimes": 7,
+      "showtimes": 6,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-09-18",
-          "time": "14:45",
-          "title": "Manhattan Short Film Festival 2026",
-          "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
-        },
         {
           "date": "2026-09-19",
           "time": "09:40",
@@ -4550,7 +4375,8 @@
           "date": "2026-09-25",
           "time": "19:00",
           "title": "Gugu's World",
-          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-25"
+          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-25",
+          "note": "Just selected as the Brazilian entry for the Best International Feature Film at the 99th Academy Awards!"
         },
         {
           "date": "2026-09-25",
