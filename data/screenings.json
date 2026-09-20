@@ -1,78 +1,6 @@
 {
-  "generatedAt": "2026-09-19T16:10:43.440Z",
+  "generatedAt": "2026-09-20T16:35:24.506Z",
   "films": {
-    "t:larry reed a life in light and shadow": {
-      "key": "t:larry reed a life in light and shadow",
-      "title": "Larry Reed: A Life in Light and Shadow",
-      "runtime": 90,
-      "overview": "Join us at the Roxie Theater for a special screening honoring the life and work of Larry Reed (1944–2026), master of Balinese shadow theater, theater and film director, and founder of ShadowLight Productions.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Larry-Reed-3.jpeg"
-    },
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:829": {
-      "key": "tmdb:829",
-      "title": "Chinatown",
-      "year": 1974,
-      "director": "Roman Polanski",
-      "runtime": 130,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
-      "tmdbId": 829,
-      "popularity": 9.965,
-      "releaseDate": "1974-06-20",
-      "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together."
-    },
-    "tmdb:1596326": {
-      "key": "tmdb:1596326",
-      "title": "Barbara Forever",
-      "year": 2026,
-      "director": "Brydie O'Connor",
-      "runtime": 102,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
-      "tmdbId": 1596326,
-      "popularity": 2.5685,
-      "releaseDate": "2026-09-04",
-      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
-    },
-    "tmdb:1620313": {
-      "key": "tmdb:1620313",
-      "title": "The Samurai and the Prisoner",
-      "year": 2026,
-      "director": "Kiyoshi Kurosawa",
-      "runtime": 147,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pPThPhqsh5bKwJoZDlWd67qCHcc.jpg",
-      "tmdbId": 1620313,
-      "popularity": 3.5859,
-      "releaseDate": "2026-06-19",
-      "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
-    },
-    "tmdb:30959": {
-      "key": "tmdb:30959",
-      "title": "Kwaidan",
-      "year": 1964,
-      "director": "Masaki Kobayashi",
-      "runtime": 183,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
-      "tmdbId": 30959,
-      "popularity": 5.2901,
-      "releaseDate": "1965-01-06",
-      "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
-    },
     "tmdb:1610748": {
       "key": "tmdb:1610748",
       "title": "Brailled It",
@@ -100,6 +28,20 @@
       "releaseDate": "2026-09-10",
       "overview": "A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive."
     },
+    "tmdb:1596326": {
+      "key": "tmdb:1596326",
+      "title": "Barbara Forever",
+      "year": 2026,
+      "director": "Brydie O'Connor",
+      "runtime": 102,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
+      "tmdbId": 1596326,
+      "popularity": 2.5685,
+      "releaseDate": "2026-09-04",
+      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
+    },
     "t:cycle of love": {
       "key": "t:cycle of love",
       "title": "The Cycle of Love",
@@ -109,6 +51,20 @@
       "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
       "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
       "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
+    },
+    "tmdb:30959": {
+      "key": "tmdb:30959",
+      "title": "Kwaidan",
+      "year": 1964,
+      "director": "Masaki Kobayashi",
+      "runtime": 183,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
+      "tmdbId": 30959,
+      "popularity": 5.2901,
+      "releaseDate": "1965-01-06",
+      "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
     },
     "tmdb:56126": {
       "key": "tmdb:56126",
@@ -123,6 +79,15 @@
       "popularity": 2.0793,
       "releaseDate": "1982-11-18",
       "overview": "Sid Lucero, a 21-year old pre-Med student, is an aspiring neophyte of the Alpha Kappa Omega fraternity. Over a six-month initiation period, he and six other neophytes are subjected to severe physical and psychological torture in and outside the fraternity house."
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:1631822": {
       "key": "tmdb:1631822",
@@ -242,6 +207,20 @@
       "runtime": 102,
       "overview": "Araya captures nearly five-hundred years of history condensed into a speculative single day (albeit filmed with her cinematographer Giuseppe Nisoli over four weeks, from September to October), with a tripartite structure following the lives of three families in three nearby villages.",
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-20.jpg"
+    },
+    "tmdb:1620313": {
+      "key": "tmdb:1620313",
+      "title": "The Samurai and the Prisoner",
+      "year": 2026,
+      "director": "Kiyoshi Kurosawa",
+      "runtime": 147,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pPThPhqsh5bKwJoZDlWd67qCHcc.jpg",
+      "tmdbId": 1620313,
+      "popularity": 3.5859,
+      "releaseDate": "2026-06-19",
+      "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
     },
     "t:re vision the dislocation of amber": {
       "key": "t:re vision the dislocation of amber",
@@ -901,20 +880,6 @@
       "releaseDate": "2008-11-07",
       "overview": "By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo."
     },
-    "tmdb:10054": {
-      "key": "tmdb:10054",
-      "title": "Spy Kids",
-      "year": 2001,
-      "director": "Robert Rodriguez",
-      "runtime": 88,
-      "genre": "Family",
-      "poster": "https://image.tmdb.org/t/p/w500/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/wfStsmeSW7MtvYhD9Ac6ETXdbmx.jpg",
-      "tmdbId": 10054,
-      "popularity": 11.3447,
-      "releaseDate": "2001-03-18",
-      "overview": "Carmen and Juni think their parents are boring. Little do they know that in their day, Gregorio and Ingrid Cortez were the top secret agents from their respective countries. They gave up that life to raise their children. Now, the disappearances of several of their old colleagues forces the Cortez' return from retirement. What they didn't count on was Carmen and Juni joining the \"family business.\""
-    },
     "tmdb:11000": {
       "key": "tmdb:11000",
       "title": "The Birdcage",
@@ -1068,18 +1033,6 @@
       "releaseDate": "2023-08-05",
       "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
     },
-    "tmdb:1189320": {
-      "key": "tmdb:1189320",
-      "title": "Psychedelic Cinema",
-      "year": 1969,
-      "director": "Ken Brown",
-      "runtime": 60,
-      "poster": "https://image.tmdb.org/t/p/w500/fXjkyHXcWuzcEOPtEc0iZUY4b6l.jpg",
-      "tmdbId": 1189320,
-      "popularity": 0.4209,
-      "releaseDate": "1969-12-31",
-      "overview": "Between 1967 and 1969, Ken Brown created short Super-8 films to be projected with the light show at the premiere rock club in Boston, Massachusetts, The Boston Tea Party. The resulting films, collected here as the \"Psychedelic Cinema\" program, stand today as an amazing window on another time. Swirling colors and lights, clip art animations, cinéma vérité images of '60s youth culture and fashions, flickering candle flames and flowers in bloom meld together in fluid, dream-like montage. The films originally illuminated the stage for Jimi Hendrix, The Velvet Underground, The Grateful Dead, Frank Zappa, Sly and the Family Stone, Neil Young, The Who, Pink Floyd and the Hallucinations (soon to become the J. Giles Band)."
-    },
     "t:other cinema post kolonial spectres": {
       "key": "t:other cinema post kolonial spectres",
       "title": "Other Cinema: Post-Kolonial Spectres",
@@ -1217,34 +1170,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "tmdb:266": {
-      "key": "tmdb:266",
-      "title": "Contempt",
-      "year": 1963,
-      "director": "Jean-Luc Godard",
-      "runtime": 103,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
-      "tmdbId": 266,
-      "popularity": 4.4246,
-      "releaseDate": "1963-10-29",
-      "overview": "Art film producer Jeremy Prokosch, unhappy with the work of his director, hires Fritz Lang (as himself) to direct an adaptation of The Odyssey, but when it seems that the legendary filmmaker is making a picture destined to bomb, he brings in a screenwriter to energise the script. The professional intersects with the personal when a rift develops between the writer and his wife."
-    },
-    "tmdb:47060": {
-      "key": "tmdb:47060",
-      "title": "The Hole",
-      "year": 1998,
-      "director": "Tsai Ming-liang",
-      "runtime": 95,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/lsuvfxyCxlnkzc49hGMUmPDibCk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sb174oPl1eQqgiCFSDvINxd3fb7.jpg",
-      "tmdbId": 47060,
-      "popularity": 2.2348,
-      "releaseDate": "1998-09-14",
-      "overview": "In the final days of the year 1999, almost everyone in Taiwan has died from a strange plague that ravished the island. As rain pours down relentlessly, a single man is stuck with an unfinished plumbing job and a hole in his floor. This results in a very odd relationship with the woman who lives below him."
     },
     "tmdb:43372": {
       "key": "tmdb:43372",
@@ -1452,33 +1377,33 @@
       "releaseDate": "1957-11-14",
       "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return."
     },
-    "tmdb:850": {
-      "key": "tmdb:850",
-      "title": "A Christmas Story",
-      "year": 1983,
-      "director": "Bob Clark",
-      "runtime": 93,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/feCcRTZNGUop3LnWBLTToYhd03S.jpg",
-      "tmdbId": 850,
-      "popularity": 8.9344,
-      "releaseDate": "1983-11-18",
-      "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s."
+    "tmdb:501048": {
+      "key": "tmdb:501048",
+      "title": "Shaihu Umar",
+      "year": 1976,
+      "director": "Adamu Halilu",
+      "runtime": 142,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/6bsdGUPZ8ieVWzi6M6waLoSFYLC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ohhOHfkQfpHQLhDaPL6615IsiyH.jpg",
+      "tmdbId": 501048,
+      "popularity": 0.8078,
+      "releaseDate": "1976-01-25",
+      "overview": "Set in northern Nigeria towards the end of the 19th century, Shaihu Umar begins with a discussion between Islamic students and their renowned teacher, the wise man Shaihu Umar. Asked about his origins, Umar begins to tell his story: he comes from a modest background and is separated from his mother after his father dies and his stepfather is banished. His subsequent trials and tribulations are marked by slavery, and he is put to any number of tests until he finally becomes the adopted son of his Arabic master Abdulkarim. He attends Quranic school and is made an imam upon reaching adulthood. Following a particular dream, he resolves to search for his mother."
     },
-    "tmdb:2164": {
-      "key": "tmdb:2164",
-      "title": "Stargate",
-      "year": 1994,
-      "director": "Roland Emmerich",
-      "runtime": 121,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/4T6Po0XnZlevmhfPh3ZfEs5butR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/s2bqHApZlliCuwgyHod0qucrYqZ.jpg",
-      "tmdbId": 2164,
-      "popularity": 11.5524,
-      "releaseDate": "1994-10-28",
-      "overview": "An interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra."
+    "tmdb:262": {
+      "key": "tmdb:262",
+      "title": "The King of Comedy",
+      "year": 1982,
+      "director": "Martin Scorsese",
+      "runtime": 109,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
+      "tmdbId": 262,
+      "popularity": 10.9994,
+      "releaseDate": "1982-12-18",
+      "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy."
     },
     "tmdb:1788": {
       "key": "tmdb:1788",
@@ -1662,6 +1587,20 @@
       "releaseDate": "1985-10-18",
       "overview": "Conducting clandestine experiments within the morgue at Miskatonic University, scientist Herbert West reveals to a fellow graduate student his groundbreaking work concerning the re-animation of fresh corpses."
     },
+    "tmdb:653": {
+      "key": "tmdb:653",
+      "title": "Nosferatu",
+      "year": 1922,
+      "director": "F. W. Murnau",
+      "runtime": 94,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cA9iGtvjRGJHzDBfrq48l0eyCvA.jpg",
+      "tmdbId": 653,
+      "popularity": 6.1107,
+      "releaseDate": "1922-02-16",
+      "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
+    },
     "tmdb:992": {
       "key": "tmdb:992",
       "title": "Sherlock Jr.",
@@ -1717,33 +1656,6 @@
       "popularity": 8.2768,
       "releaseDate": "2010-01-22",
       "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
-    },
-    "tmdb:653": {
-      "key": "tmdb:653",
-      "title": "Nosferatu",
-      "year": 1922,
-      "director": "F. W. Murnau",
-      "runtime": 94,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/cA9iGtvjRGJHzDBfrq48l0eyCvA.jpg",
-      "tmdbId": 653,
-      "popularity": 6.1107,
-      "releaseDate": "1922-02-16",
-      "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
-    },
-    "tmdb:373353": {
-      "key": "tmdb:373353",
-      "title": "Between Sea and Land",
-      "year": 2016,
-      "director": "Carlos del Castillo",
-      "runtime": 98,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/tbxAvBAvXTofN6EeDQUrDlLvipf.jpg",
-      "tmdbId": 373353,
-      "popularity": 2.8714,
-      "releaseDate": "2016-06-28",
-      "overview": "A man yearns to go into the ocean across the street from his house, but suffers from an illness that prevents him from doing so."
     },
     "tmdb:653757": {
       "key": "tmdb:653757",
@@ -1817,308 +1729,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "rafael:2026-09-19:11:00:tmdb:373353",
-      "venueId": "rafael",
-      "filmKey": "tmdb:373353",
-      "date": "2026-09-19",
-      "time": "11:00",
-      "url": "https://cinema.cafilm.org/film/la-cinaga",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-19:12:00:tmdb:10054",
-      "venueId": "alamo",
-      "filmKey": "tmdb:10054",
-      "date": "2026-09-19",
-      "time": "12:00",
-      "url": "https://drafthouse.com/sf/show/movie-party-spy-kids?cinemaId=0801&sessionId=82498",
-      "note": "Movie Parties · Come for gadgets, stay for the Thumb-Thumbs",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-09-19:12:30:tmdb:850",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:850",
-      "date": "2026-09-19",
-      "time": "12:30",
-      "url": "https://thenewparkway.com/movie/a-christmas-story/",
-      "source": "newparkway"
-    },
-    {
-      "id": "rafael:2026-09-19:12:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-19",
-      "time": "12:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "operaplaza:2026-09-19:13:00:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-19",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-19:13:15:t:larry reed a life in light and shadow",
-      "venueId": "roxie",
-      "filmKey": "t:larry reed a life in light and shadow",
-      "date": "2026-09-19",
-      "time": "13:15",
-      "url": "https://roxie.com/film/larry-reed-a-life-in-light-and-shadow/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-19:13:45:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-19",
-      "time": "13:45",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-19:14:30:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-19",
-      "time": "14:30",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-19",
-      "source": "vogue"
-    },
-    {
-      "id": "rafael:2026-09-19:14:45:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-19",
-      "time": "14:45",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-19:14:45:tmdb:1179147",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1179147",
-      "date": "2026-09-19",
-      "time": "14:45",
-      "url": "https://drafthouse.com/sf/show/welcome-space-brothers?cinemaId=0801&sessionId=82928",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-09-19:15:00:tmdb:2164",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:2164",
-      "date": "2026-09-19",
-      "time": "15:00",
-      "url": "https://thenewparkway.com/movie/stargate-space-on-screeen/",
-      "note": "Space on Screeen",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-09-19:15:10:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-19",
-      "time": "15:10",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "operaplaza:2026-09-19:15:10:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-19",
-      "time": "15:10",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-19:16:00:tmdb:829",
-      "venueId": "roxie",
-      "filmKey": "tmdb:829",
-      "date": "2026-09-19",
-      "time": "16:00",
-      "url": "https://roxie.com/film/sf-lost-neon-landscapes-chinatown/",
-      "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-19:16:05:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-19",
-      "time": "16:05",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
-      "id": "balboa:2026-09-19:16:30:tmdb:11178",
-      "venueId": "balboa",
-      "filmKey": "tmdb:11178",
-      "date": "2026-09-19",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/my-sassy-girl-september-19",
-      "format": "4K",
-      "note": "New 25th Anniversary 4K",
-      "source": "balboa"
-    },
-    {
-      "id": "bampfa:2026-09-19:16:30:tmdb:266",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:266",
-      "date": "2026-09-19",
-      "time": "16:30",
-      "url": "https://bampfa.org/event/contempt",
-      "format": "4K",
-      "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-19:16:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-19",
-      "time": "16:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-19:17:00:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-19",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-19:17:20:tmdb:1596326",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-19",
-      "time": "17:20",
-      "url": "https://roxie.com/film/barbara-forever/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-19:17:45:tmdb:402",
-      "venueId": "alamo",
-      "filmKey": "tmdb:402",
-      "date": "2026-09-19",
-      "time": "17:45",
-      "url": "https://drafthouse.com/sf/show/basic-instinct?cinemaId=0801&sessionId=83172",
-      "source": "alamo"
-    },
-    {
-      "id": "stanford:2026-09-19:17:50:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-19",
-      "time": "17:50",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
-    {
-      "id": "rafael:2026-09-19:18:45:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-19",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "bampfa:2026-09-19:19:00:tmdb:47060",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:47060",
-      "date": "2026-09-19",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/hole",
-      "format": "35mm",
-      "note": "Special Screenings · New 35mm Print",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-19:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-19",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "stanford:2026-09-19:19:30:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-19",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
-      "id": "roxie:2026-09-19:19:40:tmdb:1620313",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1620313",
-      "date": "2026-09-19",
-      "time": "19:40",
-      "url": "https://roxie.com/film/the-samurai-and-the-prisoner/",
-      "source": "roxie"
-    },
-    {
-      "id": "operaplaza:2026-09-19:19:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-19",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "ata:2026-09-19:20:00:tmdb:1189320",
-      "venueId": "ata",
-      "filmKey": "tmdb:1189320",
-      "date": "2026-09-19",
-      "time": "20:00",
-      "url": "https://www.atasite.org/event/other-cinema-psychedelic-cinema-2026/",
-      "note": "OC is truly honored to welcome back esteemed European critic, author, and curator Kornelia Boczkowska!",
-      "source": "ata"
-    },
-    {
-      "id": "roxie:2026-09-19:20:05:tmdb:30959",
-      "venueId": "roxie",
-      "filmKey": "tmdb:30959",
-      "date": "2026-09-19",
-      "time": "20:05",
-      "url": "https://roxie.com/film/kwaidan-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-19:21:00:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-19",
-      "time": "21:00",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "stanford:2026-09-19:21:15:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-19",
-      "time": "21:15",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
     {
       "id": "roxie:2026-09-20:12:30:tmdb:1610748",
       "venueId": "roxie",
@@ -2261,15 +1871,6 @@
       "source": "rafael"
     },
     {
-      "id": "rafael:2026-09-20:17:00:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-20",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
       "id": "rafael:2026-09-20:17:00:tmdb:1596302",
       "venueId": "rafael",
       "filmKey": "tmdb:1596302",
@@ -2277,6 +1878,15 @@
       "time": "17:00",
       "url": "https://cinema.cafilm.org/film/the-oldest-person-in-the-world",
       "note": "Screening and Conversation — With Director Sam Green in Conversationwith Kari Cardinale, Modern Elders Academy",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-20:17:00:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-20",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/filipiana",
       "source": "rafael"
     },
     {
@@ -2512,21 +2122,21 @@
       "source": "rafael"
     },
     {
-      "id": "roxie:2026-09-22:18:00:tmdb:1596326",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-22",
-      "time": "18:00",
-      "url": "https://roxie.com/film/barbara-forever/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-09-22:18:00:tmdb:1596302",
       "venueId": "roxie",
       "filmKey": "tmdb:1596302",
       "date": "2026-09-22",
       "time": "18:00",
       "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-09-22:18:00:tmdb:1596326",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596326",
+      "date": "2026-09-22",
+      "time": "18:00",
+      "url": "https://roxie.com/film/barbara-forever/",
       "source": "roxie"
     },
     {
@@ -4149,6 +3759,47 @@
       "time": "22:00",
       "url": "https://thenewparkway.com/movie/re-animator/",
       "source": "newparkway"
+    },
+    {
+      "id": "roxie:2026-10-18:15:00:tmdb:50173",
+      "venueId": "roxie",
+      "filmKey": "tmdb:50173",
+      "date": "2026-10-18",
+      "time": "15:00",
+      "url": "https://roxie.com/film/new-people-jigoku/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "bampfa:2026-10-18:15:00:tmdb:501048",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:501048",
+      "date": "2026-10-18",
+      "time": "15:00",
+      "url": "https://bampfa.org/event/shaihu-umar",
+      "format": "DCP",
+      "note": "Stefanie Schulte Strathaus: Modes of Archivism · Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-10-18:15:00:tmdb:653",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:653",
+      "date": "2026-10-18",
+      "time": "15:00",
+      "url": "https://thenewparkway.com/movie/nosferatu-1922/",
+      "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-10-18:19:00:tmdb:262",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:262",
+      "date": "2026-10-18",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/king-comedy",
+      "format": "DCP",
+      "note": "Martin Scorsese Pictures",
+      "source": "bampfa"
     }
   ],
   "festivals": [
@@ -4156,40 +3807,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-19",
+      "startDate": "2026-09-20",
       "endDate": "2026-10-07",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82768",
-      "showtimes": 18,
+      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82733",
+      "showtimes": 14,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-19",
-          "time": "12:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82768"
-        },
-        {
-          "date": "2026-09-19",
-          "time": "15:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82769"
-        },
-        {
-          "date": "2026-09-19",
-          "time": "18:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82731"
-        },
-        {
-          "date": "2026-09-19",
-          "time": "21:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82732"
-        },
         {
           "date": "2026-09-20",
           "time": "12:00",
@@ -4280,18 +3907,12 @@
       "key": "fest:newparkway:manhattan short film festival 2026",
       "name": "Manhattan Short Film Festival 2026",
       "venueId": "newparkway",
-      "startDate": "2026-09-19",
+      "startDate": "2026-09-20",
       "endDate": "2026-09-24",
       "url": "https://indy-systems.imgix.net/1j8jz48ewx3tqmvmap50uvy4nb1v?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
-      "showtimes": 6,
+      "showtimes": 5,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-09-19",
-          "time": "09:40",
-          "title": "Manhattan Short Film Festival 2026",
-          "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
-        },
         {
           "date": "2026-09-20",
           "time": "11:45",
@@ -4688,6 +4309,26 @@
           "time": "19:00",
           "title": "The Arch",
           "url": "https://bampfa.org/event/arch"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations digital restoration",
+      "name": "Hong Kong Cinema: Rarities and Restorations · Digital Restoration",
+      "venueId": "bampfa",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-25",
+      "url": "https://bampfa.org/event/colorful-youth",
+      "showtimes": 1,
+      "sample": [
+        "Colorful Youth"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-25",
+          "time": "16:00",
+          "title": "Colorful Youth",
+          "url": "https://bampfa.org/event/colorful-youth"
         }
       ]
     },
