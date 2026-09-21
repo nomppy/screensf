@@ -1,33 +1,6 @@
 {
-  "generatedAt": "2026-09-20T16:35:24.506Z",
+  "generatedAt": "2026-09-21T18:23:19.067Z",
   "films": {
-    "tmdb:1610748": {
-      "key": "tmdb:1610748",
-      "title": "Brailled It",
-      "year": 2026,
-      "director": "Salome Cummins, Isaiah Gauthier, David Grabias, Christopher Morgan, Brendon Schulze",
-      "runtime": 73,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/nS7wI8ALeyVbmu8ahQVDjq6vgHV.jpg",
-      "tmdbId": 1610748,
-      "popularity": 2.2463,
-      "releaseDate": "2026-09-04",
-      "overview": "Blind and low-vision kids take control of the cameras and capture their own experiences at the annual Braille Challenge — a weekend of high-pressure competition and raw coming-of-age moments."
-    },
-    "tmdb:1596302": {
-      "key": "tmdb:1596302",
-      "title": "The Oldest Person in the World",
-      "year": 2026,
-      "director": "Sam Green",
-      "runtime": 87,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/tlxL2d2iR2REv2t60tk5P7c2tt6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/39K96SvSupTsnjileodYguriBDC.jpg",
-      "tmdbId": 1596302,
-      "popularity": 1.3817,
-      "releaseDate": "2026-09-10",
-      "overview": "A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive."
-    },
     "tmdb:1596326": {
       "key": "tmdb:1596326",
       "title": "Barbara Forever",
@@ -41,30 +14,6 @@
       "popularity": 2.5685,
       "releaseDate": "2026-09-04",
       "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
-    },
-    "t:cycle of love": {
-      "key": "t:cycle of love",
-      "title": "The Cycle of Love",
-      "year": 2026,
-      "director": "Orlando von Einsiedel",
-      "runtime": 95,
-      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
-      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
-    },
-    "tmdb:30959": {
-      "key": "tmdb:30959",
-      "title": "Kwaidan",
-      "year": 1964,
-      "director": "Masaki Kobayashi",
-      "runtime": 183,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
-      "tmdbId": 30959,
-      "popularity": 5.2901,
-      "releaseDate": "1965-01-06",
-      "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
     },
     "tmdb:56126": {
       "key": "tmdb:56126",
@@ -88,6 +37,20 @@
       "runtime": 100,
       "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
       "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
+    },
+    "tmdb:1596302": {
+      "key": "tmdb:1596302",
+      "title": "The Oldest Person in the World",
+      "year": 2026,
+      "director": "Sam Green",
+      "runtime": 87,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/tlxL2d2iR2REv2t60tk5P7c2tt6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/39K96SvSupTsnjileodYguriBDC.jpg",
+      "tmdbId": 1596302,
+      "popularity": 1.3817,
+      "releaseDate": "2026-09-10",
+      "overview": "A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive."
     },
     "tmdb:1631822": {
       "key": "tmdb:1631822",
@@ -405,6 +368,20 @@
       "releaseDate": "2023-11-12",
       "overview": "One of the world’s youngest elite rock climbers, Ashima Shiraishi spent her formative years breaking numerous age-based climbing milestones, spurred on by her number one fan and coach, her father, Poppo a retired Butoh dancer and avant-garde performer with no formal climbing experience. When these New Yorkers travel to South Africa to conquer a V14 boulder problem, father and daughter must face their interpersonal struggles in tandem with the challenging ascent."
     },
+    "tmdb:30959": {
+      "key": "tmdb:30959",
+      "title": "Kwaidan",
+      "year": 1964,
+      "director": "Masaki Kobayashi",
+      "runtime": 183,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
+      "tmdbId": 30959,
+      "popularity": 5.2901,
+      "releaseDate": "1965-01-06",
+      "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
+    },
     "tmdb:63025": {
       "key": "tmdb:63025",
       "title": "A Lizard in a Woman's Skin",
@@ -456,6 +433,20 @@
       "releaseDate": "2023-07-05",
       "overview": "This documentary film follows a 10-week drama therapy workshop, with 13 multigenerational queer participants, coming together to unpack internalized queerphobia and the evolution of the LGBTQ+ community."
     },
+    "tmdb:1791": {
+      "key": "tmdb:1791",
+      "title": "The Piano Teacher",
+      "year": 2001,
+      "director": "Michael Haneke",
+      "runtime": 131,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+      "tmdbId": 1791,
+      "popularity": 15.3956,
+      "releaseDate": "2001-09-05",
+      "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her."
+    },
     "tmdb:50173": {
       "key": "tmdb:50173",
       "title": "Jigoku",
@@ -497,20 +488,6 @@
       "popularity": 3.9139,
       "releaseDate": "1973-12-18",
       "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios."
-    },
-    "tmdb:11178": {
-      "key": "tmdb:11178",
-      "title": "My Sassy Girl",
-      "year": 2001,
-      "director": "Kwak Jae-yong",
-      "runtime": 137,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/i964xFDEMwZ5uaweParv8ItBfbJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/13uKAt4M87HQi1lMZAwBmsNZRGg.jpg",
-      "tmdbId": 11178,
-      "popularity": 5.6985,
-      "releaseDate": "2001-07-27",
-      "overview": "A young man’s world is turned upside down when a female force of nature takes his life by storm in this outrageous and uplifting ode to true love."
     },
     "tmdb:884551": {
       "key": "tmdb:884551",
@@ -636,20 +613,6 @@
       "releaseDate": "1994-09-28",
       "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful."
     },
-    "tmdb:91694": {
-      "key": "tmdb:91694",
-      "title": "Ace Attorney",
-      "year": 2012,
-      "director": "Takashi Miike",
-      "runtime": 135,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/j2QcDHN7nScDSLsnuS3tCXOl2SN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fVNl1NS6wGHhb9xrU9DdHutBi9v.jpg",
-      "tmdbId": 91694,
-      "popularity": 2.3497,
-      "releaseDate": "2012-02-11",
-      "overview": "Based primarily on the first game in the series, Phoenix Wright: Ace Attorney, the film focuses on rookie defense attorney Phoenix Wright, as he strives to protect his clients in various murder trials, including the death of his mentor, Mia Fey, and the accusation of rival prosecutor, Miles Edgeworth. Phoenix's greatest ally is Mia's younger sister Maya, a spirit medium whose body is possessed by Mia to communicate with him."
-    },
     "tmdb:8392": {
       "key": "tmdb:8392",
       "title": "My Neighbor Totoro",
@@ -704,6 +667,20 @@
       "popularity": 1.0169,
       "releaseDate": "2009-11-20",
       "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
+    },
+    "tmdb:21588": {
+      "key": "tmdb:21588",
+      "title": "Cemetery Man",
+      "year": 1994,
+      "director": "Michele Soavi",
+      "runtime": 104,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/cI5AV3jCuxmoQp0N7Z16SI2b7Xk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fHPTQ18tuwtJ3JvrCeZMZs4X58Q.jpg",
+      "tmdbId": 21588,
+      "popularity": 3.8578,
+      "releaseDate": "1994-03-25",
+      "overview": "Francesco Dellamorte  is the groundskeeper at a cemetery where the dead just won’t stay dead—and it’s up to him to deal with those who come back to life with a hunger for human flesh. But Dellamorte’s job soon becomes much more complicated when he falls for an enigmatic young woman whose husband has recently died."
     },
     "t:9 to 5": {
       "key": "t:9 to 5",
@@ -1171,34 +1148,6 @@
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
     },
-    "tmdb:43372": {
-      "key": "tmdb:43372",
-      "title": "Bellissima",
-      "year": 1951,
-      "director": "Luchino Visconti",
-      "runtime": 115,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/Ao5l92i1QPYq3Na98cffLInFsGB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/c9WbbEdmIAmq9NYYZG2uoEAH8sH.jpg",
-      "tmdbId": 43372,
-      "popularity": 2.0261,
-      "releaseDate": "1952-01-04",
-      "overview": "Film director Blasetti is looking for a little girl for his new movie. Along with other mothers, Maddelena takes her daughter to Cinecittà, hoping she’ll be selected and become a star. She is ready to sacrifice anything for little Maria."
-    },
-    "tmdb:13963": {
-      "key": "tmdb:13963",
-      "title": "The Last Waltz",
-      "year": 1978,
-      "director": "Martin Scorsese",
-      "runtime": 117,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
-      "tmdbId": 13963,
-      "popularity": 2.6165,
-      "releaseDate": "1978-04-26",
-      "overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends."
-    },
     "t:it will be better before and temo re": {
       "key": "t:it will be better before and temo re",
       "title": "It Will Be Better Before and Temo Re",
@@ -1404,34 +1353,6 @@
       "popularity": 10.9994,
       "releaseDate": "1982-12-18",
       "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy."
-    },
-    "tmdb:1788": {
-      "key": "tmdb:1788",
-      "title": "Footloose",
-      "year": 1984,
-      "director": "Herbert Ross",
-      "runtime": 107,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/9JEDjBCXCx3eKTSkXwispf0UN3O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/t8n5mvmnJUYJkyfOPWYEtvqePuM.jpg",
-      "tmdbId": 1788,
-      "popularity": 7.7392,
-      "releaseDate": "1984-02-17",
-      "overview": "When teenager Ren and his family move from big-city Chicago to a small town in the West, he's in for a real case of culture shock after discovering he's living in a place where music and dancing are illegal."
-    },
-    "tmdb:1574": {
-      "key": "tmdb:1574",
-      "title": "Chicago",
-      "year": 2002,
-      "director": "Rob Marshall",
-      "runtime": 113,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/euxYhuuJjChU755u2YHj0ZPjww3.jpg",
-      "tmdbId": 1574,
-      "popularity": 6.9955,
-      "releaseDate": "2002-12-10",
-      "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago."
     },
     "tmdb:10560": {
       "key": "tmdb:10560",
@@ -1657,6 +1578,16 @@
       "releaseDate": "2010-01-22",
       "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
     },
+    "t:cycle of love": {
+      "key": "t:cycle of love",
+      "title": "CYCLE OF LOVE",
+      "year": 2026,
+      "director": "Orlando von Einsiedel",
+      "runtime": 95,
+      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
+    },
     "tmdb:653757": {
       "key": "tmdb:653757",
       "title": "Once Upon a Time in Venezuela",
@@ -1685,34 +1616,6 @@
       "releaseDate": "2018-11-02",
       "overview": "A woman steals a man's identity and forces him to confront a secret that he's hidden for over thirty years."
     },
-    "tmdb:43794": {
-      "key": "tmdb:43794",
-      "title": "Moon Over Miami",
-      "year": 1941,
-      "director": "Walter Lang",
-      "runtime": 91,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/c3zBaU3wwTJThzT4jK9Ehwp3ik5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4hUJ98NjDwCpH84yJqUeg4hYy5b.jpg",
-      "tmdbId": 43794,
-      "popularity": 1.2195,
-      "releaseDate": "1941-07-04",
-      "overview": "After losing nearly all of an inheritance to taxes, sisters Kay and Barbara Latimer, waitresses at a drive-in restaurant in Texas, scheme to find rich husbands. With the aid of their aunt Susan, the sisters take the last of their money and head to a well-known Miami resort where they soon meet two wealthy young men, Phil and Jeff, who begin a fierce rivalry for Kay, not realizing that Barbara has fallen in love with one of them."
-    },
-    "tmdb:43810": {
-      "key": "tmdb:43810",
-      "title": "Down Argentine Way",
-      "year": 1940,
-      "director": "Irving Cummings",
-      "runtime": 89,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/gg3DgplgKq8ZBFnMwMfgGuhSZCs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5kyuveLcxz9aS5ufKXWTPeILJ0S.jpg",
-      "tmdbId": 43810,
-      "popularity": 1.2522,
-      "releaseDate": "1940-10-11",
-      "overview": "The story—in which an American heiress on holiday in South America falls in love with an Argentine horse breeder against the wishes of their families—takes a backseat to the spectacular location shooting and parade of extravagant musical numbers, which include the larger-than-life Carmen Miranda singing the hit “South American Way” and a showstopping dance routine by the always amazing Nicholas Brothers."
-    },
     "tmdb:43797": {
       "key": "tmdb:43797",
       "title": "Sun Valley Serenade",
@@ -1729,272 +1632,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "roxie:2026-09-20:12:30:tmdb:1610748",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1610748",
-      "date": "2026-09-20",
-      "time": "12:30",
-      "url": "https://roxie.com/film/brailled-it/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-20:12:30:tmdb:1596302",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596302",
-      "date": "2026-09-20",
-      "time": "12:30",
-      "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-20:12:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-20",
-      "time": "12:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "operaplaza:2026-09-20:13:00:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-20",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "newparkway:2026-09-20:13:00:tmdb:1788",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1788",
-      "date": "2026-09-20",
-      "time": "13:00",
-      "url": "https://thenewparkway.com/movie/footloose/",
-      "note": "Lights, Camera, Dance!",
-      "source": "newparkway"
-    },
-    {
-      "id": "rafael:2026-09-20:13:45:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-20",
-      "time": "13:45",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-20:14:30:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-20",
-      "time": "14:30",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-20",
-      "source": "vogue"
-    },
-    {
-      "id": "rafael:2026-09-20:14:45:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-20",
-      "time": "14:45",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-20:15:00:tmdb:1596326",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-20",
-      "time": "15:00",
-      "url": "https://roxie.com/film/barbara-forever/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-20:15:10:tmdb:1596302",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596302",
-      "date": "2026-09-20",
-      "time": "15:10",
-      "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
-      "source": "roxie"
-    },
-    {
-      "id": "operaplaza:2026-09-20:15:10:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-20",
-      "time": "15:10",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "stanford:2026-09-20:16:05:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-20",
-      "time": "16:05",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
-      "id": "balboa:2026-09-20:16:30:tmdb:11178",
-      "venueId": "balboa",
-      "filmKey": "tmdb:11178",
-      "date": "2026-09-20",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/my-sassy-girl-september-20",
-      "format": "4K",
-      "note": "New 25th Anniversary 4K",
-      "source": "balboa"
-    },
-    {
-      "id": "bampfa:2026-09-20:16:30:tmdb:43372",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:43372",
-      "date": "2026-09-20",
-      "time": "16:30",
-      "url": "https://bampfa.org/event/bellissima",
-      "format": "4K",
-      "note": "Special Screenings · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-20:16:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-20",
-      "time": "16:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-20:17:00:tmdb:1596302",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596302",
-      "date": "2026-09-20",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/the-oldest-person-in-the-world",
-      "note": "Screening and Conversation — With Director Sam Green in Conversationwith Kari Cardinale, Modern Elders Academy",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-20:17:00:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-20",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-20:17:15:t:cycle of love",
-      "venueId": "roxie",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-20",
-      "time": "17:15",
-      "url": "https://roxie.com/film/the-cycle-of-love/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-20:17:50:tmdb:30959",
-      "venueId": "roxie",
-      "filmKey": "tmdb:30959",
-      "date": "2026-09-20",
-      "time": "17:50",
-      "url": "https://roxie.com/film/kwaidan-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-20:17:50:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-20",
-      "time": "17:50",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
-    {
-      "id": "newparkway:2026-09-20:18:10:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-20",
-      "time": "18:10",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "bampfa:2026-09-20:19:00:tmdb:13963",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:13963",
-      "date": "2026-09-20",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/last-waltz",
-      "format": "4K",
-      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-20:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-20",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "4star:2026-09-20:19:30:tmdb:91694",
-      "venueId": "4star",
-      "filmKey": "tmdb:91694",
-      "date": "2026-09-20",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/media-meltdown-movie-madhouse",
-      "note": "ACE ATTORNEY",
-      "source": "4star"
-    },
-    {
-      "id": "stanford:2026-09-20:19:30:tmdb:43794",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43794",
-      "date": "2026-09-20",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Down Argentine Way",
-      "source": "stanford"
-    },
-    {
-      "id": "operaplaza:2026-09-20:19:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-20",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "newparkway:2026-09-20:20:30:tmdb:1574",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1574",
-      "date": "2026-09-20",
-      "time": "20:30",
-      "url": "https://thenewparkway.com/movie/chicago/",
-      "source": "newparkway"
-    },
-    {
-      "id": "stanford:2026-09-20:21:15:tmdb:43810",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43810",
-      "date": "2026-09-20",
-      "time": "21:15",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Moon Over Miami",
-      "source": "stanford"
-    },
     {
       "id": "alamo:2026-09-21:13:40:tmdb:1599181",
       "venueId": "alamo",
@@ -2122,21 +1759,21 @@
       "source": "rafael"
     },
     {
-      "id": "roxie:2026-09-22:18:00:tmdb:1596302",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596302",
-      "date": "2026-09-22",
-      "time": "18:00",
-      "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-09-22:18:00:tmdb:1596326",
       "venueId": "roxie",
       "filmKey": "tmdb:1596326",
       "date": "2026-09-22",
       "time": "18:00",
       "url": "https://roxie.com/film/barbara-forever/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-09-22:18:00:tmdb:1596302",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596302",
+      "date": "2026-09-22",
+      "time": "18:00",
+      "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
       "source": "roxie"
     },
     {
@@ -2473,6 +2110,16 @@
       "source": "bampfa"
     },
     {
+      "id": "balboa:2026-09-25:17:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-25",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
+      "note": "7:30 PM show at rush. 5 PM show added.",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-09-25:17:45:t:re vision dakan",
       "venueId": "roxie",
       "filmKey": "t:re vision dakan",
@@ -2509,15 +2156,6 @@
       "format": "DCP",
       "note": "Georgian Cinema Now: Part 1 · In Conversation: Salomé Jashi, Elene Naveriani",
       "source": "bampfa"
-    },
-    {
-      "id": "balboa:2026-09-25:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-25",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
-      "source": "balboa"
     },
     {
       "id": "stanford:2026-09-25:19:30:tmdb:43797",
@@ -2845,12 +2483,12 @@
       "source": "stanford"
     },
     {
-      "id": "roxie:2026-09-27:19:50:t:cycle of love",
+      "id": "roxie:2026-09-27:19:55:t:filipinana",
       "venueId": "roxie",
-      "filmKey": "t:cycle of love",
+      "filmKey": "t:filipinana",
       "date": "2026-09-27",
-      "time": "19:50",
-      "url": "https://roxie.com/film/the-cycle-of-love/",
+      "time": "19:55",
+      "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
     },
     {
@@ -2888,6 +2526,25 @@
       "time": "19:00",
       "url": "https://drafthouse.com/sf/show/queer-film-theory-101-the-birdcage?cinemaId=0801&sessionId=82422",
       "note": "Queer Film Theory 101 · Williams & Lane burst open THE BIRDCAGE in this flamboyant farcical adaptation",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-28:22:15:tmdb:9353",
+      "venueId": "alamo",
+      "filmKey": "tmdb:9353",
+      "date": "2026-09-28",
+      "time": "22:15",
+      "url": "https://drafthouse.com/sf/show/nacho-libre?cinemaId=0801&sessionId=83248",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-29:15:30:tmdb:280",
+      "venueId": "alamo",
+      "filmKey": "tmdb:280",
+      "date": "2026-09-29",
+      "time": "15:30",
+      "url": "https://drafthouse.com/sf/show/terminator-2-judgment-day?cinemaId=0801&sessionId=83249",
+      "note": "Baby Day",
       "source": "alamo"
     },
     {
@@ -2936,6 +2593,15 @@
       "time": "19:45",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-29",
       "source": "balboa"
+    },
+    {
+      "id": "roxie:2026-09-29:20:00:tmdb:1631822",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1631822",
+      "date": "2026-09-29",
+      "time": "20:00",
+      "url": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/",
+      "source": "roxie"
     },
     {
       "id": "balboa:2026-09-30:17:00:tmdb:1596296",
@@ -3022,6 +2688,15 @@
       "format": "35mm",
       "note": "Weird Wednesday · Lee Marvin vs. Gene Hackman in a peculiar American crime picture.",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-10-01:18:00:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-01",
+      "time": "18:00",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-10-01:18:00:tmdb:280",
@@ -3232,6 +2907,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-03:15:10:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-03",
+      "time": "15:10",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-10-03:15:10:tmdb:1599181",
       "venueId": "roxie",
       "filmKey": "tmdb:1599181",
@@ -3247,6 +2931,15 @@
       "date": "2026-10-03",
       "time": "16:00",
       "url": "https://roxie.com/film/new-people-hausu/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-03:17:30:tmdb:10494",
+      "venueId": "roxie",
+      "filmKey": "tmdb:10494",
+      "date": "2026-10-03",
+      "time": "17:30",
+      "url": "https://roxie.com/film/perfect-blue/",
       "source": "roxie"
     },
     {
@@ -3298,6 +2991,16 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-04:15:10:tmdb:30959",
+      "venueId": "roxie",
+      "filmKey": "tmdb:30959",
+      "date": "2026-10-04",
+      "time": "15:10",
+      "url": "https://roxie.com/film/kwaidan-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "sfmoma:2026-10-04:16:00:tmdb:1278622",
       "venueId": "sfmoma",
       "filmKey": "tmdb:1278622",
@@ -3306,6 +3009,24 @@
       "url": "https://www.sfmoma.org/event/black-is-beautiful-the-kwame-brathwaite-story-film-screening-and-conversation/",
       "note": "Join Nexus: San Francisco/Bay Area Black Art Week, SFMOMA, and MoAD for a film screening of \"Black Is Beautiful: The Kwame Brathwaite Story,\" followed by a…",
       "source": "sfmoma"
+    },
+    {
+      "id": "roxie:2026-10-04:16:50:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-10-04",
+      "time": "16:50",
+      "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-04:18:55:tmdb:104287",
+      "venueId": "roxie",
+      "filmKey": "tmdb:104287",
+      "date": "2026-10-04",
+      "time": "18:55",
+      "url": "https://roxie.com/film/dont-play-with-fire/",
+      "source": "roxie"
     },
     {
       "id": "4star:2026-10-04:20:00:tmdb:98096",
@@ -3328,6 +3049,15 @@
       "source": "newparkway"
     },
     {
+      "id": "roxie:2026-10-05:18:00:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-10-05",
+      "time": "18:00",
+      "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-10-05:21:30:tmdb:4011",
       "venueId": "alamo",
       "filmKey": "tmdb:4011",
@@ -3344,6 +3074,15 @@
       "time": "16:10",
       "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83203",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-10-06:18:15:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-06",
+      "time": "18:15",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-10-06:19:00:tmdb:1596296",
@@ -3593,6 +3332,16 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-12:20:10:tmdb:1791",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1791",
+      "date": "2026-10-12",
+      "time": "20:10",
+      "url": "https://roxie.com/film/staff-pick-the-piano-teacher-35mm/",
+      "format": "35mm",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-10-13:19:00:tmdb:14353",
       "venueId": "alamo",
       "filmKey": "tmdb:14353",
@@ -3800,6 +3549,16 @@
       "format": "DCP",
       "note": "Martin Scorsese Pictures",
       "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-10-18:19:30:tmdb:21588",
+      "venueId": "4star",
+      "filmKey": "tmdb:21588",
+      "date": "2026-10-18",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/media-meltdown-movie-madhouse",
+      "note": "DELLAMORTE DELLAMORE: CEMETERY MAN (1994)",
+      "source": "4star"
     }
   ],
   "festivals": [
@@ -3807,34 +3566,17 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-20",
-      "endDate": "2026-10-07",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82733",
-      "showtimes": 14,
+      "startDate": "2026-09-21",
+      "endDate": "2026-10-20",
+      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82736",
+      "showtimes": 12,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
-        "Resident Evil"
+        "Resident Evil",
+        "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-09-20",
-          "time": "12:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82733"
-        },
-        {
-          "date": "2026-09-20",
-          "time": "15:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82734"
-        },
-        {
-          "date": "2026-09-20",
-          "time": "18:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82735"
-        },
         {
           "date": "2026-09-21",
           "time": "15:00",
@@ -3900,6 +3642,12 @@
           "time": "19:00",
           "title": "Ghost in the Cell",
           "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82935"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "19:00",
+          "title": "The Cycle",
+          "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040"
         }
       ]
     },
@@ -3907,18 +3655,12 @@
       "key": "fest:newparkway:manhattan short film festival 2026",
       "name": "Manhattan Short Film Festival 2026",
       "venueId": "newparkway",
-      "startDate": "2026-09-20",
+      "startDate": "2026-09-21",
       "endDate": "2026-09-24",
       "url": "https://indy-systems.imgix.net/1j8jz48ewx3tqmvmap50uvy4nb1v?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
-      "showtimes": 5,
+      "showtimes": 4,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-09-20",
-          "time": "11:45",
-          "title": "Manhattan Short Film Festival 2026",
-          "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
-        },
         {
           "date": "2026-09-21",
           "time": "15:30",
@@ -4329,6 +4071,32 @@
           "time": "16:00",
           "title": "Colorful Youth",
           "url": "https://bampfa.org/event/colorful-youth"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents littermates advance screening",
+      "name": "Fantastic Fest Presents Littermates Advance Screening",
+      "venueId": "alamo",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-26",
+      "url": "https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-advance-screening?cinemaId=0801&sessionId=83223",
+      "showtimes": 2,
+      "sample": [
+        "Littermates"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-26",
+          "time": "19:15",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-advance-screening?cinemaId=0801&sessionId=83223"
+        },
+        {
+          "date": "2026-10-26",
+          "time": "22:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-advance-screening?cinemaId=0801&sessionId=83222"
         }
       ]
     },
