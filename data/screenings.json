@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-09-21T18:23:19.067Z",
+  "generatedAt": "2026-09-22T17:24:13.996Z",
   "films": {
+    "tmdb:1596302": {
+      "key": "tmdb:1596302",
+      "title": "The Oldest Person in the World",
+      "year": 2026,
+      "director": "Sam Green",
+      "runtime": 87,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/tlxL2d2iR2REv2t60tk5P7c2tt6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/39K96SvSupTsnjileodYguriBDC.jpg",
+      "tmdbId": 1596302,
+      "popularity": 1.3817,
+      "releaseDate": "2026-09-10",
+      "overview": "A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive."
+    },
     "tmdb:1596326": {
       "key": "tmdb:1596326",
       "title": "Barbara Forever",
@@ -15,20 +29,6 @@
       "releaseDate": "2026-09-04",
       "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
     },
-    "tmdb:56126": {
-      "key": "tmdb:56126",
-      "title": "Batch '81",
-      "year": 1982,
-      "director": "Mike de Leon",
-      "runtime": 100,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/lTz0Zq9RNZTV4CPbg6Bpvee66VU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dw1Q06oqvoL77ZIhsRBmfOCAHIk.jpg",
-      "tmdbId": 56126,
-      "popularity": 2.0793,
-      "releaseDate": "1982-11-18",
-      "overview": "Sid Lucero, a 21-year old pre-Med student, is an aspiring neophyte of the Alpha Kappa Omega fraternity. Over a six-month initiation period, he and six other neophytes are subjected to severe physical and psychological torture in and outside the fraternity house."
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -37,20 +37,6 @@
       "runtime": 100,
       "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
       "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:1596302": {
-      "key": "tmdb:1596302",
-      "title": "The Oldest Person in the World",
-      "year": 2026,
-      "director": "Sam Green",
-      "runtime": 87,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/tlxL2d2iR2REv2t60tk5P7c2tt6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/39K96SvSupTsnjileodYguriBDC.jpg",
-      "tmdbId": 1596302,
-      "popularity": 1.3817,
-      "releaseDate": "2026-09-10",
-      "overview": "A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive."
     },
     "tmdb:1631822": {
       "key": "tmdb:1631822",
@@ -327,6 +313,20 @@
       "releaseDate": "1977-08-26",
       "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye."
     },
+    "tmdb:77350": {
+      "key": "tmdb:77350",
+      "title": "Unzipped",
+      "year": 1995,
+      "director": "Douglas Keeve",
+      "runtime": 73,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/dnIzv4rXr9FXkqW880E3rStYQA7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qVmsH6us23qZPn3SXBJXKvMbXk5.jpg",
+      "tmdbId": 77350,
+      "popularity": 2.3443,
+      "releaseDate": "1995-08-11",
+      "overview": "Isaac Mizrahi, one of the most successful designers in high fashion, plans his fall 1994 collection."
+    },
     "tmdb:1556": {
       "key": "tmdb:1556",
       "title": "Funeral Parade of Roses",
@@ -488,6 +488,20 @@
       "popularity": 3.9139,
       "releaseDate": "1973-12-18",
       "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios."
+    },
+    "tmdb:3019": {
+      "key": "tmdb:3019",
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "year": 1931,
+      "director": "Rouben Mamoulian",
+      "runtime": 96,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
+      "tmdbId": 3019,
+      "popularity": 3.9437,
+      "releaseDate": "1931-12-24",
+      "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late."
     },
     "tmdb:884551": {
       "key": "tmdb:884551",
@@ -667,6 +681,20 @@
       "popularity": 1.0169,
       "releaseDate": "2009-11-20",
       "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
+    },
+    "tmdb:182227": {
+      "key": "tmdb:182227",
+      "title": "Love Massacre",
+      "year": 1981,
+      "director": "Patrick Tam Kar-Ming",
+      "runtime": 91,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/odiQBpqJC8JwLzLutZALpieuO2K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aBPg4DyyLhz6yAxXbQMGpvZ58hm.jpg",
+      "tmdbId": 182227,
+      "popularity": 1.3415,
+      "releaseDate": "1981-03-26",
+      "overview": "Set in San Francisco, Love Massacre follows college student Ivy as she tries to help her friend Joy recover from a breakup. Ivy soon becomes involved with Joy's married brother Chu Chung, who spirals into senseless violence as he breaks into Ivy's dormitory and goes on a delirious killing spree."
     },
     "tmdb:21588": {
       "key": "tmdb:21588",
@@ -913,6 +941,20 @@
       "releaseDate": "2000-12-11",
       "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself."
     },
+    "tmdb:28752": {
+      "key": "tmdb:28752",
+      "title": "The Curse of the Werewolf",
+      "year": 1961,
+      "director": "Terence Fisher",
+      "runtime": 93,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/eKQ6kovQVp2I7g1hJegOo8vRBhu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kHmAXmPOzFOct3TqZUZZBUBYfjI.jpg",
+      "tmdbId": 28752,
+      "popularity": 3.8578,
+      "releaseDate": "1961-05-01",
+      "overview": "A child conceived by a mute servant girl transforms from an innocent youth to a killer beast at night with uncontrollable urges."
+    },
     "tmdb:274": {
       "key": "tmdb:274",
       "title": "The Silence of the Lambs",
@@ -982,20 +1024,6 @@
       "popularity": 2.0697,
       "releaseDate": "1972-06-01",
       "overview": "A group of ruthless Chicago mob enforcers are sent to Kansas City to settle things with the owner of a slaughterhouse who has taken money that is not his to keep."
-    },
-    "tmdb:1179147": {
-      "key": "tmdb:1179147",
-      "title": "Welcome Space Brothers",
-      "year": 2023,
-      "director": "Jodi Wille",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/26dUVV7Ej22cYwll2DXvYNUmj2Z.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/93pZwZQyKYSJV0jwb2rleTTYIp5.jpg",
-      "tmdbId": 1179147,
-      "popularity": 0.8057,
-      "releaseDate": "2023-10-08",
-      "overview": "The true story of The Unarius Academy of Science, a long-running extraterrestrial-channeling spiritual school in El Cajon, California that in the late 1970s became a wildly prolific filmmaking and art collective under the direction of outlandish spiritual leader and visionary filmmaker Ruth E. Norman, AKA “Archangel Uriel.”"
     },
     "tmdb:1278622": {
       "key": "tmdb:1278622",
@@ -1633,105 +1661,6 @@
   },
   "screenings": [
     {
-      "id": "alamo:2026-09-21:13:40:tmdb:1599181",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-09-21",
-      "time": "13:40",
-      "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=83178",
-      "source": "alamo"
-    },
-    {
-      "id": "operaplaza:2026-09-21:15:10:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-21",
-      "time": "15:10",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "alamo:2026-09-21:15:30:tmdb:1179147",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1179147",
-      "date": "2026-09-21",
-      "time": "15:30",
-      "url": "https://drafthouse.com/sf/show/welcome-space-brothers?cinemaId=0801&sessionId=82929",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-21:16:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-21",
-      "time": "16:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-21:17:00:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-21",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-21:18:00:tmdb:1596326",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-21",
-      "time": "18:00",
-      "url": "https://roxie.com/film/barbara-forever/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-21:18:00:tmdb:56126",
-      "venueId": "roxie",
-      "filmKey": "tmdb:56126",
-      "date": "2026-09-21",
-      "time": "18:00",
-      "url": "https://roxie.com/film/batch-81/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-21:18:45:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-21",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-21:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-21",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "operaplaza:2026-09-21:19:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-21",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-21:20:10:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-21",
-      "time": "20:10",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
       "id": "operaplaza:2026-09-22:15:10:tmdb:1285895",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1285895",
@@ -1759,21 +1688,21 @@
       "source": "rafael"
     },
     {
-      "id": "roxie:2026-09-22:18:00:tmdb:1596326",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-22",
-      "time": "18:00",
-      "url": "https://roxie.com/film/barbara-forever/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-09-22:18:00:tmdb:1596302",
       "venueId": "roxie",
       "filmKey": "tmdb:1596302",
       "date": "2026-09-22",
       "time": "18:00",
       "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-09-22:18:00:tmdb:1596326",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596326",
+      "date": "2026-09-22",
+      "time": "18:00",
+      "url": "https://roxie.com/film/barbara-forever/",
       "source": "roxie"
     },
     {
@@ -2013,6 +1942,15 @@
       "source": "operaplaza"
     },
     {
+      "id": "alamo:2026-09-24:16:40:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-24",
+      "time": "16:40",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83224",
+      "source": "alamo"
+    },
+    {
       "id": "rafael:2026-09-24:16:45:t:cycle of love",
       "venueId": "rafael",
       "filmKey": "t:cycle of love",
@@ -2029,6 +1967,15 @@
       "time": "17:00",
       "url": "https://cinema.cafilm.org/film/filipiana",
       "source": "rafael"
+    },
+    {
+      "id": "alamo:2026-09-24:18:10:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-24",
+      "time": "18:10",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83225",
+      "source": "alamo"
     },
     {
       "id": "rafael:2026-09-24:18:45:tmdb:1285895",
@@ -2079,6 +2026,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-09-24:20:55:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-24",
+      "time": "20:55",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
+    },
+    {
       "id": "alamo:2026-09-24:21:50:tmdb:4816",
       "venueId": "alamo",
       "filmKey": "tmdb:4816",
@@ -2087,6 +2043,15 @@
       "url": "https://drafthouse.com/sf/show/guest-selects-ghost-dog-the-way-of-the-samurai?cinemaId=0801&sessionId=82930",
       "format": "35mm",
       "note": "Guest Selects · Programmed by Mahershala Ali and Bassam Tariq ahead of their new film",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-25:13:40:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-25",
+      "time": "13:40",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83245",
       "source": "alamo"
     },
     {
@@ -2110,6 +2075,33 @@
       "source": "bampfa"
     },
     {
+      "id": "alamo:2026-09-25:15:40:tmdb:3107",
+      "venueId": "alamo",
+      "filmKey": "tmdb:3107",
+      "date": "2026-09-25",
+      "time": "15:40",
+      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=83252",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-25:16:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-25",
+      "time": "16:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83239",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-25:16:30:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-25",
+      "time": "16:30",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
       "id": "balboa:2026-09-25:17:00:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -2120,6 +2112,15 @@
       "source": "balboa"
     },
     {
+      "id": "rafael:2026-09-25:17:00:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-25",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
       "id": "roxie:2026-09-25:17:45:t:re vision dakan",
       "venueId": "roxie",
       "filmKey": "t:re vision dakan",
@@ -2127,6 +2128,24 @@
       "time": "17:45",
       "url": "https://roxie.com/film/revision-dakan/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-09-25:18:15:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-25",
+      "time": "18:15",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83240",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-25:18:45:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-25",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
     },
     {
       "id": "roxie:2026-09-25:19:00:tmdb:916",
@@ -2156,6 +2175,15 @@
       "format": "DCP",
       "note": "Georgian Cinema Now: Part 1 · In Conversation: Salomé Jashi, Elene Naveriani",
       "source": "bampfa"
+    },
+    {
+      "id": "rafael:2026-09-25:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-25",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipiana",
+      "source": "rafael"
     },
     {
       "id": "stanford:2026-09-25:19:30:tmdb:43797",
@@ -2214,6 +2242,33 @@
       "source": "rafael"
     },
     {
+      "id": "rafael:2026-09-26:12:00:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-26",
+      "time": "12:00",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
+      "id": "alamo:2026-09-26:12:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-26",
+      "time": "12:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83260",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-26:12:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-26",
+      "time": "12:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
       "id": "roxie:2026-09-26:13:00:t:dreamers and i",
       "venueId": "roxie",
       "filmKey": "t:dreamers and i",
@@ -2221,6 +2276,15 @@
       "time": "13:00",
       "url": "https://roxie.com/film/the-dreamers-and-i/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-09-26:13:45:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-26",
+      "time": "13:45",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83259",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-09-26:14:00:t:re vision araya",
@@ -2232,6 +2296,15 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-26:14:15:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-26",
+      "time": "14:15",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
       "id": "balboa:2026-09-26:14:30:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -2239,6 +2312,15 @@
       "time": "14:30",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-26",
       "source": "balboa"
+    },
+    {
+      "id": "rafael:2026-09-26:14:45:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-26",
+      "time": "14:45",
+      "url": "https://cinema.cafilm.org/film/filipiana",
+      "source": "rafael"
     },
     {
       "id": "roxie:2026-09-26:15:15:tmdb:1620313",
@@ -2269,6 +2351,24 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-26:16:30:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-26",
+      "time": "16:30",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-26:17:00:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-26",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
       "id": "roxie:2026-09-26:18:00:t:re vision gehenu lamai the girls",
       "venueId": "roxie",
       "filmKey": "t:re vision gehenu lamai the girls",
@@ -2277,6 +2377,33 @@
       "url": "https://roxie.com/film/revision-gehenu-lamai-the-girls/",
       "note": "The Girls",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-09-26:18:10:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-26",
+      "time": "18:10",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83261",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-26:18:45:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-26",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-26:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-26",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipiana",
+      "source": "rafael"
     },
     {
       "id": "bampfa:2026-09-26:19:30:tmdb:765421",
@@ -2348,12 +2475,39 @@
       "source": "roxie"
     },
     {
+      "id": "rafael:2026-09-27:12:00:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-27",
+      "time": "12:00",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
       "id": "alamo:2026-09-27:12:00:tmdb:3107",
       "venueId": "alamo",
       "filmKey": "tmdb:3107",
       "date": "2026-09-27",
       "time": "12:00",
       "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=82309",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-27:12:45:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-27",
+      "time": "12:45",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "alamo:2026-09-27:12:50:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-27",
+      "time": "12:50",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83269",
       "source": "alamo"
     },
     {
@@ -2396,6 +2550,24 @@
       "source": "balboa"
     },
     {
+      "id": "rafael:2026-09-27:14:15:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-27",
+      "time": "14:15",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-27:14:45:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-27",
+      "time": "14:45",
+      "url": "https://cinema.cafilm.org/film/filipiana",
+      "source": "rafael"
+    },
+    {
       "id": "alamo:2026-09-27:14:45:tmdb:9353",
       "venueId": "alamo",
       "filmKey": "tmdb:9353",
@@ -2415,6 +2587,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-09-27:15:40:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-27",
+      "time": "15:40",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83270",
+      "source": "alamo"
+    },
+    {
       "id": "stanford:2026-09-27:16:00:tmdb:43797",
       "venueId": "stanford",
       "filmKey": "tmdb:43797",
@@ -2423,6 +2604,15 @@
       "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
       "note": "Double feature with Orchestra Wives",
       "source": "stanford"
+    },
+    {
+      "id": "rafael:2026-09-27:16:30:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-27",
+      "time": "16:30",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
     },
     {
       "id": "bampfa:2026-09-27:16:30:t:incomplete day in the history of georgia 10 06 93",
@@ -2434,6 +2624,15 @@
       "format": "DCP",
       "note": "Georgian Cinema Now: Part 1",
       "source": "bampfa"
+    },
+    {
+      "id": "rafael:2026-09-27:17:00:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-27",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
     },
     {
       "id": "roxie:2026-09-27:17:40:t:filipinana",
@@ -2461,6 +2660,24 @@
       "time": "18:30",
       "url": "https://thenewparkway.com/movie/monty-python-and-the-holy-grail/",
       "source": "newparkway"
+    },
+    {
+      "id": "rafael:2026-09-27:18:45:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-27",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-27:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-27",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipiana",
+      "source": "rafael"
     },
     {
       "id": "balboa:2026-09-27:19:15:tmdb:27031",
@@ -2510,6 +2727,51 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-09-28:16:00:tmdb:3107",
+      "venueId": "alamo",
+      "filmKey": "tmdb:3107",
+      "date": "2026-09-28",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=83285",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-28:16:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-28",
+      "time": "16:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83279",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-28:16:30:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-28",
+      "time": "16:30",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-28:17:00:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-28",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
+      "id": "rafael:2026-09-28:18:45:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-28",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
       "id": "balboa:2026-09-28:19:00:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -2526,6 +2788,24 @@
       "time": "19:00",
       "url": "https://drafthouse.com/sf/show/queer-film-theory-101-the-birdcage?cinemaId=0801&sessionId=82422",
       "note": "Queer Film Theory 101 · Williams & Lane burst open THE BIRDCAGE in this flamboyant farcical adaptation",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-28:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-28",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipiana",
+      "source": "rafael"
+    },
+    {
+      "id": "alamo:2026-09-28:19:20:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-28",
+      "time": "19:20",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83280",
       "source": "alamo"
     },
     {
@@ -2548,6 +2828,25 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-09-29:16:20:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-29",
+      "time": "16:20",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83291",
+      "note": "Baby Day",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-29:16:30:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-29",
+      "time": "16:30",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
+    },
+    {
       "id": "roxie:2026-09-29:18:00:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -2565,6 +2864,15 @@
       "url": "https://roxie.com/film/gandahar-4k-restoration/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "rafael:2026-09-29:18:45:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-29",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
     },
     {
       "id": "grandlake:2026-09-29:19:00:tmdb:992",
@@ -2586,6 +2894,15 @@
       "source": "rafael"
     },
     {
+      "id": "alamo:2026-09-29:19:10:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-29",
+      "time": "19:10",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83292",
+      "source": "alamo"
+    },
+    {
       "id": "balboa:2026-09-29:19:45:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -2601,7 +2918,44 @@
       "date": "2026-09-29",
       "time": "20:00",
       "url": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/",
+      "note": "See venue listing for details",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-09-29:22:00:tmdb:3107",
+      "venueId": "alamo",
+      "filmKey": "tmdb:3107",
+      "date": "2026-09-29",
+      "time": "22:00",
+      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=83297",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-30:15:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-30",
+      "time": "15:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83302",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-09-30:16:00:tmdb:3107",
+      "venueId": "alamo",
+      "filmKey": "tmdb:3107",
+      "date": "2026-09-30",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=83251",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-30:16:30:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-30",
+      "time": "16:30",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
     },
     {
       "id": "balboa:2026-09-30:17:00:tmdb:1596296",
@@ -2613,6 +2967,15 @@
       "source": "balboa"
     },
     {
+      "id": "rafael:2026-09-30:17:00:t:cycle of love",
+      "venueId": "rafael",
+      "filmKey": "t:cycle of love",
+      "date": "2026-09-30",
+      "time": "17:00",
+      "url": "https://cinema.cafilm.org/film/cycle-of-love",
+      "source": "rafael"
+    },
+    {
       "id": "roxie:2026-09-30:18:00:tmdb:540",
       "venueId": "roxie",
       "filmKey": "tmdb:540",
@@ -2620,6 +2983,24 @@
       "time": "18:00",
       "url": "https://roxie.com/film/d-e-b-s/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-09-30:18:15:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-30",
+      "time": "18:15",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83303",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-09-30:18:45:tmdb:1596296",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-09-30",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
+      "source": "rafael"
     },
     {
       "id": "operaplaza:2026-09-30:19:00:tmdb:1283515",
@@ -2649,6 +3030,15 @@
       "time": "19:00",
       "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260930",
       "source": "grandlake"
+    },
+    {
+      "id": "rafael:2026-09-30:19:15:t:filipinana",
+      "venueId": "rafael",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-30",
+      "time": "19:15",
+      "url": "https://cinema.cafilm.org/film/filipiana",
+      "source": "rafael"
     },
     {
       "id": "vogue:2026-09-30:19:30:tmdb:522",
@@ -2833,6 +3223,15 @@
       "source": "ata"
     },
     {
+      "id": "roxie:2026-10-02:20:10:tmdb:77350",
+      "venueId": "roxie",
+      "filmKey": "tmdb:77350",
+      "date": "2026-10-02",
+      "time": "20:10",
+      "url": "https://roxie.com/film/unzipped/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-10-02:20:30:tmdb:1556",
       "venueId": "roxie",
       "filmKey": "tmdb:1556",
@@ -2934,6 +3333,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-10-03:17:20:tmdb:77350",
+      "venueId": "roxie",
+      "filmKey": "tmdb:77350",
+      "date": "2026-10-03",
+      "time": "17:20",
+      "url": "https://roxie.com/film/unzipped/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-10-03:17:30:tmdb:10494",
       "venueId": "roxie",
       "filmKey": "tmdb:10494",
@@ -2989,6 +3397,15 @@
       "time": "14:30",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-4",
       "source": "balboa"
+    },
+    {
+      "id": "roxie:2026-10-04:15:05:tmdb:77350",
+      "venueId": "roxie",
+      "filmKey": "tmdb:77350",
+      "date": "2026-10-04",
+      "time": "15:05",
+      "url": "https://roxie.com/film/unzipped/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-10-04:15:10:tmdb:30959",
@@ -3171,6 +3588,16 @@
       "source": "bampfa"
     },
     {
+      "id": "4star:2026-10-07:19:30:tmdb:182227",
+      "venueId": "4star",
+      "filmKey": "tmdb:182227",
+      "date": "2026-10-07",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/love-massacre-hi-nrg",
+      "note": "HI NRG presents:",
+      "source": "4star"
+    },
+    {
       "id": "balboa:2026-10-08:17:30:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -3190,11 +3617,11 @@
       "source": "newparkway"
     },
     {
-      "id": "4star:2026-10-08:20:00:tmdb:98096",
+      "id": "4star:2026-10-08:19:30:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
       "date": "2026-10-08",
-      "time": "20:00",
+      "time": "19:30",
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-freight-train-lady",
       "note": "Freight Train Lady",
       "source": "4star"
@@ -3559,6 +3986,26 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/media-meltdown-movie-madhouse",
       "note": "DELLAMORTE DELLAMORE: CEMETERY MAN (1994)",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-10-20:18:00:tmdb:3019",
+      "venueId": "roxie",
+      "filmKey": "tmdb:3019",
+      "date": "2026-10-20",
+      "time": "18:00",
+      "url": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/",
+      "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-20:21:15:tmdb:28752",
+      "venueId": "alamo",
+      "filmKey": "tmdb:28752",
+      "date": "2026-10-20",
+      "time": "21:15",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-the-curse-of-the-werewolf-1961-2?cinemaId=0801&sessionId=82955",
+      "format": "35mm",
+      "note": "Terror Tuesday · Oliver Reed goes fangs out for this overlooked British treasure.",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -3566,35 +4013,17 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-21",
+      "startDate": "2026-09-22",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82736",
-      "showtimes": 12,
+      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83180",
+      "showtimes": 53,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
-        "Resident Evil",
-        "The Cycle"
+        "Primetime",
+        "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-21",
-          "time": "15:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82736"
-        },
-        {
-          "date": "2026-09-21",
-          "time": "18:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82737"
-        },
-        {
-          "date": "2026-09-21",
-          "time": "21:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=82738"
-        },
         {
           "date": "2026-09-22",
           "time": "18:40",
@@ -3626,10 +4055,274 @@
           "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83162"
         },
         {
+          "date": "2026-09-24",
+          "time": "16:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82766"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "16:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83233"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "19:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82767"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "19:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83232"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "22:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83230"
+        },
+        {
+          "date": "2026-09-24",
+          "time": "22:15",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83231"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "12:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82763"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "13:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83247"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82764"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "16:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83242"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "18:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82765"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "19:20",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83243"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "21:30",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83235"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "22:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83244"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "12:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82760"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "13:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83264"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82761"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "15:20",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83265"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "18:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82762"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "19:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83254"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "21:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83263"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "21:30",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83253"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "12:20",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83272"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "12:30",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82759"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "15:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83275"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "15:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82757"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "17:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83274"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "18:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83315"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "18:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83273"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "14:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82754"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "16:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83283"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "18:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82755"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "18:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83284"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "21:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83250"
+        },
+        {
+          "date": "2026-09-28",
+          "time": "22:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83281"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "18:15",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83294"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "18:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83287"
+        },
+        {
           "date": "2026-09-29",
           "time": "19:00",
           "title": "Deathgasm 2: Goremageddon",
           "url": "https://drafthouse.com/sf/show/deathgasm-2-goremageddon?cinemaId=0801&sessionId=82501"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "21:50",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83293"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83298"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "16:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83307"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "18:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83313"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "19:15",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83305"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "21:45",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83314"
+        },
+        {
+          "date": "2026-09-30",
+          "time": "22:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83308"
         },
         {
           "date": "2026-10-04",
@@ -3652,21 +4345,48 @@
       ]
     },
     {
+      "key": "fest:alamo:fantastic fest presents baby day",
+      "name": "Fantastic Fest Presents · Baby Day",
+      "venueId": "alamo",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-29",
+      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83150",
+      "showtimes": 3,
+      "sample": [
+        "Primetime",
+        "Resident Evil"
+      ],
+      "programme": [
+        {
+          "date": "2026-09-22",
+          "time": "15:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83150"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83286"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "15:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83296"
+        }
+      ]
+    },
+    {
       "key": "fest:newparkway:manhattan short film festival 2026",
       "name": "Manhattan Short Film Festival 2026",
       "venueId": "newparkway",
-      "startDate": "2026-09-21",
+      "startDate": "2026-09-22",
       "endDate": "2026-09-24",
       "url": "https://indy-systems.imgix.net/1j8jz48ewx3tqmvmap50uvy4nb1v?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
-      "showtimes": 4,
+      "showtimes": 3,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-09-21",
-          "time": "15:30",
-          "title": "Manhattan Short Film Festival 2026",
-          "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
-        },
         {
           "date": "2026-09-22",
           "time": "15:45",
@@ -3684,26 +4404,6 @@
           "time": "15:30",
           "title": "Manhattan Short Film Festival 2026",
           "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
-        }
-      ]
-    },
-    {
-      "key": "fest:alamo:fantastic fest presents baby day",
-      "name": "Fantastic Fest Presents · Baby Day",
-      "venueId": "alamo",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83150",
-      "showtimes": 1,
-      "sample": [
-        "Resident Evil"
-      ],
-      "programme": [
-        {
-          "date": "2026-09-22",
-          "time": "15:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83150"
         }
       ]
     },
@@ -3763,9 +4463,10 @@
         },
         {
           "date": "2026-09-26",
-          "time": "18:00",
-          "title": "The Day I Met You",
-          "url": "https://voguemovies.com/calendar-of-events/the-day-i-met-you-september-26"
+          "time": "17:55",
+          "title": "Gugu's World",
+          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-26",
+          "note": "Just selected as the Brazilian entry for the Best International Feature Film at the 99th Academy Awards!"
         },
         {
           "date": "2026-09-26",
