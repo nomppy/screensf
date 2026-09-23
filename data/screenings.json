@@ -1,43 +1,6 @@
 {
-  "generatedAt": "2026-09-22T17:24:13.996Z",
+  "generatedAt": "2026-09-23T17:33:24.630Z",
   "films": {
-    "tmdb:1596302": {
-      "key": "tmdb:1596302",
-      "title": "The Oldest Person in the World",
-      "year": 2026,
-      "director": "Sam Green",
-      "runtime": 87,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/tlxL2d2iR2REv2t60tk5P7c2tt6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/39K96SvSupTsnjileodYguriBDC.jpg",
-      "tmdbId": 1596302,
-      "popularity": 1.3817,
-      "releaseDate": "2026-09-10",
-      "overview": "A decade-long global journey chronicles the ever-changing record holders of the title of oldest person alive. What begins as a portrait of longevity becomes a meditation on the passage of time, the randomness of fate, and the joy and profound human experience of being alive."
-    },
-    "tmdb:1596326": {
-      "key": "tmdb:1596326",
-      "title": "Barbara Forever",
-      "year": 2026,
-      "director": "Brydie O'Connor",
-      "runtime": 102,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
-      "tmdbId": 1596326,
-      "popularity": 2.5685,
-      "releaseDate": "2026-09-04",
-      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
-    },
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
     "tmdb:1631822": {
       "key": "tmdb:1631822",
       "title": "Mary Oliver: Saved by the Beauty of the World",
@@ -120,6 +83,15 @@
       "popularity": 7.1241,
       "releaseDate": "1968-10-17",
       "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed."
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "t:re vision the outcasts": {
       "key": "t:re vision the outcasts",
@@ -256,6 +228,20 @@
       "popularity": 5.1917,
       "releaseDate": "2005-03-25",
       "overview": "The star of a team of teenage crime fighters falls for the alluring villainess she must bring to justice."
+    },
+    "tmdb:1596326": {
+      "key": "tmdb:1596326",
+      "title": "Barbara Forever",
+      "year": 2026,
+      "director": "Brydie O'Connor",
+      "runtime": 102,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
+      "tmdbId": 1596326,
+      "popularity": 2.5685,
+      "releaseDate": "2026-09-04",
+      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
     },
     "tmdb:44214": {
       "key": "tmdb:44214",
@@ -447,6 +433,20 @@
       "releaseDate": "2001-09-05",
       "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her."
     },
+    "tmdb:57447": {
+      "key": "tmdb:57447",
+      "title": "The House with Laughing Windows",
+      "year": 1976,
+      "director": "Pupi Avati",
+      "runtime": 110,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/oinsJI8Rlz8EjSOO6ahsFDsDhwN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hN8BEjmyqsPdwSPsdDWenoid1as.jpg",
+      "tmdbId": 57447,
+      "popularity": 2.8345,
+      "releaseDate": "1976-08-20",
+      "overview": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village."
+    },
     "tmdb:50173": {
       "key": "tmdb:50173",
       "title": "Jigoku",
@@ -489,6 +489,19 @@
       "releaseDate": "1973-12-18",
       "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios."
     },
+    "tmdb:1175473": {
+      "key": "tmdb:1175473",
+      "title": "The 9 Lives of Barbara Dane",
+      "year": 2023,
+      "director": "Maureen Gosling",
+      "runtime": 107,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/tp6LetQPYzvlkFI4eApFrAV1VvM.jpg",
+      "tmdbId": 1175473,
+      "popularity": 1.4428,
+      "releaseDate": "2023-10-10",
+      "overview": "For decades, Barbara Dane lent her stellar singing voice to social-justice movements in the Bay Area and beyond, garnering an impressive FBI file along the way. Deeply respected by fellow luminaries in folk, blues and jazz, Dane built a far-reaching legacy with music, activism, and love. As Maureen Gosling’s celebratory portrait reveals, early solidarity with those suffering racial and economic injustice sparked Dane’s passion to use her talent to sustain marginalized people. Rather than chase stardom, she followed her own maternal instincts to root herself and her family among generations of activist performers. Bonnie Raitt, Jane Fonda and other notables attest to Dane’s unique way of shaping and being shaped by tumultuous social revolutions from the 1950s on. Nearing 90, Dane triumphantly tours with piano virtuoso Tammy Hall to celebrate a life of staying awake and connected, true to her ideals. One star among many illuminates so much."
+    },
     "tmdb:3019": {
       "key": "tmdb:3019",
       "title": "Dr. Jekyll and Mr. Hyde",
@@ -502,19 +515,6 @@
       "popularity": 3.9437,
       "releaseDate": "1931-12-24",
       "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late."
-    },
-    "tmdb:884551": {
-      "key": "tmdb:884551",
-      "title": "Ghost Dog",
-      "year": 2021,
-      "director": "Adam Green",
-      "runtime": 7,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/k6JUJwLN1Ey6mvlzBbDmQdsVVYM.jpg",
-      "tmdbId": 884551,
-      "popularity": 0.7103,
-      "releaseDate": "2021-10-12",
-      "overview": "Ever wonder what your dog would say to you if he/she could speak? When a broken hearted man's Halloween wish comes true he winds up paying a price he never saw coming."
     },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
@@ -626,6 +626,20 @@
       "popularity": 4.6675,
       "releaseDate": "1994-09-28",
       "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful."
+    },
+    "tmdb:361292": {
+      "key": "tmdb:361292",
+      "title": "Suspiria",
+      "year": 2018,
+      "director": "Luca Guadagnino",
+      "runtime": 152,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k4renoGJzagylgBYWbpjQLYGAfB.jpg",
+      "tmdbId": 361292,
+      "popularity": 9.7209,
+      "releaseDate": "2018-10-26",
+      "overview": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up."
     },
     "tmdb:8392": {
       "key": "tmdb:8392",
@@ -899,6 +913,20 @@
       "releaseDate": "1996-03-03",
       "overview": "A gay cabaret owner and his drag queen partner agree to put up a false heterosexual front so that their son can introduce them to his fiancée's conservative parents."
     },
+    "tmdb:4552": {
+      "key": "tmdb:4552",
+      "title": "A Tale of Two Sisters",
+      "year": 2003,
+      "director": "Kim Jee-woon",
+      "runtime": 115,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/syKbZiHVdXw0NcH6NdXWEKZaECv.jpg",
+      "tmdbId": 4552,
+      "popularity": 7.7035,
+      "releaseDate": "2003-06-13",
+      "overview": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
+    },
     "tmdb:280": {
       "key": "tmdb:280",
       "title": "Terminator 2: Judgment Day",
@@ -912,20 +940,6 @@
       "popularity": 36.4213,
       "releaseDate": "1991-07-03",
       "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
-    },
-    "tmdb:8413": {
-      "key": "tmdb:8413",
-      "title": "Event Horizon",
-      "year": 1997,
-      "director": "Paul W. S. Anderson",
-      "runtime": 96,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
-      "tmdbId": 8413,
-      "popularity": 13.505,
-      "releaseDate": "1997-08-15",
-      "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
     },
     "tmdb:9871": {
       "key": "tmdb:9871",
@@ -1011,6 +1025,20 @@
       "releaseDate": "1985-02-16",
       "overview": "Umiemon is a naniwa-bushi singer who travels with his wife to the United States in hopes of achieving fame and fortune."
     },
+    "tmdb:22293": {
+      "key": "tmdb:22293",
+      "title": "\"MANOS\" The Hands of Fate",
+      "year": 1966,
+      "director": "Harold P. Warren",
+      "runtime": 74,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/aJZsXdJWgtVCSE3SOcOkMPNpbkV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cjbIk6T7NqhX6myBGyQXU3j9ngk.jpg",
+      "tmdbId": 22293,
+      "popularity": 2.5415,
+      "releaseDate": "1966-11-15",
+      "overview": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo."
+    },
     "tmdb:27292": {
       "key": "tmdb:27292",
       "title": "Prime Cut",
@@ -1024,6 +1052,20 @@
       "popularity": 2.0697,
       "releaseDate": "1972-06-01",
       "overview": "A group of ruthless Chicago mob enforcers are sent to Kansas City to settle things with the owner of a slaughterhouse who has taken money that is not his to keep."
+    },
+    "tmdb:47060": {
+      "key": "tmdb:47060",
+      "title": "The Hole",
+      "year": 1998,
+      "director": "Tsai Ming-liang",
+      "runtime": 95,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/lsuvfxyCxlnkzc49hGMUmPDibCk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sb174oPl1eQqgiCFSDvINxd3fb7.jpg",
+      "tmdbId": 47060,
+      "popularity": 2.2348,
+      "releaseDate": "1998-09-14",
+      "overview": "In the final days of the year 1999, almost everyone in Taiwan has died from a strange plague that ravished the island. As rain pours down relentlessly, a single man is stuck with an unfinished plumbing job and a hole in his floor. This results in a very odd relationship with the woman who lives below him."
     },
     "tmdb:1278622": {
       "key": "tmdb:1278622",
@@ -1045,6 +1087,18 @@
       "overview": "A true breakthrough and international discovery!! Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play, an extremely sophisticated personal cine-essay that opens up areas of speculative history in an Adam Curtis-esque stream-of-consciousness  revelation on the military origins of Central American telecommunications and programming, tracing a psychedelic labyrinth across four continents. Part media archeology, part film diary, an endless montage of archival opticals support a long-form whispered confession about the electromagnetic magick that inflected the development of “modern” Honduran national sensibility. Our co-hit is Riar Rizaldi‘s equally paranoid Tellurian Drama, a sublime 25-min excavation of the colonial mythos surrounding the infamous Malabar Radio Antenna, a mysterious site of etheric conspiracy now being resurrected as a tourist destination on the Indonesian island of Java. $13",
       "runtime": 25,
       "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/other-cinema-20260926-1024x576.jpg"
+    },
+    "tmdb:914355": {
+      "key": "tmdb:914355",
+      "title": "Program #7",
+      "year": 1978,
+      "director": "Jane Veeder, Phil Morton",
+      "runtime": 31,
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/02/tinaff-e1788851961809.jpg",
+      "tmdbId": 914355,
+      "popularity": 1.2073,
+      "releaseDate": "1978-08-22",
+      "overview": "Between 1976 and 1982, Jane Veeder traveled the western mountains of the United States with Phil Morton. On these road trips the two would shoot video of their surroundings using a portable video recorder. Some of these video recordings of the western mountain terrain were used to produce the televised video piece known as Program #7. Program #7 was produced as a part of a larger group of videos known as The Electronic Visualization Center: A Television Research Satellite to the School of the Art Institute of Chicago. Program #7 was televised on Chicago Public Television as a part of a program which ran work by independent video creators. Program #7 was created using a Sandin Image Processor and a Bally Home Computer. Graphics generated using a Bally Home Computer would be overlaid overtop of the video recorded by Veeder and Morton using the Sandin Image Processor. The Sandin Image Processor would also be used to add varying patterns to the image."
     },
     "tmdb:968640": {
       "key": "tmdb:968640",
@@ -1105,6 +1159,20 @@
       "popularity": 5.3244,
       "releaseDate": "1931-02-12",
       "overview": "A British estate agent travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves the agent and drives him to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites."
+    },
+    "tmdb:8852": {
+      "key": "tmdb:8852",
+      "title": "Prince of Darkness",
+      "year": 1987,
+      "director": "John Carpenter",
+      "runtime": 102,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/jjcAOhtGuX4p8XvlVn1WXUT1jWi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9FYa8R1VQdgfuX4QcgZgvbaQ2ca.jpg",
+      "tmdbId": 8852,
+      "popularity": 7.1181,
+      "releaseDate": "1987-10-23",
+      "overview": "A priest discovers an ancient canister containing a strange liquid in an abandoned church. When a group of graduate students and scientists are tasked with studying it, they unknowingly unleash an evil force waiting to destroy all of humanity."
     },
     "tmdb:3035": {
       "key": "tmdb:3035",
@@ -1424,20 +1492,6 @@
       "releaseDate": "2023-08-25",
       "overview": "Unpopular best friends PJ and Josie start a high school self-defense club to meet girls and lose their virginity. They soon find themselves in over their heads when the most popular students start beating each other up in the name of self-defense."
     },
-    "tmdb:377": {
-      "key": "tmdb:377",
-      "title": "A Nightmare on Elm Street",
-      "year": 1984,
-      "director": "Wes Craven",
-      "runtime": 91,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
-      "tmdbId": 377,
-      "popularity": 17.8068,
-      "releaseDate": "1984-11-09",
-      "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world..."
-    },
     "tmdb:239": {
       "key": "tmdb:239",
       "title": "Some Like It Hot",
@@ -1660,125 +1714,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "operaplaza:2026-09-22:15:10:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-22",
-      "time": "15:10",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "rafael:2026-09-22:16:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-22",
-      "time": "16:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-22:17:00:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-22",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-22:18:00:tmdb:1596302",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596302",
-      "date": "2026-09-22",
-      "time": "18:00",
-      "url": "https://roxie.com/film/the-oldest-person-in-the-world/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-22:18:00:tmdb:1596326",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-22",
-      "time": "18:00",
-      "url": "https://roxie.com/film/barbara-forever/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-22:18:45:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-22",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "newparkway:2026-09-22:19:00:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-22",
-      "time": "19:00",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-22:19:00:tmdb:1599181",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-09-22",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/chronovisor?cinemaId=0801&sessionId=82536",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-09-22:19:00:tmdb:884551",
-      "venueId": "balboa",
-      "filmKey": "tmdb:884551",
-      "date": "2026-09-22",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/ghost-dog-way-of-the-samurai-september-22",
-      "note": "Ghost Dog: The Way of the Samurai",
-      "source": "balboa"
-    },
-    {
-      "id": "rafael:2026-09-22:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-22",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "operaplaza:2026-09-22:19:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-22",
-      "time": "19:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-22:20:35:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-22",
-      "time": "20:35",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-22:21:30:tmdb:8413",
-      "venueId": "alamo",
-      "filmKey": "tmdb:8413",
-      "date": "2026-09-22",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-event-horizon?cinemaId=0801&sessionId=82419",
-      "note": "Terror Tuesday · A mall-goth rampage through the cosmos",
-      "source": "alamo"
-    },
     {
       "id": "operaplaza:2026-09-23:13:00:tmdb:1493",
       "venueId": "operaplaza",
@@ -2108,7 +2043,6 @@
       "date": "2026-09-25",
       "time": "17:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
-      "note": "7:30 PM show at rush. 5 PM show added.",
       "source": "balboa"
     },
     {
@@ -2511,11 +2445,11 @@
       "source": "alamo"
     },
     {
-      "id": "newparkway:2026-09-27:13:00:tmdb:10560",
+      "id": "newparkway:2026-09-27:13:05:tmdb:10560",
       "venueId": "newparkway",
       "filmKey": "tmdb:10560",
       "date": "2026-09-27",
-      "time": "13:00",
+      "time": "13:05",
       "url": "https://thenewparkway.com/movie/center-stage/",
       "note": "Lights, Camera, Dance!",
       "source": "newparkway"
@@ -2635,6 +2569,15 @@
       "source": "rafael"
     },
     {
+      "id": "newparkway:2026-09-27:17:10:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-27",
+      "time": "17:10",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-09-27:17:40:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -2653,11 +2596,11 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-09-27:18:30:tmdb:762",
+      "id": "newparkway:2026-09-27:18:20:tmdb:762",
       "venueId": "newparkway",
       "filmKey": "tmdb:762",
       "date": "2026-09-27",
-      "time": "18:30",
+      "time": "18:20",
       "url": "https://thenewparkway.com/movie/monty-python-and-the-holy-grail/",
       "source": "newparkway"
     },
@@ -2669,6 +2612,16 @@
       "time": "18:45",
       "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
       "source": "rafael"
+    },
+    {
+      "id": "ata:2026-09-27:19:00:tmdb:914355",
+      "venueId": "ata",
+      "filmKey": "tmdb:914355",
+      "date": "2026-09-27",
+      "time": "19:00",
+      "url": "https://www.atasite.org/event/tinaff-202609/",
+      "format": "Super 8",
+      "source": "ata"
     },
     {
       "id": "rafael:2026-09-27:19:15:t:filipinana",
@@ -2709,6 +2662,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-09-27:20:30:tmdb:814776",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:814776",
+      "date": "2026-09-27",
+      "time": "20:30",
+      "url": "https://thenewparkway.com/movie/bottoms/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-09-27:20:40:t:re vision melody of murder",
       "venueId": "roxie",
       "filmKey": "t:re vision melody of murder",
@@ -2716,15 +2678,6 @@
       "time": "20:40",
       "url": "https://roxie.com/film/revision-melody-of-murder/",
       "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-27:21:00:tmdb:814776",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:814776",
-      "date": "2026-09-27",
-      "time": "21:00",
-      "url": "https://thenewparkway.com/movie/bottoms/",
-      "source": "newparkway"
     },
     {
       "id": "alamo:2026-09-28:16:00:tmdb:3107",
@@ -2809,6 +2762,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-09-28:20:35:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-28",
+      "time": "20:35",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
+    },
+    {
       "id": "alamo:2026-09-28:22:15:tmdb:9353",
       "venueId": "alamo",
       "filmKey": "tmdb:9353",
@@ -2847,15 +2809,6 @@
       "source": "rafael"
     },
     {
-      "id": "roxie:2026-09-29:18:00:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-29",
-      "time": "18:00",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-09-29:18:00:tmdb:22500",
       "venueId": "roxie",
       "filmKey": "tmdb:22500",
@@ -2863,6 +2816,15 @@
       "time": "18:00",
       "url": "https://roxie.com/film/gandahar-4k-restoration/",
       "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-09-29:18:00:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-29",
+      "time": "18:00",
+      "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
     },
     {
@@ -2912,14 +2874,13 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-09-29:20:00:tmdb:1631822",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1631822",
+      "id": "newparkway:2026-09-29:21:15:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
       "date": "2026-09-29",
-      "time": "20:00",
-      "url": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/",
-      "note": "See venue listing for details",
-      "source": "roxie"
+      "time": "21:15",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
     },
     {
       "id": "alamo:2026-09-29:22:00:tmdb:3107",
@@ -3250,15 +3211,6 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-10-02:22:30:tmdb:377",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:377",
-      "date": "2026-10-02",
-      "time": "22:30",
-      "url": "https://thenewparkway.com/movie/nightmare-on-elm-street/",
-      "source": "newparkway"
-    },
-    {
       "id": "piedmont:2026-10-02:22:30:tmdb:22970",
       "venueId": "piedmont",
       "filmKey": "tmdb:22970",
@@ -3408,11 +3360,11 @@
       "source": "roxie"
     },
     {
-      "id": "roxie:2026-10-04:15:10:tmdb:30959",
+      "id": "roxie:2026-10-04:15:15:tmdb:30959",
       "venueId": "roxie",
       "filmKey": "tmdb:30959",
       "date": "2026-10-04",
-      "time": "15:10",
+      "time": "15:15",
       "url": "https://roxie.com/film/kwaidan-4k-restoration/",
       "format": "4K",
       "source": "roxie"
@@ -3437,11 +3389,11 @@
       "source": "roxie"
     },
     {
-      "id": "roxie:2026-10-04:18:55:tmdb:104287",
+      "id": "roxie:2026-10-04:19:00:tmdb:104287",
       "venueId": "roxie",
       "filmKey": "tmdb:104287",
       "date": "2026-10-04",
-      "time": "18:55",
+      "time": "19:00",
       "url": "https://roxie.com/film/dont-play-with-fire/",
       "source": "roxie"
     },
@@ -3588,6 +3540,15 @@
       "source": "bampfa"
     },
     {
+      "id": "vogue:2026-10-07:19:30:tmdb:361292",
+      "venueId": "vogue",
+      "filmKey": "tmdb:361292",
+      "date": "2026-10-07",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/suspiria-october-7",
+      "source": "vogue"
+    },
+    {
       "id": "4star:2026-10-07:19:30:tmdb:182227",
       "venueId": "4star",
       "filmKey": "tmdb:182227",
@@ -3596,6 +3557,17 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/love-massacre-hi-nrg",
       "note": "HI NRG presents:",
       "source": "4star"
+    },
+    {
+      "id": "alamo:2026-10-07:21:30:tmdb:47060",
+      "venueId": "alamo",
+      "filmKey": "tmdb:47060",
+      "date": "2026-10-07",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-the-hole-1998?cinemaId=0801&sessionId=82721",
+      "format": "35mm",
+      "note": "Weird Wednesday · Tsai Ming-Liang's surrealist fantasy musical, new 35mm print!",
+      "source": "alamo"
     },
     {
       "id": "balboa:2026-10-08:17:30:tmdb:1596296",
@@ -3615,6 +3587,15 @@
       "url": "https://thenewparkway.com/movie/fire-within-with-filmmaker-qa/",
       "note": "with filmmaker Q&A",
       "source": "newparkway"
+    },
+    {
+      "id": "vogue:2026-10-08:19:30:tmdb:361292",
+      "venueId": "vogue",
+      "filmKey": "tmdb:361292",
+      "date": "2026-10-08",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/suspiria-october-8",
+      "source": "vogue"
     },
     {
       "id": "4star:2026-10-08:19:30:tmdb:98096",
@@ -3777,6 +3758,15 @@
       "url": "https://drafthouse.com/sf/show/movie-party-repo-the-genetic-opera?cinemaId=0801&sessionId=82946",
       "note": "Movie Parties · Catchy songs, flesh masks, and squishy human organs",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-10-13:20:35:tmdb:57447",
+      "venueId": "roxie",
+      "filmKey": "tmdb:57447",
+      "date": "2026-10-13",
+      "time": "20:35",
+      "url": "https://roxie.com/film/the-house-with-laughing-windows/",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-10-13:21:15:tmdb:9871",
@@ -3967,6 +3957,15 @@
       "source": "newparkway"
     },
     {
+      "id": "roxie:2026-10-18:15:10:tmdb:1175473",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1175473",
+      "date": "2026-10-18",
+      "time": "15:10",
+      "url": "https://roxie.com/film/the-9-lives-of-barbara-dane/",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-10-18:19:00:tmdb:262",
       "venueId": "bampfa",
       "filmKey": "tmdb:262",
@@ -4006,6 +4005,36 @@
       "format": "35mm",
       "note": "Terror Tuesday · Oliver Reed goes fangs out for this overlooked British treasure.",
       "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-21:18:40:tmdb:4552",
+      "venueId": "alamo",
+      "filmKey": "tmdb:4552",
+      "date": "2026-10-21",
+      "time": "18:40",
+      "url": "https://drafthouse.com/sf/show/sad-girl-cinema-club-a-tale-of-two-sisters?cinemaId=0801&sessionId=82956",
+      "note": "Sad Girl Cinema Club · Sad Girl Cinema Club gets spooky with Kim Jee-woon’s top tier twisted tale",
+      "source": "alamo"
+    },
+    {
+      "id": "operaplaza:2026-10-21:19:00:tmdb:8852",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:8852",
+      "date": "2026-10-21",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/3533-prince-of-darkness/",
+      "note": "Filmmaker Focus - John Carpenter",
+      "source": "operaplaza"
+    },
+    {
+      "id": "alamo:2026-10-21:21:50:tmdb:22293",
+      "venueId": "alamo",
+      "filmKey": "tmdb:22293",
+      "date": "2026-10-21",
+      "time": "21:50",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-manos-the-hands-of-fate?cinemaId=0801&sessionId=82957",
+      "note": "Weird Wednesday · The master would not approve",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -4013,10 +4042,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-22",
+      "startDate": "2026-09-23",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83180",
-      "showtimes": 53,
+      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83159",
+      "showtimes": 51,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
@@ -4024,18 +4053,6 @@
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-22",
-          "time": "18:40",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83180"
-        },
-        {
-          "date": "2026-09-22",
-          "time": "21:20",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83152"
-        },
         {
           "date": "2026-09-23",
           "time": "15:00",
@@ -4345,54 +4362,15 @@
       ]
     },
     {
-      "key": "fest:alamo:fantastic fest presents baby day",
-      "name": "Fantastic Fest Presents · Baby Day",
-      "venueId": "alamo",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-29",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83150",
-      "showtimes": 3,
-      "sample": [
-        "Primetime",
-        "Resident Evil"
-      ],
-      "programme": [
-        {
-          "date": "2026-09-22",
-          "time": "15:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83150"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83286"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "15:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83296"
-        }
-      ]
-    },
-    {
       "key": "fest:newparkway:manhattan short film festival 2026",
       "name": "Manhattan Short Film Festival 2026",
       "venueId": "newparkway",
-      "startDate": "2026-09-22",
+      "startDate": "2026-09-23",
       "endDate": "2026-09-24",
       "url": "https://indy-systems.imgix.net/1j8jz48ewx3tqmvmap50uvy4nb1v?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
-      "showtimes": 3,
+      "showtimes": 2,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-09-22",
-          "time": "15:45",
-          "title": "Manhattan Short Film Festival 2026",
-          "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
-        },
         {
           "date": "2026-09-23",
           "time": "15:15",
@@ -4497,6 +4475,33 @@
           "time": "20:30",
           "title": "The Blue Trail",
           "url": "https://voguemovies.com/calendar-of-events/the-blue-trail-september-27"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents baby day",
+      "name": "Fantastic Fest Presents · Baby Day",
+      "venueId": "alamo",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83286",
+      "showtimes": 2,
+      "sample": [
+        "Primetime",
+        "Resident Evil"
+      ],
+      "programme": [
+        {
+          "date": "2026-09-29",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83286"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "15:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83296"
         }
       ]
     },
@@ -4798,6 +4803,26 @@
           "time": "22:00",
           "title": "Littermates",
           "url": "https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-advance-screening?cinemaId=0801&sessionId=83222"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations",
+      "name": "Hong Kong Cinema: Rarities and Restorations",
+      "venueId": "bampfa",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "url": "https://bampfa.org/event/our-sister-hedy",
+      "showtimes": 1,
+      "sample": [
+        "Our Sister Hedy"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-28",
+          "time": "19:00",
+          "title": "Our Sister Hedy",
+          "url": "https://bampfa.org/event/our-sister-hedy"
         }
       ]
     },
