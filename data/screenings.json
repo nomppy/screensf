@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-09-23T17:33:24.630Z",
+  "generatedAt": "2026-09-24T17:45:09.045Z",
   "films": {
-    "tmdb:1631822": {
-      "key": "tmdb:1631822",
-      "title": "Mary Oliver: Saved by the Beauty of the World",
-      "year": 2026,
-      "director": "Sasha Waters",
-      "runtime": 91,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/aAZ7Ih2tU65y55CfE0nIFSaow4n.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dUnjTkwLNNWsvx981VcA46toTPi.jpg",
-      "tmdbId": 1631822,
-      "popularity": 1.3894,
-      "releaseDate": "2026-07-03",
-      "overview": "From a lonely childhood to literary fame, her life was shaped by devotion to nature, paying attention, and the long journey toward learning to love and to be loved.  If poetry had a pop icon, Mary Oliver would be it."
-    },
-    "tmdb:11171": {
-      "key": "tmdb:11171",
-      "title": "Mysterious Skin",
-      "year": 2004,
-      "director": "Gregg Araki",
-      "runtime": 105,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yiNHoIFUlFAByjXkTDdJOK9nw2Z.jpg",
-      "tmdbId": 11171,
-      "popularity": 5.5647,
-      "releaseDate": "2005-03-30",
-      "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth."
-    },
     "t:re vision my name aint suzie": {
       "key": "t:re vision my name aint suzie",
       "title": "Re:Vision: My Name Ain’t Suzie",
@@ -242,6 +214,20 @@
       "popularity": 2.5685,
       "releaseDate": "2026-09-04",
       "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
+    },
+    "tmdb:11171": {
+      "key": "tmdb:11171",
+      "title": "Mysterious Skin",
+      "year": 2004,
+      "director": "Gregg Araki",
+      "runtime": 105,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yiNHoIFUlFAByjXkTDdJOK9nw2Z.jpg",
+      "tmdbId": 11171,
+      "popularity": 5.5647,
+      "releaseDate": "2005-03-30",
+      "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth."
     },
     "tmdb:44214": {
       "key": "tmdb:44214",
@@ -558,6 +544,62 @@
       "releaseDate": "1967-05-27",
       "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
     },
+    "tmdb:20481": {
+      "key": "tmdb:20481",
+      "title": "Nightbreed",
+      "year": 1990,
+      "director": "Clive Barker",
+      "runtime": 102,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/1ChluYH0BEvJo3gtYoFHnMZI660.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vt7ZQ38ZLOpq63DXu7pi3Rf5T24.jpg",
+      "tmdbId": 20481,
+      "popularity": 5.6446,
+      "releaseDate": "1990-02-16",
+      "overview": "A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy."
+    },
+    "tmdb:14696": {
+      "key": "tmdb:14696",
+      "title": "Ugetsu",
+      "year": 1953,
+      "director": "Kenji Mizoguchi",
+      "runtime": 96,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iB1tCWl4MKl6OO1kMBD5LxM5BmJ.jpg",
+      "tmdbId": 14696,
+      "popularity": 3.9527,
+      "releaseDate": "1953-03-26",
+      "overview": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama."
+    },
+    "tmdb:27432": {
+      "key": "tmdb:27432",
+      "title": "Killer of Sheep",
+      "year": 1978,
+      "director": "Charles Burnett",
+      "runtime": 80,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/z1CqJKI6gmdAMprD1NOYSCHVXEv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r763vsubExGcDJypctYuLLJmhB.jpg",
+      "tmdbId": 27432,
+      "popularity": 1.7788,
+      "releaseDate": "1978-11-14",
+      "overview": "An African-American man working at a slaughterhouse in the Watts area of Los Angeles leads a dissatisfied and listless existence."
+    },
+    "tmdb:197796": {
+      "key": "tmdb:197796",
+      "title": "Beauty and the Beast",
+      "year": 2014,
+      "director": "Christophe Gans",
+      "runtime": 112,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/8bErT2koHXAUSW5PdLQqgL5gEEe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/92Uceuy7HaiiHFgW48gNyxhx17d.jpg",
+      "tmdbId": 197796,
+      "popularity": 11.6362,
+      "releaseDate": "2014-02-12",
+      "overview": "Forced to face the cruel side of life, a devastated, bankrupt merchant chances upon the enchanted castle of a hideous creature, the mere sight of it chills the bone to the marrow. There, a fate worse than death awaits the poor father-of-six, who, after plucking a sweet-scented rose from the repulsive master's verdant garden, must do the impossible: permit his compassionate daughter, Belle, to take his place and pay for the sins of her parent. Now, an impenetrable mystery shrouds the haunted mansion, and, as repugnance gradually turns into affection, only true love could break the spell."
+    },
     "tmdb:142773": {
       "key": "tmdb:142773",
       "title": "Queen: Budapest",
@@ -572,6 +614,48 @@
       "releaseDate": "2012-09-20",
       "overview": "On July 27, 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury."
     },
+    "tmdb:9276": {
+      "key": "tmdb:9276",
+      "title": "The Faculty",
+      "year": 1998,
+      "director": "Robert Rodriguez",
+      "runtime": 104,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oJRlYxfG10h4sxk2A7fpeOZnaFi.jpg",
+      "tmdbId": 9276,
+      "popularity": 10.8636,
+      "releaseDate": "1998-12-25",
+      "overview": "When creepy things start happening at Herrington High, the students begin to suspect that their faculty is being controlled by body-snatching aliens."
+    },
+    "tmdb:15196": {
+      "key": "tmdb:15196",
+      "title": "Clue",
+      "year": 1985,
+      "director": "Jonathan Lynn",
+      "runtime": 94,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
+      "tmdbId": 15196,
+      "popularity": 9.2786,
+      "releaseDate": "1985-12-13",
+      "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises."
+    },
+    "tmdb:43316": {
+      "key": "tmdb:43316",
+      "title": "All That Heaven Allows",
+      "year": 1955,
+      "director": "Douglas Sirk",
+      "runtime": 89,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/wlSmIk6iQ8yQhBG795UOOBUs4gF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iQQ4jjYV8fgdEHDgkgSrc4mWgUx.jpg",
+      "tmdbId": 43316,
+      "popularity": 4.823,
+      "releaseDate": "1955-08-25",
+      "overview": "Two different social classes collide when Cary Scott, a wealthy upper-class widow, falls in love with her much younger and down-to-earth gardener, prompting disapproval and criticism from her children and country club friends."
+    },
     "tmdb:1765982": {
       "key": "tmdb:1765982",
       "title": "Bea Arthur: The Documentary",
@@ -585,33 +669,131 @@
       "releaseDate": "2026-10-03",
       "overview": "An intimate portrait of the actress celebrated for Maude, The Golden Girls and Mame. Built around a previously unseen interview conducted by producer and director Dan Watt, the film traces Arthur’s path from The New School and New York theatre to Broadway and television. Through Arthur’s own reflections and interviews with colleagues and close friends, the documentary looks beyond the tall, hilariously brassy public persona to reveal a woman who was also sensitive, vulnerable, compassionate and deeply committed to the people and causes she valued."
     },
-    "tmdb:1285895": {
-      "key": "tmdb:1285895",
-      "title": "Late Fame",
-      "year": 2025,
-      "director": "Kent Jones",
-      "runtime": 97,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
-      "tmdbId": 1285895,
-      "popularity": 2.6412,
-      "releaseDate": "2026-08-07",
-      "overview": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
+    "tmdb:1226578": {
+      "key": "tmdb:1226578",
+      "title": "Longlegs",
+      "year": 2024,
+      "director": "Osgood Perkins",
+      "runtime": 101,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
+      "tmdbId": 1226578,
+      "popularity": 13.1409,
+      "releaseDate": "2024-07-10",
+      "overview": "FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family."
     },
-    "tmdb:41050": {
-      "key": "tmdb:41050",
-      "title": "La Notte",
-      "year": 1961,
-      "director": "Michelangelo Antonioni",
-      "runtime": 122,
+    "tmdb:8413": {
+      "key": "tmdb:8413",
+      "title": "Event Horizon",
+      "year": 1997,
+      "director": "Paul W. S. Anderson",
+      "runtime": 96,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
+      "tmdbId": 8413,
+      "popularity": 13.505,
+      "releaseDate": "1997-08-15",
+      "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
+    },
+    "tmdb:28055": {
+      "key": "tmdb:28055",
+      "title": "Blood and Black Lace",
+      "year": 1964,
+      "director": "Mario Bava",
+      "runtime": 88,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/zYCQjsdktEvlWTRap836iI5paEL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",
+      "tmdbId": 28055,
+      "popularity": 3.9825,
+      "releaseDate": "1964-03-14",
+      "overview": "Isabella, a young model, is murdered by a mysterious masked figure at a fashion house in Rome. When her diary, which details the house employees' many vices, disappears, the masked killer begins killing off all the models in and around the house to find it."
+    },
+    "tmdb:18415": {
+      "key": "tmdb:18415",
+      "title": "Gummo",
+      "year": 1997,
+      "director": "Harmony Korine",
+      "runtime": 89,
       "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/xkd7wPJSIC76scBRHCFZ85uOH5d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5wATYRIHIBhE9kelbGxYm0i7cNs.jpg",
-      "tmdbId": 41050,
-      "popularity": 2.7248,
-      "releaseDate": "1961-01-24",
-      "overview": "A day in the life of an unfaithful married couple and their steadily deteriorating relationship in Milan."
+      "poster": "https://image.tmdb.org/t/p/w500/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
+      "tmdbId": 18415,
+      "popularity": 3.8657,
+      "releaseDate": "1997-10-17",
+      "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s."
+    },
+    "tmdb:377": {
+      "key": "tmdb:377",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "director": "Wes Craven",
+      "runtime": 91,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
+      "tmdbId": 377,
+      "popularity": 17.8068,
+      "releaseDate": "1984-11-09",
+      "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world..."
+    },
+    "tmdb:5842": {
+      "key": "tmdb:5842",
+      "title": "Versus",
+      "year": 2000,
+      "director": "Ryuhei Kitamura",
+      "runtime": 120,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/dEk6Fpm4lkEBQBVpzTOLau7qgR9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rZjRoASxOOyafFruGRuDBzL7dZ8.jpg",
+      "tmdbId": 5842,
+      "popularity": 2.0773,
+      "releaseDate": "2000-10-23",
+      "overview": "A group of ruthless gangsters, an unknown woman and an escaped convict have met, in The Forest of Resurrection, the 444th portal to the other side. Their troubles start when those once killed and buried in the forest come back from the dead."
+    },
+    "tmdb:846867": {
+      "key": "tmdb:846867",
+      "title": "Mad God",
+      "year": 2021,
+      "director": "Phil Tippett",
+      "runtime": 84,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/105stT9GkiENXiYqvWYKoAuHKQL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eMDQdKeoWTrCm2wEs7I7OD3bTQl.jpg",
+      "tmdbId": 846867,
+      "popularity": 3.8905,
+      "releaseDate": "2021-09-17",
+      "overview": "A silent figure known as The Assassin travels through a nightmare underworld of tortured souls, ruined cities and wretched monstrosities forged from the primordial horrors of the unconscious mind of Phil Tippett, the world's preeminent stop-motion animator."
+    },
+    "tmdb:25199": {
+      "key": "tmdb:25199",
+      "title": "Teen Witch",
+      "year": 1989,
+      "director": "Dorian Walker",
+      "runtime": 94,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/8UNA7PZ9gpoIgELB13bKCwOuICp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vRfo7aDU9k10G1FUSixOCPbcBmr.jpg",
+      "tmdbId": 25199,
+      "popularity": 4.1143,
+      "releaseDate": "1989-04-28",
+      "overview": "Louise is not very popular at her highschool. Then she learns that she's descended from the witches of Salem and has inherited their powers. At first she uses them to get back at the girls and teachers who teased her and to win the heart of the handsome footballer's captain. But soon she has doubts if it's right to 'cheat' her way to popularity."
+    },
+    "tmdb:11455": {
+      "key": "tmdb:11455",
+      "title": "Up in Smoke",
+      "year": 1978,
+      "director": "Lou Adler",
+      "runtime": 86,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/bZclIeyzmybXLe3hTbFOIqlyPE0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eEG0Wq8TFg11HFuaKnetw0dQNUy.jpg",
+      "tmdbId": 11455,
+      "popularity": 4.5404,
+      "releaseDate": "1978-09-15",
+      "overview": "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\""
     },
     "tmdb:522": {
       "key": "tmdb:522",
@@ -759,20 +941,6 @@
       "popularity": 9.061,
       "releaseDate": "1995-09-22",
       "overview": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way."
-    },
-    "tmdb:402": {
-      "key": "tmdb:402",
-      "title": "Basic Instinct",
-      "year": 1992,
-      "director": "Paul Verhoeven",
-      "runtime": 128,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/7FRraud59N3s10bbf9bfYjvwx3v.jpg",
-      "tmdbId": 402,
-      "popularity": 16.8499,
-      "releaseDate": "1992-03-20",
-      "overview": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story."
     },
     "tmdb:4011": {
       "key": "tmdb:4011",
@@ -1011,19 +1179,19 @@
       "releaseDate": "2026-08-14",
       "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio."
     },
-    "tmdb:298235": {
-      "key": "tmdb:298235",
-      "title": "Capone Cries a Lot",
-      "year": 1985,
-      "director": "Seijun Suzuki",
-      "runtime": 130,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/sLeGmA0zaKRN8STvde3iS36dQI5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jUCxEHo9m0y80OLSDtQ1ljp15XB.jpg",
-      "tmdbId": 298235,
-      "popularity": 1.5174,
-      "releaseDate": "1985-02-16",
-      "overview": "Umiemon is a naniwa-bushi singer who travels with his wife to the United States in hopes of achieving fame and fortune."
+    "tmdb:67298": {
+      "key": "tmdb:67298",
+      "title": "Lisztomania",
+      "year": 1975,
+      "director": "Ken Russell",
+      "runtime": 103,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/slkgkRL8hu0Sj4sOkcb8NSkwdGd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6SuOxhp79bAdisY61ItOxqSVgbi.jpg",
+      "tmdbId": 67298,
+      "popularity": 2.2837,
+      "releaseDate": "1975-10-01",
+      "overview": "In the 19th century, Romantic composer/pianist Franz Liszt tries to end his hedonistic ways but keeps getting sucked back in by his seductive fellow composer Richard Wagner."
     },
     "tmdb:22293": {
       "key": "tmdb:22293",
@@ -1079,44 +1247,6 @@
       "popularity": 0.682,
       "releaseDate": "2023-08-05",
       "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
-    },
-    "t:other cinema post kolonial spectres": {
-      "key": "t:other cinema post kolonial spectres",
-      "title": "Other Cinema: Post-Kolonial Spectres",
-      "director": "Adrian Quetzal Randall",
-      "overview": "A true breakthrough and international discovery!! Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play, an extremely sophisticated personal cine-essay that opens up areas of speculative history in an Adam Curtis-esque stream-of-consciousness  revelation on the military origins of Central American telecommunications and programming, tracing a psychedelic labyrinth across four continents. Part media archeology, part film diary, an endless montage of archival opticals support a long-form whispered confession about the electromagnetic magick that inflected the development of “modern” Honduran national sensibility. Our co-hit is Riar Rizaldi‘s equally paranoid Tellurian Drama, a sublime 25-min excavation of the colonial mythos surrounding the infamous Malabar Radio Antenna, a mysterious site of etheric conspiracy now being resurrected as a tourist destination on the Indonesian island of Java. $13",
-      "runtime": 25,
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/other-cinema-20260926-1024x576.jpg"
-    },
-    "tmdb:914355": {
-      "key": "tmdb:914355",
-      "title": "Program #7",
-      "year": 1978,
-      "director": "Jane Veeder, Phil Morton",
-      "runtime": 31,
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/02/tinaff-e1788851961809.jpg",
-      "tmdbId": 914355,
-      "popularity": 1.2073,
-      "releaseDate": "1978-08-22",
-      "overview": "Between 1976 and 1982, Jane Veeder traveled the western mountains of the United States with Phil Morton. On these road trips the two would shoot video of their surroundings using a portable video recorder. Some of these video recordings of the western mountain terrain were used to produce the televised video piece known as Program #7. Program #7 was produced as a part of a larger group of videos known as The Electronic Visualization Center: A Television Research Satellite to the School of the Art Institute of Chicago. Program #7 was televised on Chicago Public Television as a part of a program which ran work by independent video creators. Program #7 was created using a Sandin Image Processor and a Bally Home Computer. Graphics generated using a Bally Home Computer would be overlaid overtop of the video recorded by Veeder and Morton using the Sandin Image Processor. The Sandin Image Processor would also be used to add varying patterns to the image."
-    },
-    "tmdb:968640": {
-      "key": "tmdb:968640",
-      "title": "Analógica",
-      "year": 2020,
-      "director": "Sergio Zaurín",
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/vwI7SPxwXs4uKiiqnnv7Wx3BEG9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/px28rUsQWMlDLHIF4bdfmAr1w8b.jpg",
-      "tmdbId": 968640,
-      "popularity": 1.458,
-      "releaseDate": "2020-10-08"
-    },
-    "t:other cinema incredibly strange music": {
-      "key": "t:other cinema incredibly strange music",
-      "title": "Other Cinema: Incredibly Strange Music",
-      "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14",
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/othercinema-20261003-e1788904356676.webp"
     },
     "tmdb:11976": {
       "key": "tmdb:11976",
@@ -1216,19 +1346,19 @@
       "releaseDate": "1995-04-28",
       "overview": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane."
     },
-    "tmdb:1493": {
-      "key": "tmdb:1493",
-      "title": "Miss Congeniality",
-      "year": 2000,
-      "director": "Donald Petrie",
-      "runtime": 110,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/pat3vKaRlB70he4ghwTMydR4TvP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bTpjn4OEeoLEJYjRvEvkPfPQZdb.jpg",
-      "tmdbId": 1493,
-      "popularity": 9.771,
-      "releaseDate": "2000-12-22",
-      "overview": "When the local FBI office receives a letter from a terrorist known only as 'The Citizen', it's quickly determined that he's planning his next act at the Miss America beauty pageant. Because tough-as-nails Gracie Hart is the only female Agent at the office, she's chosen to go undercover as the contestant from New Jersey."
+    "tmdb:1285895": {
+      "key": "tmdb:1285895",
+      "title": "Late Fame",
+      "year": 2025,
+      "director": "Kent Jones",
+      "runtime": 97,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
+      "tmdbId": 1285895,
+      "popularity": 2.6412,
+      "releaseDate": "2026-08-07",
+      "overview": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
     },
     "tmdb:1283515": {
       "key": "tmdb:1283515",
@@ -1243,12 +1373,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "t:it will be better before and temo re": {
-      "key": "t:it will be better before and temo re",
-      "title": "It Will Be Better Before and Temo Re",
-      "overview": "Films in this Screening:\nIt Will Be Better Before\n(Tsarulshi uket ikneba)\nKeto Kipiani, Georgia, 2024.\n\nTemo Re\nAnka Gujabidze, Georgia, 2025\n\nFEATURING\nTemo Rekhviashvili\nMikheil Abramishvili\nNatalia Gabisonia\nSandro Kalandadze",
-      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/WILL%2001_Kipiani_It-Will-Be-Better-Before_002.jpg?itok=sucylO7B"
     },
     "tmdb:1114866": {
       "key": "tmdb:1114866",
@@ -1450,6 +1574,20 @@
       "releaseDate": "1982-12-18",
       "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy."
     },
+    "tmdb:269": {
+      "key": "tmdb:269",
+      "title": "Breathless",
+      "year": 1960,
+      "director": "Jean-Luc Godard",
+      "runtime": 90,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg",
+      "tmdbId": 269,
+      "popularity": 8.2963,
+      "releaseDate": "1960-03-16",
+      "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him."
+    },
     "tmdb:10560": {
       "key": "tmdb:10560",
       "title": "Center Stage",
@@ -1604,6 +1742,20 @@
       "releaseDate": "1922-02-16",
       "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
     },
+    "tmdb:9637": {
+      "key": "tmdb:9637",
+      "title": "Scooby-Doo",
+      "year": 2002,
+      "director": "Raja Gosnell",
+      "runtime": 87,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1RAxtBxslR4OZCZC1vxIRUxjR7a.jpg",
+      "tmdbId": 9637,
+      "popularity": 12.0857,
+      "releaseDate": "2002-06-14",
+      "overview": "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren't the only things that are spooky. Strange things are happening, and it's up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings."
+    },
     "tmdb:992": {
       "key": "tmdb:992",
       "title": "Sherlock Jr.",
@@ -1711,162 +1863,47 @@
       "popularity": 1.3245,
       "releaseDate": "1941-08-29",
       "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
+    },
+    "t:other cinema post kolonial spectres": {
+      "key": "t:other cinema post kolonial spectres",
+      "title": "Other Cinema: Post-Kolonial Spectres",
+      "director": "Adrian Quetzal Randall",
+      "overview": "A true breakthrough and international discovery!! Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play, an extremely sophisticated personal cine-essay that opens up areas of speculative history in an Adam Curtis-esque stream-of-consciousness  revelation on the military origins of Central American telecommunications and programming, tracing a psychedelic labyrinth across four continents. Part media archeology, part film diary, an endless montage of archival opticals support a long-form whispered confession about the electromagnetic magick that inflected the development of “modern” Honduran national sensibility. Our co-hit is Riar Rizaldi‘s equally paranoid Tellurian Drama, a sublime 25-min excavation of the colonial mythos surrounding the infamous Malabar Radio Antenna, a mysterious site of etheric conspiracy now being resurrected as a tourist destination on the Indonesian island of Java. $13",
+      "runtime": 25,
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/other-cinema-20260926-1024x576.jpg"
+    },
+    "tmdb:914355": {
+      "key": "tmdb:914355",
+      "title": "Program #7",
+      "year": 1978,
+      "director": "Jane Veeder, Phil Morton",
+      "runtime": 31,
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/02/tinaff-e1788851961809.jpg",
+      "tmdbId": 914355,
+      "popularity": 1.2073,
+      "releaseDate": "1978-08-22",
+      "overview": "Between 1976 and 1982, Jane Veeder traveled the western mountains of the United States with Phil Morton. On these road trips the two would shoot video of their surroundings using a portable video recorder. Some of these video recordings of the western mountain terrain were used to produce the televised video piece known as Program #7. Program #7 was produced as a part of a larger group of videos known as The Electronic Visualization Center: A Television Research Satellite to the School of the Art Institute of Chicago. Program #7 was televised on Chicago Public Television as a part of a program which ran work by independent video creators. Program #7 was created using a Sandin Image Processor and a Bally Home Computer. Graphics generated using a Bally Home Computer would be overlaid overtop of the video recorded by Veeder and Morton using the Sandin Image Processor. The Sandin Image Processor would also be used to add varying patterns to the image."
+    },
+    "tmdb:968640": {
+      "key": "tmdb:968640",
+      "title": "Analógica",
+      "year": 2020,
+      "director": "Sergio Zaurín",
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/vwI7SPxwXs4uKiiqnnv7Wx3BEG9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/px28rUsQWMlDLHIF4bdfmAr1w8b.jpg",
+      "tmdbId": 968640,
+      "popularity": 1.458,
+      "releaseDate": "2020-10-08"
+    },
+    "t:other cinema incredibly strange music": {
+      "key": "t:other cinema incredibly strange music",
+      "title": "Other Cinema: Incredibly Strange Music",
+      "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14",
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/othercinema-20261003-e1788904356676.webp"
     }
   },
   "screenings": [
-    {
-      "id": "operaplaza:2026-09-23:13:00:tmdb:1493",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1493",
-      "date": "2026-09-23",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/26861-miss-congeniality/",
-      "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
-      "source": "operaplaza"
-    },
-    {
-      "id": "rafael:2026-09-23:16:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-23",
-      "time": "16:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-23:17:00:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-23",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-23:17:00:tmdb:1285895",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-23",
-      "time": "17:00",
-      "url": "https://voguemovies.com/calendar-of-events/late-fame-september-23",
-      "source": "vogue"
-    },
-    {
-      "id": "operaplaza:2026-09-23:17:50:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-23",
-      "time": "17:50",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-23:18:00:tmdb:1631822",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1631822",
-      "date": "2026-09-23",
-      "time": "18:00",
-      "url": "https://roxie.com/film/mary-oliver-saved-by-the-beauty-of-the-world/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-23:18:00:tmdb:402",
-      "venueId": "alamo",
-      "filmKey": "tmdb:402",
-      "date": "2026-09-23",
-      "time": "18:00",
-      "url": "https://drafthouse.com/sf/show/basic-instinct?cinemaId=0801&sessionId=82499",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-23:18:45:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-23",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "operaplaza:2026-09-23:19:00:tmdb:1493",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1493",
-      "date": "2026-09-23",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/26861-miss-congeniality/",
-      "note": "Filmmaker Focus: Starring Sandra Bullock & Nicole Kidman",
-      "source": "operaplaza"
-    },
-    {
-      "id": "bampfa:2026-09-23:19:00:t:it will be better before and temo re",
-      "venueId": "bampfa",
-      "filmKey": "t:it will be better before and temo re",
-      "date": "2026-09-23",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/it-will-be-better-and-temo-re",
-      "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1 · In Conversation: Keto Kipiani, Anka Gujabidze, Salomé Asatiani, Anna Dziapshipa",
-      "source": "bampfa"
-    },
-    {
-      "id": "piedmont:2026-09-23:19:00:tmdb:653",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:653",
-      "date": "2026-09-23",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/318380-nosferatu-with-live-quarkestra-orchestra/",
-      "note": "Nosferatu with Live Quarkestra Orchestra",
-      "source": "piedmont"
-    },
-    {
-      "id": "rafael:2026-09-23:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-23",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-23:19:30:tmdb:41050",
-      "venueId": "vogue",
-      "filmKey": "tmdb:41050",
-      "date": "2026-09-23",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/la-notte-september-23",
-      "note": "L'Avventura",
-      "source": "vogue"
-    },
-    {
-      "id": "4star:2026-09-23:19:30:tmdb:8392",
-      "venueId": "4star",
-      "filmKey": "tmdb:8392",
-      "date": "2026-09-23",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/neighbor-totoro-wed",
-      "note": "SUB",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-09-23:20:00:tmdb:11171",
-      "venueId": "roxie",
-      "filmKey": "tmdb:11171",
-      "date": "2026-09-23",
-      "time": "20:00",
-      "url": "https://roxie.com/film/mysterious-skin-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-23:21:30:tmdb:298235",
-      "venueId": "alamo",
-      "filmKey": "tmdb:298235",
-      "date": "2026-09-23",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-capone-cries-a-lot?cinemaId=0801&sessionId=82420",
-      "note": "Weird Wednesday · Seijun Suzuki's kaleidoscopic vivisection of Americana.",
-      "source": "alamo"
-    },
     {
       "id": "operaplaza:2026-09-24:13:45:tmdb:1285895",
       "venueId": "operaplaza",
@@ -3312,6 +3349,16 @@
       "source": "roxie"
     },
     {
+      "id": "balboa:2026-10-03:19:30:tmdb:20481",
+      "venueId": "balboa",
+      "filmKey": "tmdb:20481",
+      "date": "2026-10-03",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/nightbreed-october-3",
+      "note": "As part of Fright Film Freakout hosted by Piranha Psychotronica",
+      "source": "balboa"
+    },
+    {
       "id": "ata:2026-10-03:20:00:t:other cinema incredibly strange music",
       "venueId": "ata",
       "filmKey": "t:other cinema incredibly strange music",
@@ -3398,6 +3445,15 @@
       "source": "roxie"
     },
     {
+      "id": "balboa:2026-10-04:19:30:tmdb:14696",
+      "venueId": "balboa",
+      "filmKey": "tmdb:14696",
+      "date": "2026-10-04",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/ugetsu-october-4",
+      "source": "balboa"
+    },
+    {
       "id": "4star:2026-10-04:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -3425,6 +3481,16 @@
       "time": "18:00",
       "url": "https://roxie.com/film/chronovisor/",
       "source": "roxie"
+    },
+    {
+      "id": "balboa:2026-10-05:19:30:tmdb:27432",
+      "venueId": "balboa",
+      "filmKey": "tmdb:27432",
+      "date": "2026-10-05",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/killer-of-sheep-october-5",
+      "note": "Killer of Sheep",
+      "source": "balboa"
     },
     {
       "id": "alamo:2026-10-05:21:30:tmdb:4011",
@@ -3461,6 +3527,16 @@
       "time": "19:00",
       "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83204",
       "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-10-06:19:30:tmdb:197796",
+      "venueId": "balboa",
+      "filmKey": "tmdb:197796",
+      "date": "2026-10-06",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/la-belle-et-la-bete-october-6",
+      "note": "Beauty and the Beast",
+      "source": "balboa"
     },
     {
       "id": "roxie:2026-10-06:20:30:tmdb:63025",
@@ -3626,6 +3702,17 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-10-09:19:30:tmdb:9276",
+      "venueId": "balboa",
+      "filmKey": "tmdb:9276",
+      "date": "2026-10-09",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-faculty-october-9",
+      "format": "35mm",
+      "note": "Presented on 35mm by",
+      "source": "balboa"
+    },
+    {
       "id": "4star:2026-10-09:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -3671,6 +3758,16 @@
       "date": "2026-10-10",
       "time": "19:00",
       "url": "https://www.balboamovies.com/calendar-of-events/queen-budapest-october-10",
+      "source": "balboa"
+    },
+    {
+      "id": "balboa:2026-10-10:21:30:tmdb:15196",
+      "venueId": "balboa",
+      "filmKey": "tmdb:15196",
+      "date": "2026-10-10",
+      "time": "21:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/clue-october-10",
+      "note": "R.I.P. Tim Curry",
       "source": "balboa"
     },
     {
@@ -3721,6 +3818,26 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-10-11:17:00:tmdb:43316",
+      "venueId": "balboa",
+      "filmKey": "tmdb:43316",
+      "date": "2026-10-11",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/all-that-heaven-allows-october-11",
+      "note": "All That Heaven Allows",
+      "source": "balboa"
+    },
+    {
+      "id": "balboa:2026-10-11:19:30:tmdb:15196",
+      "venueId": "balboa",
+      "filmKey": "tmdb:15196",
+      "date": "2026-10-11",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/clue-october-11",
+      "note": "R.I.P. Tim Curry",
+      "source": "balboa"
+    },
+    {
       "id": "alamo:2026-10-12:18:30:tmdb:30497",
       "venueId": "alamo",
       "filmKey": "tmdb:30497",
@@ -3760,6 +3877,17 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-10-13:19:30:tmdb:1226578",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1226578",
+      "date": "2026-10-13",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/longlegs-october-13",
+      "format": "35mm",
+      "note": "Projected on 35mm",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-10-13:20:35:tmdb:57447",
       "venueId": "roxie",
       "filmKey": "tmdb:57447",
@@ -3789,6 +3917,15 @@
       "source": "operaplaza"
     },
     {
+      "id": "balboa:2026-10-14:19:30:tmdb:8413",
+      "venueId": "balboa",
+      "filmKey": "tmdb:8413",
+      "date": "2026-10-14",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/event-horizon-october-14",
+      "source": "balboa"
+    },
+    {
       "id": "castro:2026-10-14:20:00:t:finn wolfhard",
       "venueId": "castro",
       "filmKey": "t:finn wolfhard",
@@ -3799,6 +3936,17 @@
       "source": "castro"
     },
     {
+      "id": "alamo:2026-10-14:21:20:tmdb:67298",
+      "venueId": "alamo",
+      "filmKey": "tmdb:67298",
+      "date": "2026-10-14",
+      "time": "21:20",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-lisztomania?cinemaId=0801&sessionId=83316",
+      "format": "35mm",
+      "note": "Weird Wednesday · The surreal life of rock star composer Franz Liszt.",
+      "source": "alamo"
+    },
+    {
       "id": "bampfa:2026-10-15:19:00:tmdb:702789",
       "venueId": "bampfa",
       "filmKey": "tmdb:702789",
@@ -3807,6 +3955,16 @@
       "url": "https://bampfa.org/event/collaborations-cairos-cimatheque",
       "note": "Stefanie Schulte Strathaus: Modes of Archivism",
       "source": "bampfa"
+    },
+    {
+      "id": "balboa:2026-10-15:19:30:tmdb:28055",
+      "venueId": "balboa",
+      "filmKey": "tmdb:28055",
+      "date": "2026-10-15",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/blood-and-black-lace-october-15",
+      "note": "Presented by Gallery 3630",
+      "source": "balboa"
     },
     {
       "id": "roxie:2026-10-16:18:15:tmdb:50173",
@@ -3846,6 +4004,15 @@
       "format": "4K",
       "note": "Martin Scorsese Pictures · 4K Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "balboa:2026-10-16:19:30:tmdb:18415",
+      "venueId": "balboa",
+      "filmKey": "tmdb:18415",
+      "date": "2026-10-16",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/gummo-october-16",
+      "source": "balboa"
     },
     {
       "id": "operaplaza:2026-10-16:20:30:tmdb:11976",
@@ -3927,6 +4094,15 @@
       "source": "newparkway"
     },
     {
+      "id": "balboa:2026-10-18:14:30:tmdb:377",
+      "venueId": "balboa",
+      "filmKey": "tmdb:377",
+      "date": "2026-10-18",
+      "time": "14:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/a-nightmare-on-elm-street-october-18",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-10-18:15:00:tmdb:50173",
       "venueId": "roxie",
       "filmKey": "tmdb:50173",
@@ -3966,6 +4142,16 @@
       "source": "roxie"
     },
     {
+      "id": "balboa:2026-10-18:17:00:tmdb:5842",
+      "venueId": "balboa",
+      "filmKey": "tmdb:5842",
+      "date": "2026-10-18",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/versus-october-18",
+      "note": "Samurai Rebellion",
+      "source": "balboa"
+    },
+    {
       "id": "bampfa:2026-10-18:19:00:tmdb:262",
       "venueId": "bampfa",
       "filmKey": "tmdb:262",
@@ -3985,6 +4171,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/media-meltdown-movie-madhouse",
       "note": "DELLAMORTE DELLAMORE: CEMETERY MAN (1994)",
       "source": "4star"
+    },
+    {
+      "id": "balboa:2026-10-19:19:30:tmdb:846867",
+      "venueId": "balboa",
+      "filmKey": "tmdb:846867",
+      "date": "2026-10-19",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/mad-god-october-19",
+      "source": "balboa"
     },
     {
       "id": "roxie:2026-10-20:18:00:tmdb:3019",
@@ -4017,6 +4212,16 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-10-21:19:00:tmdb:25199",
+      "venueId": "balboa",
+      "filmKey": "tmdb:25199",
+      "date": "2026-10-21",
+      "time": "19:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/teen-witch-october-21",
+      "note": "Presented as part of",
+      "source": "balboa"
+    },
+    {
       "id": "operaplaza:2026-10-21:19:00:tmdb:8852",
       "venueId": "operaplaza",
       "filmKey": "tmdb:8852",
@@ -4035,17 +4240,140 @@
       "url": "https://drafthouse.com/sf/show/weird-wednesday-manos-the-hands-of-fate?cinemaId=0801&sessionId=82957",
       "note": "Weird Wednesday · The master would not approve",
       "source": "alamo"
+    },
+    {
+      "id": "bampfa:2026-10-22:19:00:tmdb:269",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:269",
+      "date": "2026-10-22",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/breathless",
+      "format": "4K",
+      "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "balboa:2026-10-22:19:30:tmdb:11455",
+      "venueId": "balboa",
+      "filmKey": "tmdb:11455",
+      "date": "2026-10-22",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/up-in-smoke-october-22",
+      "source": "balboa"
+    },
+    {
+      "id": "newparkway:2026-10-22:21:30:tmdb:9637",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:9637",
+      "date": "2026-10-22",
+      "time": "21:30",
+      "url": "https://thenewparkway.com/movie/scooby-doo-animation-ko/",
+      "note": "Animation KO",
+      "source": "newparkway"
     }
   ],
   "festivals": [
     {
+      "key": "fest:vogue:san francisco brazilian film festival",
+      "name": "San Francisco Brazilian Film Festival",
+      "venueId": "vogue",
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-27",
+      "url": "https://www.cinemabrazil.org/",
+      "showtimes": 12,
+      "sample": [
+        "I Only Rest in the Storm",
+        "Little Creatures",
+        "Gugu's World",
+        "The Flesh Itself w/ No Final, Jazz"
+      ],
+      "programme": [
+        {
+          "date": "2026-09-24",
+          "time": "19:00",
+          "title": "I Only Rest in the Storm",
+          "url": "https://voguemovies.com/calendar-of-events/i-only-rest-in-the-storm-september-24"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "17:00",
+          "title": "Little Creatures",
+          "url": "https://voguemovies.com/calendar-of-events/little-creatures-september-25"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "19:00",
+          "title": "Gugu's World",
+          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-25",
+          "note": "Just selected as the Brazilian entry for the Best International Feature Film at the 99th Academy Awards!"
+        },
+        {
+          "date": "2026-09-25",
+          "time": "21:00",
+          "title": "The Flesh Itself w/ No Final, Jazz",
+          "url": "https://voguemovies.com/calendar-of-events/the-flesh-itself-w/-no-final-jazz-september-25",
+          "note": "Before the movie: No Final, Jazz (2025) Directed by Cecilia Shoerder Catarino"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "14:00",
+          "title": "Short Stories: Resistance!",
+          "url": "https://voguemovies.com/calendar-of-events/short-stories-resistance-september-26",
+          "note": "Four Short stories about resilience and more…"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "16:00",
+          "title": "Streets of Glory",
+          "url": "https://voguemovies.com/calendar-of-events/streets-of-glory-september-26"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "17:55",
+          "title": "Gugu's World",
+          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-26",
+          "note": "Just selected as the Brazilian entry for the Best International Feature Film at the 99th Academy Awards!"
+        },
+        {
+          "date": "2026-09-26",
+          "time": "19:30",
+          "title": "Marighella",
+          "url": "https://voguemovies.com/calendar-of-events/marighella-september-26"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "14:00",
+          "title": "Clay Men",
+          "url": "https://voguemovies.com/calendar-of-events/clay-men-september-27"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "15:45",
+          "title": "Cyclone",
+          "url": "https://voguemovies.com/calendar-of-events/cyclone-september-27"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "18:00",
+          "title": "Central Station",
+          "url": "https://voguemovies.com/calendar-of-events/central-station-september-27"
+        },
+        {
+          "date": "2026-09-27",
+          "time": "20:30",
+          "title": "The Blue Trail",
+          "url": "https://voguemovies.com/calendar-of-events/the-blue-trail-september-27"
+        }
+      ]
+    },
+    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-23",
+      "startDate": "2026-09-24",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83159",
-      "showtimes": 51,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82766",
+      "showtimes": 48,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
@@ -4053,24 +4381,6 @@
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-23",
-          "time": "15:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83159"
-        },
-        {
-          "date": "2026-09-23",
-          "time": "18:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83163"
-        },
-        {
-          "date": "2026-09-23",
-          "time": "22:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83162"
-        },
         {
           "date": "2026-09-24",
           "time": "16:00",
@@ -4365,116 +4675,17 @@
       "key": "fest:newparkway:manhattan short film festival 2026",
       "name": "Manhattan Short Film Festival 2026",
       "venueId": "newparkway",
-      "startDate": "2026-09-23",
+      "startDate": "2026-09-24",
       "endDate": "2026-09-24",
       "url": "https://indy-systems.imgix.net/1j8jz48ewx3tqmvmap50uvy4nb1v?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
-      "showtimes": 2,
+      "showtimes": 1,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-09-23",
-          "time": "15:15",
-          "title": "Manhattan Short Film Festival 2026",
-          "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
-        },
         {
           "date": "2026-09-24",
           "time": "15:30",
           "title": "Manhattan Short Film Festival 2026",
           "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
-        }
-      ]
-    },
-    {
-      "key": "fest:vogue:san francisco brazilian film festival",
-      "name": "San Francisco Brazilian Film Festival",
-      "venueId": "vogue",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-27",
-      "url": "https://www.cinemabrazil.org/",
-      "showtimes": 12,
-      "sample": [
-        "I Only Rest in the Storm",
-        "Little Creatures",
-        "Gugu's World",
-        "The Flesh Itself w/ No Final, Jazz"
-      ],
-      "programme": [
-        {
-          "date": "2026-09-24",
-          "time": "19:00",
-          "title": "I Only Rest in the Storm",
-          "url": "https://voguemovies.com/calendar-of-events/i-only-rest-in-the-storm-september-24"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "17:00",
-          "title": "Little Creatures",
-          "url": "https://voguemovies.com/calendar-of-events/little-creatures-september-25"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "19:00",
-          "title": "Gugu's World",
-          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-25",
-          "note": "Just selected as the Brazilian entry for the Best International Feature Film at the 99th Academy Awards!"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "21:00",
-          "title": "The Flesh Itself w/ No Final, Jazz",
-          "url": "https://voguemovies.com/calendar-of-events/the-flesh-itself-w/-no-final-jazz-september-25",
-          "note": "Before the movie: No Final, Jazz (2025) Directed by Cecilia Shoerder Catarino"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "14:00",
-          "title": "Short Stories: Resistance!",
-          "url": "https://voguemovies.com/calendar-of-events/short-stories-resistance-september-26",
-          "note": "Four Short stories about resilience and more…"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "16:00",
-          "title": "Streets of Glory",
-          "url": "https://voguemovies.com/calendar-of-events/streets-of-glory-september-26"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "17:55",
-          "title": "Gugu's World",
-          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-26",
-          "note": "Just selected as the Brazilian entry for the Best International Feature Film at the 99th Academy Awards!"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "19:30",
-          "title": "Marighella",
-          "url": "https://voguemovies.com/calendar-of-events/marighella-september-26"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "14:00",
-          "title": "Clay Men",
-          "url": "https://voguemovies.com/calendar-of-events/clay-men-september-27"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "15:45",
-          "title": "Cyclone",
-          "url": "https://voguemovies.com/calendar-of-events/cyclone-september-27"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "18:00",
-          "title": "Central Station",
-          "url": "https://voguemovies.com/calendar-of-events/central-station-september-27"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "20:30",
-          "title": "The Blue Trail",
-          "url": "https://voguemovies.com/calendar-of-events/the-blue-trail-september-27"
         }
       ]
     },
