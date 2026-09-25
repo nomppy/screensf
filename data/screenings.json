@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-09-24T17:45:09.045Z",
+  "generatedAt": "2026-09-25T17:38:13.173Z",
   "films": {
-    "t:re vision my name aint suzie": {
-      "key": "t:re vision my name aint suzie",
-      "title": "Re:Vision: My Name Ain’t Suzie",
-      "year": 1985,
-      "director": "Angie Chen",
-      "runtime": 101,
-      "overview": "In My Name Ain’t Suzie, Angie Chen offers a powerful rebuke to the colonial imagination of films such as The World of Suzie Wong (1960), bringing post-war Hong Kong to life on her own terms. Shui-Mei (Patricia Ha), a “salt water girl” from the outskirts of the city, finds a way out of poverty in the Red Light district of Wan Chai. Over the years, she rises through the ranks, discovering a world of equal hardship and sisterly camaraderie, where colorful characters abound – among them Jimmy (Anthony Wong, in his debut role), a mixed-race kid looking for his father in the crowd of thirsty American sailors.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/5-13.jpg"
-    },
-    "tmdb:22500": {
-      "key": "tmdb:22500",
-      "title": "Gandahar",
-      "year": 1987,
-      "director": "René Laloux",
-      "runtime": 83,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/cjwEa9RZ8BqoGMddrrYm8ftP9f9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/omysgecSqildPjk4LL8To0L3tgm.jpg",
-      "tmdbId": 22500,
-      "popularity": 3.9573,
-      "releaseDate": "1987-12-11",
-      "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
-    },
     "t:re vision valley of the bees": {
       "key": "t:re vision valley of the bees",
       "title": "Re:Vision: Valley of the Bees",
@@ -186,6 +163,20 @@
       "runtime": 124,
       "overview": "At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a star pupil and stroke seat on the rowing team, but her clandestine affair with a young chemist from another college leads her into trouble when she discovers she’s pregnant. As Christa’s attention in school slips, she incurs the discipline of the team’s steely coach, Hannah (Kay Johnson), who removes her from the boat and threatens expulsion. Worse, Christa’s businessman father (Walter Connelly) objects to marriage between Christa and David over concerns that David’s studies doom him to a life of poverty. How will Christa and her coming baby keep an even keel through all this choppy water?",
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/Untitled-design-2-1.jpg"
+    },
+    "tmdb:22500": {
+      "key": "tmdb:22500",
+      "title": "Gandahar",
+      "year": 1987,
+      "director": "René Laloux",
+      "runtime": 83,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/cjwEa9RZ8BqoGMddrrYm8ftP9f9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/omysgecSqildPjk4LL8To0L3tgm.jpg",
+      "tmdbId": 22500,
+      "popularity": 3.9573,
+      "releaseDate": "1987-12-11",
+      "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
     },
     "tmdb:540": {
       "key": "tmdb:540",
@@ -502,6 +493,20 @@
       "releaseDate": "1931-12-24",
       "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late."
     },
+    "tmdb:10439": {
+      "key": "tmdb:10439",
+      "title": "Hocus Pocus",
+      "year": 1993,
+      "director": "Kenny Ortega",
+      "runtime": 96,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+      "tmdbId": 10439,
+      "popularity": 16.2733,
+      "releaseDate": "1993-07-16",
+      "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all."
+    },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
       "title": "The History of Concrete",
@@ -557,6 +562,20 @@
       "popularity": 5.6446,
       "releaseDate": "1990-02-16",
       "overview": "A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy."
+    },
+    "tmdb:582913": {
+      "key": "tmdb:582913",
+      "title": "The Room",
+      "year": 2019,
+      "director": "Christian Volckman",
+      "runtime": 99,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/bWyQwZziHh1DK9F59eqahZD8Upc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/snbRXbkzEpc35mFDlwUg41cN8aw.jpg",
+      "tmdbId": 582913,
+      "popularity": 6.0879,
+      "releaseDate": "2019-09-12",
+      "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
     },
     "tmdb:14696": {
       "key": "tmdb:14696",
@@ -795,6 +814,19 @@
       "releaseDate": "1978-09-15",
       "overview": "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\""
     },
+    "tmdb:98096": {
+      "key": "tmdb:98096",
+      "title": "Live Music",
+      "year": 2009,
+      "director": "Yair Landau",
+      "runtime": 6,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
+      "tmdbId": 98096,
+      "popularity": 1.0169,
+      "releaseDate": "2009-11-20",
+      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
+    },
     "tmdb:522": {
       "key": "tmdb:522",
       "title": "Ed Wood",
@@ -864,19 +896,6 @@
       "popularity": 1.1239,
       "releaseDate": "2002-05-02",
       "overview": "During Ireland's War of Independence, a five-year-old girl sets out to save her village from the English army by trying to enlist the help of the rumored Black Swordsman, who only takes books of a certain genre as payment."
-    },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0169,
-      "releaseDate": "2009-11-20",
-      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
     },
     "tmdb:182227": {
       "key": "tmdb:182227",
@@ -996,20 +1015,6 @@
       "tmdbId": 1410939,
       "popularity": 2.4597,
       "overview": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
-    },
-    "tmdb:4816": {
-      "key": "tmdb:4816",
-      "title": "Ghost Dog: The Way of the Samurai",
-      "year": 1999,
-      "director": "Jim Jarmusch",
-      "runtime": 117,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/gjcl07r9zgQ9tVo9alyHmysPFfX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9oRbHgbJf1Zr2fct8jBIKadpKya.jpg",
-      "tmdbId": 4816,
-      "popularity": 5.4533,
-      "releaseDate": "1999-10-06",
-      "overview": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob."
     },
     "tmdb:9064": {
       "key": "tmdb:9064",
@@ -1248,6 +1253,44 @@
       "releaseDate": "2023-08-05",
       "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
     },
+    "t:other cinema post kolonial spectres": {
+      "key": "t:other cinema post kolonial spectres",
+      "title": "Other Cinema: Post-Kolonial Spectres",
+      "director": "Adrian Quetzal Randall",
+      "overview": "A true breakthrough and international discovery!! Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play, an extremely sophisticated personal cine-essay that opens up areas of speculative history in an Adam Curtis-esque stream-of-consciousness  revelation on the military origins of Central American telecommunications and programming, tracing a psychedelic labyrinth across four continents. Part media archeology, part film diary, an endless montage of archival opticals support a long-form whispered confession about the electromagnetic magick that inflected the development of “modern” Honduran national sensibility. Our co-hit is Riar Rizaldi‘s equally paranoid Tellurian Drama, a sublime 25-min excavation of the colonial mythos surrounding the infamous Malabar Radio Antenna, a mysterious site of etheric conspiracy now being resurrected as a tourist destination on the Indonesian island of Java. $13",
+      "runtime": 25,
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/other-cinema-20260926-1024x576.jpg"
+    },
+    "tmdb:914355": {
+      "key": "tmdb:914355",
+      "title": "Program #7",
+      "year": 1978,
+      "director": "Jane Veeder, Phil Morton",
+      "runtime": 31,
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/02/tinaff-e1788851961809.jpg",
+      "tmdbId": 914355,
+      "popularity": 1.2073,
+      "releaseDate": "1978-08-22",
+      "overview": "Between 1976 and 1982, Jane Veeder traveled the western mountains of the United States with Phil Morton. On these road trips the two would shoot video of their surroundings using a portable video recorder. Some of these video recordings of the western mountain terrain were used to produce the televised video piece known as Program #7. Program #7 was produced as a part of a larger group of videos known as The Electronic Visualization Center: A Television Research Satellite to the School of the Art Institute of Chicago. Program #7 was televised on Chicago Public Television as a part of a program which ran work by independent video creators. Program #7 was created using a Sandin Image Processor and a Bally Home Computer. Graphics generated using a Bally Home Computer would be overlaid overtop of the video recorded by Veeder and Morton using the Sandin Image Processor. The Sandin Image Processor would also be used to add varying patterns to the image."
+    },
+    "tmdb:968640": {
+      "key": "tmdb:968640",
+      "title": "Analógica",
+      "year": 2020,
+      "director": "Sergio Zaurín",
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/vwI7SPxwXs4uKiiqnnv7Wx3BEG9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/px28rUsQWMlDLHIF4bdfmAr1w8b.jpg",
+      "tmdbId": 968640,
+      "popularity": 1.458,
+      "releaseDate": "2020-10-08"
+    },
+    "t:other cinema incredibly strange music": {
+      "key": "t:other cinema incredibly strange music",
+      "title": "Other Cinema: Incredibly Strange Music",
+      "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14",
+      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/othercinema-20261003-e1788904356676.webp"
+    },
     "tmdb:11976": {
       "key": "tmdb:11976",
       "title": "Legend",
@@ -1346,20 +1389,6 @@
       "releaseDate": "1995-04-28",
       "overview": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane."
     },
-    "tmdb:1285895": {
-      "key": "tmdb:1285895",
-      "title": "Late Fame",
-      "year": 2025,
-      "director": "Kent Jones",
-      "runtime": 97,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/bcyXE0p4XmZUlcxvTDbvdG9lgsN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tDG3iVhR4gZOTtXoBEtqZgNrD1U.jpg",
-      "tmdbId": 1285895,
-      "popularity": 2.6412,
-      "releaseDate": "2026-08-07",
-      "overview": "Legendary New York poet Ed Saxberger's forgotten works captivate an eccentric group of young creatives, reigniting his artistic passion. Their intrigue intertwines with the bewitching presence of actress Gloria."
-    },
     "tmdb:1283515": {
       "key": "tmdb:1283515",
       "title": "Verify (Early Access)",
@@ -1373,20 +1402,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "tmdb:1114866": {
-      "key": "tmdb:1114866",
-      "title": "Blackbird Blackbird Blackberry",
-      "year": 2023,
-      "director": "Elene Naveriani",
-      "runtime": 112,
-      "genre": "Romance",
-      "poster": "https://image.tmdb.org/t/p/w500/xcG2bRze3RYzx6ajHJhD7HpeOxV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6SlRxTZXspF0LwIDQdVZ0BkJDeK.jpg",
-      "tmdbId": 1114866,
-      "popularity": 3.1587,
-      "releaseDate": "2023-10-26",
-      "overview": "In a small traditional Georgian village, Etero, the owner of a housekeeping shop, is a forty-eight-year-old spinster. She cherishes her freedom, as much as her cakes, and is preparing for a peaceful and comfortable retirement away from gossip. But a fiery affair with her delivery man could derail all her plans."
     },
     "tmdb:649804": {
       "key": "tmdb:649804",
@@ -1863,160 +1878,9 @@
       "popularity": 1.3245,
       "releaseDate": "1941-08-29",
       "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
-    },
-    "t:other cinema post kolonial spectres": {
-      "key": "t:other cinema post kolonial spectres",
-      "title": "Other Cinema: Post-Kolonial Spectres",
-      "director": "Adrian Quetzal Randall",
-      "overview": "A true breakthrough and international discovery!! Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play, an extremely sophisticated personal cine-essay that opens up areas of speculative history in an Adam Curtis-esque stream-of-consciousness  revelation on the military origins of Central American telecommunications and programming, tracing a psychedelic labyrinth across four continents. Part media archeology, part film diary, an endless montage of archival opticals support a long-form whispered confession about the electromagnetic magick that inflected the development of “modern” Honduran national sensibility. Our co-hit is Riar Rizaldi‘s equally paranoid Tellurian Drama, a sublime 25-min excavation of the colonial mythos surrounding the infamous Malabar Radio Antenna, a mysterious site of etheric conspiracy now being resurrected as a tourist destination on the Indonesian island of Java. $13",
-      "runtime": 25,
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/other-cinema-20260926-1024x576.jpg"
-    },
-    "tmdb:914355": {
-      "key": "tmdb:914355",
-      "title": "Program #7",
-      "year": 1978,
-      "director": "Jane Veeder, Phil Morton",
-      "runtime": 31,
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/02/tinaff-e1788851961809.jpg",
-      "tmdbId": 914355,
-      "popularity": 1.2073,
-      "releaseDate": "1978-08-22",
-      "overview": "Between 1976 and 1982, Jane Veeder traveled the western mountains of the United States with Phil Morton. On these road trips the two would shoot video of their surroundings using a portable video recorder. Some of these video recordings of the western mountain terrain were used to produce the televised video piece known as Program #7. Program #7 was produced as a part of a larger group of videos known as The Electronic Visualization Center: A Television Research Satellite to the School of the Art Institute of Chicago. Program #7 was televised on Chicago Public Television as a part of a program which ran work by independent video creators. Program #7 was created using a Sandin Image Processor and a Bally Home Computer. Graphics generated using a Bally Home Computer would be overlaid overtop of the video recorded by Veeder and Morton using the Sandin Image Processor. The Sandin Image Processor would also be used to add varying patterns to the image."
-    },
-    "tmdb:968640": {
-      "key": "tmdb:968640",
-      "title": "Analógica",
-      "year": 2020,
-      "director": "Sergio Zaurín",
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/vwI7SPxwXs4uKiiqnnv7Wx3BEG9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/px28rUsQWMlDLHIF4bdfmAr1w8b.jpg",
-      "tmdbId": 968640,
-      "popularity": 1.458,
-      "releaseDate": "2020-10-08"
-    },
-    "t:other cinema incredibly strange music": {
-      "key": "t:other cinema incredibly strange music",
-      "title": "Other Cinema: Incredibly Strange Music",
-      "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14",
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/othercinema-20261003-e1788904356676.webp"
     }
   },
   "screenings": [
-    {
-      "id": "operaplaza:2026-09-24:13:45:tmdb:1285895",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-24",
-      "time": "13:45",
-      "url": "https://www.landmarktheatres.com/movies/1000014031-late-fame/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "alamo:2026-09-24:16:40:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-24",
-      "time": "16:40",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83224",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-24:16:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-24",
-      "time": "16:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-24:17:00:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-24",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-24:18:10:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-24",
-      "time": "18:10",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83225",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-24:18:45:tmdb:1285895",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1285895",
-      "date": "2026-09-24",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/late-fame",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-24:19:00:t:re vision my name aint suzie",
-      "venueId": "roxie",
-      "filmKey": "t:re vision my name aint suzie",
-      "date": "2026-09-24",
-      "time": "19:00",
-      "url": "https://roxie.com/film/revision-my-name-aint-suzie/",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-09-24:19:00:tmdb:1114866",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:1114866",
-      "date": "2026-09-24",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/blackbird-blackbird-blackberry",
-      "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1 · In Conversation: Elene Naveriani, Salomé Asatiani, Salomé Jashi",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-24:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-24",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-24:20:05:tmdb:22500",
-      "venueId": "roxie",
-      "filmKey": "tmdb:22500",
-      "date": "2026-09-24",
-      "time": "20:05",
-      "url": "https://roxie.com/film/gandahar-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-24:20:55:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-24",
-      "time": "20:55",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-24:21:50:tmdb:4816",
-      "venueId": "alamo",
-      "filmKey": "tmdb:4816",
-      "date": "2026-09-24",
-      "time": "21:50",
-      "url": "https://drafthouse.com/sf/show/guest-selects-ghost-dog-the-way-of-the-samurai?cinemaId=0801&sessionId=82930",
-      "format": "35mm",
-      "note": "Guest Selects · Programmed by Mahershala Ali and Bassam Tariq ahead of their new film",
-      "source": "alamo"
-    },
     {
       "id": "alamo:2026-09-25:13:40:tmdb:1596296",
       "venueId": "alamo",
@@ -2846,6 +2710,15 @@
       "source": "rafael"
     },
     {
+      "id": "roxie:2026-09-29:18:00:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-09-29",
+      "time": "18:00",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-09-29:18:00:tmdb:22500",
       "venueId": "roxie",
       "filmKey": "tmdb:22500",
@@ -2853,15 +2726,6 @@
       "time": "18:00",
       "url": "https://roxie.com/film/gandahar-4k-restoration/",
       "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-29:18:00:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-29",
-      "time": "18:00",
-      "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
     },
     {
@@ -3078,6 +2942,15 @@
       "source": "alamo"
     },
     {
+      "id": "grandlake:2026-10-01:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-01",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261001",
+      "source": "grandlake"
+    },
+    {
       "id": "roxie:2026-10-01:18:00:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -3103,6 +2976,15 @@
       "time": "18:30",
       "url": "https://roxie.com/film/black-swan/",
       "source": "roxie"
+    },
+    {
+      "id": "grandlake:2026-10-01:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-01",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261001",
+      "source": "grandlake"
     },
     {
       "id": "bampfa:2026-10-01:19:00:tmdb:33470",
@@ -3162,6 +3044,15 @@
       "source": "alamo"
     },
     {
+      "id": "grandlake:2026-10-02:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-02",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261002",
+      "source": "grandlake"
+    },
+    {
       "id": "roxie:2026-10-02:18:00:tmdb:1599181",
       "venueId": "roxie",
       "filmKey": "tmdb:1599181",
@@ -3187,6 +3078,15 @@
       "time": "18:30",
       "url": "https://roxie.com/film/new-people-hausu/",
       "source": "roxie"
+    },
+    {
+      "id": "grandlake:2026-10-02:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-02",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261002",
+      "source": "grandlake"
     },
     {
       "id": "bampfa:2026-10-02:19:00:tmdb:846806",
@@ -3258,6 +3158,15 @@
       "source": "piedmont"
     },
     {
+      "id": "grandlake:2026-10-03:11:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "11:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
+      "source": "grandlake"
+    },
+    {
       "id": "roxie:2026-10-03:12:30:tmdb:1193495",
       "venueId": "roxie",
       "filmKey": "tmdb:1193495",
@@ -3284,6 +3193,15 @@
       "url": "https://www.landmarktheatres.com/movies/1729-dracula-1931/",
       "note": "Marquee Matinees - Monster Madness",
       "source": "operaplaza"
+    },
+    {
+      "id": "grandlake:2026-10-03:13:45:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "13:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-03:14:30:tmdb:1596296",
@@ -3322,6 +3240,15 @@
       "source": "roxie"
     },
     {
+      "id": "grandlake:2026-10-03:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
+      "source": "grandlake"
+    },
+    {
       "id": "roxie:2026-10-03:17:20:tmdb:77350",
       "venueId": "roxie",
       "filmKey": "tmdb:77350",
@@ -3349,6 +3276,15 @@
       "source": "roxie"
     },
     {
+      "id": "grandlake:2026-10-03:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
+      "source": "grandlake"
+    },
+    {
       "id": "balboa:2026-10-03:19:30:tmdb:20481",
       "venueId": "balboa",
       "filmKey": "tmdb:20481",
@@ -3366,6 +3302,24 @@
       "time": "20:00",
       "url": "https://www.atasite.org/event/other-cinema-incredibly-strange-music-2026/",
       "source": "ata"
+    },
+    {
+      "id": "balboa:2026-10-03:23:00:tmdb:582913",
+      "venueId": "balboa",
+      "filmKey": "tmdb:582913",
+      "date": "2026-10-03",
+      "time": "23:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-room-october-3",
+      "source": "balboa"
+    },
+    {
+      "id": "grandlake:2026-10-04:11:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-04",
+      "time": "11:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261004",
+      "source": "grandlake"
     },
     {
       "id": "alamo:2026-10-04:12:00:tmdb:793",
@@ -3387,6 +3341,15 @@
       "format": "DCP",
       "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "grandlake:2026-10-04:13:45:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-04",
+      "time": "13:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261004",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-04:14:30:tmdb:1596296",
@@ -3427,6 +3390,15 @@
       "source": "sfmoma"
     },
     {
+      "id": "grandlake:2026-10-04:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-04",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261004",
+      "source": "grandlake"
+    },
+    {
       "id": "roxie:2026-10-04:16:50:tmdb:1599181",
       "venueId": "roxie",
       "filmKey": "tmdb:1599181",
@@ -3443,6 +3415,15 @@
       "time": "19:00",
       "url": "https://roxie.com/film/dont-play-with-fire/",
       "source": "roxie"
+    },
+    {
+      "id": "grandlake:2026-10-04:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-04",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261004",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-04:19:30:tmdb:14696",
@@ -3474,6 +3455,24 @@
       "source": "newparkway"
     },
     {
+      "id": "grandlake:2026-10-05:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-05",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261005",
+      "source": "grandlake"
+    },
+    {
+      "id": "balboa:2026-10-05:17:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-05",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-5",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-10-05:18:00:tmdb:1599181",
       "venueId": "roxie",
       "filmKey": "tmdb:1599181",
@@ -3481,6 +3480,15 @@
       "time": "18:00",
       "url": "https://roxie.com/film/chronovisor/",
       "source": "roxie"
+    },
+    {
+      "id": "grandlake:2026-10-05:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-05",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261005",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-05:19:30:tmdb:27432",
@@ -3511,6 +3519,24 @@
       "source": "alamo"
     },
     {
+      "id": "grandlake:2026-10-06:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-06",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261006",
+      "source": "grandlake"
+    },
+    {
+      "id": "balboa:2026-10-06:17:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-06",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-6",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-10-06:18:15:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -3527,6 +3553,15 @@
       "time": "19:00",
       "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83204",
       "source": "alamo"
+    },
+    {
+      "id": "grandlake:2026-10-06:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-06",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261006",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-06:19:30:tmdb:197796",
@@ -3559,6 +3594,15 @@
       "source": "alamo"
     },
     {
+      "id": "grandlake:2026-10-07:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-07",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261007",
+      "source": "grandlake"
+    },
+    {
       "id": "alamo:2026-10-07:16:30:tmdb:1482938",
       "venueId": "alamo",
       "filmKey": "tmdb:1482938",
@@ -3577,13 +3621,13 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-10-07:18:00:t:zoe presents memorex rexsexex y mas",
-      "venueId": "roxie",
-      "filmKey": "t:zoe presents memorex rexsexex y mas",
+      "id": "grandlake:2026-10-07:18:45:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
       "date": "2026-10-07",
-      "time": "18:00",
-      "url": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/",
-      "source": "roxie"
+      "time": "18:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261007",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-07:19:00:tmdb:142773",
@@ -3655,6 +3699,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-08:18:00:tmdb:77350",
+      "venueId": "roxie",
+      "filmKey": "tmdb:77350",
+      "date": "2026-10-08",
+      "time": "18:00",
+      "url": "https://roxie.com/film/unzipped/",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-10-08:19:00:tmdb:2593",
       "venueId": "newparkway",
       "filmKey": "tmdb:2593",
@@ -3682,6 +3735,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-freight-train-lady",
       "note": "Freight Train Lady",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-10-08:19:45:t:zoe presents memorex rexsexex y mas",
+      "venueId": "roxie",
+      "filmKey": "t:zoe presents memorex rexsexex y mas",
+      "date": "2026-10-08",
+      "time": "19:45",
+      "url": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-10-09:19:00:tmdb:744",
@@ -4270,6 +4332,44 @@
       "url": "https://thenewparkway.com/movie/scooby-doo-animation-ko/",
       "note": "Animation KO",
       "source": "newparkway"
+    },
+    {
+      "id": "roxie:2026-10-23:19:00:tmdb:10439",
+      "venueId": "roxie",
+      "filmKey": "tmdb:10439",
+      "date": "2026-10-23",
+      "time": "19:00",
+      "url": "https://roxie.com/film/floating-features-hocus-pocus-2/",
+      "source": "roxie"
+    },
+    {
+      "id": "balboa:2026-10-23:20:00:tmdb:98096",
+      "venueId": "balboa",
+      "filmKey": "tmdb:98096",
+      "date": "2026-10-23",
+      "time": "20:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/izaak-opatz-joe-kaplow-october-23",
+      "note": "Izaak Opatz",
+      "source": "balboa"
+    },
+    {
+      "id": "piedmont:2026-10-23:22:30:tmdb:8413",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:8413",
+      "date": "2026-10-23",
+      "time": "22:30",
+      "url": "https://www.landmarktheatres.com/movies/17491-event-horizon/",
+      "note": "Cine Insomnia - Scary Spaces",
+      "source": "piedmont"
+    },
+    {
+      "id": "newparkway:2026-10-23:22:30:tmdb:377",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:377",
+      "date": "2026-10-23",
+      "time": "22:30",
+      "url": "https://thenewparkway.com/movie/nightmare-on-elm-street/",
+      "source": "newparkway"
     }
   ],
   "festivals": [
@@ -4277,23 +4377,17 @@
       "key": "fest:vogue:san francisco brazilian film festival",
       "name": "San Francisco Brazilian Film Festival",
       "venueId": "vogue",
-      "startDate": "2026-09-24",
+      "startDate": "2026-09-25",
       "endDate": "2026-09-27",
       "url": "https://www.cinemabrazil.org/",
-      "showtimes": 12,
+      "showtimes": 11,
       "sample": [
-        "I Only Rest in the Storm",
         "Little Creatures",
         "Gugu's World",
-        "The Flesh Itself w/ No Final, Jazz"
+        "The Flesh Itself w/ No Final, Jazz",
+        "Short Stories: Resistance!"
       ],
       "programme": [
-        {
-          "date": "2026-09-24",
-          "time": "19:00",
-          "title": "I Only Rest in the Storm",
-          "url": "https://voguemovies.com/calendar-of-events/i-only-rest-in-the-storm-september-24"
-        },
         {
           "date": "2026-09-25",
           "time": "17:00",
@@ -4370,10 +4464,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-24",
+      "startDate": "2026-09-25",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82766",
-      "showtimes": 48,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82763",
+      "showtimes": 42,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
@@ -4381,42 +4475,6 @@
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-24",
-          "time": "16:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82766"
-        },
-        {
-          "date": "2026-09-24",
-          "time": "16:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83233"
-        },
-        {
-          "date": "2026-09-24",
-          "time": "19:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82767"
-        },
-        {
-          "date": "2026-09-24",
-          "time": "19:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83232"
-        },
-        {
-          "date": "2026-09-24",
-          "time": "22:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83230"
-        },
-        {
-          "date": "2026-09-24",
-          "time": "22:15",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83231"
-        },
         {
           "date": "2026-09-25",
           "time": "12:00",
@@ -4668,24 +4726,6 @@
           "time": "19:00",
           "title": "The Cycle",
           "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040"
-        }
-      ]
-    },
-    {
-      "key": "fest:newparkway:manhattan short film festival 2026",
-      "name": "Manhattan Short Film Festival 2026",
-      "venueId": "newparkway",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "url": "https://indy-systems.imgix.net/1j8jz48ewx3tqmvmap50uvy4nb1v?fit=crop&w=1000&h=500&fm=jpeg&auto=format",
-      "showtimes": 1,
-      "sample": [],
-      "programme": [
-        {
-          "date": "2026-09-24",
-          "time": "15:30",
-          "title": "Manhattan Short Film Festival 2026",
-          "url": "https://thenewparkway.com/movie/manhattan-short-film-festival-2026/"
         }
       ]
     },
