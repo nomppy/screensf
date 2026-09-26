@@ -1,56 +1,6 @@
 {
-  "generatedAt": "2026-09-25T17:38:13.173Z",
+  "generatedAt": "2026-09-26T16:51:18.092Z",
   "films": {
-    "t:re vision valley of the bees": {
-      "key": "t:re vision valley of the bees",
-      "title": "Re:Vision: Valley of the Bees",
-      "year": 1968,
-      "director": "František Vláčil",
-      "runtime": 117,
-      "overview": "While his name lacks the recognition of other Eastern European filmmakers, writer / director / occasional actor František Vláčil could be considered among the greatest motion picture practitioners on the strength of his adaptation of Marketa Lazarová alone. Yet his follow-up, The Valley of the Bees [Údolí včel], is a similarly stunning period-piece of archetypal drama (and, like its predecessor and other works by the filmmaker, features an extraordinary score by Zdeněk Liška).",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/5-3.jpg"
-    },
-    "t:re vision dakan": {
-      "key": "t:re vision dakan",
-      "title": "Re:Vision: Dakan",
-      "year": 1997,
-      "director": "Mohamed Camara",
-      "runtime": 107,
-      "overview": "Dakan follows two young men, Manga and Sori, as they navigate young love of a kind their families cannot abide. Seen by Manga’s mother as a mental illness, and Sori’s father as a weakness to overcome, both men struggle to live the “right way”. Self-denial, tradition and superstition merge in attempts to rid the young lovers of their passions.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/1-21.jpg"
-    },
-    "tmdb:916": {
-      "key": "tmdb:916",
-      "title": "Bullitt",
-      "year": 1968,
-      "director": "Peter Yates",
-      "runtime": 113,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/2ffzF1WmeXtH420fSUoCrecFvDA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/glvwKs7zwGh6G3hoCYJexwEfPfT.jpg",
-      "tmdbId": 916,
-      "popularity": 7.1241,
-      "releaseDate": "1968-10-17",
-      "overview": "Senator Walter Chalmers is aiming to take down mob boss Pete Ross with the help of testimony from the criminal's hothead brother Johnny, who is in protective custody in San Francisco under the watch of police lieutenant Frank Bullitt. When a pair of mob hitmen enter the scene, Bullitt follows their trail through a maze of complications and double-crosses. This thriller includes one of the most famous car chases ever filmed."
-    },
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "t:re vision the outcasts": {
-      "key": "t:re vision the outcasts",
-      "title": "Re:Vision: The Outcasts",
-      "year": 1982,
-      "director": "Robert Wynne-Simmons",
-      "runtime": 110,
-      "overview": "Written and directed by Robert Wynne-Simmons (writer of folk-horror masterpiece Blood on Satan’s Claw), and starring legendary Irish actors Cyril Cusack and Mick Lally, The Outcasts was the first major feature film funded in Ireland in forty years. Set in the earlier 1800s, an era of great poverty and no little superstition in pre-Famine Ireland, The Outcasts centers Maura (Mary Ryan), one of three daughters, a peculiar young woman largely ostracized by her rural Irish community due to her “abnormal” behavior. In great need of an ally, Maura aligns herself with the much feared Scarf Michael, whose power over the locals seems to tap into a world beyond our own.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/3-23.jpg"
-    },
     "t:re vision i am with a monk": {
       "key": "t:re vision i am with a monk",
       "title": "Re:Vision: I Am With A Monk",
@@ -145,6 +95,15 @@
       "runtime": 99,
       "overview": "The Garden of Eden is best described as either a pre-pre-code or a proto-screwball comedy. Technically it is a silent film, but skimpy costumes, gender play, and sexual innuendo undeniably identify it as a film confidently striding headlong into the early 1930s. Further evidence is provided by the Film Daily reviewer who complained at the time, “It is utterly absurd and cheap pandering to dirty-minded people who gloat over an undressed woman” and by Montreal censors that demanded the last reel be eliminated entirely. Fortunately, the archived prints at George Eastman Museum and the Library of Congress, which form the basis of this restoration, eluded the censors’ wrath and you will have the pleasure of seeing the scandalous footage that Canadian audiences were denied. — Robert Byrne",
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-26.jpg"
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "t:re vision 8 girls in a boat": {
       "key": "t:re vision 8 girls in a boat",
@@ -911,6 +870,20 @@
       "releaseDate": "1981-03-26",
       "overview": "Set in San Francisco, Love Massacre follows college student Ivy as she tries to help her friend Joy recover from a breakup. Ivy soon becomes involved with Joy's married brother Chu Chung, who spirals into senseless violence as he breaks into Ivy's dormitory and goes on a delirious killing spree."
     },
+    "tmdb:533": {
+      "key": "tmdb:533",
+      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+      "year": 2005,
+      "director": "Steve Box, Nick Park",
+      "runtime": 85,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/Aqvtwgu1G4eEwIf8nSIxiCN5ewC.jpg",
+      "tmdbId": 533,
+      "popularity": 11.7629,
+      "releaseDate": "2005-09-15",
+      "overview": "Cheese-loving eccentric Wallace and his cunning canine pal Gromit run a business ridding the town of garden pests. Using only humane methods, which turns their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest."
+    },
     "tmdb:21588": {
       "key": "tmdb:21588",
       "title": "Cemetery Man",
@@ -924,6 +897,20 @@
       "popularity": 3.8578,
       "releaseDate": "1994-03-25",
       "overview": "Francesco Dellamorte  is the groundskeeper at a cemetery where the dead just won’t stay dead—and it’s up to him to deal with those who come back to life with a hunger for human flesh. But Dellamorte’s job soon becomes much more complicated when he falls for an enigmatic young woman whose husband has recently died."
+    },
+    "tmdb:8839": {
+      "key": "tmdb:8839",
+      "title": "Casper",
+      "year": 1995,
+      "director": "Brad Silberling",
+      "runtime": 100,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sQPckU0TfSeYIlUneHfIXwzQC2f.jpg",
+      "tmdbId": 8839,
+      "popularity": 11.1707,
+      "releaseDate": "1995-05-26",
+      "overview": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics."
     },
     "t:9 to 5": {
       "key": "t:9 to 5",
@@ -1347,6 +1334,20 @@
       "releaseDate": "1987-10-23",
       "overview": "A priest discovers an ancient canister containing a strange liquid in an abandoned church. When a group of graduate students and scientists are tasked with studying it, they unknowingly unleash an evil force waiting to destroy all of humanity."
     },
+    "tmdb:10973": {
+      "key": "tmdb:10973",
+      "title": "Creature from the Black Lagoon",
+      "year": 1954,
+      "director": "Jack Arnold",
+      "runtime": 79,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/euCzA2Exc70MpTDCVYih8tdE7z1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/31P56eY3GQOA0wTwiW0gzkJyhSG.jpg",
+      "tmdbId": 10973,
+      "popularity": 5.8665,
+      "releaseDate": "1954-03-05",
+      "overview": "When scientists exploring the Amazon River stumble on a “missing link” connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fiancée, Kay."
+    },
     "tmdb:3035": {
       "key": "tmdb:3035",
       "title": "Frankenstein",
@@ -1402,34 +1403,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "tmdb:649804": {
-      "key": "tmdb:649804",
-      "title": "A Tunnel",
-      "year": 2019,
-      "director": "Nino Orjonikidze, Vano Arsenishvili",
-      "runtime": 92,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/xLUU7TpPUrc8U0g8Ftv8BypShs3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qb4EykA2RWylAXvMo5GejG9Vha8.jpg",
-      "tmdbId": 649804,
-      "popularity": 1.7297,
-      "releaseDate": "2019-11-24",
-      "overview": "An old railway station in a remote valley of Georgia suddenly becomes a site for a big change, when hundreds of Chinese settle around it to build the New Silk Road."
-    },
-    "tmdb:776556": {
-      "key": "tmdb:776556",
-      "title": "Taming the Garden",
-      "year": 2021,
-      "director": "Salome Jashi",
-      "runtime": 92,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/4TLiisX13RttEGvAH5U3gfcqwA0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bmaMci7Qq6ZrNu7zrSyJllHIPi0.jpg",
-      "tmdbId": 776556,
-      "popularity": 1.2789,
-      "releaseDate": "2022-01-28",
-      "overview": "Georgia’s former prime minister has found a unique hobby. He collects century-old trees, some as tall as 15-story buildings, from communities along the Georgian coast. At a great expense and inconvenience, these ancient giants are uprooted from their lands to be transplanted in his private garden."
     },
     "tmdb:765421": {
       "key": "tmdb:765421",
@@ -1602,6 +1575,20 @@
       "popularity": 8.2963,
       "releaseDate": "1960-03-16",
       "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him."
+    },
+    "tmdb:50785": {
+      "key": "tmdb:50785",
+      "title": "Le Petit Soldat",
+      "year": 1963,
+      "director": "Jean-Luc Godard",
+      "runtime": 87,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/pzKFKVZHeGhJQYWZN6qO3GXUApU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/q53o3eyUorC2WTbdepCiuc2XSix.jpg",
+      "tmdbId": 50785,
+      "popularity": 2.0482,
+      "releaseDate": "1963-01-25",
+      "overview": "Despite his lack of political convictions, photojournalist Bruno Forestier is roped into a paramilitary group waging a shadow war in Geneva against the Algerian independence movement."
     },
     "tmdb:10560": {
       "key": "tmdb:10560",
@@ -1827,16 +1814,6 @@
       "releaseDate": "2010-01-22",
       "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
     },
-    "t:cycle of love": {
-      "key": "t:cycle of love",
-      "title": "CYCLE OF LOVE",
-      "year": 2026,
-      "director": "Orlando von Einsiedel",
-      "runtime": 95,
-      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
-      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
-    },
     "tmdb:653757": {
       "key": "tmdb:653757",
       "title": "Once Upon a Time in Venezuela",
@@ -1850,6 +1827,16 @@
       "popularity": 0.6328,
       "releaseDate": "2020-03-13",
       "overview": "Once upon a time, the Venezuelan village of Congo Mirador was prosperous, alive with fisherman and poets. Now it is decaying and disintegrating—a small but prophetic reflection of Venezuela itself."
+    },
+    "t:cycle of love": {
+      "key": "t:cycle of love",
+      "title": "CYCLE OF LOVE",
+      "year": 2026,
+      "director": "Orlando von Einsiedel",
+      "runtime": 95,
+      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
     },
     "tmdb:1131123": {
       "key": "tmdb:1131123",
@@ -1881,173 +1868,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-09-25:13:40:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-25",
-      "time": "13:40",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83245",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-09-25:15:00:t:re vision valley of the bees",
-      "venueId": "roxie",
-      "filmKey": "t:re vision valley of the bees",
-      "date": "2026-09-25",
-      "time": "15:00",
-      "url": "https://roxie.com/film/revision-valley-of-the-bees/",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-09-25:15:00:tmdb:649804",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:649804",
-      "date": "2026-09-25",
-      "time": "15:00",
-      "url": "https://bampfa.org/event/tunnel",
-      "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1 · In Conversation: Nino Orjonikidze, Vano Arsenishvili, Susan Oxtoby",
-      "source": "bampfa"
-    },
-    {
-      "id": "alamo:2026-09-25:15:40:tmdb:3107",
-      "venueId": "alamo",
-      "filmKey": "tmdb:3107",
-      "date": "2026-09-25",
-      "time": "15:40",
-      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=83252",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-25:16:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-25",
-      "time": "16:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83239",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-25:16:30:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-25",
-      "time": "16:30",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-25:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-25",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-25",
-      "source": "balboa"
-    },
-    {
-      "id": "rafael:2026-09-25:17:00:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-25",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-25:17:45:t:re vision dakan",
-      "venueId": "roxie",
-      "filmKey": "t:re vision dakan",
-      "date": "2026-09-25",
-      "time": "17:45",
-      "url": "https://roxie.com/film/revision-dakan/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-25:18:15:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-25",
-      "time": "18:15",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83240",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-25:18:45:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-25",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-25:19:00:tmdb:916",
-      "venueId": "roxie",
-      "filmKey": "tmdb:916",
-      "date": "2026-09-25",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-bullitt/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-25:19:00:tmdb:1410939",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1410939",
-      "date": "2026-09-25",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/dire-duplicity?cinemaId=0801&sessionId=83201",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-09-25:19:00:tmdb:776556",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:776556",
-      "date": "2026-09-25",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/taming-garden",
-      "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1 · In Conversation: Salomé Jashi, Elene Naveriani",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-25:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-25",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "stanford:2026-09-25:19:30:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-25",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
-    },
-    {
-      "id": "roxie:2026-09-25:20:00:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-25",
-      "time": "20:00",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-25:20:30:t:re vision the outcasts",
-      "venueId": "roxie",
-      "filmKey": "t:re vision the outcasts",
-      "date": "2026-09-25",
-      "time": "20:30",
-      "url": "https://roxie.com/film/revision-the-outcasts/",
-      "source": "roxie"
-    },
     {
       "id": "4star:2026-09-26:10:00:tmdb:8392",
       "venueId": "4star",
@@ -3621,6 +3441,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-07:18:00:tmdb:10494",
+      "venueId": "roxie",
+      "filmKey": "tmdb:10494",
+      "date": "2026-10-07",
+      "time": "18:00",
+      "url": "https://roxie.com/film/perfect-blue/",
+      "source": "roxie"
+    },
+    {
       "id": "grandlake:2026-10-07:18:45:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -3804,6 +3633,16 @@
       "source": "piedmont"
     },
     {
+      "id": "4star:2026-10-10:10:00:tmdb:533",
+      "venueId": "4star",
+      "filmKey": "tmdb:533",
+      "date": "2026-10-10",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/wallace-gromit-sat",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
+    },
+    {
       "id": "operaplaza:2026-10-10:13:00:tmdb:3035",
       "venueId": "operaplaza",
       "filmKey": "tmdb:3035",
@@ -3840,6 +3679,16 @@
       "time": "22:00",
       "url": "https://thenewparkway.com/movie/the-thing/",
       "source": "newparkway"
+    },
+    {
+      "id": "4star:2026-10-11:10:00:tmdb:533",
+      "venueId": "4star",
+      "filmKey": "tmdb:533",
+      "date": "2026-10-11",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/wallace-gromit-sun",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
     },
     {
       "id": "roxie:2026-10-11:15:00:tmdb:1134909",
@@ -4370,6 +4219,37 @@
       "time": "22:30",
       "url": "https://thenewparkway.com/movie/nightmare-on-elm-street/",
       "source": "newparkway"
+    },
+    {
+      "id": "4star:2026-10-24:10:00:tmdb:8839",
+      "venueId": "4star",
+      "filmKey": "tmdb:8839",
+      "date": "2026-10-24",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/casper-sat",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
+    },
+    {
+      "id": "operaplaza:2026-10-24:13:00:tmdb:10973",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:10973",
+      "date": "2026-10-24",
+      "time": "13:00",
+      "url": "https://www.landmarktheatres.com/movies/5144-creature-from-the-black-lagoon-1954/",
+      "note": "Marquee Matinees - Monster Madness",
+      "source": "operaplaza"
+    },
+    {
+      "id": "bampfa:2026-10-24:19:00:tmdb:50785",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:50785",
+      "date": "2026-10-24",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/le-petit-soldat",
+      "format": "35mm",
+      "note": "Jean-Luc Godard’s Early Films",
+      "source": "bampfa"
     }
   ],
   "festivals": [
@@ -4377,37 +4257,17 @@
       "key": "fest:vogue:san francisco brazilian film festival",
       "name": "San Francisco Brazilian Film Festival",
       "venueId": "vogue",
-      "startDate": "2026-09-25",
+      "startDate": "2026-09-26",
       "endDate": "2026-09-27",
       "url": "https://www.cinemabrazil.org/",
-      "showtimes": 11,
+      "showtimes": 8,
       "sample": [
-        "Little Creatures",
+        "Short Stories: Resistance!",
+        "Streets of Glory",
         "Gugu's World",
-        "The Flesh Itself w/ No Final, Jazz",
-        "Short Stories: Resistance!"
+        "Marighella"
       ],
       "programme": [
-        {
-          "date": "2026-09-25",
-          "time": "17:00",
-          "title": "Little Creatures",
-          "url": "https://voguemovies.com/calendar-of-events/little-creatures-september-25"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "19:00",
-          "title": "Gugu's World",
-          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-25",
-          "note": "Just selected as the Brazilian entry for the Best International Feature Film at the 99th Academy Awards!"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "21:00",
-          "title": "The Flesh Itself w/ No Final, Jazz",
-          "url": "https://voguemovies.com/calendar-of-events/the-flesh-itself-w/-no-final-jazz-september-25",
-          "note": "Before the movie: No Final, Jazz (2025) Directed by Cecilia Shoerder Catarino"
-        },
         {
           "date": "2026-09-26",
           "time": "14:00",
@@ -4464,10 +4324,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-25",
+      "startDate": "2026-09-26",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82763",
-      "showtimes": 42,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82760",
+      "showtimes": 34,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
@@ -4475,54 +4335,6 @@
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-25",
-          "time": "12:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82763"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "13:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83247"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82764"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "16:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83242"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "18:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82765"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "19:20",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83243"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "21:30",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83235"
-        },
-        {
-          "date": "2026-09-25",
-          "time": "22:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83244"
-        },
         {
           "date": "2026-09-26",
           "time": "12:00",
