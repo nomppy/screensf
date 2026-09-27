@@ -1,74 +1,6 @@
 {
-  "generatedAt": "2026-09-26T16:51:18.092Z",
+  "generatedAt": "2026-09-27T17:22:57.115Z",
   "films": {
-    "t:re vision i am with a monk": {
-      "key": "t:re vision i am with a monk",
-      "title": "Re:Vision: I Am With A Monk",
-      "year": 1984,
-      "director": "Kom Akkadej",
-      "runtime": 126,
-      "overview": "Two legendary Thai actors, Sombat Methanee and Sorapong Chatree, form an unlikely duo of a wanderer on the run and reluctant monk, facing danger at every turn. Khom Akadet’s 1980s actioner is thrilling not only in its fight scenes, but also in the careful registers between.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-23.jpg"
-    },
-    "t:dreamers and i": {
-      "key": "t:dreamers and i",
-      "title": "The Dreamers And I",
-      "year": 2025,
-      "director": "Kenji Yamamota",
-      "runtime": 74,
-      "overview": "Three immigrant entrepreneurs arrive in the U.S. to make their high-tech dreams come true. Carlos de la Lama-Noriega from Spain is the founder of Startup Embassy, a so-called hacker house that offers an affordable, welcoming live/work community of like-minded geeks as they labor in obscurity. Habibe Turfan, a materials scientist from Turkey, is working on her dream project, which she calls Stealth Startup. AI engineer Lucas Gozálvez, also from Spain, is CEO of another startup, Caleida, and the recent author of “The Hunger Games of Coding: Will AI Replace Developers or Trigger a Brutal Surge in Demand.”",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/09/4.jpg"
-    },
-    "t:re vision araya": {
-      "key": "t:re vision araya",
-      "title": "Re:Vision: Araya",
-      "year": 1958,
-      "director": "Margot Benacerraf",
-      "runtime": 102,
-      "overview": "Araya captures nearly five-hundred years of history condensed into a speculative single day (albeit filmed with her cinematographer Giuseppe Nisoli over four weeks, from September to October), with a tripartite structure following the lives of three families in three nearby villages.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-20.jpg"
-    },
-    "tmdb:1620313": {
-      "key": "tmdb:1620313",
-      "title": "The Samurai and the Prisoner",
-      "year": 2026,
-      "director": "Kiyoshi Kurosawa",
-      "runtime": 147,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pPThPhqsh5bKwJoZDlWd67qCHcc.jpg",
-      "tmdbId": 1620313,
-      "popularity": 3.5859,
-      "releaseDate": "2026-06-19",
-      "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
-    },
-    "t:re vision the dislocation of amber": {
-      "key": "t:re vision the dislocation of amber",
-      "title": "Re:Vision: The Dislocation of Amber",
-      "year": 1972,
-      "director": "Hussein Shariffe",
-      "runtime": 53,
-      "overview": "In The Dislocation of Amber, director Hussein Shariffe uses abandoned areas of the Sudanese city of Suakin to stage abstracted, ambiguous performances. His actors move through corners, windows, doorways like shadows of this once thriving port, now fallen to ruin. Lacerating sunshine and intense color dominate the frame, while musician Abdel-Aziz Dawoud chants the words of the Sufi poem “The Wine Ode” by Ibn Al-Faridh. Shariffe himself said this about Suakin in 1974 — “Only faint traces of its ancient affluence are apparent today … a dimmed reflection in a cracked mirror; empty eyes with the stars in a different house, laughter in another room.”",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/1-25.jpg"
-    },
-    "t:re vision gehenu lamai the girls": {
-      "key": "t:re vision gehenu lamai the girls",
-      "title": "Re:Vision: Gehenu Lamai (The Girls)",
-      "year": 1978,
-      "director": "Sumitra Peries",
-      "runtime": 125,
-      "overview": "Sumitra Peries’s Gehenu Lamai [The Girls] —the first feature directed by a woman in Sri Lanka—is a close observation of a life shrinking. So much weight is placed on girls worldwide, and the girls of Gehenu Lamai are no different. Expected to care-give, earn, and behave respectably no matter the cost, the central girls of the film, sisters Kusum and Soma, bear much responsibility. Despite very different approaches to their constraints, some outcomes cannot be avoided.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/3-18.jpg"
-    },
-    "t:re vision lepers and sex aka santo vs the riders of terror": {
-      "key": "t:re vision lepers and sex aka santo vs the riders of terror",
-      "title": "Re:Vision: Lepers & Sex AKA Santo vs The Riders of Terror",
-      "year": 1970,
-      "director": "René Cardona",
-      "runtime": 98,
-      "overview": "Mexico’s legendary Calderon film empire’s most famous and longest-running series was that of El Santo, the silver-masked wrestling hero (Rodolfo Guzman), who starred in some 50-odd productions from 1959 to the mid-1980s. But one of the most gonzo – and seldom seen – entries in the series is Los Leprosos y el Sexo with our hero battling a murderous mob of escaped lepers in a small town, resulting in a Western-cum-horror-cum-action picture, but with a twist.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/Untitled-design-8.jpg"
-    },
     "t:re vision tri": {
       "key": "t:re vision tri",
       "title": "Re:Vision: Tri",
@@ -304,6 +236,20 @@
       "releaseDate": "1965-01-06",
       "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
     },
+    "tmdb:1620313": {
+      "key": "tmdb:1620313",
+      "title": "The Samurai and the Prisoner",
+      "year": 2026,
+      "director": "Kiyoshi Kurosawa",
+      "runtime": 147,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pPThPhqsh5bKwJoZDlWd67qCHcc.jpg",
+      "tmdbId": 1620313,
+      "popularity": 3.5859,
+      "releaseDate": "2026-06-19",
+      "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
+    },
     "tmdb:63025": {
       "key": "tmdb:63025",
       "title": "A Lizard in a Woman's Skin",
@@ -369,6 +315,20 @@
       "releaseDate": "2001-09-05",
       "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her."
     },
+    "tmdb:49728": {
+      "key": "tmdb:49728",
+      "title": "Office Killer",
+      "year": 1997,
+      "director": "Cindy Sherman",
+      "runtime": 82,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/ytPjWp5LMW5jV9IVrcv6yTsxDTH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7a0bohmu6nLKDOyl69UWTQrFfYz.jpg",
+      "tmdbId": 49728,
+      "popularity": 2.8035,
+      "releaseDate": "1997-12-03",
+      "overview": "When Dorine Douglas' job as proofreader for Constant Consumer magazine is turned into an at-home position during a downsizing, she doesn't know how to cope. But after accidentally killing one of her co-workers, she discovers that murder can quench the loneliness of her home life, as a macabre office place forms in her basement, populated by dead co-workers."
+    },
     "tmdb:57447": {
       "key": "tmdb:57447",
       "title": "The House with Laughing Windows",
@@ -425,6 +385,20 @@
       "releaseDate": "1973-12-18",
       "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios."
     },
+    "tmdb:7974": {
+      "key": "tmdb:7974",
+      "title": "The Match Factory Girl",
+      "year": 1990,
+      "director": "Aki Kaurismäki",
+      "runtime": 69,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/zHfabvr3RKEbNfksFBs2Cder91i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tHF5OIcguut0Y83BXzqHtGdJOAf.jpg",
+      "tmdbId": 7974,
+      "popularity": 3.9945,
+      "releaseDate": "1990-01-12",
+      "overview": "Iris is a shy and dowdy young woman stuck in a dead-end job at a match factory, who dreams of finding love at the local dancehall. Finding herself pregnant after a one-night stand and abandoned by the father, Iris finally decides the time has come to get even and she begins to plot her revenge."
+    },
     "tmdb:1175473": {
       "key": "tmdb:1175473",
       "title": "The 9 Lives of Barbara Dane",
@@ -479,20 +453,6 @@
       "popularity": 2.7675,
       "releaseDate": "2026-09-18",
       "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:36685": {
-      "key": "tmdb:36685",
-      "title": "The Rocky Horror Picture Show",
-      "year": 1975,
-      "director": "Jim Sharman",
-      "runtime": 100,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
-      "tmdbId": 36685,
-      "popularity": 12.5251,
-      "releaseDate": "1975-08-14",
-      "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
     },
     "tmdb:27031": {
       "key": "tmdb:27031",
@@ -786,6 +746,34 @@
       "releaseDate": "2009-11-20",
       "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
     },
+    "tmdb:8337": {
+      "key": "tmdb:8337",
+      "title": "They Live",
+      "year": 1988,
+      "director": "John Carpenter",
+      "runtime": 93,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+      "tmdbId": 8337,
+      "popularity": 9.6116,
+      "releaseDate": "1988-11-04",
+      "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission."
+    },
+    "tmdb:27274": {
+      "key": "tmdb:27274",
+      "title": "Frankenhooker",
+      "year": 1990,
+      "director": "Frank Henenlotter",
+      "runtime": 85,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/s8Oubzkc2pPdOdj4D23ljZSKRbg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pI56isyuRNOr4fFr0jRlIPnr3wv.jpg",
+      "tmdbId": 27274,
+      "popularity": 3.7201,
+      "releaseDate": "1990-06-01",
+      "overview": "A medical school dropout loses his fiancée in a tragic lawnmower incident and decides to bring her back to life. Unfortunately, he was only able to save her head, so he goes to the red light district in the city and lures prostitutes into a hotel room so he can collect body parts to reassemble her."
+    },
     "tmdb:522": {
       "key": "tmdb:522",
       "title": "Ed Wood",
@@ -1002,6 +990,20 @@
       "tmdbId": 1410939,
       "popularity": 2.4597,
       "overview": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
+    },
+    "tmdb:39264": {
+      "key": "tmdb:39264",
+      "title": "Godzilla vs. Megalon",
+      "year": 1973,
+      "director": "Jun Fukuda",
+      "runtime": 78,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/au8CGZeCjgoxHe33gZWO0DDvndL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5KPRH4vvVVsAC5y0d0g5qNw6AT3.jpg",
+      "tmdbId": 39264,
+      "popularity": 3.493,
+      "releaseDate": "1973-03-17",
+      "overview": "Inventor Goro Ibuki creates a humanoid robot named Jet Jaguar. It is soon seized by an undersea race of people called the Seatopians. Using Jet Jaguar as a guide, the Seatopians send Megalon as vengeance for the nuclear tests that have devastated their society."
     },
     "tmdb:9064": {
       "key": "tmdb:9064",
@@ -1240,14 +1242,6 @@
       "releaseDate": "2023-08-05",
       "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
     },
-    "t:other cinema post kolonial spectres": {
-      "key": "t:other cinema post kolonial spectres",
-      "title": "Other Cinema: Post-Kolonial Spectres",
-      "director": "Adrian Quetzal Randall",
-      "overview": "A true breakthrough and international discovery!! Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play, an extremely sophisticated personal cine-essay that opens up areas of speculative history in an Adam Curtis-esque stream-of-consciousness  revelation on the military origins of Central American telecommunications and programming, tracing a psychedelic labyrinth across four continents. Part media archeology, part film diary, an endless montage of archival opticals support a long-form whispered confession about the electromagnetic magick that inflected the development of “modern” Honduran national sensibility. Our co-hit is Riar Rizaldi‘s equally paranoid Tellurian Drama, a sublime 25-min excavation of the colonial mythos surrounding the infamous Malabar Radio Antenna, a mysterious site of etheric conspiracy now being resurrected as a tourist destination on the Indonesian island of Java. $13",
-      "runtime": 25,
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/other-cinema-20260926-1024x576.jpg"
-    },
     "tmdb:914355": {
       "key": "tmdb:914355",
       "title": "Program #7",
@@ -1403,20 +1397,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "tmdb:765421": {
-      "key": "tmdb:765421",
-      "title": "Crossing",
-      "year": 2024,
-      "director": "Levan Akin",
-      "runtime": 106,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/iJa6e7BjWBlBQyWsUYLTeogeemd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/gZmX1yjRKXFfRO7jjnLn6VuKycT.jpg",
-      "tmdbId": 765421,
-      "popularity": 2.549,
-      "releaseDate": "2024-03-22",
-      "overview": "Lia, a retired teacher from Georgia, learns from her young neighbor, Achi, that her long-lost transgender niece, Tekla, has crossed the border into Turkey. In search of Tekla, Lia travels to Istanbul with the unpredictable Achi, where they explore the hidden depths of the city."
     },
     "t:english teacher and bakhmaro 2050": {
       "key": "t:english teacher and bakhmaro 2050",
@@ -1590,6 +1570,20 @@
       "releaseDate": "1963-01-25",
       "overview": "Despite his lack of political convictions, photojournalist Bruno Forestier is roped into a paramilitary group waging a shadow war in Geneva against the Algerian independence movement."
     },
+    "tmdb:10843": {
+      "key": "tmdb:10843",
+      "title": "After Hours",
+      "year": 1985,
+      "director": "Martin Scorsese",
+      "runtime": 97,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/8upjM945SVY99tu2Z8OG27Jd4m6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+      "tmdbId": 10843,
+      "popularity": 7.5688,
+      "releaseDate": "1985-09-13",
+      "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman."
+    },
     "tmdb:10560": {
       "key": "tmdb:10560",
       "title": "Center Stage",
@@ -1702,20 +1696,6 @@
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
-    "tmdb:8337": {
-      "key": "tmdb:8337",
-      "title": "They Live",
-      "year": 1988,
-      "director": "John Carpenter",
-      "runtime": 93,
-      "genre": "Science Fiction",
-      "poster": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
-      "tmdbId": 8337,
-      "popularity": 9.6116,
-      "releaseDate": "1988-11-04",
-      "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission."
-    },
     "tmdb:1694": {
       "key": "tmdb:1694",
       "title": "Re-Animator",
@@ -1757,6 +1737,20 @@
       "popularity": 12.0857,
       "releaseDate": "2002-06-14",
       "overview": "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren't the only things that are spooky. Strange things are happening, and it's up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings."
+    },
+    "tmdb:252171": {
+      "key": "tmdb:252171",
+      "title": "A Girl Walks Home Alone at Night",
+      "year": 2014,
+      "director": "Ana Lily Amirpour",
+      "runtime": 101,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/cd2rCE1nun7CESjBI8PGNEof1tb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5mUTmmBFbsXlJE66XOumJSzYK7M.jpg",
+      "tmdbId": 252171,
+      "popularity": 5.0216,
+      "releaseDate": "2014-11-21",
+      "overview": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire."
     },
     "tmdb:992": {
       "key": "tmdb:992",
@@ -1814,20 +1808,6 @@
       "releaseDate": "2010-01-22",
       "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
     },
-    "tmdb:653757": {
-      "key": "tmdb:653757",
-      "title": "Once Upon a Time in Venezuela",
-      "year": 2020,
-      "director": "Anabel Rodríguez Ríos",
-      "runtime": 96,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/7YUH5CepiykY1mCg2TGU7t5q4vI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/AdaGSAhSVsjVJFToEGHSuzWk0xm.jpg",
-      "tmdbId": 653757,
-      "popularity": 0.6328,
-      "releaseDate": "2020-03-13",
-      "overview": "Once upon a time, the Venezuelan village of Congo Mirador was prosperous, alive with fisherman and poets. Now it is decaying and disintegrating—a small but prophetic reflection of Venezuela itself."
-    },
     "t:cycle of love": {
       "key": "t:cycle of love",
       "title": "CYCLE OF LOVE",
@@ -1868,248 +1848,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "4star:2026-09-26:10:00:tmdb:8392",
-      "venueId": "4star",
-      "filmKey": "tmdb:8392",
-      "date": "2026-09-26",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/neighbor-totoro-sat-2026",
-      "note": "Popcorn Palace - DUB - FREE!; SUB",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-09-26:11:00:t:re vision i am with a monk",
-      "venueId": "roxie",
-      "filmKey": "t:re vision i am with a monk",
-      "date": "2026-09-26",
-      "time": "11:00",
-      "url": "https://roxie.com/film/revision-i-am-with-a-monk/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-26:11:00:tmdb:653757",
-      "venueId": "rafael",
-      "filmKey": "tmdb:653757",
-      "date": "2026-09-26",
-      "time": "11:00",
-      "url": "https://cinema.cafilm.org/film/once-upon-a-time-in-venezuela",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-26:12:00:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "12:00",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-26:12:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "12:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83260",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-26:12:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-26",
-      "time": "12:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-26:13:00:t:dreamers and i",
-      "venueId": "roxie",
-      "filmKey": "t:dreamers and i",
-      "date": "2026-09-26",
-      "time": "13:00",
-      "url": "https://roxie.com/film/the-dreamers-and-i/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-26:13:45:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "13:45",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83259",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-09-26:14:00:t:re vision araya",
-      "venueId": "roxie",
-      "filmKey": "t:re vision araya",
-      "date": "2026-09-26",
-      "time": "14:00",
-      "url": "https://roxie.com/film/revision-araya/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-26:14:15:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "14:15",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-26:14:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-26",
-      "source": "balboa"
-    },
-    {
-      "id": "rafael:2026-09-26:14:45:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-26",
-      "time": "14:45",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-26:15:15:tmdb:1620313",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1620313",
-      "date": "2026-09-26",
-      "time": "15:15",
-      "url": "https://roxie.com/film/the-samurai-and-the-prisoner/",
-      "source": "roxie"
-    },
-    {
-      "id": "stanford:2026-09-26:16:00:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-26",
-      "time": "16:00",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
-    },
-    {
-      "id": "roxie:2026-09-26:16:20:t:re vision the dislocation of amber",
-      "venueId": "roxie",
-      "filmKey": "t:re vision the dislocation of amber",
-      "date": "2026-09-26",
-      "time": "16:20",
-      "url": "https://roxie.com/film/revision-the-dislocation-of-amber/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-26:16:30:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "16:30",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-26:17:00:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-26",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-26:18:00:t:re vision gehenu lamai the girls",
-      "venueId": "roxie",
-      "filmKey": "t:re vision gehenu lamai the girls",
-      "date": "2026-09-26",
-      "time": "18:00",
-      "url": "https://roxie.com/film/revision-gehenu-lamai-the-girls/",
-      "note": "The Girls",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-26:18:10:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "18:10",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83261",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-26:18:45:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-26",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-26:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-26",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "bampfa:2026-09-26:19:30:tmdb:765421",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:765421",
-      "date": "2026-09-26",
-      "time": "19:30",
-      "url": "https://bampfa.org/event/crossing",
-      "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1",
-      "source": "bampfa"
-    },
-    {
-      "id": "stanford:2026-09-26:19:30:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-26",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
-    },
-    {
-      "id": "ata:2026-09-26:20:00:t:other cinema post kolonial spectres",
-      "venueId": "ata",
-      "filmKey": "t:other cinema post kolonial spectres",
-      "date": "2026-09-26",
-      "time": "20:00",
-      "url": "https://www.atasite.org/event/other-cinema-post-kolonial-spectres-2026/",
-      "note": "Here in-person with A Human Year Is Seven Earth Years, Honduran-American Adrian Quetzal Randall has cooked up an unprecedented Meso-American mystery play,…",
-      "source": "ata"
-    },
-    {
-      "id": "roxie:2026-09-26:21:00:t:re vision lepers and sex aka santo vs the riders of terror",
-      "venueId": "roxie",
-      "filmKey": "t:re vision lepers and sex aka santo vs the riders of terror",
-      "date": "2026-09-26",
-      "time": "21:00",
-      "url": "https://roxie.com/film/revision-lepers-sex-aka-santo-vs-the-riders-of-terror/",
-      "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-09-26:23:00:tmdb:36685",
-      "venueId": "balboa",
-      "filmKey": "tmdb:36685",
-      "date": "2026-09-26",
-      "time": "23:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-rocky-horror-picture-show-september-26",
-      "note": "Barry Bostwick",
-      "source": "balboa"
-    },
     {
       "id": "4star:2026-09-27:10:00:tmdb:8392",
       "venueId": "4star",
@@ -3237,6 +2975,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-10-04:19:00:tmdb:1620313",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1620313",
+      "date": "2026-10-04",
+      "time": "19:00",
+      "url": "https://roxie.com/film/the-samurai-and-the-prisoner/",
+      "source": "roxie"
+    },
+    {
       "id": "grandlake:2026-10-04:19:00:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -3799,6 +3546,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-13:20:00:tmdb:49728",
+      "venueId": "roxie",
+      "filmKey": "tmdb:49728",
+      "date": "2026-10-13",
+      "time": "20:00",
+      "url": "https://roxie.com/film/office-killer/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-10-13:20:35:tmdb:57447",
       "venueId": "roxie",
       "filmKey": "tmdb:57447",
@@ -3973,6 +3729,15 @@
       "url": "https://www.landmarktheatres.com/movies/631-the-mummy-1932/",
       "note": "Marquee Matinees - Monster Madness",
       "source": "operaplaza"
+    },
+    {
+      "id": "roxie:2026-10-17:16:10:tmdb:7974",
+      "venueId": "roxie",
+      "filmKey": "tmdb:7974",
+      "date": "2026-10-17",
+      "time": "16:10",
+      "url": "https://roxie.com/film/the-match-factory-girl/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-10-17:18:00:tmdb:50173",
@@ -4241,6 +4006,15 @@
       "source": "operaplaza"
     },
     {
+      "id": "roxie:2026-10-24:15:00:tmdb:3019",
+      "venueId": "roxie",
+      "filmKey": "tmdb:3019",
+      "date": "2026-10-24",
+      "time": "15:00",
+      "url": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-10-24:19:00:tmdb:50785",
       "venueId": "bampfa",
       "filmKey": "tmdb:50785",
@@ -4250,6 +4024,75 @@
       "format": "35mm",
       "note": "Jean-Luc Godard’s Early Films",
       "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-10-25:10:00:tmdb:8839",
+      "venueId": "4star",
+      "filmKey": "tmdb:8839",
+      "date": "2026-10-25",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/casper-sun",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
+    },
+    {
+      "id": "alamo:2026-10-25:12:00:tmdb:39264",
+      "venueId": "alamo",
+      "filmKey": "tmdb:39264",
+      "date": "2026-10-25",
+      "time": "12:00",
+      "url": "https://drafthouse.com/sf/show/godzilla-vs-megalon?cinemaId=0801&sessionId=83184",
+      "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-10-25:17:30:tmdb:8337",
+      "venueId": "balboa",
+      "filmKey": "tmdb:8337",
+      "date": "2026-10-25",
+      "time": "17:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/they-live-october-25",
+      "note": "Presented by on VHS by Warped VHS and Another Hole in the Head",
+      "source": "balboa"
+    },
+    {
+      "id": "newparkway:2026-10-25:18:30:tmdb:252171",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:252171",
+      "date": "2026-10-25",
+      "time": "18:30",
+      "url": "https://thenewparkway.com/movie/a-girl-walks-home-alone-at-night/",
+      "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-10-25:19:00:tmdb:10843",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:10843",
+      "date": "2026-10-25",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/after-hours",
+      "format": "4K",
+      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "balboa:2026-10-25:20:00:tmdb:27274",
+      "venueId": "balboa",
+      "filmKey": "tmdb:27274",
+      "date": "2026-10-25",
+      "time": "20:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/frankenhooker-october-25",
+      "note": "Presented by Camp Balboa",
+      "source": "balboa"
+    },
+    {
+      "id": "4star:2026-10-25:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-10-25",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-resavoir",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
     }
   ],
   "festivals": [
@@ -4257,43 +4100,17 @@
       "key": "fest:vogue:san francisco brazilian film festival",
       "name": "San Francisco Brazilian Film Festival",
       "venueId": "vogue",
-      "startDate": "2026-09-26",
+      "startDate": "2026-09-27",
       "endDate": "2026-09-27",
       "url": "https://www.cinemabrazil.org/",
-      "showtimes": 8,
+      "showtimes": 4,
       "sample": [
-        "Short Stories: Resistance!",
-        "Streets of Glory",
-        "Gugu's World",
-        "Marighella"
+        "Clay Men",
+        "Cyclone",
+        "Central Station",
+        "The Blue Trail"
       ],
       "programme": [
-        {
-          "date": "2026-09-26",
-          "time": "14:00",
-          "title": "Short Stories: Resistance!",
-          "url": "https://voguemovies.com/calendar-of-events/short-stories-resistance-september-26",
-          "note": "Four Short stories about resilience and more…"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "16:00",
-          "title": "Streets of Glory",
-          "url": "https://voguemovies.com/calendar-of-events/streets-of-glory-september-26"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "17:55",
-          "title": "Gugu's World",
-          "url": "https://voguemovies.com/calendar-of-events/gugus-world-september-26",
-          "note": "Just selected as the Brazilian entry for the Best International Feature Film at the 99th Academy Awards!"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "19:30",
-          "title": "Marighella",
-          "url": "https://voguemovies.com/calendar-of-events/marighella-september-26"
-        },
         {
           "date": "2026-09-27",
           "time": "14:00",
@@ -4324,10 +4141,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-26",
+      "startDate": "2026-09-27",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82760",
-      "showtimes": 34,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82759",
+      "showtimes": 26,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
@@ -4335,54 +4152,6 @@
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-26",
-          "time": "12:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82760"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "13:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83264"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82761"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "15:20",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83265"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "18:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82762"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "19:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83254"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "21:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83263"
-        },
-        {
-          "date": "2026-09-26",
-          "time": "21:30",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83253"
-        },
         {
           "date": "2026-09-27",
           "time": "12:20",
@@ -4906,6 +4675,26 @@
           "time": "16:00",
           "title": "VI",
           "url": "https://roxie.com/film/dance-thrill-fest-vi/"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations bampfa collection",
+      "name": "Hong Kong Cinema: Rarities and Restorations · BAMPFA Collection",
+      "venueId": "bampfa",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "url": "https://bampfa.org/event/valiant-ones",
+      "showtimes": 1,
+      "sample": [
+        "The Valiant Ones"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-01",
+          "time": "16:00",
+          "title": "The Valiant Ones",
+          "url": "https://bampfa.org/event/valiant-ones"
         }
       ]
     }
