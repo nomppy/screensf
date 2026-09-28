@@ -1,33 +1,6 @@
 {
-  "generatedAt": "2026-09-27T17:22:57.115Z",
+  "generatedAt": "2026-09-28T19:54:44.134Z",
   "films": {
-    "t:re vision tri": {
-      "key": "t:re vision tri",
-      "title": "Re:Vision: Tri",
-      "year": 1965,
-      "director": "Aleksandar Petrović",
-      "runtime": 90,
-      "overview": "Featuring searingly unforgettable black and white cinematography by Tomislav Pinter, Tri is structured as a triptych with stories set at the beginning, middle and end of the Second World War in Yugoslavia (1941-1944). The protagonist is a partisan portrayed by Velimir Bata Živojinović though according to the director, “The real protagonist of this film is death. In this film, it appears in three forms – as punishment, as victim, and as an expression of the senselessness of war. One needs to be against war, but one needs to be against war as a matter of principle, against anybody who wages war, and also against those who create reasons for war.” — Robert Byrne",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-28.jpg"
-    },
-    "t:re vision the waiting room": {
-      "key": "t:re vision the waiting room",
-      "title": "Re:Vision: The Waiting Room",
-      "year": 1973,
-      "director": "Karen Sperling",
-      "runtime": 96,
-      "overview": "Filmmaker Karen Sperling writes, directs, produces, and stars in The Waiting Room (1973), a groundbreaking film created by a 35-woman film crew working in the deserted wing of a psychiatric facility on Manhattan’s Ward Island. This renegade psychodrama captures the depths of feminine ambivalence in the shadow of a looming specter — compulsory domesticity. The ‘waiting room’ manifests as quotidian and institutional anterooms in which a young woman mulls over a marriage proposal. Belonging squarely to the quasi Brechtian feminist avant-garde forged by Yvonne Rainer, Chantal Akerman, and Cecelia Condit, The Waiting Room has remarkably gone unseen for 50 years.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/1-7.jpg"
-    },
-    "t:re vision the garden of eden": {
-      "key": "t:re vision the garden of eden",
-      "title": "Re:Vision: The Garden of Eden",
-      "year": 1928,
-      "director": "Lewis Milestone",
-      "runtime": 99,
-      "overview": "The Garden of Eden is best described as either a pre-pre-code or a proto-screwball comedy. Technically it is a silent film, but skimpy costumes, gender play, and sexual innuendo undeniably identify it as a film confidently striding headlong into the early 1930s. Further evidence is provided by the Film Daily reviewer who complained at the time, “It is utterly absurd and cheap pandering to dirty-minded people who gloat over an undressed woman” and by Montreal censors that demanded the last reel be eliminated entirely. Fortunately, the archived prints at George Eastman Museum and the Library of Congress, which form the basis of this restoration, eluded the censors’ wrath and you will have the pleasure of seeing the scandalous footage that Canadian audiences were denied. — Robert Byrne",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-26.jpg"
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -36,24 +9,6 @@
       "runtime": 100,
       "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
       "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "t:re vision 8 girls in a boat": {
-      "key": "t:re vision 8 girls in a boat",
-      "title": "Re:Vision: 8 Girls in a Boat",
-      "year": 1934,
-      "director": "Richard Wallace",
-      "runtime": 93,
-      "overview": "At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a star pupil and stroke seat on the rowing team, but her clandestine affair with a young chemist from another college leads her into trouble when she discovers she’s pregnant. As Christa’s attention in school slips, she incurs the discipline of the team’s steely coach, Hannah (Kay Johnson), who removes her from the boat and threatens expulsion. Worse, Christa’s businessman father (Walter Connelly) objects to marriage between Christa and David over concerns that David’s studies doom him to a life of poverty. How will Christa and her coming baby keep an even keel through all this choppy water?",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-19.jpg"
-    },
-    "t:re vision melody of murder": {
-      "key": "t:re vision melody of murder",
-      "title": "Re:Vision: Melody of Murder",
-      "year": 1944,
-      "director": "Bodil Ipsen",
-      "runtime": 124,
-      "overview": "At an all-girls school in Switzerland, Christa Storm (Dorothy Wilson) is a star pupil and stroke seat on the rowing team, but her clandestine affair with a young chemist from another college leads her into trouble when she discovers she’s pregnant. As Christa’s attention in school slips, she incurs the discipline of the team’s steely coach, Hannah (Kay Johnson), who removes her from the boat and threatens expulsion. Worse, Christa’s businessman father (Walter Connelly) objects to marriage between Christa and David over concerns that David’s studies doom him to a life of poverty. How will Christa and her coming baby keep an even keel through all this choppy water?",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/Untitled-design-2-1.jpg"
     },
     "tmdb:22500": {
       "key": "tmdb:22500",
@@ -454,20 +409,6 @@
       "releaseDate": "2026-09-18",
       "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
-    "tmdb:27031": {
-      "key": "tmdb:27031",
-      "title": "Samurai Rebellion",
-      "year": 1967,
-      "director": "Masaki Kobayashi",
-      "runtime": 121,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
-      "tmdbId": 27031,
-      "popularity": 2.8506,
-      "releaseDate": "1967-05-27",
-      "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
-    },
     "tmdb:20481": {
       "key": "tmdb:20481",
       "title": "Nightbreed",
@@ -774,6 +715,20 @@
       "releaseDate": "1990-06-01",
       "overview": "A medical school dropout loses his fiancée in a tragic lawnmower incident and decides to bring her back to life. Unfortunately, he was only able to save her head, so he goes to the red light district in the city and lures prostitutes into a hotel room so he can collect body parts to reassemble her."
     },
+    "tmdb:38775": {
+      "key": "tmdb:38775",
+      "title": "Night Tide",
+      "year": 1961,
+      "director": "Curtis Harrington",
+      "runtime": 84,
+      "genre": "Romance",
+      "poster": "https://image.tmdb.org/t/p/w500/bd8pTcZQNRBFrShJoCQUWnJxmZJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uAW0YfIBSm6TTwyE2hTKsqRVhga.jpg",
+      "tmdbId": 38775,
+      "popularity": 2.6917,
+      "releaseDate": "1961-07-01",
+      "overview": "A young sailor is enamored with a mysterious woman performing as a mermaid on the local pier. As their existences become entwined, he comes to suspect the woman might be a real mermaid who lures men to a watery death during the full moon."
+    },
     "tmdb:522": {
       "key": "tmdb:522",
       "title": "Ed Wood",
@@ -802,19 +757,19 @@
       "releaseDate": "2018-10-26",
       "overview": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up."
     },
-    "tmdb:8392": {
-      "key": "tmdb:8392",
-      "title": "My Neighbor Totoro",
-      "year": 1988,
-      "director": "Hayao Miyazaki",
-      "runtime": 86,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/zkThiZAaAie8Lw7RAc5yPTOewBV.jpg",
-      "tmdbId": 8392,
-      "popularity": 19.347,
-      "releaseDate": "1988-04-16",
-      "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her."
+    "tmdb:203912": {
+      "key": "tmdb:203912",
+      "title": "National Theatre Live: Frankenstein",
+      "year": 2011,
+      "director": "Danny Boyle, Tim Van Someren",
+      "runtime": 130,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/8xyvEc5knCDuO8jEgdwBqeMvaau.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1W6zwX287HJU7jVoUQIMpoSnwWi.jpg",
+      "tmdbId": 203912,
+      "popularity": 2.7636,
+      "releaseDate": "2011-03-17",
+      "overview": "Childlike in his innocence but grotesque in form, Frankenstein’s bewildered creature is cast out into a hostile universe by his horror-struck maker. Meeting with cruelty wherever he goes, the friendless Creature, increasingly desperate and vengeful, determines to track down his creator and strike a terrifying deal.  Urgent concerns of scientific responsibility, parental neglect, cognitive development and the nature of good and evil are embedded within this thrilling and deeply disturbing tale."
     },
     "tmdb:1052599": {
       "key": "tmdb:1052599",
@@ -1033,6 +988,20 @@
       "releaseDate": "1987-09-11",
       "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible."
     },
+    "tmdb:14353": {
+      "key": "tmdb:14353",
+      "title": "Repo! The Genetic Opera",
+      "year": 2008,
+      "director": "Darren Lynn Bousman",
+      "runtime": 98,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/2G5LczM1clXu3byEudWk9w0KDYD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xLH9jvY4tNzcKvopgEGYI7YeAy7.jpg",
+      "tmdbId": 14353,
+      "popularity": 2.9162,
+      "releaseDate": "2008-11-07",
+      "overview": "By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo."
+    },
     "tmdb:9353": {
       "key": "tmdb:9353",
       "title": "Nacho Libre",
@@ -1047,19 +1016,19 @@
       "releaseDate": "2006-06-16",
       "overview": "Ignacio, a disrespected cook at a Mexican monastery, can barely afford to feed the orphans who live there. Inspired by a local wrestling hero, he decides to moonlight as the not-so-famous Luchador \"Nacho Libre\" to earn money for the monastery -- not to mention the admiration of beautiful nun Sister Encarnación."
     },
-    "tmdb:14353": {
-      "key": "tmdb:14353",
-      "title": "Repo! The Genetic Opera",
-      "year": 2008,
-      "director": "Darren Lynn Bousman",
-      "runtime": 98,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/2G5LczM1clXu3byEudWk9w0KDYD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xLH9jvY4tNzcKvopgEGYI7YeAy7.jpg",
-      "tmdbId": 14353,
-      "popularity": 2.9162,
-      "releaseDate": "2008-11-07",
-      "overview": "By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo."
+    "tmdb:46175": {
+      "key": "tmdb:46175",
+      "title": "Daughters of Darkness",
+      "year": 1971,
+      "director": "Harry Kümel",
+      "runtime": 100,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/w6669wTC2x3WtBveKEBv04y70fh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/unIuV3x6bbaR9ur6EidZXjj6lTb.jpg",
+      "tmdbId": 46175,
+      "popularity": 2.6611,
+      "releaseDate": "1971-05-28",
+      "overview": "Ostend, Belgium. In a decadent seaside hotel, Stefan and Valerie, a newlywed couple, meet the mysterious Countess Báthory and Ilona, her secretary."
     },
     "tmdb:11000": {
       "key": "tmdb:11000",
@@ -1242,18 +1211,6 @@
       "releaseDate": "2023-08-05",
       "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
     },
-    "tmdb:914355": {
-      "key": "tmdb:914355",
-      "title": "Program #7",
-      "year": 1978,
-      "director": "Jane Veeder, Phil Morton",
-      "runtime": 31,
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/02/tinaff-e1788851961809.jpg",
-      "tmdbId": 914355,
-      "popularity": 1.2073,
-      "releaseDate": "1978-08-22",
-      "overview": "Between 1976 and 1982, Jane Veeder traveled the western mountains of the United States with Phil Morton. On these road trips the two would shoot video of their surroundings using a portable video recorder. Some of these video recordings of the western mountain terrain were used to produce the televised video piece known as Program #7. Program #7 was produced as a part of a larger group of videos known as The Electronic Visualization Center: A Television Research Satellite to the School of the Art Institute of Chicago. Program #7 was televised on Chicago Public Television as a part of a program which ran work by independent video creators. Program #7 was created using a Sandin Image Processor and a Bally Home Computer. Graphics generated using a Bally Home Computer would be overlaid overtop of the video recorded by Veeder and Morton using the Sandin Image Processor. The Sandin Image Processor would also be used to add varying patterns to the image."
-    },
     "tmdb:968640": {
       "key": "tmdb:968640",
       "title": "Analógica",
@@ -1397,21 +1354,6 @@
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "t:english teacher and bakhmaro 2050": {
-      "key": "t:english teacher and bakhmaro 2050",
-      "title": "English Teacher and Bakhmaro 2050",
-      "overview": "Georgia’s movement to teach English to schoolchildren is the backdrop for this beautifully observed documentary about an English teacher, Bradley Nelson from South Africa, and his experiences in a remote Georgian village, Sajijao. There he encounters both the warmth of the local community, and some resistance to the “linguistic revolution” as a national initiative. A finely drawn portrait of a critical moment in Georgia’s development as an independent nation in the post-Soviet era.\n\nBefore construction begins on a major housing complex in Bakhmaro, a resort town in western Georgia that travelers visit for the special healing properties of the air, filmmaker Anka Gujabidze observes life as it is. Employing superimpositions and dissolves, this documentary portrait ruminates on the changes that will come with construction and what will be lost.\n\nFilms in this Screening:\nEnglish Teacher\nNino Orjonikidze, Vano Arsenishvili, Georgia, 2012. \nBakhmaro 2050\nAnka Gujabidze, Georgia, 2024",
-      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/ENG%2001_Orjonikidze_English-Teacher_005.jpg?itok=vvByjI5X"
-    },
-    "t:incomplete day in the history of georgia 10 06 93": {
-      "key": "t:incomplete day in the history of georgia 10 06 93",
-      "title": "An Incomplete Day in the History of Georgia 10.06.93",
-      "year": 2026,
-      "director": "Salomé Jashi",
-      "runtime": 100,
-      "overview": "Derived solely from video recordings of Georgian parliamentary proceedings on June 10, 1993, when Eduard Shevardnadze was the head of state, An Incomplete Day in the History of Georgia presents the debate surrounding the introduction of Georgia’s national currency coupon to replace the Russian ruble. Members of parliament voice their concerns from the floor, questioning the resolutions presented by the vice prime minister and president of the National Bank. How should the country’s leaders proceed in light of domestic challenges such as starvation, fuel shortages, budget shortfalls, and rapid inflation? Viewed with hindsight, this document from the early days of Georgian independence reminds us how fragile the democratic process can be.",
-      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/INC%2001_Jashi_An-Incomplete-Day_001.jpg?itok=0wkQpwPB"
     },
     "tmdb:1108475": {
       "key": "tmdb:1108475",
@@ -1583,48 +1525,6 @@
       "popularity": 7.5688,
       "releaseDate": "1985-09-13",
       "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman."
-    },
-    "tmdb:10560": {
-      "key": "tmdb:10560",
-      "title": "Center Stage",
-      "year": 2000,
-      "director": "Nicholas Hytner",
-      "runtime": 115,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/95Et0t08Nv6S8FD593HpXyvcRt8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/f3cTz9cEPgrWWECMAGIYO9gRSLs.jpg",
-      "tmdbId": 10560,
-      "popularity": 3.854,
-      "releaseDate": "2000-05-12",
-      "overview": "A group of 12 teenagers from various backgrounds enroll at the American Ballet Academy in New York to make it as ballet dancers and each one deals with the problems and stress of training and getting ahead in the world of dance."
-    },
-    "tmdb:762": {
-      "key": "tmdb:762",
-      "title": "Monty Python and the Holy Grail",
-      "year": 1975,
-      "director": "Terry Jones, Terry Gilliam",
-      "runtime": 91,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/7nTkHjETdGMYK1phHwDbPsrzbYl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg",
-      "tmdbId": 762,
-      "popularity": 13.2457,
-      "releaseDate": "1975-04-03",
-      "overview": "King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \"it is a silly place\"."
-    },
-    "tmdb:814776": {
-      "key": "tmdb:814776",
-      "title": "Bottoms",
-      "year": 2023,
-      "director": "Emma Seligman",
-      "runtime": 91,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/1yhQqbi1rZg9EJiOI22i8Xg7vW.jpg",
-      "tmdbId": 814776,
-      "popularity": 6.4591,
-      "releaseDate": "2023-08-25",
-      "overview": "Unpopular best friends PJ and Josie start a high school self-defense club to meet girls and lose their virginity. They soon find themselves in over their heads when the most popular students start beating each other up in the name of self-defense."
     },
     "tmdb:239": {
       "key": "tmdb:239",
@@ -1831,313 +1731,9 @@
       "popularity": 1.4017,
       "releaseDate": "2018-11-02",
       "overview": "A woman steals a man's identity and forces him to confront a secret that he's hidden for over thirty years."
-    },
-    "tmdb:43797": {
-      "key": "tmdb:43797",
-      "title": "Sun Valley Serenade",
-      "year": 1941,
-      "director": "H. Bruce Humberstone",
-      "runtime": 86,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/6N7NMzb1iWEtb5NhLT622EKK5ht.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uVvSAIGgYdXpThHGtmDvEGgeFbl.jpg",
-      "tmdbId": 43797,
-      "popularity": 1.3245,
-      "releaseDate": "1941-08-29",
-      "overview": "When Phil Corey's band arrives at the Idaho ski resort its pianist Ted Scott is smitten with a Norwegian refugee he has sponsored, Karen Benson. When soloist Vivian Dawn quits, Karen stages an ice show as a substitute."
     }
   },
   "screenings": [
-    {
-      "id": "4star:2026-09-27:10:00:tmdb:8392",
-      "venueId": "4star",
-      "filmKey": "tmdb:8392",
-      "date": "2026-09-27",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/neighbor-totoro-sun-2026",
-      "note": "Popcorn Palace - Hosted by SFPL Richmond Branch - DUB - FREE!; DUB; SUB",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-09-27:11:00:t:re vision tri",
-      "venueId": "roxie",
-      "filmKey": "t:re vision tri",
-      "date": "2026-09-27",
-      "time": "11:00",
-      "url": "https://roxie.com/film/revision-tri/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-27:12:00:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "12:00",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-27:12:00:tmdb:3107",
-      "venueId": "alamo",
-      "filmKey": "tmdb:3107",
-      "date": "2026-09-27",
-      "time": "12:00",
-      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=82309",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-27:12:45:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-27",
-      "time": "12:45",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-27:12:50:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "12:50",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83269",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-09-27:13:05:tmdb:10560",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:10560",
-      "date": "2026-09-27",
-      "time": "13:05",
-      "url": "https://thenewparkway.com/movie/center-stage/",
-      "note": "Lights, Camera, Dance!",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-09-27:13:20:t:re vision the waiting room",
-      "venueId": "roxie",
-      "filmKey": "t:re vision the waiting room",
-      "date": "2026-09-27",
-      "time": "13:20",
-      "url": "https://roxie.com/film/revision-the-waiting-room/",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-09-27:13:30:t:english teacher and bakhmaro 2050",
-      "venueId": "bampfa",
-      "filmKey": "t:english teacher and bakhmaro 2050",
-      "date": "2026-09-27",
-      "time": "13:30",
-      "url": "https://bampfa.org/event/english-teacher-and-bakhmaro-2050",
-      "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1 · In Conversation: Nino Orjonikidze, Vano Arsenishvili, Anka Gujabidze, Susan Oxtoby",
-      "source": "bampfa"
-    },
-    {
-      "id": "balboa:2026-09-27:14:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "14:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-27",
-      "source": "balboa"
-    },
-    {
-      "id": "rafael:2026-09-27:14:15:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "14:15",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-27:14:45:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-27",
-      "time": "14:45",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-27:14:45:tmdb:9353",
-      "venueId": "alamo",
-      "filmKey": "tmdb:9353",
-      "date": "2026-09-27",
-      "time": "14:45",
-      "url": "https://drafthouse.com/sf/show/movie-party-nacho-libre?cinemaId=0801&sessionId=82535",
-      "note": "Movie Parties · Enter the ring with luchador Jack Black",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-09-27:15:40:t:re vision the garden of eden",
-      "venueId": "roxie",
-      "filmKey": "t:re vision the garden of eden",
-      "date": "2026-09-27",
-      "time": "15:40",
-      "url": "https://roxie.com/film/revision-the-garden-of-eden/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-27:15:40:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "15:40",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83270",
-      "source": "alamo"
-    },
-    {
-      "id": "stanford:2026-09-27:16:00:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-27",
-      "time": "16:00",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
-    },
-    {
-      "id": "rafael:2026-09-27:16:30:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "16:30",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "bampfa:2026-09-27:16:30:t:incomplete day in the history of georgia 10 06 93",
-      "venueId": "bampfa",
-      "filmKey": "t:incomplete day in the history of georgia 10 06 93",
-      "date": "2026-09-27",
-      "time": "16:30",
-      "url": "https://bampfa.org/event/incomplete-day-history-georgia-100693",
-      "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-09-27:17:00:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-27",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "newparkway:2026-09-27:17:10:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-27",
-      "time": "17:10",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-09-27:17:40:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-27",
-      "time": "17:40",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-27:18:10:t:re vision 8 girls in a boat",
-      "venueId": "roxie",
-      "filmKey": "t:re vision 8 girls in a boat",
-      "date": "2026-09-27",
-      "time": "18:10",
-      "url": "https://roxie.com/film/revision-8-girls-in-a-boat/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-27:18:20:tmdb:762",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:762",
-      "date": "2026-09-27",
-      "time": "18:20",
-      "url": "https://thenewparkway.com/movie/monty-python-and-the-holy-grail/",
-      "source": "newparkway"
-    },
-    {
-      "id": "rafael:2026-09-27:18:45:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-27",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "ata:2026-09-27:19:00:tmdb:914355",
-      "venueId": "ata",
-      "filmKey": "tmdb:914355",
-      "date": "2026-09-27",
-      "time": "19:00",
-      "url": "https://www.atasite.org/event/tinaff-202609/",
-      "format": "Super 8",
-      "source": "ata"
-    },
-    {
-      "id": "rafael:2026-09-27:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-27",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-27:19:15:tmdb:27031",
-      "venueId": "balboa",
-      "filmKey": "tmdb:27031",
-      "date": "2026-09-27",
-      "time": "19:15",
-      "url": "https://www.balboamovies.com/calendar-of-events/samurai-rebellion-september-27",
-      "note": "Samurai Rebellion",
-      "source": "balboa"
-    },
-    {
-      "id": "stanford:2026-09-27:19:30:tmdb:43797",
-      "venueId": "stanford",
-      "filmKey": "tmdb:43797",
-      "date": "2026-09-27",
-      "time": "19:30",
-      "url": "https://stanfordtheatre.org/calendars/Fox%20Musicals%202026.html",
-      "note": "Double feature with Orchestra Wives",
-      "source": "stanford"
-    },
-    {
-      "id": "roxie:2026-09-27:19:55:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-27",
-      "time": "19:55",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-27:20:30:tmdb:814776",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:814776",
-      "date": "2026-09-27",
-      "time": "20:30",
-      "url": "https://thenewparkway.com/movie/bottoms/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-09-27:20:40:t:re vision melody of murder",
-      "venueId": "roxie",
-      "filmKey": "t:re vision melody of murder",
-      "date": "2026-09-27",
-      "time": "20:40",
-      "url": "https://roxie.com/film/revision-melody-of-murder/",
-      "source": "roxie"
-    },
     {
       "id": "alamo:2026-09-28:16:00:tmdb:3107",
       "venueId": "alamo",
@@ -2311,7 +1907,7 @@
       "date": "2026-09-29",
       "time": "19:00",
       "url": "https://cinema.cafilm.org/film/the-filmmaker",
-      "note": "Screening and Conversation",
+      "note": "Screening and Conversation — Conversation Moderated By Mick Lasalle",
       "source": "rafael"
     },
     {
@@ -3083,6 +2679,7 @@
       "date": "2026-10-06",
       "time": "16:10",
       "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83203",
+      "note": "Baby Day",
       "source": "alamo"
     },
     {
@@ -3255,6 +2852,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-10-07:20:00:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-07",
+      "time": "20:00",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-10-07:21:30:tmdb:47060",
       "venueId": "alamo",
       "filmKey": "tmdb:47060",
@@ -3281,6 +2887,7 @@
       "date": "2026-10-08",
       "time": "18:00",
       "url": "https://roxie.com/film/unzipped/",
+      "note": "See venue listing for details",
       "source": "roxie"
     },
     {
@@ -3415,7 +3022,7 @@
       "date": "2026-10-10",
       "time": "21:30",
       "url": "https://www.balboamovies.com/calendar-of-events/clue-october-10",
-      "note": "R.I.P. Tim Curry",
+      "note": "Co-hosted by The Bawdy Caste",
       "source": "balboa"
     },
     {
@@ -3492,7 +3099,7 @@
       "date": "2026-10-11",
       "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/clue-october-11",
-      "note": "R.I.P. Tim Curry",
+      "note": "Co-hosted by the Bawdy Caste",
       "source": "balboa"
     },
     {
@@ -4093,58 +3700,47 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-resavoir",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "vogue:2026-10-26:19:00:tmdb:203912",
+      "venueId": "vogue",
+      "filmKey": "tmdb:203912",
+      "date": "2026-10-26",
+      "time": "19:00",
+      "url": "https://voguemovies.com/calendar-of-events/national-theatre-live-frankenstein-october-26",
+      "note": "Find out more about National Theatre Live.",
+      "source": "vogue"
+    },
+    {
+      "id": "alamo:2026-10-26:19:00:tmdb:46175",
+      "venueId": "alamo",
+      "filmKey": "tmdb:46175",
+      "date": "2026-10-26",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-daughters-of-darkness?cinemaId=0801&sessionId=82959",
+      "note": "Queer Film Theory 101 · Delphine Seyrig dazzles in this 1970s erotic lesbian vampire cult classic",
+      "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-10-26:19:30:tmdb:38775",
+      "venueId": "balboa",
+      "filmKey": "tmdb:38775",
+      "date": "2026-10-26",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/night-tide-october-26",
+      "note": "The Last Movie",
+      "source": "balboa"
     }
   ],
   "festivals": [
     {
-      "key": "fest:vogue:san francisco brazilian film festival",
-      "name": "San Francisco Brazilian Film Festival",
-      "venueId": "vogue",
-      "startDate": "2026-09-27",
-      "endDate": "2026-09-27",
-      "url": "https://www.cinemabrazil.org/",
-      "showtimes": 4,
-      "sample": [
-        "Clay Men",
-        "Cyclone",
-        "Central Station",
-        "The Blue Trail"
-      ],
-      "programme": [
-        {
-          "date": "2026-09-27",
-          "time": "14:00",
-          "title": "Clay Men",
-          "url": "https://voguemovies.com/calendar-of-events/clay-men-september-27"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "15:45",
-          "title": "Cyclone",
-          "url": "https://voguemovies.com/calendar-of-events/cyclone-september-27"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "18:00",
-          "title": "Central Station",
-          "url": "https://voguemovies.com/calendar-of-events/central-station-september-27"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "20:30",
-          "title": "The Blue Trail",
-          "url": "https://voguemovies.com/calendar-of-events/the-blue-trail-september-27"
-        }
-      ]
-    },
-    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-27",
+      "startDate": "2026-09-28",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82759",
-      "showtimes": 26,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82754",
+      "showtimes": 19,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
@@ -4152,48 +3748,6 @@
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-27",
-          "time": "12:20",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83272"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "12:30",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82759"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "15:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83275"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "15:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82757"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "17:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83274"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "18:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83315"
-        },
-        {
-          "date": "2026-09-27",
-          "time": "18:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83273"
-        },
         {
           "date": "2026-09-28",
           "time": "14:50",
