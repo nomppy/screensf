@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T19:54:44.134Z",
+  "generatedAt": "2026-09-29T18:23:09.486Z",
   "films": {
     "t:filipinana": {
       "key": "t:filipinana",
@@ -23,6 +23,20 @@
       "popularity": 3.9573,
       "releaseDate": "1987-12-11",
       "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
+    },
+    "tmdb:9323": {
+      "key": "tmdb:9323",
+      "title": "Ghost in the Shell",
+      "year": 1995,
+      "director": "Mamoru Oshii",
+      "runtime": 83,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
+      "tmdbId": 9323,
+      "popularity": 15.1215,
+      "releaseDate": "1995-11-18",
+      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
     },
     "tmdb:540": {
       "key": "tmdb:540",
@@ -394,6 +408,20 @@
       "popularity": 16.2733,
       "releaseDate": "1993-07-16",
       "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all."
+    },
+    "tmdb:9100": {
+      "key": "tmdb:9100",
+      "title": "The Craft",
+      "year": 1996,
+      "director": "Andrew Fleming",
+      "runtime": 101,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yAaAsbossCADVFdiqm8qAhd2gL0.jpg",
+      "tmdbId": 9100,
+      "popularity": 12.0339,
+      "releaseDate": "1996-05-03",
+      "overview": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents."
     },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
@@ -1002,20 +1030,6 @@
       "releaseDate": "2008-11-07",
       "overview": "By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo."
     },
-    "tmdb:9353": {
-      "key": "tmdb:9353",
-      "title": "Nacho Libre",
-      "year": 2006,
-      "director": "Jared Hess",
-      "runtime": 92,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/kh7B91bMl2lZ0mH9WhPfaNUIEQH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nNCleqiADKVMKWDC5G7hjYcVCmv.jpg",
-      "tmdbId": 9353,
-      "popularity": 8.6218,
-      "releaseDate": "2006-06-16",
-      "overview": "Ignacio, a disrespected cook at a Mexican monastery, can barely afford to feed the orphans who live there. Inspired by a local wrestling hero, he decides to moonlight as the not-so-famous Luchador \"Nacho Libre\" to earn money for the monastery -- not to mention the admiration of beautiful nun Sister Encarnación."
-    },
     "tmdb:46175": {
       "key": "tmdb:46175",
       "title": "Daughters of Darkness",
@@ -1029,20 +1043,6 @@
       "popularity": 2.6611,
       "releaseDate": "1971-05-28",
       "overview": "Ostend, Belgium. In a decadent seaside hotel, Stefan and Valerie, a newlywed couple, meet the mysterious Countess Báthory and Ilona, her secretary."
-    },
-    "tmdb:11000": {
-      "key": "tmdb:11000",
-      "title": "The Birdcage",
-      "year": 1996,
-      "director": "Mike Nichols",
-      "runtime": 119,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/4IpC35BoA5aRO0Q1DpFGJ8iKKYq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yNOtXSNep1BLnfZ0yhLejm1TULi.jpg",
-      "tmdbId": 11000,
-      "popularity": 8.922,
-      "releaseDate": "1996-03-03",
-      "overview": "A gay cabaret owner and his drag queen partner agree to put up a false heterosexual front so that their son can introduce them to his fiancée's conservative parents."
     },
     "tmdb:4552": {
       "key": "tmdb:4552",
@@ -1058,6 +1058,20 @@
       "releaseDate": "2003-06-13",
       "overview": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
     },
+    "tmdb:376867": {
+      "key": "tmdb:376867",
+      "title": "Moonlight",
+      "year": 2016,
+      "director": "Barry Jenkins",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
+      "tmdbId": 376867,
+      "popularity": 14.012,
+      "releaseDate": "2016-10-21",
+      "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
+    },
     "tmdb:280": {
       "key": "tmdb:280",
       "title": "Terminator 2: Judgment Day",
@@ -1070,6 +1084,7 @@
       "tmdbId": 280,
       "popularity": 36.4213,
       "releaseDate": "1991-07-03",
+      "nowPlaying": true,
       "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
     },
     "tmdb:9871": {
@@ -1085,6 +1100,20 @@
       "popularity": 4.3392,
       "releaseDate": "2000-12-11",
       "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself."
+    },
+    "tmdb:609": {
+      "key": "tmdb:609",
+      "title": "Poltergeist",
+      "year": 1982,
+      "director": "Tobe Hooper",
+      "runtime": 114,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+      "tmdbId": 609,
+      "popularity": 9.8595,
+      "releaseDate": "1982-06-04",
+      "overview": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back."
     },
     "tmdb:28752": {
       "key": "tmdb:28752",
@@ -1340,6 +1369,19 @@
       "popularity": 4.3625,
       "releaseDate": "1995-04-28",
       "overview": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane."
+    },
+    "tmdb:340216": {
+      "key": "tmdb:340216",
+      "title": "Echo Lake",
+      "year": 2015,
+      "director": "Jody McVeigh-Schultz",
+      "runtime": 86,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/j5lEgUTfjhd6b82hcNvG7G8Imwc.jpg",
+      "tmdbId": 340216,
+      "popularity": 1.6937,
+      "releaseDate": "2015-01-01",
+      "overview": "Will, a 30-year old who is losing control of his life, inherits his father's cabin and with it a new perspective on his family, childhood and relationships."
     },
     "tmdb:1283515": {
       "key": "tmdb:1283515",
@@ -1708,16 +1750,6 @@
       "releaseDate": "2010-01-22",
       "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
     },
-    "t:cycle of love": {
-      "key": "t:cycle of love",
-      "title": "CYCLE OF LOVE",
-      "year": 2026,
-      "director": "Orlando von Einsiedel",
-      "runtime": 95,
-      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
-      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
-    },
     "tmdb:1131123": {
       "key": "tmdb:1131123",
       "title": "The Filmmaker",
@@ -1731,109 +1763,19 @@
       "popularity": 1.4017,
       "releaseDate": "2018-11-02",
       "overview": "A woman steals a man's identity and forces him to confront a secret that he's hidden for over thirty years."
+    },
+    "t:cycle of love": {
+      "key": "t:cycle of love",
+      "title": "CYCLE OF LOVE",
+      "year": 2026,
+      "director": "Orlando von Einsiedel",
+      "runtime": 95,
+      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
+      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-09-28:16:00:tmdb:3107",
-      "venueId": "alamo",
-      "filmKey": "tmdb:3107",
-      "date": "2026-09-28",
-      "time": "16:00",
-      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=83285",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-28:16:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-28",
-      "time": "16:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83279",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-28:16:30:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-28",
-      "time": "16:30",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-28:17:00:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-28",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "rafael:2026-09-28:18:45:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-28",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-28:19:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-28",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-28",
-      "source": "balboa"
-    },
-    {
-      "id": "alamo:2026-09-28:19:00:tmdb:11000",
-      "venueId": "alamo",
-      "filmKey": "tmdb:11000",
-      "date": "2026-09-28",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-the-birdcage?cinemaId=0801&sessionId=82422",
-      "note": "Queer Film Theory 101 · Williams & Lane burst open THE BIRDCAGE in this flamboyant farcical adaptation",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-28:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-28",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-28:19:20:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-28",
-      "time": "19:20",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83280",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-09-28:20:35:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-28",
-      "time": "20:35",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-09-28:22:15:tmdb:9353",
-      "venueId": "alamo",
-      "filmKey": "tmdb:9353",
-      "date": "2026-09-28",
-      "time": "22:15",
-      "url": "https://drafthouse.com/sf/show/nacho-libre?cinemaId=0801&sessionId=83248",
-      "source": "alamo"
-    },
     {
       "id": "alamo:2026-09-29:15:30:tmdb:280",
       "venueId": "alamo",
@@ -1862,6 +1804,15 @@
       "time": "16:30",
       "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
       "source": "rafael"
+    },
+    {
+      "id": "operaplaza:2026-09-29:16:30:tmdb:340216",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:340216",
+      "date": "2026-09-29",
+      "time": "16:30",
+      "url": "https://www.landmarktheatres.com/movies/238014-echo-lake/",
+      "source": "operaplaza"
     },
     {
       "id": "roxie:2026-09-29:18:00:t:filipinana",
@@ -1929,6 +1880,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-09-29:20:15:tmdb:9323",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9323",
+      "date": "2026-09-29",
+      "time": "20:15",
+      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-09-29:21:15:t:filipinana",
       "venueId": "newparkway",
       "filmKey": "t:filipinana",
@@ -1938,13 +1898,13 @@
       "source": "newparkway"
     },
     {
-      "id": "alamo:2026-09-29:22:00:tmdb:3107",
-      "venueId": "alamo",
-      "filmKey": "tmdb:3107",
-      "date": "2026-09-29",
-      "time": "22:00",
-      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=83297",
-      "source": "alamo"
+      "id": "operaplaza:2026-09-30:13:05:tmdb:340216",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:340216",
+      "date": "2026-09-30",
+      "time": "13:05",
+      "url": "https://www.landmarktheatres.com/movies/238014-echo-lake/",
+      "source": "operaplaza"
     },
     {
       "id": "alamo:2026-09-30:15:30:tmdb:1596296",
@@ -2096,11 +2056,30 @@
       "source": "alamo"
     },
     {
-      "id": "grandlake:2026-10-01:16:30:tmdb:1596296",
+      "id": "alamo:2026-10-01:15:45:tmdb:376867",
+      "venueId": "alamo",
+      "filmKey": "tmdb:376867",
+      "date": "2026-10-01",
+      "time": "15:45",
+      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83434",
+      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
+      "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-10-01:16:20:tmdb:9323",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9323",
+      "date": "2026-10-01",
+      "time": "16:20",
+      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
+      "source": "roxie"
+    },
+    {
+      "id": "grandlake:2026-10-01:16:35:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
       "date": "2026-10-01",
-      "time": "16:30",
+      "time": "16:35",
       "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261001",
       "source": "grandlake"
     },
@@ -2132,13 +2111,13 @@
       "source": "roxie"
     },
     {
-      "id": "grandlake:2026-10-01:19:00:tmdb:1596296",
-      "venueId": "grandlake",
+      "id": "alamo:2026-10-01:19:00:tmdb:1596296",
+      "venueId": "alamo",
       "filmKey": "tmdb:1596296",
       "date": "2026-10-01",
       "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261001",
-      "source": "grandlake"
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83339",
+      "source": "alamo"
     },
     {
       "id": "bampfa:2026-10-01:19:00:tmdb:33470",
@@ -2150,6 +2129,15 @@
       "format": "DCP",
       "note": "Martin Scorsese Pictures",
       "source": "bampfa"
+    },
+    {
+      "id": "grandlake:2026-10-01:19:05:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-01",
+      "time": "19:05",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261001",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-01:19:30:tmdb:1596296",
@@ -2198,6 +2186,34 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-10-02:12:30:tmdb:376867",
+      "venueId": "alamo",
+      "filmKey": "tmdb:376867",
+      "date": "2026-10-02",
+      "time": "12:30",
+      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83435",
+      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-02:13:20:tmdb:793",
+      "venueId": "alamo",
+      "filmKey": "tmdb:793",
+      "date": "2026-10-02",
+      "time": "13:20",
+      "url": "https://drafthouse.com/sf/show/blue-velvet?cinemaId=0801&sessionId=83366",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-02:15:45:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-02",
+      "time": "15:45",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83345",
+      "source": "alamo"
+    },
+    {
       "id": "grandlake:2026-10-02:16:30:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2205,6 +2221,15 @@
       "time": "16:30",
       "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261002",
       "source": "grandlake"
+    },
+    {
+      "id": "alamo:2026-10-02:16:30:tmdb:1482938",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1482938",
+      "date": "2026-10-02",
+      "time": "16:30",
+      "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83365",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-10-02:18:00:tmdb:1599181",
@@ -2234,6 +2259,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-10-02:18:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-02",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83346",
+      "source": "alamo"
+    },
+    {
       "id": "grandlake:2026-10-02:19:00:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2254,12 +2288,21 @@
       "source": "bampfa"
     },
     {
+      "id": "alamo:2026-10-02:19:15:tmdb:4011",
+      "venueId": "alamo",
+      "filmKey": "tmdb:4011",
+      "date": "2026-10-02",
+      "time": "19:15",
+      "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=83364",
+      "source": "alamo"
+    },
+    {
       "id": "4star:2026-10-02:20:00:tmdb:507022",
       "venueId": "4star",
       "filmKey": "tmdb:507022",
       "date": "2026-10-02",
       "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/comedy-frankie-marcos",
+      "url": "https://www.4-star-movies.com/calendar-of-events/comedy-samson-koletkar",
       "note": "Ain’t No Joke Stand-Up presents:",
       "source": "4star"
     },
@@ -2302,6 +2345,24 @@
       "source": "roxie"
     },
     {
+      "id": "grandlake:2026-10-02:21:15:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-02",
+      "time": "21:15",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261002",
+      "source": "grandlake"
+    },
+    {
+      "id": "alamo:2026-10-02:22:00:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-02",
+      "time": "22:00",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83367",
+      "source": "alamo"
+    },
+    {
       "id": "piedmont:2026-10-02:22:30:tmdb:22970",
       "venueId": "piedmont",
       "filmKey": "tmdb:22970",
@@ -2321,6 +2382,15 @@
       "source": "grandlake"
     },
     {
+      "id": "alamo:2026-10-03:12:20:tmdb:4011",
+      "venueId": "alamo",
+      "filmKey": "tmdb:4011",
+      "date": "2026-10-03",
+      "time": "12:20",
+      "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=83383",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-10-03:12:30:tmdb:1193495",
       "venueId": "roxie",
       "filmKey": "tmdb:1193495",
@@ -2328,6 +2398,16 @@
       "time": "12:30",
       "url": "https://roxie.com/film/ashima/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-03:12:30:tmdb:376867",
+      "venueId": "alamo",
+      "filmKey": "tmdb:376867",
+      "date": "2026-10-03",
+      "time": "12:30",
+      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83436",
+      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
+      "source": "alamo"
     },
     {
       "id": "newparkway:2026-10-03:12:30:tmdb:239",
@@ -2385,6 +2465,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-10-03:15:45:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "15:45",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83376",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-10-03:16:00:tmdb:25623",
       "venueId": "roxie",
       "filmKey": "tmdb:25623",
@@ -2430,6 +2519,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-10-03:18:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83375",
+      "source": "alamo"
+    },
+    {
       "id": "grandlake:2026-10-03:19:00:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2458,6 +2556,24 @@
       "source": "ata"
     },
     {
+      "id": "grandlake:2026-10-03:21:15:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "21:15",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
+      "source": "grandlake"
+    },
+    {
+      "id": "alamo:2026-10-03:22:00:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-03",
+      "time": "22:00",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83382",
+      "source": "alamo"
+    },
+    {
       "id": "balboa:2026-10-03:23:00:tmdb:582913",
       "venueId": "balboa",
       "filmKey": "tmdb:582913",
@@ -2483,6 +2599,16 @@
       "time": "12:00",
       "url": "https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-blue-velvet?cinemaId=0801&sessionId=82932",
       "note": "Alamo Drafthouse Movie Book Club · Book Club Screening · Kyle MacLachlan's fictional self finds a severed ear",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-04:12:20:tmdb:376867",
+      "venueId": "alamo",
+      "filmKey": "tmdb:376867",
+      "date": "2026-10-04",
+      "time": "12:20",
+      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83437",
+      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
       "source": "alamo"
     },
     {
@@ -2534,6 +2660,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-10-04:15:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-04",
+      "time": "15:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83390",
+      "source": "alamo"
+    },
+    {
       "id": "sfmoma:2026-10-04:16:00:tmdb:1278622",
       "venueId": "sfmoma",
       "filmKey": "tmdb:1278622",
@@ -2560,6 +2695,24 @@
       "time": "16:50",
       "url": "https://roxie.com/film/chronovisor/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-04:17:30:tmdb:793",
+      "venueId": "alamo",
+      "filmKey": "tmdb:793",
+      "date": "2026-10-04",
+      "time": "17:30",
+      "url": "https://drafthouse.com/sf/show/blue-velvet?cinemaId=0801&sessionId=83445",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-04:18:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-04",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83391",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-10-04:19:00:tmdb:104287",
@@ -2618,6 +2771,16 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-10-05:14:45:tmdb:376867",
+      "venueId": "alamo",
+      "filmKey": "tmdb:376867",
+      "date": "2026-10-05",
+      "time": "14:45",
+      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83442",
+      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
+      "source": "alamo"
+    },
+    {
       "id": "grandlake:2026-10-05:16:30:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2645,6 +2808,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-10-05:18:00:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-05",
+      "time": "18:00",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83402",
+      "source": "alamo"
+    },
+    {
       "id": "grandlake:2026-10-05:19:00:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2664,12 +2836,31 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-05:20:10:tmdb:9323",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9323",
+      "date": "2026-10-05",
+      "time": "20:10",
+      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-10-05:21:30:tmdb:4011",
       "venueId": "alamo",
       "filmKey": "tmdb:4011",
       "date": "2026-10-05",
       "time": "21:30",
       "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=82934",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-06:15:15:tmdb:376867",
+      "venueId": "alamo",
+      "filmKey": "tmdb:376867",
+      "date": "2026-10-06",
+      "time": "15:15",
+      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83443",
+      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
       "source": "alamo"
     },
     {
@@ -2708,6 +2899,15 @@
       "time": "18:15",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-06:18:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-06",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83419",
+      "source": "alamo"
     },
     {
       "id": "alamo:2026-10-06:19:00:tmdb:1596296",
@@ -2758,6 +2958,16 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-10-07:15:20:tmdb:376867",
+      "venueId": "alamo",
+      "filmKey": "tmdb:376867",
+      "date": "2026-10-07",
+      "time": "15:20",
+      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83444",
+      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
+      "source": "alamo"
+    },
+    {
       "id": "grandlake:2026-10-07:16:30:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2794,13 +3004,13 @@
       "source": "roxie"
     },
     {
-      "id": "grandlake:2026-10-07:18:45:tmdb:1596296",
-      "venueId": "grandlake",
+      "id": "alamo:2026-10-07:18:30:tmdb:1596296",
+      "venueId": "alamo",
       "filmKey": "tmdb:1596296",
       "date": "2026-10-07",
-      "time": "18:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261007",
-      "source": "grandlake"
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83429",
+      "source": "alamo"
     },
     {
       "id": "balboa:2026-10-07:19:00:tmdb:142773",
@@ -2831,6 +3041,15 @@
       "format": "DCP",
       "note": "Alternative Visions",
       "source": "bampfa"
+    },
+    {
+      "id": "grandlake:2026-10-07:19:15:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-07",
+      "time": "19:15",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261007",
+      "source": "grandlake"
     },
     {
       "id": "vogue:2026-10-07:19:30:tmdb:361292",
@@ -3730,6 +3949,26 @@
       "url": "https://www.balboamovies.com/calendar-of-events/night-tide-october-26",
       "note": "The Last Movie",
       "source": "balboa"
+    },
+    {
+      "id": "roxie:2026-10-27:21:15:tmdb:9100",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9100",
+      "date": "2026-10-27",
+      "time": "21:15",
+      "url": "https://roxie.com/film/rewind-presents-the-craft/",
+      "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-27:21:30:tmdb:609",
+      "venueId": "alamo",
+      "filmKey": "tmdb:609",
+      "date": "2026-10-27",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-poltergeist-1982-on-35mm?cinemaId=0801&sessionId=83041",
+      "format": "35mm",
+      "note": "Terror Tuesday · They’re here in 35mm",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -3737,10 +3976,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-28",
+      "startDate": "2026-09-29",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82754",
-      "showtimes": 19,
+      "url": "https://drafthouse.com/sf/show/deathgasm-2-goremageddon?cinemaId=0801&sessionId=82501",
+      "showtimes": 62,
       "sample": [
         "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
@@ -3748,42 +3987,6 @@
         "Resident Evil"
       ],
       "programme": [
-        {
-          "date": "2026-09-28",
-          "time": "14:50",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82754"
-        },
-        {
-          "date": "2026-09-28",
-          "time": "16:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83283"
-        },
-        {
-          "date": "2026-09-28",
-          "time": "18:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=82755"
-        },
-        {
-          "date": "2026-09-28",
-          "time": "18:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83284"
-        },
-        {
-          "date": "2026-09-28",
-          "time": "21:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83250"
-        },
-        {
-          "date": "2026-09-28",
-          "time": "22:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83281"
-        },
         {
           "date": "2026-09-29",
           "time": "18:15",
@@ -3807,6 +4010,12 @@
           "time": "21:50",
           "title": "Resident Evil",
           "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83293"
+        },
+        {
+          "date": "2026-09-29",
+          "time": "22:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83449"
         },
         {
           "date": "2026-09-30",
@@ -3845,16 +4054,304 @@
           "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83308"
         },
         {
+          "date": "2026-10-01",
+          "time": "15:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83335"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "15:30",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83357"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "16:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83340"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "18:30",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83337"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "19:15",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83341"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "22:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83342"
+        },
+        {
+          "date": "2026-10-01",
+          "time": "22:15",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83336"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "12:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83359"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "13:40",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83362"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "15:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83344"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "16:20",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83349"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "18:45",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83348"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "19:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83350"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "21:40",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83351"
+        },
+        {
+          "date": "2026-10-02",
+          "time": "21:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83347"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "12:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83378"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "13:40",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83370"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "15:00",
+          "title": "Ghost in the Cell",
+          "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=83363"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "15:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83379"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "16:20",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83371"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "18:45",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83380"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "19:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83372"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "21:40",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83373"
+        },
+        {
+          "date": "2026-10-03",
+          "time": "21:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83381"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "12:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83386"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "13:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83395"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "14:50",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83387"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "15:15",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83392"
+        },
+        {
           "date": "2026-10-04",
           "time": "16:00",
           "title": "Ghost in the Cell",
           "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82933"
         },
         {
+          "date": "2026-10-04",
+          "time": "18:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83393"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "18:50",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83439"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "21:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83438"
+        },
+        {
+          "date": "2026-10-04",
+          "time": "21:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83441"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83404"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "15:50",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83398"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "18:15",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83405"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "18:30",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83399"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "21:10",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83400"
+        },
+        {
+          "date": "2026-10-05",
+          "time": "21:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83406"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "18:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83414"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "18:40",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83411"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "21:20",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83412"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "21:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83415"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "15:40",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83422"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "16:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83425"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "18:20",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83423"
+        },
+        {
           "date": "2026-10-07",
           "time": "19:00",
           "title": "Ghost in the Cell",
           "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82935"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "19:15",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83426"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "21:50",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83424"
+        },
+        {
+          "date": "2026-10-07",
+          "time": "22:15",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83427"
         },
         {
           "date": "2026-10-20",
@@ -3869,9 +4366,9 @@
       "name": "Fantastic Fest Presents · Baby Day",
       "venueId": "alamo",
       "startDate": "2026-09-29",
-      "endDate": "2026-09-29",
+      "endDate": "2026-10-06",
       "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83286",
-      "showtimes": 2,
+      "showtimes": 4,
       "sample": [
         "Primetime",
         "Resident Evil"
@@ -3888,6 +4385,18 @@
           "time": "15:30",
           "title": "Resident Evil",
           "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83296"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83413"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "16:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83410"
         }
       ]
     },
