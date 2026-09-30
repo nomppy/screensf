@@ -1,43 +1,6 @@
 {
-  "generatedAt": "2026-09-29T18:23:09.486Z",
+  "generatedAt": "2026-09-30T18:12:44.591Z",
   "films": {
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:22500": {
-      "key": "tmdb:22500",
-      "title": "Gandahar",
-      "year": 1987,
-      "director": "René Laloux",
-      "runtime": 83,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/cjwEa9RZ8BqoGMddrrYm8ftP9f9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/omysgecSqildPjk4LL8To0L3tgm.jpg",
-      "tmdbId": 22500,
-      "popularity": 3.9573,
-      "releaseDate": "1987-12-11",
-      "overview": "On the planet Gandahar where peace reigns and poverty is unknown, this utopian lifestyle is upset by reports of people at the outlying frontiers being turned to stone. Sylvain is sent to investigate this mysterious threat."
-    },
-    "tmdb:9323": {
-      "key": "tmdb:9323",
-      "title": "Ghost in the Shell",
-      "year": 1995,
-      "director": "Mamoru Oshii",
-      "runtime": 83,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
-      "tmdbId": 9323,
-      "popularity": 15.1215,
-      "releaseDate": "1995-11-18",
-      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
-    },
     "tmdb:540": {
       "key": "tmdb:540",
       "title": "D.E.B.S.",
@@ -79,6 +42,15 @@
       "popularity": 5.5647,
       "releaseDate": "2005-03-30",
       "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth."
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:44214": {
       "key": "tmdb:44214",
@@ -757,6 +729,20 @@
       "releaseDate": "1961-07-01",
       "overview": "A young sailor is enamored with a mysterious woman performing as a mermaid on the local pier. As their existences become entwined, he comes to suspect the woman might be a real mermaid who lures men to a watery death during the full moon."
     },
+    "tmdb:15762": {
+      "key": "tmdb:15762",
+      "title": "Night of the Creeps",
+      "year": 1986,
+      "director": "Fred Dekker",
+      "runtime": 88,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/A3s2tQGNb6mhlr1hPZeE5F8IUwp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rKr2NzAvxlTDCI7iSSNLaCXt0Aj.jpg",
+      "tmdbId": 15762,
+      "popularity": 4.9895,
+      "releaseDate": "1986-08-21",
+      "overview": "In 1959, an alien experiment crashes to earth and infects a fraternity member. They freeze the body, but in the modern day, two geeks pledging a fraternity accidentally thaw the corpse, which proceeds to infect the campus with parasites that transform their hosts into killer zombies."
+    },
     "tmdb:522": {
       "key": "tmdb:522",
       "title": "Ed Wood",
@@ -1058,20 +1044,6 @@
       "releaseDate": "2003-06-13",
       "overview": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
     },
-    "tmdb:376867": {
-      "key": "tmdb:376867",
-      "title": "Moonlight",
-      "year": 2016,
-      "director": "Barry Jenkins",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
-      "tmdbId": 376867,
-      "popularity": 14.012,
-      "releaseDate": "2016-10-21",
-      "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
-    },
     "tmdb:280": {
       "key": "tmdb:280",
       "title": "Terminator 2: Judgment Day",
@@ -1227,6 +1199,20 @@
       "releaseDate": "1998-09-14",
       "overview": "In the final days of the year 1999, almost everyone in Taiwan has died from a strange plague that ravished the island. As rain pours down relentlessly, a single man is stuck with an unfinished plumbing job and a hole in his floor. This results in a very odd relationship with the woman who lives below him."
     },
+    "tmdb:33061": {
+      "key": "tmdb:33061",
+      "title": "Troll",
+      "year": 1986,
+      "director": "John Carl Buechler",
+      "runtime": 83,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/rqU0HnCty94ds8e4At4TzEH3CcY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oDKhYf1ROWqvvHUDOebNUQysuGx.jpg",
+      "tmdbId": 33061,
+      "popularity": 2.9183,
+      "releaseDate": "1986-01-17",
+      "overview": "When a family moves into a San Francisco apartment, an opportunistic troll decides to make his move and take possession of little Wendy, thereby paving the way for new troll recruits, the first in his army that will take eventual control of the planet. We soon discover Torok is the ex-husband of Eunice St. Clair, a resident in the building who was married to Torok."
+    },
     "tmdb:1278622": {
       "key": "tmdb:1278622",
       "title": "Black Is Beautiful",
@@ -1258,6 +1244,20 @@
       "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14",
       "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/othercinema-20261003-e1788904356676.webp"
     },
+    "tmdb:449576": {
+      "key": "tmdb:449576",
+      "title": "An Evening",
+      "year": 2016,
+      "director": "Søren Green",
+      "runtime": 10,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/qVzoprf4klPy5MLU36NHNmojeja.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ze7qmlim7L6avnA8xCE0ERivpua.jpg",
+      "tmdbId": 449576,
+      "popularity": 0.7756,
+      "releaseDate": "2016-05-29",
+      "overview": "Having slept together for the first time, two teenage boys must make sense of their evolving relationship."
+    },
     "tmdb:11976": {
       "key": "tmdb:11976",
       "title": "Legend",
@@ -1285,6 +1285,20 @@
       "popularity": 26.4712,
       "releaseDate": "1999-04-16",
       "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken."
+    },
+    "tmdb:1091": {
+      "key": "tmdb:1091",
+      "title": "The Thing",
+      "year": 1982,
+      "director": "John Carpenter",
+      "runtime": 109,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "tmdbId": 1091,
+      "popularity": 18.9272,
+      "releaseDate": "1982-06-25",
+      "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
     "tmdb:138": {
       "key": "tmdb:138",
@@ -1395,6 +1409,7 @@
       "tmdbId": 1283515,
       "popularity": 8.997,
       "releaseDate": "2026-09-30",
+      "nowPlaying": true,
       "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
     },
     "tmdb:1108475": {
@@ -1624,20 +1639,6 @@
       "releaseDate": "2014-06-19",
       "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead."
     },
-    "tmdb:1091": {
-      "key": "tmdb:1091",
-      "title": "The Thing",
-      "year": 1982,
-      "director": "John Carpenter",
-      "runtime": 109,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "tmdbId": 1091,
-      "popularity": 18.9272,
-      "releaseDate": "1982-06-25",
-      "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
-    },
     "tmdb:1694": {
       "key": "tmdb:1694",
       "title": "Re-Animator",
@@ -1750,20 +1751,6 @@
       "releaseDate": "2010-01-22",
       "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
     },
-    "tmdb:1131123": {
-      "key": "tmdb:1131123",
-      "title": "The Filmmaker",
-      "year": 2018,
-      "director": "J.P. Allen",
-      "runtime": 80,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/znDjmQaXmOfzuZFFbTWkbYqSFZ1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/deS4PZpwolerAbQmyfNPQDPMdmk.jpg",
-      "tmdbId": 1131123,
-      "popularity": 1.4017,
-      "releaseDate": "2018-11-02",
-      "overview": "A woman steals a man's identity and forces him to confront a secret that he's hidden for over thirty years."
-    },
     "t:cycle of love": {
       "key": "t:cycle of love",
       "title": "CYCLE OF LOVE",
@@ -1776,127 +1763,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-09-29:15:30:tmdb:280",
-      "venueId": "alamo",
-      "filmKey": "tmdb:280",
-      "date": "2026-09-29",
-      "time": "15:30",
-      "url": "https://drafthouse.com/sf/show/terminator-2-judgment-day?cinemaId=0801&sessionId=83249",
-      "note": "Baby Day",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-29:16:20:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-29",
-      "time": "16:20",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83291",
-      "note": "Baby Day",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-29:16:30:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-29",
-      "time": "16:30",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "operaplaza:2026-09-29:16:30:tmdb:340216",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:340216",
-      "date": "2026-09-29",
-      "time": "16:30",
-      "url": "https://www.landmarktheatres.com/movies/238014-echo-lake/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-09-29:18:00:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-29",
-      "time": "18:00",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-29:18:00:tmdb:22500",
-      "venueId": "roxie",
-      "filmKey": "tmdb:22500",
-      "date": "2026-09-29",
-      "time": "18:00",
-      "url": "https://roxie.com/film/gandahar-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-09-29:18:45:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-29",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "grandlake:2026-09-29:19:00:tmdb:992",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:992",
-      "date": "2026-09-29",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260929",
-      "source": "grandlake"
-    },
-    {
-      "id": "rafael:2026-09-29:19:00:tmdb:1131123",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1131123",
-      "date": "2026-09-29",
-      "time": "19:00",
-      "url": "https://cinema.cafilm.org/film/the-filmmaker",
-      "note": "Screening and Conversation — Conversation Moderated By Mick Lasalle",
-      "source": "rafael"
-    },
-    {
-      "id": "alamo:2026-09-29:19:10:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-29",
-      "time": "19:10",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83292",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-09-29:19:45:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-29",
-      "time": "19:45",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-29",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-09-29:20:15:tmdb:9323",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9323",
-      "date": "2026-09-29",
-      "time": "20:15",
-      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-09-29:21:15:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-29",
-      "time": "21:15",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
     {
       "id": "operaplaza:2026-09-30:13:05:tmdb:340216",
       "venueId": "operaplaza",
@@ -2056,25 +1922,6 @@
       "source": "alamo"
     },
     {
-      "id": "alamo:2026-10-01:15:45:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-01",
-      "time": "15:45",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83434",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-10-01:16:20:tmdb:9323",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9323",
-      "date": "2026-10-01",
-      "time": "16:20",
-      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
-      "source": "roxie"
-    },
-    {
       "id": "grandlake:2026-10-01:16:35:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2186,16 +2033,6 @@
       "source": "alamo"
     },
     {
-      "id": "alamo:2026-10-02:12:30:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-02",
-      "time": "12:30",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83435",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
       "id": "alamo:2026-10-02:13:20:tmdb:793",
       "venueId": "alamo",
       "filmKey": "tmdb:793",
@@ -2247,6 +2084,7 @@
       "date": "2026-10-02",
       "time": "18:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-2",
+      "note": "The History of Concrete",
       "source": "balboa"
     },
     {
@@ -2286,6 +2124,15 @@
       "format": "DCP",
       "note": "Georgian Cinema Now: Part 1",
       "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-10-02:19:10:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-02",
+      "time": "19:10",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
     },
     {
       "id": "alamo:2026-10-02:19:15:tmdb:4011",
@@ -2400,16 +2247,6 @@
       "source": "roxie"
     },
     {
-      "id": "alamo:2026-10-03:12:30:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-03",
-      "time": "12:30",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83436",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
       "id": "newparkway:2026-10-03:12:30:tmdb:239",
       "venueId": "newparkway",
       "filmKey": "tmdb:239",
@@ -2444,6 +2281,7 @@
       "date": "2026-10-03",
       "time": "14:30",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-3",
+      "note": "The History of Concrete",
       "source": "balboa"
     },
     {
@@ -2602,16 +2440,6 @@
       "source": "alamo"
     },
     {
-      "id": "alamo:2026-10-04:12:20:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-04",
-      "time": "12:20",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83437",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
       "id": "bampfa:2026-10-04:13:00:tmdb:8073",
       "venueId": "bampfa",
       "filmKey": "tmdb:8073",
@@ -2638,7 +2466,17 @@
       "date": "2026-10-04",
       "time": "14:30",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-4",
+      "note": "The History of Concrete",
       "source": "balboa"
+    },
+    {
+      "id": "newparkway:2026-10-04:14:55:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-04",
+      "time": "14:55",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
     },
     {
       "id": "roxie:2026-10-04:15:05:tmdb:77350",
@@ -2771,16 +2609,6 @@
       "source": "newparkway"
     },
     {
-      "id": "alamo:2026-10-05:14:45:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-05",
-      "time": "14:45",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83442",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
       "id": "grandlake:2026-10-05:16:30:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2796,6 +2624,7 @@
       "date": "2026-10-05",
       "time": "17:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-5",
+      "note": "The History of Concrete",
       "source": "balboa"
     },
     {
@@ -2836,13 +2665,13 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-10-05:20:10:tmdb:9323",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9323",
+      "id": "newparkway:2026-10-05:20:35:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
       "date": "2026-10-05",
-      "time": "20:10",
-      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
-      "source": "roxie"
+      "time": "20:35",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
     },
     {
       "id": "alamo:2026-10-05:21:30:tmdb:4011",
@@ -2851,16 +2680,6 @@
       "date": "2026-10-05",
       "time": "21:30",
       "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=82934",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-06:15:15:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-06",
-      "time": "15:15",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83443",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
       "source": "alamo"
     },
     {
@@ -2889,6 +2708,7 @@
       "date": "2026-10-06",
       "time": "17:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-6",
+      "note": "The History of Concrete",
       "source": "balboa"
     },
     {
@@ -2958,16 +2778,6 @@
       "source": "alamo"
     },
     {
-      "id": "alamo:2026-10-07:15:20:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-07",
-      "time": "15:20",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83444",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
       "id": "grandlake:2026-10-07:16:30:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2992,6 +2802,7 @@
       "date": "2026-10-07",
       "time": "17:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-7",
+      "note": "The History of Concrete",
       "source": "balboa"
     },
     {
@@ -3080,6 +2891,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-10-07:20:30:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-07",
+      "time": "20:30",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
+    },
+    {
       "id": "alamo:2026-10-07:21:30:tmdb:47060",
       "venueId": "alamo",
       "filmKey": "tmdb:47060",
@@ -3097,6 +2917,7 @@
       "date": "2026-10-08",
       "time": "17:30",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-8",
+      "note": "The History of Concrete",
       "source": "balboa"
     },
     {
@@ -3110,11 +2931,11 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-10-08:19:00:tmdb:2593",
+      "id": "newparkway:2026-10-08:18:30:tmdb:2593",
       "venueId": "newparkway",
       "filmKey": "tmdb:2593",
       "date": "2026-10-08",
-      "time": "19:00",
+      "time": "18:30",
       "url": "https://thenewparkway.com/movie/fire-within-with-filmmaker-qa/",
       "note": "with filmmaker Q&A",
       "source": "newparkway"
@@ -3506,6 +3327,16 @@
       "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/gummo-october-16",
       "source": "balboa"
+    },
+    {
+      "id": "ata:2026-10-16:20:00:tmdb:449576",
+      "venueId": "ata",
+      "filmKey": "tmdb:449576",
+      "date": "2026-10-16",
+      "time": "20:00",
+      "url": "https://www.atasite.org/event/an-evening-with-mike-kuchar/",
+      "format": "8mm",
+      "source": "ata"
     },
     {
       "id": "operaplaza:2026-10-16:20:30:tmdb:11976",
@@ -3969,6 +3800,46 @@
       "format": "35mm",
       "note": "Terror Tuesday · They’re here in 35mm",
       "source": "alamo"
+    },
+    {
+      "id": "operaplaza:2026-10-28:19:00:tmdb:1091",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:1091",
+      "date": "2026-10-28",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/1048-the-thing-1982/",
+      "note": "Filmmaker Focus - John Carpenter",
+      "source": "operaplaza"
+    },
+    {
+      "id": "balboa:2026-10-28:19:30:tmdb:15762",
+      "venueId": "balboa",
+      "filmKey": "tmdb:15762",
+      "date": "2026-10-28",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/night-of-the-creeps-october-28",
+      "source": "balboa"
+    },
+    {
+      "id": "4star:2026-10-28:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-10-28",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-wildwoods",
+      "note": "(((folkYEAH!))) presents:",
+      "source": "4star"
+    },
+    {
+      "id": "alamo:2026-10-28:21:30:tmdb:33061",
+      "venueId": "alamo",
+      "filmKey": "tmdb:33061",
+      "date": "2026-10-28",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-troll-1986?cinemaId=0801&sessionId=83317",
+      "format": "35mm",
+      "note": "Weird Wednesday · Apartment for Rent. Inquire Within...",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -3976,47 +3847,17 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-29",
+      "startDate": "2026-09-30",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/deathgasm-2-goremageddon?cinemaId=0801&sessionId=82501",
-      "showtimes": 62,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83298",
+      "showtimes": 57,
       "sample": [
-        "Deathgasm 2: Goremageddon",
         "Ghost in the Cell",
         "Primetime",
-        "Resident Evil"
+        "Resident Evil",
+        "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-09-29",
-          "time": "18:15",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83294"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "18:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83287"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "19:00",
-          "title": "Deathgasm 2: Goremageddon",
-          "url": "https://drafthouse.com/sf/show/deathgasm-2-goremageddon?cinemaId=0801&sessionId=82501"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "21:50",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83293"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "22:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83449"
-        },
         {
           "date": "2026-09-30",
           "time": "15:10",
@@ -4362,45 +4203,6 @@
       ]
     },
     {
-      "key": "fest:alamo:fantastic fest presents baby day",
-      "name": "Fantastic Fest Presents · Baby Day",
-      "venueId": "alamo",
-      "startDate": "2026-09-29",
-      "endDate": "2026-10-06",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83286",
-      "showtimes": 4,
-      "sample": [
-        "Primetime",
-        "Resident Evil"
-      ],
-      "programme": [
-        {
-          "date": "2026-09-29",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83286"
-        },
-        {
-          "date": "2026-09-29",
-          "time": "15:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83296"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83413"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "16:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83410"
-        }
-      ]
-    },
-    {
       "key": "fest:bampfa:mill valley film festival at bampfa presented with 60 min intermission",
       "name": "Mill Valley Film Festival at BAMPFA · Presented with 60-min intermission",
       "venueId": "bampfa",
@@ -4427,12 +4229,12 @@
       "startDate": "2026-10-04",
       "endDate": "2026-10-11",
       "url": "https://bampfa.org/program/mvff49",
-      "showtimes": 9,
+      "showtimes": 7,
       "sample": [
         "La Gradiva",
-        "Union Town",
-        "When a Witness Recants",
-        "Elephants in the Fog"
+        "Elephants in the Fog",
+        "Sad Girlz",
+        "Minotaur"
       ],
       "programme": [
         {
@@ -4440,18 +4242,6 @@
           "time": "16:00",
           "title": "La Gradiva",
           "url": "https://bampfa.org/event/la-gradiva"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "19:00",
-          "title": "Union Town",
-          "url": "https://bampfa.org/event/union-town"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "15:30",
-          "title": "When a Witness Recants",
-          "url": "https://bampfa.org/event/when-witness-recants"
         },
         {
           "date": "2026-10-09",
@@ -4488,6 +4278,53 @@
           "time": "18:30",
           "title": "The Dreamed Adventure",
           "url": "https://bampfa.org/event/dreamed-adventure"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents baby day",
+      "name": "Fantastic Fest Presents · Baby Day",
+      "venueId": "alamo",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83413",
+      "showtimes": 2,
+      "sample": [
+        "Primetime",
+        "Resident Evil"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-06",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83413"
+        },
+        {
+          "date": "2026-10-06",
+          "time": "16:00",
+          "title": "Resident Evil",
+          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83410"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:mill valley film festival at bampfa closed captioned",
+      "name": "Mill Valley Film Festival at BAMPFA · Closed Captioned",
+      "venueId": "bampfa",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "url": "https://bampfa.org/event/union-town",
+      "showtimes": 1,
+      "sample": [
+        "Union Town"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-08",
+          "time": "19:00",
+          "title": "Union Town",
+          "url": "https://bampfa.org/event/union-town"
         }
       ]
     },
@@ -4553,6 +4390,26 @@
           "time": "16:00",
           "title": "The Loyal Man",
           "url": "https://roxie.com/film/3rd-i-2026-the-loyal-man/"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:mill valley film festival at bampfa audio descriptionclosed captioned",
+      "name": "Mill Valley Film Festival at BAMPFA · Audio DescriptionClosed Captioned",
+      "venueId": "bampfa",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "url": "https://bampfa.org/event/when-witness-recants",
+      "showtimes": 1,
+      "sample": [
+        "When a Witness Recants"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-09",
+          "time": "15:30",
+          "title": "When a Witness Recants",
+          "url": "https://bampfa.org/event/when-witness-recants"
         }
       ]
     },
