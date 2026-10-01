@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-09-30T18:12:44.591Z",
+  "generatedAt": "2026-10-01T18:43:20.357Z",
   "films": {
-    "tmdb:540": {
-      "key": "tmdb:540",
-      "title": "D.E.B.S.",
-      "year": 2004,
-      "director": "Angela Robinson",
-      "runtime": 91,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/68BfXrFQPHg9iBWJVgp5R48gTix.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/cVkb5wUZrO71wCFM7nDyqPDezCL.jpg",
-      "tmdbId": 540,
-      "popularity": 5.1917,
-      "releaseDate": "2005-03-25",
-      "overview": "The star of a team of teenage crime fighters falls for the alluring villainess she must bring to justice."
-    },
-    "tmdb:1596326": {
-      "key": "tmdb:1596326",
-      "title": "Barbara Forever",
-      "year": 2026,
-      "director": "Brydie O'Connor",
-      "runtime": 102,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
-      "tmdbId": 1596326,
-      "popularity": 2.5685,
-      "releaseDate": "2026-09-04",
-      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
-    },
-    "tmdb:11171": {
-      "key": "tmdb:11171",
-      "title": "Mysterious Skin",
-      "year": 2004,
-      "director": "Gregg Araki",
-      "runtime": 105,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/wgSwDqhl6Rt3cuSCwt5sNpPna3x.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yiNHoIFUlFAByjXkTDdJOK9nw2Z.jpg",
-      "tmdbId": 11171,
-      "popularity": 5.5647,
-      "releaseDate": "2005-03-30",
-      "overview": "A teenage hustler and a young man obsessed with alien abductions cross paths, together discovering a horrible, liberating truth."
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -381,19 +339,19 @@
       "releaseDate": "1993-07-16",
       "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all."
     },
-    "tmdb:9100": {
-      "key": "tmdb:9100",
-      "title": "The Craft",
-      "year": 1996,
-      "director": "Andrew Fleming",
-      "runtime": 101,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/8bW2RdRkloYtEPhbQZN4wcdmJP4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yAaAsbossCADVFdiqm8qAhd2gL0.jpg",
-      "tmdbId": 9100,
-      "popularity": 12.0339,
-      "releaseDate": "1996-05-03",
-      "overview": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents."
+    "tmdb:16672": {
+      "key": "tmdb:16672",
+      "title": "Woman in the Dunes",
+      "year": 1964,
+      "director": "Hiroshi Teshigahara",
+      "runtime": 147,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/xiBr3bIT2xpbuIKo5bLK7ebP4O1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dxfFh9pTKDaYH2B6PwcR6ohCM1L.jpg",
+      "tmdbId": 16672,
+      "popularity": 6.7913,
+      "releaseDate": "1964-02-15",
+      "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them."
     },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
@@ -743,6 +701,20 @@
       "releaseDate": "1986-08-21",
       "overview": "In 1959, an alien experiment crashes to earth and infects a fraternity member. They freeze the body, but in the modern day, two geeks pledging a fraternity accidentally thaw the corpse, which proceeds to infect the campus with parasites that transform their hosts into killer zombies."
     },
+    "tmdb:9552": {
+      "key": "tmdb:9552",
+      "title": "The Exorcist",
+      "year": 1973,
+      "director": "William Friedkin",
+      "runtime": 122,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "tmdbId": 9552,
+      "popularity": 19.8753,
+      "releaseDate": "1973-12-26",
+      "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life."
+    },
     "tmdb:522": {
       "key": "tmdb:522",
       "title": "Ed Wood",
@@ -756,6 +728,20 @@
       "popularity": 4.6675,
       "releaseDate": "1994-09-28",
       "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful."
+    },
+    "tmdb:28363": {
+      "key": "tmdb:28363",
+      "title": "The Mad Magician",
+      "year": 1954,
+      "director": "John Brahm",
+      "runtime": 72,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/ctYNCvKiMN3yRHAXe6q2l6anMRk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/y7DdDGrCZ0fxFgwlc1Er7DcDj5c.jpg",
+      "tmdbId": 28363,
+      "popularity": 2.1768,
+      "releaseDate": "1954-05-19",
+      "overview": "Don Gallico is an inventor of stage magic effects who aspires to become a star in his own right. Just before his first performance his act is shut down by capricious manager Ross Ormond who wants Gallico's brilliant buzz saw effect for the act of The Great Rinaldi, an established star. With this defeat, and the humiliation of having already lost his wife Claire to Ormond, Gallico decides it is time to take matters into his own hands."
     },
     "tmdb:361292": {
       "key": "tmdb:361292",
@@ -919,20 +905,6 @@
       "releaseDate": "1988-03-30",
       "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
     },
-    "tmdb:3107": {
-      "key": "tmdb:3107",
-      "title": "Destroy All Monsters",
-      "year": 1968,
-      "director": "Ishirō Honda",
-      "runtime": 89,
-      "genre": "Science Fiction",
-      "poster": "https://image.tmdb.org/t/p/w500/24r1hsRisfUidwLF67J0iMuWh7p.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/l4gfTsSZkVofKxzcqMCTBUkeHw8.jpg",
-      "tmdbId": 3107,
-      "popularity": 3.2451,
-      "releaseDate": "1968-08-01",
-      "overview": "At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world."
-    },
     "tmdb:1214554": {
       "key": "tmdb:1214554",
       "title": "DEVO",
@@ -1056,7 +1028,6 @@
       "tmdbId": 280,
       "popularity": 36.4213,
       "releaseDate": "1991-07-03",
-      "nowPlaying": true,
       "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
     },
     "tmdb:9871": {
@@ -1170,20 +1141,6 @@
       "popularity": 2.5415,
       "releaseDate": "1966-11-15",
       "overview": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo."
-    },
-    "tmdb:27292": {
-      "key": "tmdb:27292",
-      "title": "Prime Cut",
-      "year": 1972,
-      "director": "Michael Ritchie",
-      "runtime": 88,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/rAesYoQKGIPBJoT7jmaKAUGD9Y8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yga1jrQiONyMSbfSq0aSWe0NpVC.jpg",
-      "tmdbId": 27292,
-      "popularity": 2.0697,
-      "releaseDate": "1972-06-01",
-      "overview": "A group of ruthless Chicago mob enforcers are sent to Kansas City to settle things with the owner of a slaughterhouse who has taken money that is not his to keep."
     },
     "tmdb:47060": {
       "key": "tmdb:47060",
@@ -1383,48 +1340,6 @@
       "popularity": 4.3625,
       "releaseDate": "1995-04-28",
       "overview": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane."
-    },
-    "tmdb:340216": {
-      "key": "tmdb:340216",
-      "title": "Echo Lake",
-      "year": 2015,
-      "director": "Jody McVeigh-Schultz",
-      "runtime": 86,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/j5lEgUTfjhd6b82hcNvG7G8Imwc.jpg",
-      "tmdbId": 340216,
-      "popularity": 1.6937,
-      "releaseDate": "2015-01-01",
-      "overview": "Will, a 30-year old who is losing control of his life, inherits his father's cabin and with it a new perspective on his family, childhood and relationships."
-    },
-    "tmdb:1283515": {
-      "key": "tmdb:1283515",
-      "title": "Verify (Early Access)",
-      "year": 2026,
-      "director": "Michael Showalter",
-      "runtime": 117,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/7ZgjGeacN0PwenoQX4DjI4FlN6Z.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-      "tmdbId": 1283515,
-      "popularity": 8.997,
-      "releaseDate": "2026-09-30",
-      "nowPlaying": true,
-      "overview": "Lowen Ashleigh is hired by Jeremy Crawford to ghostwrite novels for his bestselling author wife Verity, who is unable to finish following an accident. Lowen gradually uncovers Verity's disturbing truths while residing at the Crawfords' home to work."
-    },
-    "tmdb:1108475": {
-      "key": "tmdb:1108475",
-      "title": "Self-Portrait Along the Borderline",
-      "year": 2023,
-      "director": "Anna Dziapshipa",
-      "runtime": 50,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/48lvmQC5BtcPozVYs1UgbX5TmRP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5PLT23vn4x0kwrEEXjDrpaGrvsb.jpg",
-      "tmdbId": 1108475,
-      "popularity": 0.4751,
-      "releaseDate": "2023-04-20",
-      "overview": "Anna Dziapshipa was born of the union between an Abkhazian man and a Georgian woman. In Self-Portrait Along the Borderline, she skilfully weaves together unique archives and fragments to offer a personal and political biography of Georgia-Abkhazia relations. This vibrant exploration foregrounds a divided identity caught between the margins."
     },
     "tmdb:33470": {
       "key": "tmdb:33470",
@@ -1639,6 +1554,20 @@
       "releaseDate": "2014-06-19",
       "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead."
     },
+    "tmdb:843": {
+      "key": "tmdb:843",
+      "title": "In the Mood for Love",
+      "year": 2000,
+      "director": "Wong Kar-Wai",
+      "runtime": 99,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+      "tmdbId": 843,
+      "popularity": 14.741,
+      "releaseDate": "2000-09-29",
+      "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love."
+    },
     "tmdb:1694": {
       "key": "tmdb:1694",
       "title": "Re-Animator",
@@ -1695,20 +1624,6 @@
       "releaseDate": "2014-11-21",
       "overview": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire."
     },
-    "tmdb:992": {
-      "key": "tmdb:992",
-      "title": "Sherlock Jr.",
-      "year": 1924,
-      "director": "Buster Keaton",
-      "runtime": 45,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tSipsYTp565LkopntX1lZNLPYHP.jpg",
-      "tmdbId": 992,
-      "popularity": 5.2507,
-      "releaseDate": "1924-04-17",
-      "overview": "A film projectionist longs to be a detective, and puts his meager skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch."
-    },
     "tmdb:9392": {
       "key": "tmdb:9392",
       "title": "The Descent",
@@ -1750,177 +1665,9 @@
       "popularity": 8.2768,
       "releaseDate": "2010-01-22",
       "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
-    },
-    "t:cycle of love": {
-      "key": "t:cycle of love",
-      "title": "CYCLE OF LOVE",
-      "year": 2026,
-      "director": "Orlando von Einsiedel",
-      "runtime": 95,
-      "overview": "In 1977, PK, a 23-year-old Delhi street artist from a poor, ‘untouchable’ family, picked up a handful of paintbrushes and a second-hand bicycle and set off on a 6000-mile cross-continent mission – to find Lotta, the woman who had captured his heart. A love story like no other, THE CYCLE OF LOVE is an inspiring, heart-warming, epic true-life adventure about the search for self-belief and risking everything for what your heart tells you.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg",
-      "poster": "https://roxie.com/wp-content/uploads/2026/08/Cycle-Of-Love-1-scaled.jpg"
     }
   },
   "screenings": [
-    {
-      "id": "operaplaza:2026-09-30:13:05:tmdb:340216",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:340216",
-      "date": "2026-09-30",
-      "time": "13:05",
-      "url": "https://www.landmarktheatres.com/movies/238014-echo-lake/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "alamo:2026-09-30:15:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-30",
-      "time": "15:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83302",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-09-30:16:00:tmdb:3107",
-      "venueId": "alamo",
-      "filmKey": "tmdb:3107",
-      "date": "2026-09-30",
-      "time": "16:00",
-      "url": "https://drafthouse.com/sf/show/destroy-all-monsters?cinemaId=0801&sessionId=83251",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-30:16:30:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-30",
-      "time": "16:30",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "balboa:2026-09-30:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-30",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-september-30",
-      "source": "balboa"
-    },
-    {
-      "id": "rafael:2026-09-30:17:00:t:cycle of love",
-      "venueId": "rafael",
-      "filmKey": "t:cycle of love",
-      "date": "2026-09-30",
-      "time": "17:00",
-      "url": "https://cinema.cafilm.org/film/cycle-of-love",
-      "source": "rafael"
-    },
-    {
-      "id": "roxie:2026-09-30:18:00:tmdb:540",
-      "venueId": "roxie",
-      "filmKey": "tmdb:540",
-      "date": "2026-09-30",
-      "time": "18:00",
-      "url": "https://roxie.com/film/d-e-b-s/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-30:18:15:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-30",
-      "time": "18:15",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83303",
-      "source": "alamo"
-    },
-    {
-      "id": "rafael:2026-09-30:18:45:tmdb:1596296",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-09-30",
-      "time": "18:45",
-      "url": "https://cinema.cafilm.org/film/the-history-of-concrete",
-      "source": "rafael"
-    },
-    {
-      "id": "operaplaza:2026-09-30:19:00:tmdb:1283515",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1283515",
-      "date": "2026-09-30",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/1000050801-verity-early-access/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "bampfa:2026-09-30:19:00:tmdb:1108475",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:1108475",
-      "date": "2026-09-30",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/self-portrait-along-borderline",
-      "format": "DCP",
-      "note": "Georgian Cinema Now: Part 1 · In Conversation: Anna Dziapshipa, Salomé Asatiani, Anka Gujabidze, Susan Oxtoby",
-      "source": "bampfa"
-    },
-    {
-      "id": "grandlake:2026-09-30:19:00:tmdb:992",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:992",
-      "date": "2026-09-30",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20260930",
-      "source": "grandlake"
-    },
-    {
-      "id": "rafael:2026-09-30:19:15:t:filipinana",
-      "venueId": "rafael",
-      "filmKey": "t:filipinana",
-      "date": "2026-09-30",
-      "time": "19:15",
-      "url": "https://cinema.cafilm.org/film/filipiana",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-09-30:19:30:tmdb:522",
-      "venueId": "vogue",
-      "filmKey": "tmdb:522",
-      "date": "2026-09-30",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/ed-wood-september-30",
-      "source": "vogue"
-    },
-    {
-      "id": "roxie:2026-09-30:20:05:tmdb:1596326",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-09-30",
-      "time": "20:05",
-      "url": "https://roxie.com/film/barbara-forever/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-09-30:20:20:tmdb:11171",
-      "venueId": "roxie",
-      "filmKey": "tmdb:11171",
-      "date": "2026-09-30",
-      "time": "20:20",
-      "url": "https://roxie.com/film/mysterious-skin-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-09-30:21:30:tmdb:27292",
-      "venueId": "alamo",
-      "filmKey": "tmdb:27292",
-      "date": "2026-09-30",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-prime-cut?cinemaId=0801&sessionId=82424",
-      "format": "35mm",
-      "note": "Weird Wednesday · Lee Marvin vs. Gene Hackman in a peculiar American crime picture.",
-      "source": "alamo"
-    },
     {
       "id": "grandlake:2026-10-01:16:35:tmdb:1596296",
       "venueId": "grandlake",
@@ -2702,6 +2449,17 @@
       "source": "grandlake"
     },
     {
+      "id": "vogue:2026-10-06:16:30:tmdb:28363",
+      "venueId": "vogue",
+      "filmKey": "tmdb:28363",
+      "date": "2026-10-06",
+      "time": "16:30",
+      "url": "https://voguemovies.com/calendar-of-events/the-mad-magician-october-6",
+      "format": "3D",
+      "note": "House of Wax",
+      "source": "vogue"
+    },
+    {
       "id": "balboa:2026-10-06:17:00:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -3221,6 +2979,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-10-14:18:45:tmdb:843",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:843",
+      "date": "2026-10-14",
+      "time": "18:45",
+      "url": "https://thenewparkway.com/movie/in-the-mood-for-love/",
+      "source": "newparkway"
+    },
+    {
       "id": "operaplaza:2026-10-14:19:00:tmdb:12122",
       "venueId": "operaplaza",
       "filmKey": "tmdb:12122",
@@ -3337,6 +3104,15 @@
       "url": "https://www.atasite.org/event/an-evening-with-mike-kuchar/",
       "format": "8mm",
       "source": "ata"
+    },
+    {
+      "id": "roxie:2026-10-16:20:30:tmdb:25623",
+      "venueId": "roxie",
+      "filmKey": "tmdb:25623",
+      "date": "2026-10-16",
+      "time": "20:30",
+      "url": "https://roxie.com/film/new-people-hausu/",
+      "source": "roxie"
     },
     {
       "id": "operaplaza:2026-10-16:20:30:tmdb:11976",
@@ -3782,15 +3558,6 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-10-27:21:15:tmdb:9100",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9100",
-      "date": "2026-10-27",
-      "time": "21:15",
-      "url": "https://roxie.com/film/rewind-presents-the-craft/",
-      "source": "roxie"
-    },
-    {
       "id": "alamo:2026-10-27:21:30:tmdb:609",
       "venueId": "alamo",
       "filmKey": "tmdb:609",
@@ -3840,6 +3607,26 @@
       "format": "35mm",
       "note": "Weird Wednesday · Apartment for Rent. Inquire Within...",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-10-29:18:00:tmdb:16672",
+      "venueId": "roxie",
+      "filmKey": "tmdb:16672",
+      "date": "2026-10-29",
+      "time": "18:00",
+      "url": "https://roxie.com/film/woman-in-the-dunes/",
+      "source": "roxie"
+    },
+    {
+      "id": "balboa:2026-10-29:19:30:tmdb:9552",
+      "venueId": "balboa",
+      "filmKey": "tmdb:9552",
+      "date": "2026-10-29",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-exorcist-october-29",
+      "format": "35mm",
+      "note": "Presented on 35mm by",
+      "source": "balboa"
     }
   ],
   "festivals": [
@@ -3847,10 +3634,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-09-30",
+      "startDate": "2026-10-01",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83298",
-      "showtimes": 57,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83335",
+      "showtimes": 51,
       "sample": [
         "Ghost in the Cell",
         "Primetime",
@@ -3858,42 +3645,6 @@
         "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-09-30",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83298"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "16:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83307"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "18:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83313"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "19:15",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83305"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "21:45",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83314"
-        },
-        {
-          "date": "2026-09-30",
-          "time": "22:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83308"
-        },
         {
           "date": "2026-10-01",
           "time": "15:00",
@@ -4394,6 +4145,27 @@
       ]
     },
     {
+      "key": "fest:ata:3rd i festival",
+      "name": "3rd i Festival",
+      "venueId": "ata",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "url": "https://www.atasite.org/wp-content/uploads/2026/09/3rd-i-film-festival.jpg",
+      "showtimes": 1,
+      "sample": [
+        "A CELEBRATION OF THE EXTRAORDINARY WORK OF AVIE LUTHRA"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-09",
+          "time": "19:30",
+          "title": "A CELEBRATION OF THE EXTRAORDINARY WORK OF AVIE LUTHRA",
+          "url": "https://www.atasite.org/event/3rd-i-festival-a-celebration-of-the-extraordinary-work-of-avie-luthra/",
+          "note": "Join us for an inspiring retrospective of his brilliant narratives that lift up stories of immigration, relationships, identity, gender, sexuality, and…"
+        }
+      ]
+    },
+    {
       "key": "fest:bampfa:mill valley film festival at bampfa audio descriptionclosed captioned",
       "name": "Mill Valley Film Festival at BAMPFA · Audio DescriptionClosed Captioned",
       "venueId": "bampfa",
@@ -4410,6 +4182,30 @@
           "time": "15:30",
           "title": "When a Witness Recants",
           "url": "https://bampfa.org/event/when-witness-recants"
+        }
+      ]
+    },
+    {
+      "key": "fest:roxie:2026 hump film festival",
+      "name": "2026 HUMP! Film Festival",
+      "venueId": "roxie",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "url": "https://www.humpfilmfest.com/",
+      "showtimes": 2,
+      "sample": [],
+      "programme": [
+        {
+          "date": "2026-10-15",
+          "time": "18:30",
+          "title": "2026 HUMP! Film Festival",
+          "url": "https://roxie.com/film/2026-hump-film-festival/"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "21:00",
+          "title": "2026 HUMP! Film Festival",
+          "url": "https://roxie.com/film/2026-hump-film-festival/"
         }
       ]
     },
@@ -4513,15 +4309,34 @@
       ]
     },
     {
+      "key": "fest:roxie:san quentin film festival 2026",
+      "name": "San Quentin Film Festival 2026",
+      "venueId": "roxie",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "url": "https://roxie.com/film/san-quentin-film-festival-2026/",
+      "showtimes": 1,
+      "sample": [],
+      "programme": [
+        {
+          "date": "2026-10-24",
+          "time": "13:00",
+          "title": "San Quentin Film Festival 2026",
+          "url": "https://roxie.com/film/san-quentin-film-festival-2026/"
+        }
+      ]
+    },
+    {
       "key": "fest:bampfa:hong kong cinema rarities and restorations digital restoration",
       "name": "Hong Kong Cinema: Rarities and Restorations · Digital Restoration",
       "venueId": "bampfa",
       "startDate": "2026-10-25",
-      "endDate": "2026-10-25",
+      "endDate": "2026-11-05",
       "url": "https://bampfa.org/event/colorful-youth",
-      "showtimes": 1,
+      "showtimes": 2,
       "sample": [
-        "Colorful Youth"
+        "Colorful Youth",
+        "The Secret"
       ],
       "programme": [
         {
@@ -4529,6 +4344,12 @@
           "time": "16:00",
           "title": "Colorful Youth",
           "url": "https://bampfa.org/event/colorful-youth"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "19:00",
+          "title": "The Secret",
+          "url": "https://bampfa.org/event/secret"
         }
       ]
     },
