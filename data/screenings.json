@@ -1,43 +1,6 @@
 {
-  "generatedAt": "2026-10-01T18:43:20.357Z",
+  "generatedAt": "2026-10-02T18:08:26.596Z",
   "films": {
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:44214": {
-      "key": "tmdb:44214",
-      "title": "Black Swan",
-      "year": 2010,
-      "director": "Darren Aronofsky",
-      "runtime": 108,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg",
-      "tmdbId": 44214,
-      "popularity": 19.7888,
-      "releaseDate": "2010-12-03",
-      "overview": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake.\""
-    },
-    "tmdb:10494": {
-      "key": "tmdb:10494",
-      "title": "Perfect Blue",
-      "year": 1997,
-      "director": "Satoshi Kon",
-      "runtime": 81,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "tmdbId": 10494,
-      "popularity": 17.6221,
-      "releaseDate": "1998-02-28",
-      "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
-    },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
       "title": "Chronovisor",
@@ -120,6 +83,29 @@
       "popularity": 2.4586,
       "releaseDate": "2023-11-12",
       "overview": "One of the world’s youngest elite rock climbers, Ashima Shiraishi spent her formative years breaking numerous age-based climbing milestones, spurred on by her number one fan and coach, her father, Poppo a retired Butoh dancer and avant-garde performer with no formal climbing experience. When these New Yorkers travel to South Africa to conquer a V14 boulder problem, father and daughter must face their interpersonal struggles in tandem with the challenging ascent."
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
+    },
+    "tmdb:10494": {
+      "key": "tmdb:10494",
+      "title": "Perfect Blue",
+      "year": 1997,
+      "director": "Satoshi Kon",
+      "runtime": 81,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "tmdbId": 10494,
+      "popularity": 17.6221,
+      "releaseDate": "1998-02-28",
+      "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
     },
     "tmdb:30959": {
       "key": "tmdb:30959",
@@ -298,6 +284,20 @@
       "releaseDate": "1990-01-12",
       "overview": "Iris is a shy and dowdy young woman stuck in a dead-end job at a match factory, who dreams of finding love at the local dancehall. Finding herself pregnant after a one-night stand and abandoned by the father, Iris finally decides the time has come to get even and she begins to plot her revenge."
     },
+    "tmdb:638": {
+      "key": "tmdb:638",
+      "title": "Lost Highway",
+      "year": 1997,
+      "director": "David Lynch",
+      "runtime": 134,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/5POhfNeFPIi4VUNwCTaK85sh98r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+      "tmdbId": 638,
+      "popularity": 10.2926,
+      "releaseDate": "1997-01-15",
+      "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell."
+    },
     "tmdb:1175473": {
       "key": "tmdb:1175473",
       "title": "The 9 Lives of Barbara Dane",
@@ -310,6 +310,19 @@
       "popularity": 1.4428,
       "releaseDate": "2023-10-10",
       "overview": "For decades, Barbara Dane lent her stellar singing voice to social-justice movements in the Bay Area and beyond, garnering an impressive FBI file along the way. Deeply respected by fellow luminaries in folk, blues and jazz, Dane built a far-reaching legacy with music, activism, and love. As Maureen Gosling’s celebratory portrait reveals, early solidarity with those suffering racial and economic injustice sparked Dane’s passion to use her talent to sustain marginalized people. Rather than chase stardom, she followed her own maternal instincts to root herself and her family among generations of activist performers. Bonnie Raitt, Jane Fonda and other notables attest to Dane’s unique way of shaping and being shaped by tumultuous social revolutions from the 1950s on. Nearing 90, Dane triumphantly tours with piano virtuoso Tammy Hall to celebrate a life of staying awake and connected, true to her ideals. One star among many illuminates so much."
+    },
+    "tmdb:632690": {
+      "key": "tmdb:632690",
+      "title": "Roy's World: Barry Gifford's Chicago",
+      "year": 2020,
+      "director": "Rob Christopher",
+      "runtime": 75,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/afkGeD6GMwGifK1mkiFHAhCpNCL.jpg",
+      "tmdbId": 632690,
+      "popularity": 1.6241,
+      "releaseDate": "2020-02-28",
+      "overview": "Author Barry Gifford's gritty autobiographical stories of growing up in 1950s Chicago provide the backdrop for an impressionistic documentary portrait of a vanished time and place."
     },
     "tmdb:3019": {
       "key": "tmdb:3019",
@@ -339,6 +352,20 @@
       "releaseDate": "1993-07-16",
       "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all."
     },
+    "tmdb:9845": {
+      "key": "tmdb:9845",
+      "title": "Dance with the Devil",
+      "year": 1997,
+      "director": "Álex de la Iglesia",
+      "runtime": 130,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/37oOHBE3bQUzKScnx9s9QhVLFXz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kznmEv5dOczfbEw8ZC3KTpY4T5c.jpg",
+      "tmdbId": 9845,
+      "popularity": 3.3641,
+      "releaseDate": "1997-10-31",
+      "overview": "She's sexy, shameless and loves taking people to their limit. She's a dangerous young woman who dreams about a jaguar that licks her naked body and sleeps by her side. Her past is bathed in blood and weird passions. Now she's met the man of her wildest dreams. He's dark, tough and mysterious. He likes robbing banks, trafficking in corpses and spicing it all with voodoo rituals. Together, the duo sets off toward Mexico destined to become the most feared outlaws in the continent."
+    },
     "tmdb:16672": {
       "key": "tmdb:16672",
       "title": "Woman in the Dunes",
@@ -352,6 +379,20 @@
       "popularity": 6.7913,
       "releaseDate": "1964-02-15",
       "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them."
+    },
+    "tmdb:458723": {
+      "key": "tmdb:458723",
+      "title": "Us",
+      "year": 2019,
+      "director": "Jordan Peele",
+      "runtime": 116,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
+      "tmdbId": 458723,
+      "popularity": 12.6807,
+      "releaseDate": "2019-03-14",
+      "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited."
     },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
@@ -715,19 +756,19 @@
       "releaseDate": "1973-12-26",
       "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life."
     },
-    "tmdb:522": {
-      "key": "tmdb:522",
-      "title": "Ed Wood",
-      "year": 1994,
-      "director": "Tim Burton",
-      "runtime": 127,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
-      "tmdbId": 522,
-      "popularity": 4.6675,
-      "releaseDate": "1994-09-28",
-      "overview": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful."
+    "tmdb:4232": {
+      "key": "tmdb:4232",
+      "title": "Scream",
+      "year": 1996,
+      "director": "Wes Craven",
+      "runtime": 112,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+      "tmdbId": 4232,
+      "popularity": 18.767,
+      "releaseDate": "1996-12-20",
+      "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game."
     },
     "tmdb:28363": {
       "key": "tmdb:28363",
@@ -770,20 +811,6 @@
       "popularity": 2.7636,
       "releaseDate": "2011-03-17",
       "overview": "Childlike in his innocence but grotesque in form, Frankenstein’s bewildered creature is cast out into a hostile universe by his horror-struck maker. Meeting with cruelty wherever he goes, the friendless Creature, increasingly desperate and vengeful, determines to track down his creator and strike a terrifying deal.  Urgent concerns of scientific responsibility, parental neglect, cognitive development and the nature of good and evil are embedded within this thrilling and deeply disturbing tale."
-    },
-    "tmdb:1052599": {
-      "key": "tmdb:1052599",
-      "title": "Songs of Slow Burning Earth",
-      "year": 2024,
-      "director": "Olha Zhurba",
-      "runtime": 95,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/6yzsv5zd4xKTVWJiEqPNayvxj9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sQNU165LBfFaYdNDgmgxOXk6RK3.jpg",
-      "tmdbId": 1052599,
-      "popularity": 0.8315,
-      "releaseDate": "2024-08-28",
-      "overview": "Reflective observations of Ukraine in wartime are interwoven with eye-witness accounts to contemplate the ultimate tragedy: the normalization of war."
     },
     "tmdb:507022": {
       "key": "tmdb:507022",
@@ -919,19 +946,6 @@
       "releaseDate": "2024-01-21",
       "overview": "Originally formed amidst the chaos of the 1970 Kent State anti-Vietnam War protest killings, the not quite new wave band Devo scored a hit with \"Whip It\" and gained mainstream success with their message of societal \"de-evolution.\""
     },
-    "tmdb:1410939": {
-      "key": "tmdb:1410939",
-      "title": "Dire Duplicity",
-      "year": 2026,
-      "director": "Neil Breen",
-      "runtime": 93,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/jN5J4x2KzA9v8qtt2TnTTqCh5BY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4mlkSfmJgB8Br1H3YQlWGedlv6O.jpg",
-      "tmdbId": 1410939,
-      "popularity": 2.4597,
-      "overview": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves."
-    },
     "tmdb:39264": {
       "key": "tmdb:39264",
       "title": "Godzilla vs. Megalon",
@@ -1015,20 +1029,6 @@
       "popularity": 7.7035,
       "releaseDate": "2003-06-13",
       "overview": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
-    },
-    "tmdb:280": {
-      "key": "tmdb:280",
-      "title": "Terminator 2: Judgment Day",
-      "year": 1991,
-      "director": "James Cameron",
-      "runtime": 137,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/jFTVD4XoWQTcg7wdyJKa8PEds5q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
-      "tmdbId": 280,
-      "popularity": 36.4213,
-      "releaseDate": "1991-07-03",
-      "overview": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse."
     },
     "tmdb:9871": {
       "key": "tmdb:9871",
@@ -1341,18 +1341,6 @@
       "releaseDate": "1995-04-28",
       "overview": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane."
     },
-    "tmdb:33470": {
-      "key": "tmdb:33470",
-      "title": "Italianamerican and American Boy: A Profile of Steven Prince",
-      "director": "Martin Scorsese",
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/jnSQhFBaJ7KlJEWYmp8WfS0FVmU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pQNtLZvyLPbg271pzWEgYItZj6S.jpg",
-      "tmdbId": 33470,
-      "popularity": 0.8583,
-      "releaseDate": "1978-09-16",
-      "overview": "Martin Scorsese’s documentaries are like portals to his sources of inspiration, and Italianamerican takes us to the heart of the matter via a conversation with his parents. As his mother prepares meatballs, she and her husband tell the stories of their families’ journeys from Sicily to Elizabeth Street, which speak volumes about the immigrant experience. American Boy is the realization of Scorsese’s idea for a film in which “a man sits down, tells his story, and little by little you see an era emerge, a way of life, a way of surviving.” He found the perfect subject in Steven Prince, a great storyteller, who played the gun dealer in Taxi Driver, a role for which he provided his own guns.\n\n—Kate MacKay\n\nFilms in this Screening\nItalianamerican\nMartin Scorsese, United States, 1974\n\nFEATURING\nMartin Scorsese\nCatherine Scorsese\nCharles Scorsese\n\nFILM DETAILS \nAmerican Boy: A Profile of Steven Prince\nMartin Scorsese, United States, 1978"
-    },
     "tmdb:846806": {
       "key": "tmdb:846806",
       "title": "Wet Sand",
@@ -1498,6 +1486,20 @@
       "releaseDate": "1985-09-13",
       "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman."
     },
+    "tmdb:31522": {
+      "key": "tmdb:31522",
+      "title": "A Woman Is a Woman",
+      "year": 1961,
+      "director": "Jean-Luc Godard",
+      "runtime": 83,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/xrZu21hriGJQY3qY8nifh2smVHu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
+      "tmdbId": 31522,
+      "popularity": 3.6172,
+      "releaseDate": "1961-09-06",
+      "overview": "Longing for a baby, a stripper pursues another man in order to make her boyfriend jealous."
+    },
     "tmdb:239": {
       "key": "tmdb:239",
       "title": "Some Like It Hot",
@@ -1624,6 +1626,20 @@
       "releaseDate": "2014-11-21",
       "overview": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire."
     },
+    "tmdb:13310": {
+      "key": "tmdb:13310",
+      "title": "Let the Right One In",
+      "year": 2008,
+      "director": "Tomas Alfredson",
+      "runtime": 115,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mSl9sxOFwBtl2f1FMprrlLqJqON.jpg",
+      "tmdbId": 13310,
+      "popularity": 6.5256,
+      "releaseDate": "2008-10-24",
+      "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl."
+    },
     "tmdb:9392": {
       "key": "tmdb:9392",
       "title": "The Descent",
@@ -1665,120 +1681,23 @@
       "popularity": 8.2768,
       "releaseDate": "2010-01-22",
       "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
+    },
+    "tmdb:11547": {
+      "key": "tmdb:11547",
+      "title": "Cabin Fever",
+      "year": 2002,
+      "director": "Eli Roth",
+      "runtime": 93,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/vaUkSL7PbeeKfdFKOh9TYR9M1ds.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kGG4eCEaWvq20r4OofW4oUskhkY.jpg",
+      "tmdbId": 11547,
+      "popularity": 5.5529,
+      "releaseDate": "2003-08-15",
+      "overview": "A group of five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals."
     }
   },
   "screenings": [
-    {
-      "id": "grandlake:2026-10-01:16:35:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-01",
-      "time": "16:35",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261001",
-      "source": "grandlake"
-    },
-    {
-      "id": "roxie:2026-10-01:18:00:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-01",
-      "time": "18:00",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-01:18:00:tmdb:280",
-      "venueId": "alamo",
-      "filmKey": "tmdb:280",
-      "date": "2026-10-01",
-      "time": "18:00",
-      "url": "https://drafthouse.com/sf/show/terminator-2-judgment-day?cinemaId=0801&sessionId=82425",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-10-01:18:30:tmdb:44214",
-      "venueId": "roxie",
-      "filmKey": "tmdb:44214",
-      "date": "2026-10-01",
-      "time": "18:30",
-      "url": "https://roxie.com/film/black-swan/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-01:19:00:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-01",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83339",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-10-01:19:00:tmdb:33470",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:33470",
-      "date": "2026-10-01",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/italianamerican-and-american-boy-profile-steven-prince",
-      "format": "DCP",
-      "note": "Martin Scorsese Pictures",
-      "source": "bampfa"
-    },
-    {
-      "id": "grandlake:2026-10-01:19:05:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-01",
-      "time": "19:05",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261001",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-01:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-01",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-1",
-      "source": "balboa"
-    },
-    {
-      "id": "vogue:2026-10-01:19:30:tmdb:522",
-      "venueId": "vogue",
-      "filmKey": "tmdb:522",
-      "date": "2026-10-01",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/ed-wood-october-1",
-      "source": "vogue"
-    },
-    {
-      "id": "4star:2026-10-01:19:30:tmdb:1052599",
-      "venueId": "4star",
-      "filmKey": "tmdb:1052599",
-      "date": "2026-10-01",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/songs-of-slow",
-      "note": "Q&A with Director Olha Zhurba and Producer Darya Bassel to follow the film.",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-10-01:20:50:tmdb:10494",
-      "venueId": "roxie",
-      "filmKey": "tmdb:10494",
-      "date": "2026-10-01",
-      "time": "20:50",
-      "url": "https://roxie.com/film/perfect-blue/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-01:21:30:tmdb:1410939",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1410939",
-      "date": "2026-10-01",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/dire-duplicity?cinemaId=0801&sessionId=83202",
-      "source": "alamo"
-    },
     {
       "id": "alamo:2026-10-02:13:20:tmdb:793",
       "venueId": "alamo",
@@ -2032,21 +1951,21 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-10-03:15:10:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-03",
-      "time": "15:10",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-10-03:15:10:tmdb:1599181",
       "venueId": "roxie",
       "filmKey": "tmdb:1599181",
       "date": "2026-10-03",
       "time": "15:10",
       "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-03:15:10:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-03",
+      "time": "15:10",
+      "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
     },
     {
@@ -2354,6 +2273,16 @@
       "url": "https://thenewparkway.com/movie/hot-fuzz-party-at-the-parkway/",
       "note": "Party at the Parkway",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-10-04:21:20:tmdb:793",
+      "venueId": "alamo",
+      "filmKey": "tmdb:793",
+      "date": "2026-10-04",
+      "time": "21:20",
+      "url": "https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-blue-velvet?cinemaId=0801&sessionId=83504",
+      "note": "Alamo Drafthouse Movie Book Club · Book Club Screening · Kyle MacLachlan's fictional self finds a severed ear",
+      "source": "alamo"
     },
     {
       "id": "grandlake:2026-10-05:16:30:tmdb:1596296",
@@ -3194,6 +3123,15 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-10-17:20:00:tmdb:638",
+      "venueId": "roxie",
+      "filmKey": "tmdb:638",
+      "date": "2026-10-17",
+      "time": "20:00",
+      "url": "https://roxie.com/film/lost-highway/",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-10-17:22:00:tmdb:1694",
       "venueId": "newparkway",
       "filmKey": "tmdb:1694",
@@ -3248,6 +3186,15 @@
       "date": "2026-10-18",
       "time": "15:10",
       "url": "https://roxie.com/film/the-9-lives-of-barbara-dane/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-18:15:10:tmdb:632690",
+      "venueId": "roxie",
+      "filmKey": "tmdb:632690",
+      "date": "2026-10-18",
+      "time": "15:10",
+      "url": "https://roxie.com/film/roys-world-barry-giffords-chicago/",
       "source": "roxie"
     },
     {
@@ -3488,6 +3435,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-25:18:00:tmdb:9845",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9845",
+      "date": "2026-10-25",
+      "time": "18:00",
+      "url": "https://roxie.com/film/perdita-durango/",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-10-25:18:30:tmdb:252171",
       "venueId": "newparkway",
       "filmKey": "tmdb:252171",
@@ -3627,6 +3583,58 @@
       "format": "35mm",
       "note": "Presented on 35mm by",
       "source": "balboa"
+    },
+    {
+      "id": "roxie:2026-10-30:19:00:tmdb:458723",
+      "venueId": "roxie",
+      "filmKey": "tmdb:458723",
+      "date": "2026-10-30",
+      "time": "19:00",
+      "url": "https://roxie.com/film/floating-features-us/",
+      "source": "roxie"
+    },
+    {
+      "id": "balboa:2026-10-30:19:30:tmdb:4232",
+      "venueId": "balboa",
+      "filmKey": "tmdb:4232",
+      "date": "2026-10-30",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/scream-october-30",
+      "format": "35mm",
+      "note": "Presented on 35mm by",
+      "source": "balboa"
+    },
+    {
+      "id": "bampfa:2026-10-30:19:30:tmdb:31522",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:31522",
+      "date": "2026-10-30",
+      "time": "19:30",
+      "url": "https://bampfa.org/event/woman-woman",
+      "format": "4K",
+      "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-10-30:22:30:tmdb:13310",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:13310",
+      "date": "2026-10-30",
+      "time": "22:30",
+      "url": "https://thenewparkway.com/movie/let-the-right-one-in-subtitled/",
+      "note": "subtitled",
+      "source": "newparkway"
+    },
+    {
+      "id": "piedmont:2026-10-30:22:30:tmdb:11547",
+      "venueId": "piedmont",
+      "filmKey": "tmdb:11547",
+      "date": "2026-10-30",
+      "time": "22:30",
+      "url": "https://www.landmarktheatres.com/movies/1000043539-cabin-fever-4k-directors-cut/",
+      "format": "4K",
+      "note": "Cine Insomnia - Scary Spaces",
+      "source": "piedmont"
     }
   ],
   "festivals": [
@@ -3634,10 +3642,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-01",
+      "startDate": "2026-10-02",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83335",
-      "showtimes": 51,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83359",
+      "showtimes": 44,
       "sample": [
         "Ghost in the Cell",
         "Primetime",
@@ -3645,48 +3653,6 @@
         "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-10-01",
-          "time": "15:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83335"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "15:30",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83357"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "16:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83340"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "18:30",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83337"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "19:15",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83341"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "22:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83342"
-        },
-        {
-          "date": "2026-10-01",
-          "time": "22:15",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83336"
-        },
         {
           "date": "2026-10-02",
           "time": "12:40",
