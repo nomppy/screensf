@@ -1,56 +1,6 @@
 {
-  "generatedAt": "2026-10-03T16:53:44.245Z",
+  "generatedAt": "2026-10-04T17:09:15.385Z",
   "films": {
-    "tmdb:1193495": {
-      "key": "tmdb:1193495",
-      "title": "Ashima",
-      "year": 2023,
-      "director": "Kenji Tsukamoto",
-      "runtime": 84,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/fm0G1lpyEKIkchgP1P8K6HMpkJa.jpg",
-      "tmdbId": 1193495,
-      "popularity": 2.4586,
-      "releaseDate": "2023-11-12",
-      "overview": "One of the world’s youngest elite rock climbers, Ashima Shiraishi spent her formative years breaking numerous age-based climbing milestones, spurred on by her number one fan and coach, her father, Poppo a retired Butoh dancer and avant-garde performer with no formal climbing experience. When these New Yorkers travel to South Africa to conquer a V14 boulder problem, father and daughter must face their interpersonal struggles in tandem with the challenging ascent."
-    },
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:25623": {
-      "key": "tmdb:25623",
-      "title": "House",
-      "year": 1977,
-      "director": "Nobuhiko Obayashi",
-      "runtime": 88,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "tmdbId": 25623,
-      "popularity": 3.9413,
-      "releaseDate": "1977-08-26",
-      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye."
-    },
     "tmdb:77350": {
       "key": "tmdb:77350",
       "title": "Unzipped",
@@ -65,34 +15,6 @@
       "releaseDate": "1995-08-11",
       "overview": "Isaac Mizrahi, one of the most successful designers in high fashion, plans his fall 1994 collection."
     },
-    "tmdb:10494": {
-      "key": "tmdb:10494",
-      "title": "Perfect Blue",
-      "year": 1997,
-      "director": "Satoshi Kon",
-      "runtime": 81,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "tmdbId": 10494,
-      "popularity": 17.6221,
-      "releaseDate": "1998-02-28",
-      "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
-    },
-    "tmdb:1556": {
-      "key": "tmdb:1556",
-      "title": "Funeral Parade of Roses",
-      "year": 1969,
-      "director": "Toshio Matsumoto",
-      "runtime": 105,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/7cRQ6rSGajW2soWDr3voEN2rgYO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/wRBjG7wFxb4ewOWKWAarfbKARtK.jpg",
-      "tmdbId": 1556,
-      "popularity": 2.527,
-      "releaseDate": "1969-09-13",
-      "overview": "In 1960s Tokyo, Gonda owns a bar in which the gay, cross-dresser, and trans scenes meet. Gonda is in a relationship with the madam of the bar, Leda. As the younger Eddie starts a passionate affair with Gonda, she ignites the jealousy of Leda, unaware of another kind of history between them."
-    },
     "tmdb:30959": {
       "key": "tmdb:30959",
       "title": "Kwaidan",
@@ -106,6 +28,20 @@
       "popularity": 5.2901,
       "releaseDate": "1965-01-06",
       "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
+    },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
     },
     "tmdb:104287": {
       "key": "tmdb:104287",
@@ -135,6 +71,15 @@
       "releaseDate": "2026-06-19",
       "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
     },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
+    },
     "tmdb:63025": {
       "key": "tmdb:63025",
       "title": "A Lizard in a Woman's Skin",
@@ -148,6 +93,20 @@
       "popularity": 1.8211,
       "releaseDate": "1971-02-18",
       "overview": "Carol Hammond, daughter of a politician, has vivid nightmares involving sex orgies and LSD. In a dream, she murders a neighbor she envies and wakes up to a real investigation into her neighbor's murder."
+    },
+    "tmdb:10494": {
+      "key": "tmdb:10494",
+      "title": "Perfect Blue",
+      "year": 1997,
+      "director": "Satoshi Kon",
+      "runtime": 81,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
+      "tmdbId": 10494,
+      "popularity": 17.6221,
+      "releaseDate": "1998-02-28",
+      "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
     },
     "t:zoe presents memorex rexsexex y mas": {
       "key": "t:zoe presents memorex rexsexex y mas",
@@ -255,6 +214,20 @@
       "popularity": 11.9202,
       "releaseDate": "1997-09-12",
       "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins."
+    },
+    "tmdb:25623": {
+      "key": "tmdb:25623",
+      "title": "House",
+      "year": 1977,
+      "director": "Nobuhiko Obayashi",
+      "runtime": 88,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
+      "tmdbId": 25623,
+      "popularity": 3.9413,
+      "releaseDate": "1977-08-26",
+      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye."
     },
     "tmdb:7857": {
       "key": "tmdb:7857",
@@ -464,6 +437,20 @@
       "releaseDate": "1990-08-17",
       "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
     },
+    "tmdb:636": {
+      "key": "tmdb:636",
+      "title": "THX 1138",
+      "year": 1971,
+      "director": "George Lucas",
+      "runtime": 86,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fM9ODwfR7m8fI2g99M9WyhvqXtI.jpg",
+      "tmdbId": 636,
+      "popularity": 3.4791,
+      "releaseDate": "1971-03-11",
+      "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
+    },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
       "title": "The History of Concrete",
@@ -477,34 +464,6 @@
       "popularity": 2.7675,
       "releaseDate": "2026-09-18",
       "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:20481": {
-      "key": "tmdb:20481",
-      "title": "Nightbreed",
-      "year": 1990,
-      "director": "Clive Barker",
-      "runtime": 102,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/1ChluYH0BEvJo3gtYoFHnMZI660.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/vt7ZQ38ZLOpq63DXu7pi3Rf5T24.jpg",
-      "tmdbId": 20481,
-      "popularity": 5.6446,
-      "releaseDate": "1990-02-16",
-      "overview": "A troubled young man is drawn to a mythical place called Midian where a variety of friendly monsters are hiding from humanity. Meanwhile, a sadistic serial killer is looking for a patsy."
-    },
-    "tmdb:582913": {
-      "key": "tmdb:582913",
-      "title": "The Room",
-      "year": 2019,
-      "director": "Christian Volckman",
-      "runtime": 99,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/bWyQwZziHh1DK9F59eqahZD8Upc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/snbRXbkzEpc35mFDlwUg41cN8aw.jpg",
-      "tmdbId": 582913,
-      "popularity": 6.0879,
-      "releaseDate": "2019-09-12",
-      "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
     },
     "tmdb:14696": {
       "key": "tmdb:14696",
@@ -924,6 +883,20 @@
       "releaseDate": "2005-09-15",
       "overview": "Cheese-loving eccentric Wallace and his cunning canine pal Gromit run a business ridding the town of garden pests. Using only humane methods, which turns their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest."
     },
+    "tmdb:30421": {
+      "key": "tmdb:30421",
+      "title": "A Chinese Ghost Story",
+      "year": 1987,
+      "director": "Tony Ching Siu-Tung",
+      "runtime": 95,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/oZitiEjIm1jjsB4bTIEZkawhMpx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/A89LDBfE4I7peBt9flR29LjtBdf.jpg",
+      "tmdbId": 30421,
+      "popularity": 7.1528,
+      "releaseDate": "1987-07-18",
+      "overview": "A naïve young tax collector for the imperial government winds up spending the night in a haunted temple. There he falls in love with a beautiful woman who, unfortunately, is dead. With the aid of a powerful Daoist Swordsman, he must defeat undead hordes, overcome a sinister Tree Demoness, and descend to the pits of hell, to fight for the spirit he loves."
+    },
     "tmdb:21588": {
       "key": "tmdb:21588",
       "title": "Cemetery Man",
@@ -951,6 +924,20 @@
       "popularity": 11.1707,
       "releaseDate": "1995-05-26",
       "overview": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics."
+    },
+    "tmdb:13353": {
+      "key": "tmdb:13353",
+      "title": "It's the Great Pumpkin, Charlie Brown",
+      "year": 1966,
+      "director": "Bill Melendez",
+      "runtime": 25,
+      "genre": "Family",
+      "poster": "https://image.tmdb.org/t/p/w500/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k7F9aj6Vmz8rJ9lcm2mIgUiWDWV.jpg",
+      "tmdbId": 13353,
+      "popularity": 9.0261,
+      "releaseDate": "1966-10-27",
+      "overview": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle."
     },
     "tmdb:13597": {
       "key": "tmdb:13597",
@@ -1309,12 +1296,6 @@
       "releaseDate": "2023-08-05",
       "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
     },
-    "t:other cinema incredibly strange music": {
-      "key": "t:other cinema incredibly strange music",
-      "title": "Other Cinema: Incredibly Strange Music",
-      "overview": "Here’s an aggressive critical engagement with both old and new pop-rhetorical tropes, led by legendary beatnik re-mixer 99 Hooker! His much-anticipated appearance here promises both wise and wise-guy versions of the comtempo sub-pop-music scene, as well as genius patter in situ. Avatar Pit, his real-time media delirium, is supported fore and aft by a raft of utterly anomalous musical singularities—spontaneous musique concrete sessions, damaged polka fragments, Troloman, Babalu, the Blob, the Residents, Eric Burden and the Animals, Chrissie Hynde and the Pretenders…rockin hard! AND Liberace, Spike Jones, the Mirror Man, Louis Prima & Keely Smith, singing ostriches, and so many Other outsiders, now centerstage in 99‘s upside-down musical universe!! $14",
-      "backdrop": "https://www.atasite.org/wp-content/uploads/2026/09/othercinema-20261003-e1788904356676.webp"
-    },
     "tmdb:449576": {
       "key": "tmdb:449576",
       "title": "An Evening",
@@ -1370,20 +1351,6 @@
       "popularity": 18.9272,
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
-    },
-    "tmdb:138": {
-      "key": "tmdb:138",
-      "title": "Dracula",
-      "year": 1931,
-      "director": "Tod Browning",
-      "runtime": 74,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/cemjdP7HrUyJAry85vRT19Hidbi.jpg",
-      "tmdbId": 138,
-      "popularity": 5.3244,
-      "releaseDate": "1931-02-12",
-      "overview": "A British estate agent travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves the agent and drives him to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites."
     },
     "tmdb:8852": {
       "key": "tmdb:8852",
@@ -1614,20 +1581,6 @@
       "releaseDate": "1962-09-20",
       "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution."
     },
-    "tmdb:239": {
-      "key": "tmdb:239",
-      "title": "Some Like It Hot",
-      "year": 1959,
-      "director": "Billy Wilder",
-      "runtime": 123,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-      "tmdbId": 239,
-      "popularity": 9.6948,
-      "releaseDate": "1959-03-19",
-      "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in."
-    },
     "tmdb:4638": {
       "key": "tmdb:4638",
       "title": "Hot Fuzz",
@@ -1798,227 +1751,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "grandlake:2026-10-03:11:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "11:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
-      "source": "grandlake"
-    },
-    {
-      "id": "alamo:2026-10-03:12:20:tmdb:4011",
-      "venueId": "alamo",
-      "filmKey": "tmdb:4011",
-      "date": "2026-10-03",
-      "time": "12:20",
-      "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=83383",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-10-03:12:30:tmdb:1193495",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1193495",
-      "date": "2026-10-03",
-      "time": "12:30",
-      "url": "https://roxie.com/film/ashima/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-03:12:30:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-03",
-      "time": "12:30",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83436",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-10-03:12:30:tmdb:239",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:239",
-      "date": "2026-10-03",
-      "time": "12:30",
-      "url": "https://thenewparkway.com/movie/some-like-it-hot/",
-      "source": "newparkway"
-    },
-    {
-      "id": "operaplaza:2026-10-03:13:00:tmdb:138",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:138",
-      "date": "2026-10-03",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/1729-dracula-1931/",
-      "note": "Marquee Matinees - Monster Madness",
-      "source": "operaplaza"
-    },
-    {
-      "id": "grandlake:2026-10-03:13:45:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "13:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-03:14:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-3",
-      "note": "The History of Concrete",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-03:15:10:tmdb:1599181",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-10-03",
-      "time": "15:10",
-      "url": "https://roxie.com/film/chronovisor/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-03:15:10:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-03",
-      "time": "15:10",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-03:15:45:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "15:45",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83376",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-10-03:16:00:tmdb:25623",
-      "venueId": "roxie",
-      "filmKey": "tmdb:25623",
-      "date": "2026-10-03",
-      "time": "16:00",
-      "url": "https://roxie.com/film/new-people-hausu/",
-      "source": "roxie"
-    },
-    {
-      "id": "grandlake:2026-10-03:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
-      "source": "grandlake"
-    },
-    {
-      "id": "roxie:2026-10-03:17:20:tmdb:77350",
-      "venueId": "roxie",
-      "filmKey": "tmdb:77350",
-      "date": "2026-10-03",
-      "time": "17:20",
-      "url": "https://roxie.com/film/unzipped/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-03:17:30:tmdb:10494",
-      "venueId": "roxie",
-      "filmKey": "tmdb:10494",
-      "date": "2026-10-03",
-      "time": "17:30",
-      "url": "https://roxie.com/film/perfect-blue/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-03:18:10:tmdb:1556",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1556",
-      "date": "2026-10-03",
-      "time": "18:10",
-      "url": "https://roxie.com/film/funeral-parade-of-roses/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-03:18:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83375",
-      "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-03:19:00:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-03:19:30:tmdb:20481",
-      "venueId": "balboa",
-      "filmKey": "tmdb:20481",
-      "date": "2026-10-03",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/nightbreed-october-3",
-      "note": "As part of Fright Film Freakout hosted by Piranha Psychotronica",
-      "source": "balboa"
-    },
-    {
-      "id": "4star:2026-10-03:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-10-03",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-the-sleeves",
-      "note": "The Sleeves",
-      "source": "4star"
-    },
-    {
-      "id": "ata:2026-10-03:20:00:t:other cinema incredibly strange music",
-      "venueId": "ata",
-      "filmKey": "t:other cinema incredibly strange music",
-      "date": "2026-10-03",
-      "time": "20:00",
-      "url": "https://www.atasite.org/event/other-cinema-incredibly-strange-music-2026/",
-      "source": "ata"
-    },
-    {
-      "id": "grandlake:2026-10-03:21:15:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "21:15",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261003",
-      "source": "grandlake"
-    },
-    {
-      "id": "alamo:2026-10-03:22:00:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-03",
-      "time": "22:00",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83382",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-10-03:23:00:tmdb:582913",
-      "venueId": "balboa",
-      "filmKey": "tmdb:582913",
-      "date": "2026-10-03",
-      "time": "23:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-room-october-3",
-      "source": "balboa"
-    },
     {
       "id": "grandlake:2026-10-04:11:30:tmdb:1596296",
       "venueId": "grandlake",
@@ -2703,6 +2435,16 @@
       "time": "10:00",
       "url": "https://www.4-star-movies.com/calendar-of-events/wallace-gromit-sat",
       "note": "Popcorn Palace - FREE!",
+      "source": "4star"
+    },
+    {
+      "id": "4star:2026-10-10:13:00:tmdb:30421",
+      "venueId": "4star",
+      "filmKey": "tmdb:30421",
+      "date": "2026-10-10",
+      "time": "13:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/chinese-ghost-story",
+      "note": "Old Evil is coming to collect the bride.",
       "source": "4star"
     },
     {
@@ -3614,6 +3356,16 @@
       "source": "balboa"
     },
     {
+      "id": "4star:2026-10-30:18:00:tmdb:13353",
+      "venueId": "4star",
+      "filmKey": "tmdb:13353",
+      "date": "2026-10-30",
+      "time": "18:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/great-pumpkin-fri",
+      "note": "Every year he rises from the pumpkin patch…",
+      "source": "4star"
+    },
+    {
       "id": "roxie:2026-10-30:19:00:tmdb:458723",
       "venueId": "roxie",
       "filmKey": "tmdb:458723",
@@ -3673,6 +3425,16 @@
       "time": "10:00",
       "url": "https://www.4-star-movies.com/calendar-of-events/labyrinth-sat",
       "note": "Popcorn Palace - FREE!",
+      "source": "4star"
+    },
+    {
+      "id": "4star:2026-10-31:12:30:tmdb:13353",
+      "venueId": "4star",
+      "filmKey": "tmdb:13353",
+      "date": "2026-10-31",
+      "time": "12:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/great-pumpkin-sat",
+      "note": "Every year he rises from the pumpkin patch…",
       "source": "4star"
     },
     {
@@ -3773,6 +3535,36 @@
       "time": "21:30",
       "url": "https://drafthouse.com/sf/show/trick-or-treat-1986?cinemaId=0801&sessionId=83042",
       "source": "alamo"
+    },
+    {
+      "id": "4star:2026-11-01:10:00:tmdb:13597",
+      "venueId": "4star",
+      "filmKey": "tmdb:13597",
+      "date": "2026-11-01",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/labyrinth-sun",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
+    },
+    {
+      "id": "alamo:2026-11-01:16:00:tmdb:483",
+      "venueId": "alamo",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-01",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=83330",
+      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-11-01:18:00:tmdb:636",
+      "venueId": "roxie",
+      "filmKey": "tmdb:636",
+      "date": "2026-11-01",
+      "time": "18:00",
+      "url": "https://roxie.com/film/thx-1138-35mm/",
+      "format": "35mm",
+      "source": "roxie"
     }
   ],
   "festivals": [
@@ -3780,10 +3572,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-03",
+      "startDate": "2026-10-04",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=83363",
-      "showtimes": 36,
+      "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82933",
+      "showtimes": 27,
       "sample": [
         "Ghost in the Cell",
         "Primetime",
@@ -3791,60 +3583,6 @@
         "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-10-03",
-          "time": "12:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83378"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "13:40",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83370"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "15:00",
-          "title": "Ghost in the Cell",
-          "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=83363"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "15:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83379"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "16:20",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83371"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "18:45",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83380"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "19:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83372"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "21:40",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83373"
-        },
-        {
-          "date": "2026-10-03",
-          "time": "21:50",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83381"
-        },
         {
           "date": "2026-10-04",
           "time": "12:10",
@@ -4006,26 +3744,6 @@
           "time": "19:00",
           "title": "The Cycle",
           "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040"
-        }
-      ]
-    },
-    {
-      "key": "fest:bampfa:mill valley film festival at bampfa presented with 60 min intermission",
-      "name": "Mill Valley Film Festival at BAMPFA · Presented with 60-min intermission",
-      "venueId": "bampfa",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-03",
-      "url": "https://bampfa.org/event/my-undesirable-friends-part-2-exile",
-      "showtimes": 1,
-      "sample": [
-        "My Undesirable Friends: Part 2—Exile"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-03",
-          "time": "13:00",
-          "title": "My Undesirable Friends: Part 2—Exile",
-          "url": "https://bampfa.org/event/my-undesirable-friends-part-2-exile"
         }
       ]
     },
