@@ -1,76 +1,6 @@
 {
-  "generatedAt": "2026-10-04T17:09:15.385Z",
+  "generatedAt": "2026-10-06T18:41:34.715Z",
   "films": {
-    "tmdb:77350": {
-      "key": "tmdb:77350",
-      "title": "Unzipped",
-      "year": 1995,
-      "director": "Douglas Keeve",
-      "runtime": 73,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/dnIzv4rXr9FXkqW880E3rStYQA7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qVmsH6us23qZPn3SXBJXKvMbXk5.jpg",
-      "tmdbId": 77350,
-      "popularity": 2.3443,
-      "releaseDate": "1995-08-11",
-      "overview": "Isaac Mizrahi, one of the most successful designers in high fashion, plans his fall 1994 collection."
-    },
-    "tmdb:30959": {
-      "key": "tmdb:30959",
-      "title": "Kwaidan",
-      "year": 1964,
-      "director": "Masaki Kobayashi",
-      "runtime": 183,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
-      "tmdbId": 30959,
-      "popularity": 5.2901,
-      "releaseDate": "1965-01-06",
-      "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
-    },
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
-    "tmdb:104287": {
-      "key": "tmdb:104287",
-      "title": "Dangerous Encounters of the First Kind",
-      "year": 1980,
-      "director": "Tsui Hark",
-      "runtime": 100,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/6xgOH1EEROz9mWYWYo9wRoiwUuC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hDHf09aazDPRzyHTBD2WBR1BzWN.jpg",
-      "tmdbId": 104287,
-      "popularity": 1.973,
-      "releaseDate": "1980-12-04",
-      "overview": "Three lazybones friends manufacture a firebomb and place it in a cinema. Pearl, a sadistic young girl, has observed the scene, follows the bombers and starts to manipulate them. The four criminals plan more and more daring acts."
-    },
-    "tmdb:1620313": {
-      "key": "tmdb:1620313",
-      "title": "The Samurai and the Prisoner",
-      "year": 2026,
-      "director": "Kiyoshi Kurosawa",
-      "runtime": 147,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/1GWVlPM1v6k84LsmDkfDzLlGf0O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pPThPhqsh5bKwJoZDlWd67qCHcc.jpg",
-      "tmdbId": 1620313,
-      "popularity": 3.5859,
-      "releaseDate": "2026-06-19",
-      "overview": "When Lord Murashige rises up against the tyrannical Oda, he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda's army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei, a brilliant and dangerous strategist held prisoner in the dungeon, as he must outwit his enemies and uncover the truth before time runs out."
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -108,6 +38,20 @@
       "releaseDate": "1998-02-28",
       "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
     },
+    "tmdb:77350": {
+      "key": "tmdb:77350",
+      "title": "Unzipped",
+      "year": 1995,
+      "director": "Douglas Keeve",
+      "runtime": 73,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/dnIzv4rXr9FXkqW880E3rStYQA7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qVmsH6us23qZPn3SXBJXKvMbXk5.jpg",
+      "tmdbId": 77350,
+      "popularity": 2.3443,
+      "releaseDate": "1995-08-11",
+      "overview": "Isaac Mizrahi, one of the most successful designers in high fashion, plans his fall 1994 collection."
+    },
     "t:zoe presents memorex rexsexex y mas": {
       "key": "t:zoe presents memorex rexsexex y mas",
       "title": "Zoé Presents: Memorex + Rexsexex y Más",
@@ -131,6 +75,20 @@
       "releaseDate": "1986-05-16",
       "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot."
     },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+    },
     "tmdb:1134909": {
       "key": "tmdb:1134909",
       "title": "River of Life LGBTQ+",
@@ -144,6 +102,34 @@
       "popularity": 0.4066,
       "releaseDate": "2023-07-05",
       "overview": "This documentary film follows a 10-week drama therapy workshop, with 13 multigenerational queer participants, coming together to unpack internalized queerphobia and the evolution of the LGBTQ+ community."
+    },
+    "tmdb:104287": {
+      "key": "tmdb:104287",
+      "title": "Dangerous Encounters of the First Kind",
+      "year": 1980,
+      "director": "Tsui Hark",
+      "runtime": 100,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/6xgOH1EEROz9mWYWYo9wRoiwUuC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hDHf09aazDPRzyHTBD2WBR1BzWN.jpg",
+      "tmdbId": 104287,
+      "popularity": 1.973,
+      "releaseDate": "1980-12-04",
+      "overview": "Three lazybones friends manufacture a firebomb and place it in a cinema. Pearl, a sadistic young girl, has observed the scene, follows the bombers and starts to manipulate them. The four criminals plan more and more daring acts."
+    },
+    "tmdb:9323": {
+      "key": "tmdb:9323",
+      "title": "Ghost in the Shell",
+      "year": 1995,
+      "director": "Mamoru Oshii",
+      "runtime": 83,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
+      "tmdbId": 9323,
+      "popularity": 15.1215,
+      "releaseDate": "1995-11-18",
+      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
     },
     "tmdb:1791": {
       "key": "tmdb:1791",
@@ -214,6 +200,20 @@
       "popularity": 11.9202,
       "releaseDate": "1997-09-12",
       "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins."
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:25623": {
       "key": "tmdb:25623",
@@ -367,20 +367,6 @@
       "releaseDate": "1997-10-31",
       "overview": "She's sexy, shameless and loves taking people to their limit. She's a dangerous young woman who dreams about a jaguar that licks her naked body and sleeps by her side. Her past is bathed in blood and weird passions. Now she's met the man of her wildest dreams. He's dark, tough and mysterious. He likes robbing banks, trafficking in corpses and spicing it all with voodoo rituals. Together, the duo sets off toward Mexico destined to become the most feared outlaws in the continent."
     },
-    "tmdb:258363": {
-      "key": "tmdb:258363",
-      "title": "Desierto",
-      "year": 2015,
-      "director": "Jonás Cuarón",
-      "runtime": 88,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/67Ue5or6ZPScqkagC3EJSOYuzyR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/rrTKWLU0JBYKWSJd8abzXq3LjyQ.jpg",
-      "tmdbId": 258363,
-      "popularity": 2.9563,
-      "releaseDate": "2015-04-12",
-      "overview": "A group of Mexican emigrants attempts to cross the Mexican-US border. What begins as a hopeful journey becomes a harrowing, bloody and primal fight for survival when a deranged, rifle-toting vigilante and his loyal Belgian Malinois dog chase the group of unarmed men and women through the treacherous borderland. In the harsh, unforgiving desert terrain, the odds are stacked firmly against them as they discover there’s nowhere to hide from the unrelenting, merciless killer."
-    },
     "tmdb:16672": {
       "key": "tmdb:16672",
       "title": "Woman in the Dunes",
@@ -450,48 +436,6 @@
       "popularity": 3.4791,
       "releaseDate": "1971-03-11",
       "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:14696": {
-      "key": "tmdb:14696",
-      "title": "Ugetsu",
-      "year": 1953,
-      "director": "Kenji Mizoguchi",
-      "runtime": 96,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/r8RiuKTIYIJBjczBVsfeP5C00CJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/iB1tCWl4MKl6OO1kMBD5LxM5BmJ.jpg",
-      "tmdbId": 14696,
-      "popularity": 3.9527,
-      "releaseDate": "1953-03-26",
-      "overview": "In 16th century Japan, peasants Genjuro and Tobei sell their earthenware pots to a group of soldiers in a nearby village, in defiance of a local sage's warning against seeking to profit from warfare. Genjuro's pursuit of both riches and the mysterious Lady Wakasa, as well as Tobei's desire to become a samurai, run the risk of destroying both themselves and their wives, Miyagi and Ohama."
-    },
-    "tmdb:27432": {
-      "key": "tmdb:27432",
-      "title": "Killer of Sheep",
-      "year": 1978,
-      "director": "Charles Burnett",
-      "runtime": 80,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/z1CqJKI6gmdAMprD1NOYSCHVXEv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/r763vsubExGcDJypctYuLLJmhB.jpg",
-      "tmdbId": 27432,
-      "popularity": 1.7788,
-      "releaseDate": "1978-11-14",
-      "overview": "An African-American man working at a slaughterhouse in the Watts area of Los Angeles leads a dissatisfied and listless existence."
     },
     "tmdb:197796": {
       "key": "tmdb:197796",
@@ -841,6 +785,20 @@
       "releaseDate": "2018-10-26",
       "overview": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up."
     },
+    "tmdb:239": {
+      "key": "tmdb:239",
+      "title": "Some Like It Hot",
+      "year": 1959,
+      "director": "Billy Wilder",
+      "runtime": 123,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+      "tmdbId": 239,
+      "popularity": 9.6948,
+      "releaseDate": "1959-03-19",
+      "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in."
+    },
     "tmdb:203912": {
       "key": "tmdb:203912",
       "title": "National Theatre Live: Frankenstein",
@@ -854,6 +812,20 @@
       "popularity": 2.7636,
       "releaseDate": "2011-03-17",
       "overview": "Childlike in his innocence but grotesque in form, Frankenstein’s bewildered creature is cast out into a hostile universe by his horror-struck maker. Meeting with cruelty wherever he goes, the friendless Creature, increasingly desperate and vengeful, determines to track down his creator and strike a terrifying deal.  Urgent concerns of scientific responsibility, parental neglect, cognitive development and the nature of good and evil are embedded within this thrilling and deeply disturbing tale."
+    },
+    "tmdb:1547": {
+      "key": "tmdb:1547",
+      "title": "The Lost Boys",
+      "year": 1987,
+      "director": "Joel Schumacher",
+      "runtime": 97,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sSrMPJoHT3qGqdeDPs88mm8ksu5.jpg",
+      "tmdbId": 1547,
+      "popularity": 14.3513,
+      "releaseDate": "1987-07-31",
+      "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him."
     },
     "tmdb:182227": {
       "key": "tmdb:182227",
@@ -925,6 +897,20 @@
       "releaseDate": "1995-05-26",
       "overview": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics."
     },
+    "tmdb:86252": {
+      "key": "tmdb:86252",
+      "title": "Deadbeat at Dawn",
+      "year": 1988,
+      "director": "Jim Van Bebber",
+      "runtime": 81,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/FmXGssWDpWbUwpiGOD90ftybV3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hScy7EZ0rGWu6rP2UHouv0VJdZx.jpg",
+      "tmdbId": 86252,
+      "popularity": 1.1958,
+      "releaseDate": "1988-11-18",
+      "overview": "Goose leaves the gang life behind after pleas from his girlfriend.  But it isn't long before he's pulled back into the world of violence."
+    },
     "tmdb:13353": {
       "key": "tmdb:13353",
       "title": "It's the Great Pumpkin, Charlie Brown",
@@ -961,20 +947,6 @@
       "key": "t:finn wolfhard",
       "title": "Finn Wolfhard"
     },
-    "tmdb:793": {
-      "key": "tmdb:793",
-      "title": "Blue Velvet",
-      "year": 1986,
-      "director": "David Lynch",
-      "runtime": 120,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/6v1zYh2FKOYVddY5pCQhd4PO9uX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/s1CBwblInR0ZBIv59CSko2QdLD3.jpg",
-      "tmdbId": 793,
-      "popularity": 9.4029,
-      "releaseDate": "1986-09-19",
-      "overview": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
-    },
     "tmdb:10802": {
       "key": "tmdb:10802",
       "title": "Showgirls",
@@ -988,20 +960,6 @@
       "popularity": 9.061,
       "releaseDate": "1995-09-22",
       "overview": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way."
-    },
-    "tmdb:4011": {
-      "key": "tmdb:4011",
-      "title": "Beetlejuice",
-      "year": 1988,
-      "director": "Tim Burton",
-      "runtime": 92,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
-      "tmdbId": 4011,
-      "popularity": 14.5289,
-      "releaseDate": "1988-03-30",
-      "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
     },
     "tmdb:1214554": {
       "key": "tmdb:1214554",
@@ -1114,20 +1072,6 @@
       "popularity": 7.7035,
       "releaseDate": "2003-06-13",
       "overview": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
-    },
-    "tmdb:376867": {
-      "key": "tmdb:376867",
-      "title": "Moonlight",
-      "year": 2016,
-      "director": "Barry Jenkins",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/qLnfEmPrDjJfPyyddLJPkXmshkp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg",
-      "tmdbId": 376867,
-      "popularity": 14.012,
-      "releaseDate": "2016-10-21",
-      "overview": "The tender, heartbreaking story of a young man’s struggle to find himself, told across three defining chapters in his life as he experiences the ecstasy, pain, and beauty of falling in love, while grappling with his own sexuality."
     },
     "tmdb:9871": {
       "key": "tmdb:9871",
@@ -1283,19 +1227,6 @@
       "releaseDate": "1986-01-17",
       "overview": "When a family moves into a San Francisco apartment, an opportunistic troll decides to make his move and take possession of little Wendy, thereby paving the way for new troll recruits, the first in his army that will take eventual control of the planet. We soon discover Torok is the ex-husband of Eunice St. Clair, a resident in the building who was married to Torok."
     },
-    "tmdb:1278622": {
-      "key": "tmdb:1278622",
-      "title": "Black Is Beautiful",
-      "year": 2023,
-      "director": "Marco Ortega",
-      "runtime": 32,
-      "genre": "Documentary",
-      "backdrop": "https://d1hhug17qm51in.cloudfront.net/www-media/2026/09/10132859/cleared_Radiah-Fyre_Kwame-Brathawaite_BLACK-IS-BEAUTIFUL-01-1024x1024.jpg",
-      "tmdbId": 1278622,
-      "popularity": 0.682,
-      "releaseDate": "2023-08-05",
-      "overview": "This short documentary film tells the story of a man who uses his talents to support and lift his community. The Black is Beautiful initiative is a collaborative effort amongst the brewing community and its customers, in an attempt to bring awareness to the injustices that many people of color face daily. This mission is to bridge the gap that's been around for ages and provide a platform to show that the brewing community is an inclusive place for everyone of any color."
-    },
     "tmdb:449576": {
       "key": "tmdb:449576",
       "title": "An Evening",
@@ -1421,20 +1352,6 @@
       "popularity": 3.7208,
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
-    },
-    "tmdb:8073": {
-      "key": "tmdb:8073",
-      "title": "Band of Outsiders",
-      "year": 1964,
-      "director": "Jean-Luc Godard",
-      "runtime": 97,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/9oqyj79xmcypxLajJdefOtrYx64.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
-      "tmdbId": 8073,
-      "popularity": 5.1667,
-      "releaseDate": "1964-08-05",
-      "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want."
     },
     "t:films by the cousin collective and christophe katrib": {
       "key": "t:films by the cousin collective and christophe katrib",
@@ -1581,19 +1498,19 @@
       "releaseDate": "1962-09-20",
       "overview": "Twelve episodic tales in the life of a Parisian woman and her slow descent into prostitution."
     },
-    "tmdb:4638": {
-      "key": "tmdb:4638",
-      "title": "Hot Fuzz",
-      "year": 2007,
-      "director": "Edgar Wright",
-      "runtime": 121,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
-      "tmdbId": 4638,
-      "popularity": 12.7895,
-      "releaseDate": "2007-02-14",
-      "overview": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village."
+    "tmdb:30959": {
+      "key": "tmdb:30959",
+      "title": "Kwaidan",
+      "year": 1964,
+      "director": "Masaki Kobayashi",
+      "runtime": 183,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
+      "tmdbId": 30959,
+      "popularity": 5.2901,
+      "releaseDate": "1965-01-06",
+      "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
     },
     "tmdb:2593": {
       "key": "tmdb:2593",
@@ -1707,6 +1624,20 @@
       "releaseDate": "2008-10-24",
       "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl."
     },
+    "tmdb:4011": {
+      "key": "tmdb:4011",
+      "title": "Beetlejuice",
+      "year": 1988,
+      "director": "Tim Burton",
+      "runtime": 92,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+      "tmdbId": 4011,
+      "popularity": 14.5289,
+      "releaseDate": "1988-03-30",
+      "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
+    },
     "tmdb:9392": {
       "key": "tmdb:9392",
       "title": "The Descent",
@@ -1752,308 +1683,6 @@
   },
   "screenings": [
     {
-      "id": "grandlake:2026-10-04:11:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-04",
-      "time": "11:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261004",
-      "source": "grandlake"
-    },
-    {
-      "id": "alamo:2026-10-04:12:00:tmdb:793",
-      "venueId": "alamo",
-      "filmKey": "tmdb:793",
-      "date": "2026-10-04",
-      "time": "12:00",
-      "url": "https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-blue-velvet?cinemaId=0801&sessionId=82932",
-      "note": "Alamo Drafthouse Movie Book Club · Book Club Screening · Kyle MacLachlan's fictional self finds a severed ear",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-04:12:20:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-04",
-      "time": "12:20",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83437",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-10-04:13:00:tmdb:8073",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:8073",
-      "date": "2026-10-04",
-      "time": "13:00",
-      "url": "https://bampfa.org/event/band-outsiders",
-      "format": "DCP",
-      "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "grandlake:2026-10-04:13:45:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-04",
-      "time": "13:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261004",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-04:14:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-04",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-4",
-      "note": "The History of Concrete",
-      "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-10-04:14:55:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-04",
-      "time": "14:55",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-10-04:15:05:tmdb:77350",
-      "venueId": "roxie",
-      "filmKey": "tmdb:77350",
-      "date": "2026-10-04",
-      "time": "15:05",
-      "url": "https://roxie.com/film/unzipped/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-04:15:15:tmdb:30959",
-      "venueId": "roxie",
-      "filmKey": "tmdb:30959",
-      "date": "2026-10-04",
-      "time": "15:15",
-      "url": "https://roxie.com/film/kwaidan-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-04:15:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-04",
-      "time": "15:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83390",
-      "source": "alamo"
-    },
-    {
-      "id": "sfmoma:2026-10-04:16:00:tmdb:1278622",
-      "venueId": "sfmoma",
-      "filmKey": "tmdb:1278622",
-      "date": "2026-10-04",
-      "time": "16:00",
-      "url": "https://www.sfmoma.org/event/black-is-beautiful-the-kwame-brathwaite-story-film-screening-and-conversation/",
-      "note": "Join Nexus: San Francisco/Bay Area Black Art Week, SFMOMA, and MoAD for a film screening of \"Black Is Beautiful: The Kwame Brathwaite Story,\" followed by a…",
-      "source": "sfmoma"
-    },
-    {
-      "id": "grandlake:2026-10-04:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-04",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261004",
-      "source": "grandlake"
-    },
-    {
-      "id": "roxie:2026-10-04:16:50:tmdb:1599181",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-10-04",
-      "time": "16:50",
-      "url": "https://roxie.com/film/chronovisor/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-04:17:30:tmdb:793",
-      "venueId": "alamo",
-      "filmKey": "tmdb:793",
-      "date": "2026-10-04",
-      "time": "17:30",
-      "url": "https://drafthouse.com/sf/show/blue-velvet?cinemaId=0801&sessionId=83445",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-04:18:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-04",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83391",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-10-04:19:00:tmdb:104287",
-      "venueId": "roxie",
-      "filmKey": "tmdb:104287",
-      "date": "2026-10-04",
-      "time": "19:00",
-      "url": "https://roxie.com/film/dont-play-with-fire/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-04:19:00:tmdb:1620313",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1620313",
-      "date": "2026-10-04",
-      "time": "19:00",
-      "url": "https://roxie.com/film/the-samurai-and-the-prisoner/",
-      "source": "roxie"
-    },
-    {
-      "id": "grandlake:2026-10-04:19:00:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-04",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261004",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-04:19:30:tmdb:14696",
-      "venueId": "balboa",
-      "filmKey": "tmdb:14696",
-      "date": "2026-10-04",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/ugetsu-october-4",
-      "source": "balboa"
-    },
-    {
-      "id": "4star:2026-10-04:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-10-04",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-color-green",
-      "note": "(((folkYEAH!))) presents:",
-      "source": "4star"
-    },
-    {
-      "id": "newparkway:2026-10-04:21:00:tmdb:4638",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:4638",
-      "date": "2026-10-04",
-      "time": "21:00",
-      "url": "https://thenewparkway.com/movie/hot-fuzz-party-at-the-parkway/",
-      "note": "Party at the Parkway",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-10-04:21:20:tmdb:793",
-      "venueId": "alamo",
-      "filmKey": "tmdb:793",
-      "date": "2026-10-04",
-      "time": "21:20",
-      "url": "https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-blue-velvet?cinemaId=0801&sessionId=83504",
-      "note": "Alamo Drafthouse Movie Book Club · Book Club Screening · Kyle MacLachlan's fictional self finds a severed ear",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-05:14:45:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-05",
-      "time": "14:45",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83442",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-05:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-05",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261005",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-05:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-05",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-5",
-      "note": "The History of Concrete",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-05:18:00:tmdb:1599181",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-10-05",
-      "time": "18:00",
-      "url": "https://roxie.com/film/chronovisor/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-05:18:00:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-05",
-      "time": "18:00",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83402",
-      "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-05:19:00:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-05",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261005",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-05:19:30:tmdb:27432",
-      "venueId": "balboa",
-      "filmKey": "tmdb:27432",
-      "date": "2026-10-05",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/killer-of-sheep-october-5",
-      "note": "Killer of Sheep",
-      "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-10-05:20:35:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-05",
-      "time": "20:35",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-10-05:21:30:tmdb:4011",
-      "venueId": "alamo",
-      "filmKey": "tmdb:4011",
-      "date": "2026-10-05",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/beetlejuice?cinemaId=0801&sessionId=82934",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-06:15:15:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
-      "date": "2026-10-06",
-      "time": "15:15",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83443",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
-    },
-    {
       "id": "alamo:2026-10-06:16:10:tmdb:1482938",
       "venueId": "alamo",
       "filmKey": "tmdb:1482938",
@@ -2062,6 +1691,15 @@
       "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83203",
       "note": "Baby Day",
       "source": "alamo"
+    },
+    {
+      "id": "grandlake:2026-10-06:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-06",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261006",
+      "source": "grandlake"
     },
     {
       "id": "vogue:2026-10-06:16:30:tmdb:28363",
@@ -2073,15 +1711,6 @@
       "format": "3D",
       "note": "House of Wax",
       "source": "vogue"
-    },
-    {
-      "id": "grandlake:2026-10-06:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-06",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261006",
-      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-06:17:00:tmdb:1596296",
@@ -2160,14 +1789,13 @@
       "source": "alamo"
     },
     {
-      "id": "alamo:2026-10-07:15:20:tmdb:376867",
-      "venueId": "alamo",
-      "filmKey": "tmdb:376867",
+      "id": "grandlake:2026-10-07:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
       "date": "2026-10-07",
-      "time": "15:20",
-      "url": "https://drafthouse.com/sf/show/special-event-moonlight-10th-anniversary-remastered?cinemaId=0801&sessionId=83444",
-      "note": "10th Anniversary Remastered · Newly restored in 4K with bonus content",
-      "source": "alamo"
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261007",
+      "source": "grandlake"
     },
     {
       "id": "alamo:2026-10-07:16:30:tmdb:1482938",
@@ -2177,15 +1805,6 @@
       "time": "16:30",
       "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83205",
       "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-07:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-07",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261007",
-      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-07:17:00:tmdb:1596296",
@@ -2303,6 +1922,24 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-10-08:15:30:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-08",
+      "time": "15:30",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83521",
+      "source": "alamo"
+    },
+    {
+      "id": "grandlake:2026-10-08:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-08",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261008",
+      "source": "grandlake"
+    },
+    {
       "id": "balboa:2026-10-08:17:30:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -2323,6 +1960,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-10-08:18:15:tmdb:1596296",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-08",
+      "time": "18:15",
+      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83520",
+      "source": "alamo"
+    },
+    {
       "id": "newparkway:2026-10-08:18:30:tmdb:2593",
       "venueId": "newparkway",
       "filmKey": "tmdb:2593",
@@ -2331,6 +1977,15 @@
       "url": "https://thenewparkway.com/movie/fire-within-with-filmmaker-qa/",
       "note": "with filmmaker Q&A",
       "source": "newparkway"
+    },
+    {
+      "id": "grandlake:2026-10-08:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-08",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261008",
+      "source": "grandlake"
     },
     {
       "id": "vogue:2026-10-08:19:30:tmdb:361292",
@@ -2361,6 +2016,24 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-10-09:12:40:tmdb:10802",
+      "venueId": "alamo",
+      "filmKey": "tmdb:10802",
+      "date": "2026-10-09",
+      "time": "12:40",
+      "url": "https://drafthouse.com/sf/show/showgirls?cinemaId=0801&sessionId=83526",
+      "source": "alamo"
+    },
+    {
+      "id": "grandlake:2026-10-09:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-09",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261009",
+      "source": "grandlake"
+    },
+    {
       "id": "roxie:2026-10-09:19:00:tmdb:744",
       "venueId": "roxie",
       "filmKey": "tmdb:744",
@@ -2370,6 +2043,15 @@
       "source": "roxie"
     },
     {
+      "id": "grandlake:2026-10-09:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-09",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261009",
+      "source": "grandlake"
+    },
+    {
       "id": "alamo:2026-10-09:19:00:tmdb:9003",
       "venueId": "alamo",
       "filmKey": "tmdb:9003",
@@ -2377,6 +2059,16 @@
       "time": "19:00",
       "url": "https://drafthouse.com/sf/show/hellraiser?cinemaId=0801&sessionId=83038",
       "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-10-09:19:30:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-09",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-9",
+      "note": "The History of Concrete",
+      "source": "balboa"
     },
     {
       "id": "balboa:2026-10-09:19:30:tmdb:9276",
@@ -2409,6 +2101,15 @@
       "source": "roxie"
     },
     {
+      "id": "grandlake:2026-10-09:21:15:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-09",
+      "time": "21:15",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261009",
+      "source": "grandlake"
+    },
+    {
       "id": "newparkway:2026-10-09:22:30:tmdb:246741",
       "venueId": "newparkway",
       "filmKey": "tmdb:246741",
@@ -2438,6 +2139,15 @@
       "source": "4star"
     },
     {
+      "id": "grandlake:2026-10-10:11:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-10",
+      "time": "11:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261010",
+      "source": "grandlake"
+    },
+    {
       "id": "4star:2026-10-10:13:00:tmdb:30421",
       "venueId": "4star",
       "filmKey": "tmdb:30421",
@@ -2458,6 +2168,24 @@
       "source": "operaplaza"
     },
     {
+      "id": "grandlake:2026-10-10:13:45:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-10",
+      "time": "13:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261010",
+      "source": "grandlake"
+    },
+    {
+      "id": "grandlake:2026-10-10:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-10",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261010",
+      "source": "grandlake"
+    },
+    {
       "id": "roxie:2026-10-10:17:15:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
@@ -2467,6 +2195,15 @@
       "source": "roxie"
     },
     {
+      "id": "grandlake:2026-10-10:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-10",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261010",
+      "source": "grandlake"
+    },
+    {
       "id": "balboa:2026-10-10:19:00:tmdb:142773",
       "venueId": "balboa",
       "filmKey": "tmdb:142773",
@@ -2474,6 +2211,25 @@
       "time": "19:00",
       "url": "https://www.balboamovies.com/calendar-of-events/queen-budapest-october-10",
       "source": "balboa"
+    },
+    {
+      "id": "balboa:2026-10-10:20:30:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-10",
+      "time": "20:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-10",
+      "note": "The History of Concrete",
+      "source": "balboa"
+    },
+    {
+      "id": "grandlake:2026-10-10:21:15:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-10",
+      "time": "21:15",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261010",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-10:21:30:tmdb:15196",
@@ -2503,6 +2259,33 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/wallace-gromit-sun",
       "note": "Popcorn Palace - FREE!",
       "source": "4star"
+    },
+    {
+      "id": "grandlake:2026-10-11:11:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-11",
+      "time": "11:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261011",
+      "source": "grandlake"
+    },
+    {
+      "id": "alamo:2026-10-11:12:30:tmdb:30497",
+      "venueId": "alamo",
+      "filmKey": "tmdb:30497",
+      "date": "2026-10-11",
+      "time": "12:30",
+      "url": "https://drafthouse.com/sf/show/the-texas-chainsaw-massacre-1974?cinemaId=0801&sessionId=83546",
+      "source": "alamo"
+    },
+    {
+      "id": "grandlake:2026-10-11:13:45:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-11",
+      "time": "13:45",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261011",
+      "source": "grandlake"
     },
     {
       "id": "roxie:2026-10-11:15:00:tmdb:1134909",
@@ -2543,6 +2326,25 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-10-11:16:30:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-11",
+      "time": "16:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-11",
+      "note": "The History of Concrete",
+      "source": "balboa"
+    },
+    {
+      "id": "grandlake:2026-10-11:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-11",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261011",
+      "source": "grandlake"
+    },
+    {
       "id": "balboa:2026-10-11:17:00:tmdb:43316",
       "venueId": "balboa",
       "filmKey": "tmdb:43316",
@@ -2551,6 +2353,15 @@
       "url": "https://www.balboamovies.com/calendar-of-events/all-that-heaven-allows-october-11",
       "note": "All That Heaven Allows",
       "source": "balboa"
+    },
+    {
+      "id": "grandlake:2026-10-11:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-11",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261011",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-11:19:30:tmdb:15196",
@@ -2572,6 +2383,42 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-10-11:20:45:tmdb:9323",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9323",
+      "date": "2026-10-11",
+      "time": "20:45",
+      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
+      "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-12:12:45:tmdb:10802",
+      "venueId": "alamo",
+      "filmKey": "tmdb:10802",
+      "date": "2026-10-12",
+      "time": "12:45",
+      "url": "https://drafthouse.com/sf/show/showgirls?cinemaId=0801&sessionId=83561",
+      "source": "alamo"
+    },
+    {
+      "id": "grandlake:2026-10-12:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-12",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261012",
+      "source": "grandlake"
+    },
+    {
+      "id": "balboa:2026-10-12:17:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-12",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-12",
+      "source": "balboa"
+    },
+    {
       "id": "alamo:2026-10-12:18:30:tmdb:30497",
       "venueId": "alamo",
       "filmKey": "tmdb:30497",
@@ -2579,6 +2426,15 @@
       "time": "18:30",
       "url": "https://drafthouse.com/sf/show/the-texas-chainsaw-massacre-1974?cinemaId=0801&sessionId=82950",
       "source": "alamo"
+    },
+    {
+      "id": "grandlake:2026-10-12:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-12",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261012",
+      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-12:19:30:tmdb:1765982",
@@ -2591,6 +2447,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-12:20:05:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-10-12",
+      "time": "20:05",
+      "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-10-12:20:10:tmdb:1791",
       "venueId": "roxie",
       "filmKey": "tmdb:1791",
@@ -2599,6 +2464,33 @@
       "url": "https://roxie.com/film/staff-pick-the-piano-teacher-35mm/",
       "format": "35mm",
       "source": "roxie"
+    },
+    {
+      "id": "grandlake:2026-10-13:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-13",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261013",
+      "source": "grandlake"
+    },
+    {
+      "id": "balboa:2026-10-13:17:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-13",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-13",
+      "source": "balboa"
+    },
+    {
+      "id": "grandlake:2026-10-13:19:00:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-13",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261013",
+      "source": "grandlake"
     },
     {
       "id": "alamo:2026-10-13:19:00:tmdb:14353",
@@ -2650,6 +2542,24 @@
       "source": "alamo"
     },
     {
+      "id": "grandlake:2026-10-14:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-14",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261014",
+      "source": "grandlake"
+    },
+    {
+      "id": "balboa:2026-10-14:17:00:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-14",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-14",
+      "source": "balboa"
+    },
+    {
       "id": "newparkway:2026-10-14:18:45:tmdb:843",
       "venueId": "newparkway",
       "filmKey": "tmdb:843",
@@ -2678,6 +2588,15 @@
       "source": "balboa"
     },
     {
+      "id": "grandlake:2026-10-14:19:35:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-14",
+      "time": "19:35",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261014",
+      "source": "grandlake"
+    },
+    {
       "id": "castro:2026-10-14:20:00:t:finn wolfhard",
       "venueId": "castro",
       "filmKey": "t:finn wolfhard",
@@ -2686,6 +2605,15 @@
       "url": "https://thecastro.com/events/finn-wolfhard-261014",
       "note": "The Common Side Effects Tour",
       "source": "castro"
+    },
+    {
+      "id": "roxie:2026-10-14:20:30:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-14",
+      "time": "20:30",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-10-14:21:20:tmdb:67298",
@@ -2699,6 +2627,34 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-10-15:16:30:tmdb:1596296",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-15",
+      "time": "16:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-15",
+      "note": "Final Show",
+      "source": "balboa"
+    },
+    {
+      "id": "grandlake:2026-10-15:16:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-15",
+      "time": "16:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261015",
+      "source": "grandlake"
+    },
+    {
+      "id": "roxie:2026-10-15:18:40:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-10-15",
+      "time": "18:40",
+      "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-10-15:19:00:tmdb:702789",
       "venueId": "bampfa",
       "filmKey": "tmdb:702789",
@@ -2709,6 +2665,15 @@
       "source": "bampfa"
     },
     {
+      "id": "grandlake:2026-10-15:19:30:tmdb:1596296",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-15",
+      "time": "19:30",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261015",
+      "source": "grandlake"
+    },
+    {
       "id": "balboa:2026-10-15:19:30:tmdb:28055",
       "venueId": "balboa",
       "filmKey": "tmdb:28055",
@@ -2717,6 +2682,16 @@
       "url": "https://www.balboamovies.com/calendar-of-events/blood-and-black-lace-october-15",
       "note": "Presented by Gallery 3630",
       "source": "balboa"
+    },
+    {
+      "id": "vogue:2026-10-15:19:30:tmdb:239",
+      "venueId": "vogue",
+      "filmKey": "tmdb:239",
+      "date": "2026-10-15",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/some-like-it-hot-october-15",
+      "note": "Some Like It Hot",
+      "source": "vogue"
     },
     {
       "id": "roxie:2026-10-16:18:15:tmdb:50173",
@@ -2775,6 +2750,15 @@
       "url": "https://www.atasite.org/event/an-evening-with-mike-kuchar/",
       "format": "8mm",
       "source": "ata"
+    },
+    {
+      "id": "roxie:2026-10-16:20:05:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-16",
+      "time": "20:05",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-10-16:20:30:tmdb:25623",
@@ -2863,6 +2847,15 @@
       "format": "4K",
       "note": "Special Screenings · 4K Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-10-17:20:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-17",
+      "time": "20:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-10-17:20:00:tmdb:638",
@@ -2961,6 +2954,15 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-10-18:19:30:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-18",
+      "time": "19:30",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-10-18:19:30:tmdb:21588",
       "venueId": "4star",
       "filmKey": "tmdb:21588",
@@ -2986,6 +2988,15 @@
       "date": "2026-10-20",
       "time": "18:00",
       "url": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-20:20:00:tmdb:638",
+      "venueId": "roxie",
+      "filmKey": "tmdb:638",
+      "date": "2026-10-20",
+      "time": "20:00",
+      "url": "https://roxie.com/film/lost-highway/",
       "source": "roxie"
     },
     {
@@ -3068,6 +3079,15 @@
       "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/up-in-smoke-october-22",
       "source": "balboa"
+    },
+    {
+      "id": "roxie:2026-10-22:20:30:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
     },
     {
       "id": "newparkway:2026-10-22:21:30:tmdb:9637",
@@ -3287,15 +3307,6 @@
       "source": "alamo"
     },
     {
-      "id": "roxie:2026-10-28:18:00:tmdb:258363",
-      "venueId": "roxie",
-      "filmKey": "tmdb:258363",
-      "date": "2026-10-28",
-      "time": "18:00",
-      "url": "https://roxie.com/film/desierto/",
-      "source": "roxie"
-    },
-    {
       "id": "operaplaza:2026-10-28:19:00:tmdb:1091",
       "venueId": "operaplaza",
       "filmKey": "tmdb:1091",
@@ -3354,6 +3365,25 @@
       "format": "35mm",
       "note": "Presented on 35mm by",
       "source": "balboa"
+    },
+    {
+      "id": "vogue:2026-10-29:19:30:tmdb:1547",
+      "venueId": "vogue",
+      "filmKey": "tmdb:1547",
+      "date": "2026-10-29",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/the-lost-boys-october-29-2026",
+      "source": "vogue"
+    },
+    {
+      "id": "4star:2026-10-29:19:30:tmdb:86252",
+      "venueId": "4star",
+      "filmKey": "tmdb:86252",
+      "date": "2026-10-29",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/deadbeat-at-dawn-meathook",
+      "note": "TRASH & TREASURES presents:",
+      "source": "4star"
     },
     {
       "id": "4star:2026-10-30:18:00:tmdb:13353",
@@ -3497,6 +3527,15 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-10-31:18:30:tmdb:36685",
+      "venueId": "alamo",
+      "filmKey": "tmdb:36685",
+      "date": "2026-10-31",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/the-rocky-horror-picture-show?cinemaId=0801&sessionId=83583",
+      "source": "alamo"
+    },
+    {
       "id": "bampfa:2026-10-31:18:30:tmdb:30959",
       "venueId": "bampfa",
       "filmKey": "tmdb:30959",
@@ -3572,10 +3611,10 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-04",
+      "startDate": "2026-10-06",
       "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82933",
-      "showtimes": 27,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83414",
+      "showtimes": 36,
       "sample": [
         "Ghost in the Cell",
         "Primetime",
@@ -3583,96 +3622,6 @@
         "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-10-04",
-          "time": "12:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83386"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "13:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83395"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "14:50",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83387"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "15:15",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83392"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "16:00",
-          "title": "Ghost in the Cell",
-          "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82933"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "18:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83393"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "18:50",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83439"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "21:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83438"
-        },
-        {
-          "date": "2026-10-04",
-          "time": "21:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83441"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83404"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "15:50",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83398"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "18:15",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83405"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "18:30",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83399"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "21:10",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83400"
-        },
-        {
-          "date": "2026-10-05",
-          "time": "21:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83406"
-        },
         {
           "date": "2026-10-06",
           "time": "18:10",
@@ -3740,6 +3689,150 @@
           "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83427"
         },
         {
+          "date": "2026-10-08",
+          "time": "15:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83476"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "18:45",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83477"
+        },
+        {
+          "date": "2026-10-08",
+          "time": "21:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83478"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "12:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83485"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "15:15",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83479"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "18:45",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83480"
+        },
+        {
+          "date": "2026-10-09",
+          "time": "21:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83481"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "12:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83510"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "15:45",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83511"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "18:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83512"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "21:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83513"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "12:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83535"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "16:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83537"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "18:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83538"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "21:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83536"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "13:30",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83554"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "15:45",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83555"
+        },
+        {
+          "date": "2026-10-12",
+          "time": "21:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83553"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "18:45",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83569"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "21:40",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83563"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "15:10",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83572"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "18:20",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83581"
+        },
+        {
+          "date": "2026-10-14",
+          "time": "21:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83573"
+        },
+        {
+          "date": "2026-10-15",
+          "time": "12:00",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83602"
+        },
+        {
           "date": "2026-10-20",
           "time": "19:00",
           "title": "The Cycle",
@@ -3748,72 +3841,13 @@
       ]
     },
     {
-      "key": "fest:bampfa:mill valley film festival at bampfa",
-      "name": "Mill Valley Film Festival at BAMPFA",
-      "venueId": "bampfa",
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-11",
-      "url": "https://bampfa.org/program/mvff49",
-      "showtimes": 7,
-      "sample": [
-        "La Gradiva",
-        "Elephants in the Fog",
-        "Sad Girlz",
-        "Minotaur"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-04",
-          "time": "16:00",
-          "title": "La Gradiva",
-          "url": "https://bampfa.org/event/la-gradiva"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "19:00",
-          "title": "Elephants in the Fog",
-          "url": "https://bampfa.org/event/elephants-fog"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "13:00",
-          "title": "Sad Girlz",
-          "url": "https://bampfa.org/event/sad-girlz"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "15:30",
-          "title": "Minotaur",
-          "url": "https://bampfa.org/event/minotaur"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "19:00",
-          "title": "On Behalf of My Son",
-          "url": "https://bampfa.org/event/behalf-my-son"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "15:00",
-          "title": "A Girl Unknown",
-          "url": "https://bampfa.org/event/girl-unknown"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "18:30",
-          "title": "The Dreamed Adventure",
-          "url": "https://bampfa.org/event/dreamed-adventure"
-        }
-      ]
-    },
-    {
       "key": "fest:alamo:fantastic fest presents baby day",
       "name": "Fantastic Fest Presents · Baby Day",
       "venueId": "alamo",
       "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
+      "endDate": "2026-10-13",
       "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83413",
-      "showtimes": 2,
+      "showtimes": 3,
       "sample": [
         "Primetime",
         "Resident Evil"
@@ -3830,6 +3864,12 @@
           "time": "16:00",
           "title": "Resident Evil",
           "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83410"
+        },
+        {
+          "date": "2026-10-13",
+          "time": "15:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83562"
         }
       ]
     },
@@ -3956,6 +3996,59 @@
           "time": "15:30",
           "title": "When a Witness Recants",
           "url": "https://bampfa.org/event/when-witness-recants"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:mill valley film festival at bampfa",
+      "name": "Mill Valley Film Festival at BAMPFA",
+      "venueId": "bampfa",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "url": "https://bampfa.org/program/mvff49",
+      "showtimes": 6,
+      "sample": [
+        "Elephants in the Fog",
+        "Sad Girlz",
+        "Minotaur",
+        "On Behalf of My Son"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-09",
+          "time": "19:00",
+          "title": "Elephants in the Fog",
+          "url": "https://bampfa.org/event/elephants-fog"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "13:00",
+          "title": "Sad Girlz",
+          "url": "https://bampfa.org/event/sad-girlz"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "15:30",
+          "title": "Minotaur",
+          "url": "https://bampfa.org/event/minotaur"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "19:00",
+          "title": "On Behalf of My Son",
+          "url": "https://bampfa.org/event/behalf-my-son"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "15:00",
+          "title": "A Girl Unknown",
+          "url": "https://bampfa.org/event/girl-unknown"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "18:30",
+          "title": "The Dreamed Adventure",
+          "url": "https://bampfa.org/event/dreamed-adventure"
         }
       ]
     },
