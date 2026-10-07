@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-10-06T18:41:34.715Z",
+  "generatedAt": "2026-10-07T19:09:05.928Z",
   "films": {
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
-    "tmdb:63025": {
-      "key": "tmdb:63025",
-      "title": "A Lizard in a Woman's Skin",
-      "year": 1971,
-      "director": "Lucio Fulci",
-      "runtime": 104,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/nS0M12LDDnYJAzJMmI4ULSJlsvw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/FoxWPSJjxlUyylZgN35qkWvpTz.jpg",
-      "tmdbId": 63025,
-      "popularity": 1.8211,
-      "releaseDate": "1971-02-18",
-      "overview": "Carol Hammond, daughter of a politician, has vivid nightmares involving sex orgies and LSD. In a dream, she murders a neighbor she envies and wakes up to a real investigation into her neighbor's murder."
-    },
     "tmdb:10494": {
       "key": "tmdb:10494",
       "title": "Perfect Blue",
@@ -37,6 +14,15 @@
       "popularity": 17.6221,
       "releaseDate": "1998-02-28",
       "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:77350": {
       "key": "tmdb:77350",
@@ -116,20 +102,6 @@
       "popularity": 1.973,
       "releaseDate": "1980-12-04",
       "overview": "Three lazybones friends manufacture a firebomb and place it in a cinema. Pearl, a sadistic young girl, has observed the scene, follows the bombers and starts to manipulate them. The four criminals plan more and more daring acts."
-    },
-    "tmdb:9323": {
-      "key": "tmdb:9323",
-      "title": "Ghost in the Shell",
-      "year": 1995,
-      "director": "Mamoru Oshii",
-      "runtime": 83,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
-      "tmdbId": 9323,
-      "popularity": 15.1215,
-      "releaseDate": "1995-11-18",
-      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
     },
     "tmdb:1791": {
       "key": "tmdb:1791",
@@ -367,6 +339,20 @@
       "releaseDate": "1997-10-31",
       "overview": "She's sexy, shameless and loves taking people to their limit. She's a dangerous young woman who dreams about a jaguar that licks her naked body and sleeps by her side. Her past is bathed in blood and weird passions. Now she's met the man of her wildest dreams. He's dark, tough and mysterious. He likes robbing banks, trafficking in corpses and spicing it all with voodoo rituals. Together, the duo sets off toward Mexico destined to become the most feared outlaws in the continent."
     },
+    "tmdb:258363": {
+      "key": "tmdb:258363",
+      "title": "Desierto",
+      "year": 2015,
+      "director": "Jonás Cuarón",
+      "runtime": 88,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/67Ue5or6ZPScqkagC3EJSOYuzyR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rrTKWLU0JBYKWSJd8abzXq3LjyQ.jpg",
+      "tmdbId": 258363,
+      "popularity": 2.9563,
+      "releaseDate": "2015-04-12",
+      "overview": "A group of Mexican emigrants attempts to cross the Mexican-US border. What begins as a hopeful journey becomes a harrowing, bloody and primal fight for survival when a deranged, rifle-toting vigilante and his loyal Belgian Malinois dog chase the group of unarmed men and women through the treacherous borderland. In the harsh, unforgiving desert terrain, the odds are stacked firmly against them as they discover there’s nowhere to hide from the unrelenting, merciless killer."
+    },
     "tmdb:16672": {
       "key": "tmdb:16672",
       "title": "Woman in the Dunes",
@@ -437,19 +423,19 @@
       "releaseDate": "1971-03-11",
       "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
     },
-    "tmdb:197796": {
-      "key": "tmdb:197796",
-      "title": "Beauty and the Beast",
-      "year": 2014,
-      "director": "Christophe Gans",
-      "runtime": 112,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/8bErT2koHXAUSW5PdLQqgL5gEEe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/92Uceuy7HaiiHFgW48gNyxhx17d.jpg",
-      "tmdbId": 197796,
-      "popularity": 11.6362,
-      "releaseDate": "2014-02-12",
-      "overview": "Forced to face the cruel side of life, a devastated, bankrupt merchant chances upon the enchanted castle of a hideous creature, the mere sight of it chills the bone to the marrow. There, a fate worse than death awaits the poor father-of-six, who, after plucking a sweet-scented rose from the repulsive master's verdant garden, must do the impossible: permit his compassionate daughter, Belle, to take his place and pay for the sins of her parent. Now, an impenetrable mystery shrouds the haunted mansion, and, as repugnance gradually turns into affection, only true love could break the spell."
+    "tmdb:449576": {
+      "key": "tmdb:449576",
+      "title": "An Evening",
+      "year": 2016,
+      "director": "Søren Green",
+      "runtime": 10,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/qVzoprf4klPy5MLU36NHNmojeja.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ze7qmlim7L6avnA8xCE0ERivpua.jpg",
+      "tmdbId": 449576,
+      "popularity": 0.7756,
+      "releaseDate": "2016-05-29",
+      "overview": "Having slept together for the first time, two teenage boys must make sense of their evolving relationship."
     },
     "tmdb:142773": {
       "key": "tmdb:142773",
@@ -756,20 +742,6 @@
       "popularity": 12.5251,
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
-    },
-    "tmdb:28363": {
-      "key": "tmdb:28363",
-      "title": "The Mad Magician",
-      "year": 1954,
-      "director": "John Brahm",
-      "runtime": 72,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/ctYNCvKiMN3yRHAXe6q2l6anMRk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/y7DdDGrCZ0fxFgwlc1Er7DcDj5c.jpg",
-      "tmdbId": 28363,
-      "popularity": 2.1768,
-      "releaseDate": "1954-05-19",
-      "overview": "Don Gallico is an inventor of stage magic effects who aspires to become a star in his own right. Just before his first performance his act is shut down by capricious manager Ross Ormond who wants Gallico's brilliant buzz saw effect for the act of The Great Rinaldi, an established star. With this defeat, and the humiliation of having already lost his wife Claire to Ormond, Gallico decides it is time to take matters into his own hands."
     },
     "tmdb:361292": {
       "key": "tmdb:361292",
@@ -1115,20 +1087,6 @@
       "releaseDate": "1961-05-01",
       "overview": "A child conceived by a mute servant girl transforms from an innocent youth to a killer beast at night with uncontrollable urges."
     },
-    "tmdb:274": {
-      "key": "tmdb:274",
-      "title": "The Silence of the Lambs",
-      "year": 1991,
-      "director": "Jonathan Demme",
-      "runtime": 119,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
-      "tmdbId": 274,
-      "popularity": 6.6854,
-      "releaseDate": "1991-02-14",
-      "overview": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out."
-    },
     "tmdb:30497": {
       "key": "tmdb:30497",
       "title": "The Texas Chain Saw Massacre",
@@ -1169,6 +1127,7 @@
       "tmdbId": 1482938,
       "popularity": 2.9602,
       "releaseDate": "2026-08-14",
+      "nowPlaying": true,
       "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio."
     },
     "tmdb:67298": {
@@ -1226,20 +1185,6 @@
       "popularity": 2.9183,
       "releaseDate": "1986-01-17",
       "overview": "When a family moves into a San Francisco apartment, an opportunistic troll decides to make his move and take possession of little Wendy, thereby paving the way for new troll recruits, the first in his army that will take eventual control of the planet. We soon discover Torok is the ex-husband of Eunice St. Clair, a resident in the building who was married to Torok."
-    },
-    "tmdb:449576": {
-      "key": "tmdb:449576",
-      "title": "An Evening",
-      "year": 2016,
-      "director": "Søren Green",
-      "runtime": 10,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/qVzoprf4klPy5MLU36NHNmojeja.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ze7qmlim7L6avnA8xCE0ERivpua.jpg",
-      "tmdbId": 449576,
-      "popularity": 0.7756,
-      "releaseDate": "2016-05-29",
-      "overview": "Having slept together for the first time, two teenage boys must make sense of their evolving relationship."
     },
     "tmdb:11976": {
       "key": "tmdb:11976",
@@ -1582,6 +1527,20 @@
       "releaseDate": "1922-02-16",
       "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
     },
+    "tmdb:19316": {
+      "key": "tmdb:19316",
+      "title": "Saving Face",
+      "year": 2004,
+      "director": "Alice Wu",
+      "runtime": 97,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/7XbbgkKi4nEMOu9iwiANXpjKKhe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/piT1WWJlC0ebUVpAWI1SBwg2Vdq.jpg",
+      "tmdbId": 19316,
+      "popularity": 3.2256,
+      "releaseDate": "2004-09-12",
+      "overview": "A Chinese-American lesbian and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations."
+    },
     "tmdb:9637": {
       "key": "tmdb:9637",
       "title": "Scooby-Doo",
@@ -1682,112 +1641,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-10-06:16:10:tmdb:1482938",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1482938",
-      "date": "2026-10-06",
-      "time": "16:10",
-      "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83203",
-      "note": "Baby Day",
-      "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-06:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-06",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261006",
-      "source": "grandlake"
-    },
-    {
-      "id": "vogue:2026-10-06:16:30:tmdb:28363",
-      "venueId": "vogue",
-      "filmKey": "tmdb:28363",
-      "date": "2026-10-06",
-      "time": "16:30",
-      "url": "https://voguemovies.com/calendar-of-events/the-mad-magician-october-6",
-      "format": "3D",
-      "note": "House of Wax",
-      "source": "vogue"
-    },
-    {
-      "id": "balboa:2026-10-06:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-06",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-6",
-      "note": "The History of Concrete",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-06:18:15:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-06",
-      "time": "18:15",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-06:18:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-06",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83419",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-06:19:00:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-06",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83204",
-      "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-06:19:00:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-06",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261006",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-06:19:30:tmdb:197796",
-      "venueId": "balboa",
-      "filmKey": "tmdb:197796",
-      "date": "2026-10-06",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/la-belle-et-la-bete-october-6",
-      "note": "Beauty and the Beast",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-06:20:30:tmdb:63025",
-      "venueId": "roxie",
-      "filmKey": "tmdb:63025",
-      "date": "2026-10-06",
-      "time": "20:30",
-      "url": "https://roxie.com/film/a-lizard-in-a-womans-skin/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-06:21:30:tmdb:274",
-      "venueId": "alamo",
-      "filmKey": "tmdb:274",
-      "date": "2026-10-06",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-the-silence-of-the-lambs-35mm?cinemaId=0801&sessionId=82720",
-      "format": "35mm",
-      "note": "Terror Tuesday · Do you still hear the lambs screaming?",
-      "source": "alamo"
-    },
     {
       "id": "grandlake:2026-10-07:16:30:tmdb:1596296",
       "venueId": "grandlake",
@@ -2110,15 +1963,6 @@
       "source": "grandlake"
     },
     {
-      "id": "newparkway:2026-10-09:22:30:tmdb:246741",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:246741",
-      "date": "2026-10-09",
-      "time": "22:30",
-      "url": "https://thenewparkway.com/movie/what-we-do-in-the-shadows/",
-      "source": "newparkway"
-    },
-    {
       "id": "piedmont:2026-10-09:22:30:tmdb:9392",
       "venueId": "piedmont",
       "filmKey": "tmdb:9392",
@@ -2127,6 +1971,15 @@
       "url": "https://www.landmarktheatres.com/movies/47101-the-descent/",
       "note": "Cine Insomnia - Scary Spaces",
       "source": "piedmont"
+    },
+    {
+      "id": "newparkway:2026-10-09:22:45:tmdb:246741",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:246741",
+      "date": "2026-10-09",
+      "time": "22:45",
+      "url": "https://thenewparkway.com/movie/what-we-do-in-the-shadows/",
+      "source": "newparkway"
     },
     {
       "id": "4star:2026-10-10:10:00:tmdb:533",
@@ -2193,6 +2046,15 @@
       "time": "17:15",
       "url": "https://roxie.com/film/filipinana/",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-10-10:17:20:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-10",
+      "time": "17:20",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
     },
     {
       "id": "grandlake:2026-10-10:19:00:tmdb:1596296",
@@ -2326,6 +2188,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-10-11:16:10:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-11",
+      "time": "16:10",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
+    },
+    {
       "id": "balboa:2026-10-11:16:30:tmdb:1596296",
       "venueId": "balboa",
       "filmKey": "tmdb:1596296",
@@ -2383,15 +2254,6 @@
       "source": "roxie"
     },
     {
-      "id": "roxie:2026-10-11:20:45:tmdb:9323",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9323",
-      "date": "2026-10-11",
-      "time": "20:45",
-      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
-      "source": "roxie"
-    },
-    {
       "id": "alamo:2026-10-12:12:45:tmdb:10802",
       "venueId": "alamo",
       "filmKey": "tmdb:10802",
@@ -2426,6 +2288,15 @@
       "time": "18:30",
       "url": "https://drafthouse.com/sf/show/the-texas-chainsaw-massacre-1974?cinemaId=0801&sessionId=82950",
       "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-10-12:18:50:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-12",
+      "time": "18:50",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
     },
     {
       "id": "grandlake:2026-10-12:19:00:tmdb:1596296",
@@ -2482,6 +2353,15 @@
       "time": "17:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-13",
       "source": "balboa"
+    },
+    {
+      "id": "newparkway:2026-10-13:18:15:t:filipinana",
+      "venueId": "newparkway",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-13",
+      "time": "18:15",
+      "url": "https://thenewparkway.com/movie/filipiana/",
+      "source": "newparkway"
     },
     {
       "id": "grandlake:2026-10-13:19:00:tmdb:1596296",
@@ -2560,11 +2440,11 @@
       "source": "balboa"
     },
     {
-      "id": "newparkway:2026-10-14:18:45:tmdb:843",
+      "id": "newparkway:2026-10-14:18:15:tmdb:843",
       "venueId": "newparkway",
       "filmKey": "tmdb:843",
       "date": "2026-10-14",
-      "time": "18:45",
+      "time": "18:15",
       "url": "https://thenewparkway.com/movie/in-the-mood-for-love/",
       "source": "newparkway"
     },
@@ -2943,6 +2823,15 @@
       "source": "balboa"
     },
     {
+      "id": "newparkway:2026-10-18:17:00:tmdb:19316",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:19316",
+      "date": "2026-10-18",
+      "time": "17:00",
+      "url": "https://thenewparkway.com/movie/saving-face/",
+      "source": "newparkway"
+    },
+    {
       "id": "bampfa:2026-10-18:19:00:tmdb:262",
       "venueId": "bampfa",
       "filmKey": "tmdb:262",
@@ -2980,6 +2869,15 @@
       "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/mad-god-october-19",
       "source": "balboa"
+    },
+    {
+      "id": "roxie:2026-10-19:20:30:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-19",
+      "time": "20:30",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-10-20:18:00:tmdb:3019",
@@ -3266,6 +3164,15 @@
       "source": "4star"
     },
     {
+      "id": "alamo:2026-10-26:16:00:tmdb:1887",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1887",
+      "date": "2026-10-26",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/marie-antoinette?cinemaId=0801&sessionId=83451",
+      "source": "alamo"
+    },
+    {
       "id": "vogue:2026-10-26:19:00:tmdb:203912",
       "venueId": "vogue",
       "filmKey": "tmdb:203912",
@@ -3296,6 +3203,16 @@
       "source": "balboa"
     },
     {
+      "id": "alamo:2026-10-27:19:00:tmdb:1887",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1887",
+      "date": "2026-10-27",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/movie-party-marie-antoinette-2006?cinemaId=0801&sessionId=83582",
+      "note": "Movie Parties · Celebrate the 20th anniversary of Sofia Coppola's cult classic",
+      "source": "alamo"
+    },
+    {
       "id": "alamo:2026-10-27:21:30:tmdb:609",
       "venueId": "alamo",
       "filmKey": "tmdb:609",
@@ -3305,6 +3222,15 @@
       "format": "35mm",
       "note": "Terror Tuesday · They’re here in 35mm",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-10-28:18:00:tmdb:258363",
+      "venueId": "roxie",
+      "filmKey": "tmdb:258363",
+      "date": "2026-10-28",
+      "time": "18:00",
+      "url": "https://roxie.com/film/desierto/",
+      "source": "roxie"
     },
     {
       "id": "operaplaza:2026-10-28:19:00:tmdb:1091",
@@ -3334,6 +3260,16 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-wildwoods",
       "note": "(((folkYEAH!))) presents:",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-10-28:20:05:tmdb:1887",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1887",
+      "date": "2026-10-28",
+      "time": "20:05",
+      "url": "https://roxie.com/film/marie-antoinette-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-10-28:21:30:tmdb:33061",
@@ -3604,6 +3540,35 @@
       "url": "https://roxie.com/film/thx-1138-35mm/",
       "format": "35mm",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-11-04:18:00:tmdb:483",
+      "venueId": "alamo",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-04",
+      "time": "18:00",
+      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=83331",
+      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-11-04:18:00:tmdb:449576",
+      "venueId": "roxie",
+      "filmKey": "tmdb:449576",
+      "date": "2026-11-04",
+      "time": "18:00",
+      "url": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/",
+      "source": "roxie"
+    },
+    {
+      "id": "4star:2026-11-04:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-04",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-green-house",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
     }
   ],
   "festivals": [
@@ -3611,41 +3576,17 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-20",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83414",
-      "showtimes": 36,
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-29",
+      "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82935",
+      "showtimes": 32,
       "sample": [
         "Ghost in the Cell",
         "Primetime",
         "Resident Evil",
-        "The Cycle"
+        "Restoration at Grayson Manor"
       ],
       "programme": [
-        {
-          "date": "2026-10-06",
-          "time": "18:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83414"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "18:40",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83411"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "21:20",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83412"
-        },
-        {
-          "date": "2026-10-06",
-          "time": "21:50",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83415"
-        },
         {
           "date": "2026-10-07",
           "time": "15:40",
@@ -3827,49 +3768,16 @@
           "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83573"
         },
         {
-          "date": "2026-10-15",
-          "time": "12:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83602"
-        },
-        {
           "date": "2026-10-20",
           "time": "19:00",
           "title": "The Cycle",
           "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040"
-        }
-      ]
-    },
-    {
-      "key": "fest:alamo:fantastic fest presents baby day",
-      "name": "Fantastic Fest Presents · Baby Day",
-      "venueId": "alamo",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-13",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83413",
-      "showtimes": 3,
-      "sample": [
-        "Primetime",
-        "Resident Evil"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-06",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83413"
         },
         {
-          "date": "2026-10-06",
-          "time": "16:00",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83410"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "15:50",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83562"
+          "date": "2026-10-29",
+          "time": "21:30",
+          "title": "Restoration at Grayson Manor",
+          "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446"
         }
       ]
     },
@@ -4053,6 +3961,26 @@
       ]
     },
     {
+      "key": "fest:alamo:fantastic fest presents baby day",
+      "name": "Fantastic Fest Presents · Baby Day",
+      "venueId": "alamo",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-13",
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83562",
+      "showtimes": 1,
+      "sample": [
+        "Primetime"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-13",
+          "time": "15:50",
+          "title": "Primetime",
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83562"
+        }
+      ]
+    },
+    {
       "key": "fest:roxie:2026 hump film festival",
       "name": "2026 HUMP! Film Festival",
       "venueId": "roxie",
@@ -4152,6 +4080,47 @@
           "time": "14:00",
           "title": "No Nothing Cinema + George Kuchar",
           "url": "https://www.sfmoma.org/event/studio-8-film-festival-no-nothing-cinema-george-kuchar/"
+        }
+      ]
+    },
+    {
+      "key": "fest:roxie:sf latino film festival",
+      "name": "SF Latino Film Festival",
+      "venueId": "roxie",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-25",
+      "url": "https://roxie.com/series/18th-san-francisco-latino-film-festival/",
+      "showtimes": 4,
+      "sample": [
+        "STREET SMART: Lessons from a TV Icon",
+        "Comparsa",
+        "New People: SF Latino Film Festival: Community Voices",
+        "Libertad"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-22",
+          "time": "18:00",
+          "title": "STREET SMART: Lessons from a TV Icon",
+          "url": "https://roxie.com/film/sf-latino-film-festival-street-smart-lessons-from-a-tv-icon/"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "12:30",
+          "title": "Comparsa",
+          "url": "https://roxie.com/film/sf-latino-film-festival-comparsa/"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "15:10",
+          "title": "New People: SF Latino Film Festival: Community Voices",
+          "url": "https://roxie.com/film/new-people-sf-latino-film-festival-community-voices/"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "13:00",
+          "title": "Libertad",
+          "url": "https://roxie.com/film/sf-latino-film-festival-libertad/"
         }
       ]
     },
@@ -4310,6 +4279,47 @@
           "time": "16:00",
           "title": "The Valiant Ones",
           "url": "https://bampfa.org/event/valiant-ones"
+        }
+      ]
+    },
+    {
+      "key": "fest:balboa:ntbts the fest",
+      "name": "NTBTS the Fest",
+      "venueId": "balboa",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13",
+      "showtimes": 4,
+      "sample": [
+        "Nirvanna the Band the Show Season One",
+        "Nirvanna the Band the Show Season Two",
+        "Nirvanna the Band the Show the Movie",
+        "Back to the Future"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-13",
+          "time": "19:00",
+          "title": "Nirvanna the Band the Show Season One",
+          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "15:00",
+          "title": "Nirvanna the Band the Show Season Two",
+          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-two-november-14"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:30",
+          "title": "Nirvanna the Band the Show the Movie",
+          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-14"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:00",
+          "title": "Back to the Future",
+          "url": "https://www.balboamovies.com/calendar-of-events/Back to the Future-november-15"
         }
       ]
     }
