@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-10-07T19:09:05.928Z",
+  "generatedAt": "2026-10-08T19:07:44.848Z",
   "films": {
-    "tmdb:10494": {
-      "key": "tmdb:10494",
-      "title": "Perfect Blue",
-      "year": 1997,
-      "director": "Satoshi Kon",
-      "runtime": 81,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/6WTiOCfDPP8XV4jqfloiVWf7KHq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mHG7dpLb0ZScSY3LpP443IHRmjy.jpg",
-      "tmdbId": 10494,
-      "popularity": 17.6221,
-      "releaseDate": "1998-02-28",
-      "overview": "Rising pop star Mima Kirigoe quits singing to pursue a career as an actress. After she takes up a role on a popular detective show, her handlers and collaborators begin turning up murdered. Harboring feelings of guilt and haunted by visions of her former self, Mima's reality and fantasy meld into a frenzied paranoia."
-    },
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
-    },
     "tmdb:77350": {
       "key": "tmdb:77350",
       "title": "Unzipped",
@@ -74,6 +51,15 @@
       "popularity": 2.7616,
       "releaseDate": "2026-09-04",
       "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
     },
     "tmdb:1134909": {
       "key": "tmdb:1134909",
@@ -437,20 +423,6 @@
       "releaseDate": "2016-05-29",
       "overview": "Having slept together for the first time, two teenage boys must make sense of their evolving relationship."
     },
-    "tmdb:142773": {
-      "key": "tmdb:142773",
-      "title": "Queen: Budapest",
-      "year": 1986,
-      "director": "János Zsombolyai",
-      "runtime": 91,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
-      "tmdbId": 142773,
-      "popularity": 11.0904,
-      "releaseDate": "2012-09-20",
-      "overview": "On July 27, 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury."
-    },
     "tmdb:9276": {
       "key": "tmdb:9276",
       "title": "The Faculty",
@@ -464,6 +436,20 @@
       "popularity": 10.8636,
       "releaseDate": "1998-12-25",
       "overview": "When creepy things start happening at Herrington High, the students begin to suspect that their faculty is being controlled by body-snatching aliens."
+    },
+    "tmdb:142773": {
+      "key": "tmdb:142773",
+      "title": "Queen: Budapest",
+      "year": 1986,
+      "director": "János Zsombolyai",
+      "runtime": 91,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/dCsCez4aVeXqMiALdWYp4LFsztI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vhPl9k80mgiTbR3hkaGjTU0fyQI.jpg",
+      "tmdbId": 142773,
+      "popularity": 11.0904,
+      "releaseDate": "2012-09-20",
+      "overview": "On July 27, 1986, Queen performed the largest-ever stadium concert at the Népstadion in Budapest in front of 80,000 ecstatic fans. The concert was part of the famed Magic Tour, which was the last time the band toured with lead singer Freddie Mercury."
     },
     "tmdb:15196": {
       "key": "tmdb:15196",
@@ -799,20 +785,6 @@
       "releaseDate": "1987-07-31",
       "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him."
     },
-    "tmdb:182227": {
-      "key": "tmdb:182227",
-      "title": "Love Massacre",
-      "year": 1981,
-      "director": "Patrick Tam Kar-Ming",
-      "runtime": 91,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/odiQBpqJC8JwLzLutZALpieuO2K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/aBPg4DyyLhz6yAxXbQMGpvZ58hm.jpg",
-      "tmdbId": 182227,
-      "popularity": 1.3415,
-      "releaseDate": "1981-03-26",
-      "overview": "Set in San Francisco, Love Massacre follows college student Ivy as she tries to help her friend Joy recover from a breakup. Ivy soon becomes involved with Joy's married brother Chu Chung, who spirals into senseless violence as he breaks into Ivy's dormitory and goes on a delirious killing spree."
-    },
     "tmdb:533": {
       "key": "tmdb:533",
       "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
@@ -1115,21 +1087,6 @@
       "releaseDate": "1986-10-24",
       "overview": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of his unreleased album, which, when played backwards, brings the rocker back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll...It's life and death."
     },
-    "tmdb:1482938": {
-      "key": "tmdb:1482938",
-      "title": "Union County",
-      "year": 2026,
-      "director": "Adam Meeks",
-      "runtime": 97,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/73Dt773ChYDF5ZgTPDyH6E7qZhs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/96S1Sm5tsHsFJXpTKkH0czQoEVJ.jpg",
-      "tmdbId": 1482938,
-      "popularity": 2.9602,
-      "releaseDate": "2026-08-14",
-      "nowPlaying": true,
-      "overview": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amid the opioid epidemic in rural Ohio."
-    },
     "tmdb:67298": {
       "key": "tmdb:67298",
       "title": "Lisztomania",
@@ -1157,20 +1114,6 @@
       "popularity": 2.5415,
       "releaseDate": "1966-11-15",
       "overview": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo."
-    },
-    "tmdb:47060": {
-      "key": "tmdb:47060",
-      "title": "The Hole",
-      "year": 1998,
-      "director": "Tsai Ming-liang",
-      "runtime": 95,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/lsuvfxyCxlnkzc49hGMUmPDibCk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sb174oPl1eQqgiCFSDvINxd3fb7.jpg",
-      "tmdbId": 47060,
-      "popularity": 2.2348,
-      "releaseDate": "1998-09-14",
-      "overview": "In the final days of the year 1999, almost everyone in Taiwan has died from a strange plague that ravished the island. As rain pours down relentlessly, a single man is stuck with an unfinished plumbing job and a hole in his floor. This results in a very odd relationship with the woman who lives below him."
     },
     "tmdb:33061": {
       "key": "tmdb:33061",
@@ -1297,12 +1240,6 @@
       "popularity": 3.7208,
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
-    },
-    "t:films by the cousin collective and christophe katrib": {
-      "key": "t:films by the cousin collective and christophe katrib",
-      "title": "Films by the COUSIN Collective and Christophe Katrib",
-      "overview": "Founded in 2018 by Sky Hopinka, Adam Khalil, Alexandra Lazarowich, and Adam Piron, COUSIN was created to support Indigenous artists expanding traditional definitions of, and experimenting with, moving image form and genre. This program offers a selection of works made by COUSIN collective artists, including Hopinka’s 2017 consideration of the Dakota Access Pipeline protest and Lindsay McIntyre’s film about caribou and lichen—made using those materials in the photographic process. A short film by Lebanese artist Christophe Katrib reflects on the dissonance he experiences living on the stolen land of the United States as “U.S-backed Israel commits genocide and ethnic cleansing on Palestine and my homeland of Lebanon.”",
-      "backdrop": "https://bamlive.s3.amazonaws.com/styles/basic_page_slide/s3/COUS%2001_Hopinka_Dislocation-Blues_003.jpg?itok=57C8gKQA"
     },
     "tmdb:702789": {
       "key": "tmdb:702789",
@@ -1641,139 +1578,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "grandlake:2026-10-07:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-07",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261007",
-      "source": "grandlake"
-    },
-    {
-      "id": "alamo:2026-10-07:16:30:tmdb:1482938",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1482938",
-      "date": "2026-10-07",
-      "time": "16:30",
-      "url": "https://drafthouse.com/sf/show/union-county?cinemaId=0801&sessionId=83205",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-10-07:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-07",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-7",
-      "note": "The History of Concrete",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-07:18:00:tmdb:10494",
-      "venueId": "roxie",
-      "filmKey": "tmdb:10494",
-      "date": "2026-10-07",
-      "time": "18:00",
-      "url": "https://roxie.com/film/perfect-blue/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-07:18:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-07",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83429",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-10-07:19:00:tmdb:142773",
-      "venueId": "balboa",
-      "filmKey": "tmdb:142773",
-      "date": "2026-10-07",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/queen-budapest-october-7",
-      "source": "balboa"
-    },
-    {
-      "id": "operaplaza:2026-10-07:19:00:tmdb:948",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:948",
-      "date": "2026-10-07",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/9434-halloween-1978/",
-      "note": "Filmmaker Focus - John Carpenter",
-      "source": "operaplaza"
-    },
-    {
-      "id": "bampfa:2026-10-07:19:00:t:films by the cousin collective and christophe katrib",
-      "venueId": "bampfa",
-      "filmKey": "t:films by the cousin collective and christophe katrib",
-      "date": "2026-10-07",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/films-cousin-collective-and-christophe-katrib",
-      "format": "DCP",
-      "note": "Alternative Visions",
-      "source": "bampfa"
-    },
-    {
-      "id": "grandlake:2026-10-07:19:15:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-07",
-      "time": "19:15",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261007",
-      "source": "grandlake"
-    },
-    {
-      "id": "vogue:2026-10-07:19:30:tmdb:361292",
-      "venueId": "vogue",
-      "filmKey": "tmdb:361292",
-      "date": "2026-10-07",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/suspiria-october-7",
-      "source": "vogue"
-    },
-    {
-      "id": "4star:2026-10-07:19:30:tmdb:182227",
-      "venueId": "4star",
-      "filmKey": "tmdb:182227",
-      "date": "2026-10-07",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/love-massacre-hi-nrg",
-      "note": "HI NRG presents:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-10-07:20:00:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-07",
-      "time": "20:00",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-07:20:30:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-07",
-      "time": "20:30",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-10-07:21:30:tmdb:47060",
-      "venueId": "alamo",
-      "filmKey": "tmdb:47060",
-      "date": "2026-10-07",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-the-hole-1998?cinemaId=0801&sessionId=82721",
-      "format": "35mm",
-      "note": "Weird Wednesday · Tsai Ming-Liang's surrealist fantasy musical, new 35mm print!",
-      "source": "alamo"
-    },
     {
       "id": "alamo:2026-10-08:15:30:tmdb:1596296",
       "venueId": "alamo",
@@ -2843,15 +2647,6 @@
       "source": "bampfa"
     },
     {
-      "id": "roxie:2026-10-18:19:30:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-18",
-      "time": "19:30",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
       "id": "4star:2026-10-18:19:30:tmdb:21588",
       "venueId": "4star",
       "filmKey": "tmdb:21588",
@@ -3569,6 +3364,16 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-green-house",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "4star:2026-11-05:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-05",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-good-friends-nov",
+      "note": "Good Friends",
+      "source": "4star"
     }
   ],
   "festivals": [
@@ -3576,59 +3381,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-07",
+      "startDate": "2026-10-08",
       "endDate": "2026-10-29",
-      "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82935",
-      "showtimes": 32,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83476",
+      "showtimes": 25,
       "sample": [
-        "Ghost in the Cell",
         "Primetime",
-        "Resident Evil",
-        "Restoration at Grayson Manor"
+        "Restoration at Grayson Manor",
+        "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-10-07",
-          "time": "15:40",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83422"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "16:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83425"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "18:20",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83423"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "19:00",
-          "title": "Ghost in the Cell",
-          "url": "https://drafthouse.com/sf/show/ghost-in-the-cell?cinemaId=0801&sessionId=82935"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "19:15",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83426"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "21:50",
-          "title": "Resident Evil",
-          "url": "https://drafthouse.com/sf/show/resident-evil-2026?cinemaId=0801&sessionId=83424"
-        },
-        {
-          "date": "2026-10-07",
-          "time": "22:15",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83427"
-        },
         {
           "date": "2026-10-08",
           "time": "15:50",
@@ -3685,9 +3447,9 @@
         },
         {
           "date": "2026-10-10",
-          "time": "18:40",
+          "time": "18:15",
           "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83512"
+          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83669"
         },
         {
           "date": "2026-10-10",
@@ -3872,7 +3634,7 @@
       "venueId": "ata",
       "startDate": "2026-10-09",
       "endDate": "2026-10-09",
-      "url": "https://www.atasite.org/wp-content/uploads/2026/09/3rd-i-film-festival.jpg",
+      "url": "webcal://www.atasite.org/event/3rd-i-festival-a-celebration-of-the-extraordinary-work-of-avie-luthra/?ical=1",
       "showtimes": 1,
       "sample": [
         "A CELEBRATION OF THE EXTRAORDINARY WORK OF AVIE LUTHRA"
