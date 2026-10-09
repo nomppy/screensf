@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-10-08T19:07:44.848Z",
+  "generatedAt": "2026-10-09T18:36:12.981Z",
   "films": {
-    "tmdb:77350": {
-      "key": "tmdb:77350",
-      "title": "Unzipped",
-      "year": 1995,
-      "director": "Douglas Keeve",
-      "runtime": 73,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/dnIzv4rXr9FXkqW880E3rStYQA7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qVmsH6us23qZPn3SXBJXKvMbXk5.jpg",
-      "tmdbId": 77350,
-      "popularity": 2.3443,
-      "releaseDate": "1995-08-11",
-      "overview": "Isaac Mizrahi, one of the most successful designers in high fashion, plans his fall 1994 collection."
-    },
-    "t:zoe presents memorex rexsexex y mas": {
-      "key": "t:zoe presents memorex rexsexex y mas",
-      "title": "Zoé Presents: Memorex + Rexsexex y Más",
-      "year": 2026,
-      "director": "Rodrigo Guardiola",
-      "runtime": 182,
-      "overview": "6 GNP Stadiums in Mexico City. Over 380,000 souls. What happened across those six nights was far\nmore than an unprecedented record for Mexican rock; it was a historic and intimate gathering between a\nband that has soundtracked entire universes and a multigenerational fanbase that is more devoted than\never. This is the story of what vibrated on stage and what was kept in the hearts of the fans: an unfiltered\nbreakdown of the absolute magnetism, nostalgia, and enduring relevance of Zoé.",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/08/1-11.jpg"
-    },
     "tmdb:744": {
       "key": "tmdb:744",
       "title": "Top Gun",
@@ -423,6 +400,20 @@
       "releaseDate": "2016-05-29",
       "overview": "Having slept together for the first time, two teenage boys must make sense of their evolving relationship."
     },
+    "tmdb:2990": {
+      "key": "tmdb:2990",
+      "title": "Pacific Heights",
+      "year": 1990,
+      "director": "John Schlesinger",
+      "runtime": 102,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/9iHD6xIrGSuuMEFWhwSVGXSddY2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oifQqVSpK5fOqgCrYIEbLGkcIiS.jpg",
+      "tmdbId": 2990,
+      "popularity": 7.2318,
+      "releaseDate": "1990-09-28",
+      "overview": "A couple works hard to renovate their dream house and become landlords to pay for it. Unfortunately one of their tenants has plans of his own."
+    },
     "tmdb:9276": {
       "key": "tmdb:9276",
       "title": "The Faculty",
@@ -728,20 +719,6 @@
       "popularity": 12.5251,
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
-    },
-    "tmdb:361292": {
-      "key": "tmdb:361292",
-      "title": "Suspiria",
-      "year": 2018,
-      "director": "Luca Guadagnino",
-      "runtime": 152,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/k4renoGJzagylgBYWbpjQLYGAfB.jpg",
-      "tmdbId": 361292,
-      "popularity": 9.7209,
-      "releaseDate": "2018-10-26",
-      "overview": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up."
     },
     "tmdb:239": {
       "key": "tmdb:239",
@@ -1394,19 +1371,33 @@
       "releaseDate": "1965-01-06",
       "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
     },
-    "tmdb:2593": {
-      "key": "tmdb:2593",
-      "title": "The Fire Within",
-      "year": 1963,
-      "director": "Louis Malle",
-      "runtime": 108,
+    "tmdb:203": {
+      "key": "tmdb:203",
+      "title": "Mean Streets",
+      "year": 1973,
+      "director": "Martin Scorsese",
+      "runtime": 112,
       "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/9iHsReoh2VuHihDmNXgLXCi18rR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/aHMsHOCPSVD4Mv5rLf5k4JetPAv.jpg",
-      "tmdbId": 2593,
-      "popularity": 2.5337,
-      "releaseDate": "1963-10-15",
-      "overview": "Depressed Alain Leroy leaves the clinic where he was detoxified. He meets friends, acquaintances and women, trying to find a reason to continue living."
+      "poster": "https://image.tmdb.org/t/p/w500/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
+      "tmdbId": 203,
+      "popularity": 7.183,
+      "releaseDate": "1973-10-14",
+      "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
+    },
+    "tmdb:14537": {
+      "key": "tmdb:14537",
+      "title": "Harakiri",
+      "year": 1962,
+      "director": "Masaki Kobayashi",
+      "runtime": 135,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+      "tmdbId": 14537,
+      "popularity": 13.2275,
+      "releaseDate": "1962-09-15",
+      "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code."
     },
     "tmdb:246741": {
       "key": "tmdb:246741",
@@ -1578,100 +1569,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-10-08:15:30:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-08",
-      "time": "15:30",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83521",
-      "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-08:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-08",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261008",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-08:17:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-08",
-      "time": "17:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-8",
-      "note": "The History of Concrete",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-08:18:00:tmdb:77350",
-      "venueId": "roxie",
-      "filmKey": "tmdb:77350",
-      "date": "2026-10-08",
-      "time": "18:00",
-      "url": "https://roxie.com/film/unzipped/",
-      "note": "See venue listing for details",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-08:18:15:tmdb:1596296",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-08",
-      "time": "18:15",
-      "url": "https://drafthouse.com/sf/show/the-history-of-concrete?cinemaId=0801&sessionId=83520",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-10-08:18:30:tmdb:2593",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:2593",
-      "date": "2026-10-08",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/fire-within-with-filmmaker-qa/",
-      "note": "with filmmaker Q&A",
-      "source": "newparkway"
-    },
-    {
-      "id": "grandlake:2026-10-08:19:00:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-08",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261008",
-      "source": "grandlake"
-    },
-    {
-      "id": "vogue:2026-10-08:19:30:tmdb:361292",
-      "venueId": "vogue",
-      "filmKey": "tmdb:361292",
-      "date": "2026-10-08",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/suspiria-october-8",
-      "source": "vogue"
-    },
-    {
-      "id": "4star:2026-10-08:19:30:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-10-08",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-freight-train-lady",
-      "note": "Freight Train Lady",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-10-08:19:45:t:zoe presents memorex rexsexex y mas",
-      "venueId": "roxie",
-      "filmKey": "t:zoe presents memorex rexsexex y mas",
-      "date": "2026-10-08",
-      "time": "19:45",
-      "url": "https://roxie.com/film/zoe-presents-memorex-rexsexex-y-mas/",
-      "source": "roxie"
-    },
     {
       "id": "alamo:2026-10-09:12:40:tmdb:10802",
       "venueId": "alamo",
@@ -2204,6 +2101,7 @@
       "date": "2026-10-13",
       "time": "20:00",
       "url": "https://roxie.com/film/office-killer/",
+      "format": "4K",
       "source": "roxie"
     },
     {
@@ -2529,7 +2427,7 @@
       "time": "18:30",
       "url": "https://bampfa.org/event/white-nights",
       "format": "4K",
-      "note": "Special Screenings · 4K Digital Restoration",
+      "note": "Special Screenings 2026 · 4K Digital Restoration",
       "source": "bampfa"
     },
     {
@@ -3374,41 +3272,119 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-good-friends-nov",
       "note": "Good Friends",
       "source": "4star"
+    },
+    {
+      "id": "bampfa:2026-11-06:16:00:tmdb:203",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:203",
+      "date": "2026-11-06",
+      "time": "16:00",
+      "url": "https://bampfa.org/event/mean-streets",
+      "format": "4K",
+      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-11-06:19:00:tmdb:2990",
+      "venueId": "roxie",
+      "filmKey": "tmdb:2990",
+      "date": "2026-11-06",
+      "time": "19:00",
+      "url": "https://roxie.com/film/floating-features-pacific-heights/",
+      "source": "roxie"
+    },
+    {
+      "id": "bampfa:2026-11-06:19:00:tmdb:14537",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:14537",
+      "date": "2026-11-06",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/harakiri",
+      "format": "35mm",
+      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
+      "source": "bampfa"
     }
   ],
   "festivals": [
     {
+      "key": "fest:roxie:3rd i 2026",
+      "name": "3rd i 2026",
+      "venueId": "roxie",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "url": "https://roxie.com/series/3rd-i-sf-intl-south-asian-film-festival/",
+      "showtimes": 8,
+      "sample": [
+        "Avie Luthra",
+        "Sand City",
+        "TechnoCats",
+        "The Great Shamsuddin Family"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-09",
+          "time": "19:30",
+          "title": "Avie Luthra",
+          "url": "https://roxie.com/film/3rd-i-2026-avie-luthra/"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "13:00",
+          "title": "Sand City",
+          "url": "https://roxie.com/film/3rd-i-2026-sand-city/"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "15:00",
+          "title": "TechnoCats",
+          "url": "https://roxie.com/film/3rd-i-2026-technocats/"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "17:15",
+          "title": "The Great Shamsuddin Family",
+          "url": "https://roxie.com/film/3rd-i-2026-the-great-shamsuddin-family/"
+        },
+        {
+          "date": "2026-10-10",
+          "time": "19:45",
+          "title": "Lali",
+          "url": "https://roxie.com/film/3rd-i-2026-lali/"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "12:15",
+          "title": "Eternal Trees, Eternal Mountains",
+          "url": "https://roxie.com/film/3rd-i-2026-eternal-trees-eternal-mountains/"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "14:00",
+          "title": "Ghost School",
+          "url": "https://roxie.com/film/3rd-i-2026-ghost-school/"
+        },
+        {
+          "date": "2026-10-11",
+          "time": "16:00",
+          "title": "The Loyal Man",
+          "url": "https://roxie.com/film/3rd-i-2026-the-loyal-man/"
+        }
+      ]
+    },
+    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-08",
+      "startDate": "2026-10-09",
       "endDate": "2026-10-29",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83476",
-      "showtimes": 25,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83485",
+      "showtimes": 22,
       "sample": [
         "Primetime",
         "Restoration at Grayson Manor",
         "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-10-08",
-          "time": "15:50",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83476"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "18:45",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83477"
-        },
-        {
-          "date": "2026-10-08",
-          "time": "21:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83478"
-        },
         {
           "date": "2026-10-09",
           "time": "12:20",
@@ -3540,91 +3516,6 @@
           "time": "21:30",
           "title": "Restoration at Grayson Manor",
           "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446"
-        }
-      ]
-    },
-    {
-      "key": "fest:bampfa:mill valley film festival at bampfa closed captioned",
-      "name": "Mill Valley Film Festival at BAMPFA · Closed Captioned",
-      "venueId": "bampfa",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "url": "https://bampfa.org/event/union-town",
-      "showtimes": 1,
-      "sample": [
-        "Union Town"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-08",
-          "time": "19:00",
-          "title": "Union Town",
-          "url": "https://bampfa.org/event/union-town"
-        }
-      ]
-    },
-    {
-      "key": "fest:roxie:3rd i 2026",
-      "name": "3rd i 2026",
-      "venueId": "roxie",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-11",
-      "url": "https://roxie.com/series/3rd-i-sf-intl-south-asian-film-festival/",
-      "showtimes": 8,
-      "sample": [
-        "Avie Luthra",
-        "Sand City",
-        "TechnoCats",
-        "The Great Shamsuddin Family"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-09",
-          "time": "19:30",
-          "title": "Avie Luthra",
-          "url": "https://roxie.com/film/3rd-i-2026-avie-luthra/"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "13:00",
-          "title": "Sand City",
-          "url": "https://roxie.com/film/3rd-i-2026-sand-city/"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "15:00",
-          "title": "TechnoCats",
-          "url": "https://roxie.com/film/3rd-i-2026-technocats/"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "17:15",
-          "title": "The Great Shamsuddin Family",
-          "url": "https://roxie.com/film/3rd-i-2026-the-great-shamsuddin-family/"
-        },
-        {
-          "date": "2026-10-10",
-          "time": "19:45",
-          "title": "Lali",
-          "url": "https://roxie.com/film/3rd-i-2026-lali/"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "12:15",
-          "title": "Eternal Trees, Eternal Mountains",
-          "url": "https://roxie.com/film/3rd-i-2026-eternal-trees-eternal-mountains/"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "14:00",
-          "title": "Ghost School",
-          "url": "https://roxie.com/film/3rd-i-2026-ghost-school/"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "16:00",
-          "title": "The Loyal Man",
-          "url": "https://roxie.com/film/3rd-i-2026-the-loyal-man/"
         }
       ]
     },
@@ -3763,6 +3654,26 @@
           "time": "21:00",
           "title": "2026 HUMP! Film Festival",
           "url": "https://roxie.com/film/2026-hump-film-festival/"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:green film festival",
+      "name": "GREEN FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "url": "https://www.4-star-movies.com/calendar-of-events/hen-green-film",
+      "showtimes": 1,
+      "sample": [
+        "Hen (Opening Night!)"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-15",
+          "time": "18:00",
+          "title": "Hen (Opening Night!)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/hen-green-film"
         }
       ]
     },
@@ -4067,7 +3978,7 @@
         },
         {
           "date": "2026-11-14",
-          "time": "15:00",
+          "time": "16:00",
           "title": "Nirvanna the Band the Show Season Two",
           "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-two-november-14"
         },
