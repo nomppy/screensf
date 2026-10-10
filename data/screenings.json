@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-09T18:36:12.981Z",
+  "generatedAt": "2026-10-10T17:33:34.944Z",
   "films": {
-    "tmdb:744": {
-      "key": "tmdb:744",
-      "title": "Top Gun",
-      "year": 1986,
-      "director": "Tony Scott",
-      "runtime": 110,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
-      "tmdbId": 744,
-      "popularity": 19.5442,
-      "releaseDate": "1986-05-16",
-      "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot."
-    },
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -65,6 +37,34 @@
       "popularity": 1.973,
       "releaseDate": "1980-12-04",
       "overview": "Three lazybones friends manufacture a firebomb and place it in a cinema. Pearl, a sadistic young girl, has observed the scene, follows the bombers and starts to manipulate them. The four criminals plan more and more daring acts."
+    },
+    "tmdb:9323": {
+      "key": "tmdb:9323",
+      "title": "Ghost in the Shell",
+      "year": 1995,
+      "director": "Mamoru Oshii",
+      "runtime": 83,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
+      "tmdbId": 9323,
+      "popularity": 15.1215,
+      "releaseDate": "1995-11-18",
+      "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster."
+    },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
     },
     "tmdb:1791": {
       "key": "tmdb:1791",
@@ -414,20 +414,6 @@
       "releaseDate": "1990-09-28",
       "overview": "A couple works hard to renovate their dream house and become landlords to pay for it. Unfortunately one of their tenants has plans of his own."
     },
-    "tmdb:9276": {
-      "key": "tmdb:9276",
-      "title": "The Faculty",
-      "year": 1998,
-      "director": "Robert Rodriguez",
-      "runtime": 104,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/5XetJwmAiDC0EtH23NIXaqFn3Wl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/oJRlYxfG10h4sxk2A7fpeOZnaFi.jpg",
-      "tmdbId": 9276,
-      "popularity": 10.8636,
-      "releaseDate": "1998-12-25",
-      "overview": "When creepy things start happening at Herrington High, the students begin to suspect that their faculty is being controlled by body-snatching aliens."
-    },
     "tmdb:142773": {
       "key": "tmdb:142773",
       "title": "Queen: Budapest",
@@ -734,6 +720,20 @@
       "releaseDate": "1959-03-19",
       "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in."
     },
+    "tmdb:25389": {
+      "key": "tmdb:25389",
+      "title": "Matinee",
+      "year": 1993,
+      "director": "Joe Dante",
+      "runtime": 99,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/2S6FEhl4dpr5E0mj3sth0XxJQAu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nfTkAIHLQ0XGVAxJefC8zX5yYrr.jpg",
+      "tmdbId": 25389,
+      "popularity": 3.1811,
+      "releaseDate": "1993-01-29",
+      "overview": "A showman introduces a small coastal town to a unique movie experience and capitalizes on the Cuban Missile crisis hysteria with a kitschy horror extravaganza combining film effects, stage props and actors in rubber suits in this salute to the B-movie."
+    },
     "tmdb:203912": {
       "key": "tmdb:203912",
       "title": "National Theatre Live: Frankenstein",
@@ -938,20 +938,6 @@
       "releaseDate": "1988-12-23",
       "overview": "Now confined to a mental hospital, young Kirsty insists her supposedly dead father is actually stuck in Hell following his wife’s betrayal. Few believe the young woman’s lurid stories aside from the thrill-seeking Dr. Channard. Kirsty is undeterred and, with the help of a fellow patient, heads to Hell for a rescue."
     },
-    "tmdb:9003": {
-      "key": "tmdb:9003",
-      "title": "Hellraiser",
-      "year": 1987,
-      "director": "Clive Barker",
-      "runtime": 93,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
-      "tmdbId": 9003,
-      "popularity": 8.2702,
-      "releaseDate": "1987-09-11",
-      "overview": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible."
-    },
     "tmdb:14353": {
       "key": "tmdb:14353",
       "title": "Repo! The Genetic Opera",
@@ -1105,6 +1091,19 @@
       "popularity": 2.9183,
       "releaseDate": "1986-01-17",
       "overview": "When a family moves into a San Francisco apartment, an opportunistic troll decides to make his move and take possession of little Wendy, thereby paving the way for new troll recruits, the first in his army that will take eventual control of the planet. We soon discover Torok is the ex-husband of Eunice St. Clair, a resident in the building who was married to Torok."
+    },
+    "tmdb:441944": {
+      "key": "tmdb:441944",
+      "title": "The Fall of the I-Hotel",
+      "year": 1983,
+      "director": "Curtis Choy",
+      "runtime": 58,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/1Vx476UfkXwSfR4m7564hnroA3v.jpg",
+      "tmdbId": 441944,
+      "popularity": 0.7382,
+      "releaseDate": "1983-06-15",
+      "overview": "The Fall of the I-Hotel brings to life the battle for housing in San Francisco. The brutal eviction of the International Hotel's tenants culminated a decade of spirited resistance to the razing of Manilatown. The Fall of the I-Hotel works on several levels. It not only documents the struggle to save the I-Hotel, but also gives an overview of Filipino American history."
     },
     "tmdb:11976": {
       "key": "tmdb:11976",
@@ -1399,20 +1398,6 @@
       "releaseDate": "1962-09-15",
       "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code."
     },
-    "tmdb:246741": {
-      "key": "tmdb:246741",
-      "title": "What We Do in the Shadows",
-      "year": 2014,
-      "director": "Jemaine Clement, Taika Waititi",
-      "runtime": 86,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/a2rD3i3DBMeYbA34rBv6z3B9S3a.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/utjThRtcnsj0GrDwNudjGdfmHfq.jpg",
-      "tmdbId": 246741,
-      "popularity": 5.2808,
-      "releaseDate": "2014-06-19",
-      "overview": "Vampire housemates try to cope with the complexities of modern life and show a newly turned hipster some of the perks of being undead."
-    },
     "tmdb:843": {
       "key": "tmdb:843",
       "title": "In the Mood for Love",
@@ -1525,19 +1510,19 @@
       "releaseDate": "1988-03-30",
       "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
     },
-    "tmdb:9392": {
-      "key": "tmdb:9392",
-      "title": "The Descent",
-      "year": 2005,
-      "director": "Neil Marshall",
-      "runtime": 100,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9T5D5RGuCsC6CeqYZJTv4rT4RPy.jpg",
-      "tmdbId": 9392,
-      "popularity": 11.3942,
-      "releaseDate": "2005-07-08",
-      "overview": "After a personal tragedy, Sarah joins her friends on a caving expedition in the Appalachian Mountains. But when a rockfall traps them deep underground, their adventure turns into a nightmare. As they search for a way out, the group discovers they are not alone—lurking in the darkness are savage, cave-dwelling creatures. With rising tension and dwindling trust, the women must fight to survive against both the predators and each other."
+    "tmdb:872": {
+      "key": "tmdb:872",
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "director": "Stanley Donen, Gene Kelly",
+      "runtime": 103,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+      "tmdbId": 872,
+      "popularity": 11.8925,
+      "releaseDate": "1952-04-10",
+      "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures."
     },
     "tmdb:46838": {
       "key": "tmdb:46838",
@@ -1569,119 +1554,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-10-09:12:40:tmdb:10802",
-      "venueId": "alamo",
-      "filmKey": "tmdb:10802",
-      "date": "2026-10-09",
-      "time": "12:40",
-      "url": "https://drafthouse.com/sf/show/showgirls?cinemaId=0801&sessionId=83526",
-      "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-09:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-09",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261009",
-      "source": "grandlake"
-    },
-    {
-      "id": "roxie:2026-10-09:19:00:tmdb:744",
-      "venueId": "roxie",
-      "filmKey": "tmdb:744",
-      "date": "2026-10-09",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-top-gun-2/",
-      "source": "roxie"
-    },
-    {
-      "id": "grandlake:2026-10-09:19:00:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-09",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261009",
-      "source": "grandlake"
-    },
-    {
-      "id": "alamo:2026-10-09:19:00:tmdb:9003",
-      "venueId": "alamo",
-      "filmKey": "tmdb:9003",
-      "date": "2026-10-09",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/hellraiser?cinemaId=0801&sessionId=83038",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-10-09:19:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-09",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-9",
-      "note": "The History of Concrete",
-      "source": "balboa"
-    },
-    {
-      "id": "balboa:2026-10-09:19:30:tmdb:9276",
-      "venueId": "balboa",
-      "filmKey": "tmdb:9276",
-      "date": "2026-10-09",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-faculty-october-9",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
-    },
-    {
-      "id": "4star:2026-10-09:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-10-09",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-towhead",
-      "note": "Slang Church & Cherub Dream present:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-10-09:20:35:tmdb:1599181",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-10-09",
-      "time": "20:35",
-      "url": "https://roxie.com/film/chronovisor/",
-      "source": "roxie"
-    },
-    {
-      "id": "grandlake:2026-10-09:21:15:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-09",
-      "time": "21:15",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261009",
-      "source": "grandlake"
-    },
-    {
-      "id": "piedmont:2026-10-09:22:30:tmdb:9392",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:9392",
-      "date": "2026-10-09",
-      "time": "22:30",
-      "url": "https://www.landmarktheatres.com/movies/47101-the-descent/",
-      "note": "Cine Insomnia - Scary Spaces",
-      "source": "piedmont"
-    },
-    {
-      "id": "newparkway:2026-10-09:22:45:tmdb:246741",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:246741",
-      "date": "2026-10-09",
-      "time": "22:45",
-      "url": "https://thenewparkway.com/movie/what-we-do-in-the-shadows/",
-      "source": "newparkway"
-    },
     {
       "id": "4star:2026-10-10:10:00:tmdb:533",
       "venueId": "4star",
@@ -1952,6 +1824,15 @@
       "date": "2026-10-11",
       "time": "20:05",
       "url": "https://roxie.com/film/dont-play-with-fire/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-11:20:45:tmdb:9323",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9323",
+      "date": "2026-10-11",
+      "time": "20:45",
+      "url": "https://roxie.com/film/ghost-in-the-shell-30th-anniversary-remaster/",
       "source": "roxie"
     },
     {
@@ -2245,15 +2126,6 @@
       "url": "https://bampfa.org/event/collaborations-cairos-cimatheque",
       "note": "Stefanie Schulte Strathaus: Modes of Archivism",
       "source": "bampfa"
-    },
-    {
-      "id": "grandlake:2026-10-15:19:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-15",
-      "time": "19:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261015",
-      "source": "grandlake"
     },
     {
       "id": "balboa:2026-10-15:19:30:tmdb:28055",
@@ -2652,6 +2524,15 @@
       "source": "alamo"
     },
     {
+      "id": "vogue:2026-10-22:16:00:tmdb:25389",
+      "venueId": "vogue",
+      "filmKey": "tmdb:25389",
+      "date": "2026-10-22",
+      "time": "16:00",
+      "url": "https://voguemovies.com/calendar-of-events/matinee-october-22",
+      "source": "vogue"
+    },
+    {
       "id": "bampfa:2026-10-22:19:00:tmdb:269",
       "venueId": "bampfa",
       "filmKey": "tmdb:269",
@@ -2843,7 +2724,7 @@
       "date": "2026-10-25",
       "time": "20:00",
       "url": "https://www.balboamovies.com/calendar-of-events/frankenhooker-october-25",
-      "note": "Presented by Camp Balboa",
+      "note": "Presented with live drag by Bonita Rose (@bonitarosedrag on Instagram)",
       "source": "balboa"
     },
     {
@@ -3303,6 +3184,46 @@
       "format": "35mm",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
       "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-11-07:12:00:tmdb:872",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:872",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "url": "https://thenewparkway.com/movie/singin-in-the-rain/",
+      "source": "newparkway"
+    },
+    {
+      "id": "sfmoma:2026-11-07:13:00:tmdb:441944",
+      "venueId": "sfmoma",
+      "filmKey": "tmdb:441944",
+      "date": "2026-11-07",
+      "time": "13:00",
+      "url": "https://www.sfmoma.org/event/the-fall-of-the-i-hotel-manilatown-manang-screenings/",
+      "format": "16mm",
+      "source": "sfmoma"
+    },
+    {
+      "id": "bampfa:2026-11-07:14:30:tmdb:30959",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:30959",
+      "date": "2026-11-07",
+      "time": "14:30",
+      "url": "https://bampfa.org/event/kwaidan",
+      "format": "4K",
+      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks · 4K Digital Restoration, Director’s Cut",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-11-07:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-07",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-idaho",
+      "note": "essence/universe presents:",
+      "source": "4star"
     }
   ],
   "festivals": [
@@ -3310,23 +3231,17 @@
       "key": "fest:roxie:3rd i 2026",
       "name": "3rd i 2026",
       "venueId": "roxie",
-      "startDate": "2026-10-09",
+      "startDate": "2026-10-10",
       "endDate": "2026-10-11",
       "url": "https://roxie.com/series/3rd-i-sf-intl-south-asian-film-festival/",
-      "showtimes": 8,
+      "showtimes": 7,
       "sample": [
-        "Avie Luthra",
         "Sand City",
         "TechnoCats",
-        "The Great Shamsuddin Family"
+        "The Great Shamsuddin Family",
+        "Lali"
       ],
       "programme": [
-        {
-          "date": "2026-10-09",
-          "time": "19:30",
-          "title": "Avie Luthra",
-          "url": "https://roxie.com/film/3rd-i-2026-avie-luthra/"
-        },
         {
           "date": "2026-10-10",
           "time": "13:00",
@@ -3375,40 +3290,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-09",
+      "startDate": "2026-10-10",
       "endDate": "2026-10-29",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83485",
-      "showtimes": 22,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83510",
+      "showtimes": 18,
       "sample": [
         "Primetime",
         "Restoration at Grayson Manor",
         "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-10-09",
-          "time": "12:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83485"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "15:15",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83479"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "18:45",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83480"
-        },
-        {
-          "date": "2026-10-09",
-          "time": "21:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83481"
-        },
         {
           "date": "2026-10-10",
           "time": "12:50",
@@ -3520,67 +3411,20 @@
       ]
     },
     {
-      "key": "fest:ata:3rd i festival",
-      "name": "3rd i Festival",
-      "venueId": "ata",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "url": "webcal://www.atasite.org/event/3rd-i-festival-a-celebration-of-the-extraordinary-work-of-avie-luthra/?ical=1",
-      "showtimes": 1,
-      "sample": [
-        "A CELEBRATION OF THE EXTRAORDINARY WORK OF AVIE LUTHRA"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-09",
-          "time": "19:30",
-          "title": "A CELEBRATION OF THE EXTRAORDINARY WORK OF AVIE LUTHRA",
-          "url": "https://www.atasite.org/event/3rd-i-festival-a-celebration-of-the-extraordinary-work-of-avie-luthra/",
-          "note": "Join us for an inspiring retrospective of his brilliant narratives that lift up stories of immigration, relationships, identity, gender, sexuality, and…"
-        }
-      ]
-    },
-    {
-      "key": "fest:bampfa:mill valley film festival at bampfa audio descriptionclosed captioned",
-      "name": "Mill Valley Film Festival at BAMPFA · Audio DescriptionClosed Captioned",
-      "venueId": "bampfa",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "url": "https://bampfa.org/event/when-witness-recants",
-      "showtimes": 1,
-      "sample": [
-        "When a Witness Recants"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-09",
-          "time": "15:30",
-          "title": "When a Witness Recants",
-          "url": "https://bampfa.org/event/when-witness-recants"
-        }
-      ]
-    },
-    {
       "key": "fest:bampfa:mill valley film festival at bampfa",
       "name": "Mill Valley Film Festival at BAMPFA",
       "venueId": "bampfa",
-      "startDate": "2026-10-09",
+      "startDate": "2026-10-10",
       "endDate": "2026-10-11",
       "url": "https://bampfa.org/program/mvff49",
-      "showtimes": 6,
+      "showtimes": 5,
       "sample": [
-        "Elephants in the Fog",
         "Sad Girlz",
         "Minotaur",
-        "On Behalf of My Son"
+        "On Behalf of My Son",
+        "A Girl Unknown"
       ],
       "programme": [
-        {
-          "date": "2026-10-09",
-          "time": "19:00",
-          "title": "Elephants in the Fog",
-          "url": "https://bampfa.org/event/elephants-fog"
-        },
         {
           "date": "2026-10-10",
           "time": "13:00",
@@ -3662,11 +3506,14 @@
       "name": "GREEN FILM FESTIVAL",
       "venueId": "4star",
       "startDate": "2026-10-15",
-      "endDate": "2026-10-15",
+      "endDate": "2026-10-22",
       "url": "https://www.4-star-movies.com/calendar-of-events/hen-green-film",
-      "showtimes": 1,
+      "showtimes": 13,
       "sample": [
-        "Hen (Opening Night!)"
+        "Hen (Opening Night!)",
+        "Don't Be Prey (with The Locals)",
+        "Animal Conservation Shorts",
+        "In Excess (with Elders of Time)"
       ],
       "programme": [
         {
@@ -3674,6 +3521,119 @@
           "time": "18:00",
           "title": "Hen (Opening Night!)",
           "url": "https://www.4-star-movies.com/calendar-of-events/hen-green-film"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "18:00",
+          "title": "Don't Be Prey (with The Locals)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/dont-be-prey-green"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "12:00",
+          "title": "Animal Conservation Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/animal-conservation-green"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "14:00",
+          "title": "In Excess (with Elders of Time)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/in-excess-green"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "16:15",
+          "title": "Best Day Ever (with Other Shorts)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/best-day-ever-shorts-green"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "18:00",
+          "title": "Unless Something Goes Terribly Wrong (with Dad vs. Bees)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/unless-something-green"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "12:00",
+          "title": "Water & Oceans Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/water-and-oceans-green"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "14:30",
+          "title": "The Terroirist (with Plant Life)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/terroirist-green"
+        },
+        {
+          "date": "2026-10-19",
+          "time": "18:00",
+          "title": "Narrative Fiction Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/narrative-fiction-green"
+        },
+        {
+          "date": "2026-10-20",
+          "time": "18:00",
+          "title": "Harvest",
+          "url": "https://www.4-star-movies.com/calendar-of-events/harvest-green"
+        },
+        {
+          "date": "2026-10-21",
+          "time": "18:00",
+          "title": "The Big Picture Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/big-picture-shorts-green"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "18:00",
+          "title": "A City in the Forest (Closing Night!)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/a-city-green"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "20:30",
+          "title": "Bodyhackers",
+          "url": "https://www.4-star-movies.com/calendar-of-events/bodyhackers-green"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:sf short film festival",
+      "name": "SF SHORT FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-18",
+      "url": "https://www.4-star-movies.com/calendar-of-events/opening-night-shorts",
+      "showtimes": 4,
+      "sample": [
+        "Opening Night Shorts",
+        "Funny Shorts",
+        "Animated Shorts",
+        "True Stories Shorts"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-15",
+          "time": "20:15",
+          "title": "Opening Night Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/opening-night-shorts"
+        },
+        {
+          "date": "2026-10-16",
+          "time": "20:30",
+          "title": "Funny Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/funny-shorts"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "20:30",
+          "title": "Animated Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/animated-shorts"
+        },
+        {
+          "date": "2026-10-18",
+          "time": "17:00",
+          "title": "True Stories Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/true-stories-shorts"
         }
       ]
     },
