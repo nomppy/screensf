@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-11T17:51:58.924Z",
+  "generatedAt": "2026-10-12T21:27:48.810Z",
   "films": {
-    "tmdb:1134909": {
-      "key": "tmdb:1134909",
-      "title": "River of Life LGBTQ+",
-      "year": 2023,
-      "director": "Grace Walcott",
-      "runtime": 80,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/zos09pDHURjKW1O8afbiorWACx7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nGvgSXAnx98ysGDXXHUT1yMScbR.jpg",
-      "tmdbId": 1134909,
-      "popularity": 0.4066,
-      "releaseDate": "2023-07-05",
-      "overview": "This documentary film follows a 10-week drama therapy workshop, with 13 multigenerational queer participants, coming together to unpack internalized queerphobia and the evolution of the LGBTQ+ community."
-    },
-    "tmdb:104287": {
-      "key": "tmdb:104287",
-      "title": "Dangerous Encounters of the First Kind",
-      "year": 1980,
-      "director": "Tsui Hark",
-      "runtime": 100,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/6xgOH1EEROz9mWYWYo9wRoiwUuC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hDHf09aazDPRzyHTBD2WBR1BzWN.jpg",
-      "tmdbId": 104287,
-      "popularity": 1.973,
-      "releaseDate": "1980-12-04",
-      "overview": "Three lazybones friends manufacture a firebomb and place it in a cinema. Pearl, a sadistic young girl, has observed the scene, follows the bombers and starts to manipulate them. The four criminals plan more and more daring acts."
-    },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
       "title": "Chronovisor",
@@ -414,34 +386,6 @@
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
     },
-    "tmdb:43316": {
-      "key": "tmdb:43316",
-      "title": "All That Heaven Allows",
-      "year": 1955,
-      "director": "Douglas Sirk",
-      "runtime": 89,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/wlSmIk6iQ8yQhBG795UOOBUs4gF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/iQQ4jjYV8fgdEHDgkgSrc4mWgUx.jpg",
-      "tmdbId": 43316,
-      "popularity": 4.823,
-      "releaseDate": "1955-08-25",
-      "overview": "Two different social classes collide when Cary Scott, a wealthy upper-class widow, falls in love with her much younger and down-to-earth gardener, prompting disapproval and criticism from her children and country club friends."
-    },
-    "tmdb:15196": {
-      "key": "tmdb:15196",
-      "title": "Clue",
-      "year": 1985,
-      "director": "Jonathan Lynn",
-      "runtime": 94,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
-      "tmdbId": 15196,
-      "popularity": 9.2786,
-      "releaseDate": "1985-12-13",
-      "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises."
-    },
     "tmdb:1765982": {
       "key": "tmdb:1765982",
       "title": "Bea Arthur: The Documentary",
@@ -692,6 +636,18 @@
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
     },
+    "tmdb:694952": {
+      "key": "tmdb:694952",
+      "title": "A Double Feature",
+      "year": 1971,
+      "director": "Roger Watkins",
+      "runtime": 4,
+      "poster": "https://image.tmdb.org/t/p/w500/pk2n6G7VgtsuMSIQb2hIiHcdLzB.jpg",
+      "tmdbId": 694952,
+      "popularity": 0.6243,
+      "releaseDate": "1971-01-01",
+      "overview": "Two short stop-motion animated films. The first film, 'Life is Nice I Think', follows a mannequin as it moves around a building. The second film, '-Rex- King of the Animals', follows a toy monkey that interacts with various other animals."
+    },
     "tmdb:239": {
       "key": "tmdb:239",
       "title": "Some Like It Hot",
@@ -747,20 +703,6 @@
       "popularity": 14.3513,
       "releaseDate": "1987-07-31",
       "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him."
-    },
-    "tmdb:533": {
-      "key": "tmdb:533",
-      "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
-      "year": 2005,
-      "director": "Steve Box, Nick Park",
-      "runtime": 85,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/Aqvtwgu1G4eEwIf8nSIxiCN5ewC.jpg",
-      "tmdbId": 533,
-      "popularity": 11.7629,
-      "releaseDate": "2005-09-15",
-      "overview": "Cheese-loving eccentric Wallace and his cunning canine pal Gromit run a business ridding the town of garden pests. Using only humane methods, which turns their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest."
     },
     "tmdb:21588": {
       "key": "tmdb:21588",
@@ -832,41 +774,9 @@
       "releaseDate": "1986-06-27",
       "overview": "Frustrated with babysitting on yet another weekend night, Sarah, a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King. Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers."
     },
-    "t:9 to 5": {
-      "key": "t:9 to 5",
-      "title": "9 to 5"
-    },
     "t:finn wolfhard": {
       "key": "t:finn wolfhard",
       "title": "Finn Wolfhard"
-    },
-    "tmdb:10802": {
-      "key": "tmdb:10802",
-      "title": "Showgirls",
-      "year": 1995,
-      "director": "Paul Verhoeven",
-      "runtime": 131,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/o4HT3Ap5c99W4FYpdXUtTvxGgPc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/jL3G2f8uNCFejJRlIqCzRp8Y7eV.jpg",
-      "tmdbId": 10802,
-      "popularity": 9.061,
-      "releaseDate": "1995-09-22",
-      "overview": "Fresh to Las Vegas with no connections, Nomi Malone takes a job as an exotic dancer. Her talents are quickly noticed by Cristal, a headlining dancer who senses an opportunity to bolster her own act. But Nomi won’t play second fiddle and soon begins her venomous path to the top, ruthlessly backstabbing anyone who gets in her way."
-    },
-    "tmdb:1214554": {
-      "key": "tmdb:1214554",
-      "title": "DEVO",
-      "year": 2024,
-      "director": "Chris Smith",
-      "runtime": 94,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/6aO7f1J5kr8SlSqHnHpYawzHPAS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ybVOOiP68Hd5727YzIQh3IX98Ku.jpg",
-      "tmdbId": 1214554,
-      "popularity": 1.9147,
-      "releaseDate": "2024-01-21",
-      "overview": "Originally formed amidst the chaos of the 1970 Kent State anti-Vietnam War protest killings, the not quite new wave band Devo scored a hit with \"Whip It\" and gained mainstream success with their message of societal \"de-evolution.\""
     },
     "tmdb:39264": {
       "key": "tmdb:39264",
@@ -1555,156 +1465,6 @@
   },
   "screenings": [
     {
-      "id": "4star:2026-10-11:10:00:tmdb:533",
-      "venueId": "4star",
-      "filmKey": "tmdb:533",
-      "date": "2026-10-11",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/wallace-gromit-sun",
-      "note": "Popcorn Palace - FREE!",
-      "source": "4star"
-    },
-    {
-      "id": "grandlake:2026-10-11:11:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-11",
-      "time": "11:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261011",
-      "source": "grandlake"
-    },
-    {
-      "id": "alamo:2026-10-11:12:30:tmdb:30497",
-      "venueId": "alamo",
-      "filmKey": "tmdb:30497",
-      "date": "2026-10-11",
-      "time": "12:30",
-      "url": "https://drafthouse.com/sf/show/the-texas-chainsaw-massacre-1974?cinemaId=0801&sessionId=83546",
-      "source": "alamo"
-    },
-    {
-      "id": "grandlake:2026-10-11:13:45:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-11",
-      "time": "13:45",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261011",
-      "source": "grandlake"
-    },
-    {
-      "id": "roxie:2026-10-11:15:00:tmdb:1134909",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1134909",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "url": "https://roxie.com/film/river-of-life-lgbtq/",
-      "source": "roxie"
-    },
-    {
-      "id": "castro:2026-10-11:15:00:t:9 to 5",
-      "venueId": "castro",
-      "filmKey": "t:9 to 5",
-      "date": "2026-10-11",
-      "time": "15:00",
-      "url": "https://thecastro.com/events/9-to-5-261011",
-      "note": "Frameline & Another Planet Entertainment present A tribute to Dolly Parton",
-      "source": "castro"
-    },
-    {
-      "id": "alamo:2026-10-11:15:30:tmdb:1214554",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1214554",
-      "date": "2026-10-11",
-      "time": "15:30",
-      "url": "https://drafthouse.com/sf/show/devo-restorations-and-revelations-collected-film-works-1976-1984?cinemaId=0801&sessionId=82951",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-11:16:00:tmdb:10802",
-      "venueId": "alamo",
-      "filmKey": "tmdb:10802",
-      "date": "2026-10-11",
-      "time": "16:00",
-      "url": "https://drafthouse.com/sf/show/alamo-drafthouse-movie-book-club-showgirls?cinemaId=0801&sessionId=82939",
-      "note": "Alamo Drafthouse Movie Book Club · Book Club Screening · Read it, thrust it",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-10-11:16:10:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-11",
-      "time": "16:10",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "balboa:2026-10-11:16:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-11",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-11",
-      "note": "The History of Concrete",
-      "source": "balboa"
-    },
-    {
-      "id": "grandlake:2026-10-11:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-11",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261011",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-11:17:00:tmdb:43316",
-      "venueId": "balboa",
-      "filmKey": "tmdb:43316",
-      "date": "2026-10-11",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/all-that-heaven-allows-october-11",
-      "note": "All That Heaven Allows",
-      "source": "balboa"
-    },
-    {
-      "id": "grandlake:2026-10-11:19:00:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-11",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261011",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-11:19:30:tmdb:15196",
-      "venueId": "balboa",
-      "filmKey": "tmdb:15196",
-      "date": "2026-10-11",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/clue-october-11",
-      "note": "Co-hosted by the Bawdy Caste",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-11:20:05:tmdb:104287",
-      "venueId": "roxie",
-      "filmKey": "tmdb:104287",
-      "date": "2026-10-11",
-      "time": "20:05",
-      "url": "https://roxie.com/film/dont-play-with-fire/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-12:12:45:tmdb:10802",
-      "venueId": "alamo",
-      "filmKey": "tmdb:10802",
-      "date": "2026-10-12",
-      "time": "12:45",
-      "url": "https://drafthouse.com/sf/show/showgirls?cinemaId=0801&sessionId=83561",
-      "source": "alamo"
-    },
-    {
       "id": "grandlake:2026-10-12:16:30:tmdb:1596296",
       "venueId": "grandlake",
       "filmKey": "tmdb:1596296",
@@ -2277,6 +2037,15 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-10-18:19:30:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-10-18",
+      "time": "19:30",
+      "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-10-18:19:30:tmdb:21588",
       "venueId": "4star",
       "filmKey": "tmdb:21588",
@@ -2419,6 +2188,15 @@
       "date": "2026-10-22",
       "time": "20:30",
       "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-22:20:30:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
     },
     {
@@ -3046,6 +2824,16 @@
       "source": "bampfa"
     },
     {
+      "id": "balboa:2026-11-06:19:30:tmdb:694952",
+      "venueId": "balboa",
+      "filmKey": "tmdb:694952",
+      "date": "2026-11-06",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/double-feature-with-sandow-birk-november-6",
+      "note": "August 29 - November 7 at the Catharine Clark Gallery",
+      "source": "balboa"
+    },
+    {
       "id": "newparkway:2026-11-07:12:00:tmdb:872",
       "venueId": "newparkway",
       "filmKey": "tmdb:872",
@@ -3128,83 +2916,19 @@
   ],
   "festivals": [
     {
-      "key": "fest:roxie:3rd i 2026",
-      "name": "3rd i 2026",
-      "venueId": "roxie",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "url": "https://roxie.com/series/3rd-i-sf-intl-south-asian-film-festival/",
-      "showtimes": 3,
-      "sample": [
-        "Eternal Trees, Eternal Mountains",
-        "Ghost School",
-        "The Loyal Man"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-11",
-          "time": "12:15",
-          "title": "Eternal Trees, Eternal Mountains",
-          "url": "https://roxie.com/film/3rd-i-2026-eternal-trees-eternal-mountains/"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "14:00",
-          "title": "Ghost School",
-          "url": "https://roxie.com/film/3rd-i-2026-ghost-school/"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "16:00",
-          "title": "The Loyal Man",
-          "url": "https://roxie.com/film/3rd-i-2026-the-loyal-man/"
-        }
-      ]
-    },
-    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-11",
+      "startDate": "2026-10-12",
       "endDate": "2026-10-29",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83535",
-      "showtimes": 14,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83555",
+      "showtimes": 9,
       "sample": [
         "Primetime",
         "Restoration at Grayson Manor",
         "The Cycle"
       ],
       "programme": [
-        {
-          "date": "2026-10-11",
-          "time": "12:50",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83535"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "16:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83537"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "18:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83538"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "21:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83536"
-        },
-        {
-          "date": "2026-10-12",
-          "time": "13:30",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83554"
-        },
         {
           "date": "2026-10-12",
           "time": "15:45",
@@ -3258,33 +2982,6 @@
           "time": "21:30",
           "title": "Restoration at Grayson Manor",
           "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446"
-        }
-      ]
-    },
-    {
-      "key": "fest:bampfa:mill valley film festival at bampfa",
-      "name": "Mill Valley Film Festival at BAMPFA",
-      "venueId": "bampfa",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "url": "https://bampfa.org/program/mvff49",
-      "showtimes": 2,
-      "sample": [
-        "A Girl Unknown",
-        "The Dreamed Adventure"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-11",
-          "time": "15:00",
-          "title": "A Girl Unknown",
-          "url": "https://bampfa.org/event/girl-unknown"
-        },
-        {
-          "date": "2026-10-11",
-          "time": "18:30",
-          "title": "The Dreamed Adventure",
-          "url": "https://bampfa.org/event/dreamed-adventure"
         }
       ]
     },
