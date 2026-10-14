@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-13T19:37:00.315Z",
+  "generatedAt": "2026-10-14T17:41:16.401Z",
   "films": {
-    "tmdb:49728": {
-      "key": "tmdb:49728",
-      "title": "Office Killer",
-      "year": 1997,
-      "director": "Cindy Sherman",
-      "runtime": 82,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/ytPjWp5LMW5jV9IVrcv6yTsxDTH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/7a0bohmu6nLKDOyl69UWTQrFfYz.jpg",
-      "tmdbId": 49728,
-      "popularity": 2.8035,
-      "releaseDate": "1997-12-03",
-      "overview": "When Dorine Douglas' job as proofreader for Constant Consumer magazine is turned into an at-home position during a downsizing, she doesn't know how to cope. But after accidentally killing one of her co-workers, she discovers that murder can quench the loneliness of her home life, as a macabre office place forms in her basement, populated by dead co-workers."
-    },
-    "tmdb:57447": {
-      "key": "tmdb:57447",
-      "title": "The House with Laughing Windows",
-      "year": 1976,
-      "director": "Pupi Avati",
-      "runtime": 110,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/oinsJI8Rlz8EjSOO6ahsFDsDhwN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hN8BEjmyqsPdwSPsdDWenoid1as.jpg",
-      "tmdbId": 57447,
-      "popularity": 2.8345,
-      "releaseDate": "1976-08-20",
-      "overview": "Stefano, a young restorer, is commissioned to save a controversial mural located in the church of a small, isolated village."
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -36,7 +8,7 @@
       "director": "Rafael Manuel",
       "runtime": 100,
       "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://indy-systems.imgix.net/362d6hezfh6b5nh4b7ocsfc6yp7b?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress"
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-16.jpg"
     },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
@@ -371,20 +343,6 @@
       "popularity": 1.0092,
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
-    },
-    "tmdb:1226578": {
-      "key": "tmdb:1226578",
-      "title": "Longlegs",
-      "year": 2024,
-      "director": "Osgood Perkins",
-      "runtime": 101,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/1EwNyiiNFd863H4e8nWEzutnZD7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6ToGkmqn0KG0UGGGUAC1Ww0e5CM.jpg",
-      "tmdbId": 1226578,
-      "popularity": 13.1409,
-      "releaseDate": "2024-07-10",
-      "overview": "FBI Agent Lee Harker is a gifted new recruit assigned to the unsolved case of an elusive serial killer. As the case takes complex turns, unearthing evidence of the occult, Harker discovers a personal connection to the merciless killer and must race against time to stop him before he claims the lives of another innocent family."
     },
     "tmdb:8413": {
       "key": "tmdb:8413",
@@ -797,20 +755,6 @@
       "releaseDate": "1988-12-23",
       "overview": "Now confined to a mental hospital, young Kirsty insists her supposedly dead father is actually stuck in Hell following his wife’s betrayal. Few believe the young woman’s lurid stories aside from the thrill-seeking Dr. Channard. Kirsty is undeterred and, with the help of a fellow patient, heads to Hell for a rescue."
     },
-    "tmdb:14353": {
-      "key": "tmdb:14353",
-      "title": "Repo! The Genetic Opera",
-      "year": 2008,
-      "director": "Darren Lynn Bousman",
-      "runtime": 98,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/2G5LczM1clXu3byEudWk9w0KDYD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xLH9jvY4tNzcKvopgEGYI7YeAy7.jpg",
-      "tmdbId": 14353,
-      "popularity": 2.9162,
-      "releaseDate": "2008-11-07",
-      "overview": "By the year 2056, an epidemic of organ failures has devastated the planet. The megacorporation GeneCo provides organ transplants on a payment plan — and those unable to fulfill their plans have their organs repossessed. In the midst of this, a sickly teenager discovers a shocking secret about herself, her father, and their connection to GeneCo."
-    },
     "tmdb:46175": {
       "key": "tmdb:46175",
       "title": "Daughters of Darkness",
@@ -838,20 +782,6 @@
       "popularity": 7.7035,
       "releaseDate": "2003-06-13",
       "overview": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
-    },
-    "tmdb:9871": {
-      "key": "tmdb:9871",
-      "title": "Ginger Snaps",
-      "year": 2000,
-      "director": "John Fawcett",
-      "runtime": 108,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/ozohDiJd7Oi65NEf8B0ya7lR9Fr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
-      "tmdbId": 9871,
-      "popularity": 4.3392,
-      "releaseDate": "2000-12-11",
-      "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself."
     },
     "tmdb:609": {
       "key": "tmdb:609",
@@ -949,6 +879,20 @@
       "popularity": 0.7382,
       "releaseDate": "1983-06-15",
       "overview": "The Fall of the I-Hotel brings to life the battle for housing in San Francisco. The brutal eviction of the International Hotel's tenants culminated a decade of spirited resistance to the razing of Manilatown. The Fall of the I-Hotel works on several levels. It not only documents the struggle to save the I-Hotel, but also gives an overview of Filipino American history."
+    },
+    "tmdb:203": {
+      "key": "tmdb:203",
+      "title": "Mean Streets",
+      "year": 1973,
+      "director": "Martin Scorsese",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
+      "tmdbId": 203,
+      "popularity": 7.183,
+      "releaseDate": "1973-10-14",
+      "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
     },
     "tmdb:11976": {
       "key": "tmdb:11976",
@@ -1201,20 +1145,6 @@
       "releaseDate": "1965-01-06",
       "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
     },
-    "tmdb:203": {
-      "key": "tmdb:203",
-      "title": "Mean Streets",
-      "year": 1973,
-      "director": "Martin Scorsese",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
-      "tmdbId": 203,
-      "popularity": 7.183,
-      "releaseDate": "1973-10-14",
-      "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
-    },
     "tmdb:14537": {
       "key": "tmdb:14537",
       "title": "Harakiri",
@@ -1256,6 +1186,20 @@
       "popularity": 4.4246,
       "releaseDate": "1963-10-29",
       "overview": "Art film producer Jeremy Prokosch, unhappy with the work of his director, hires Fritz Lang (as himself) to direct an adaptation of The Odyssey, but when it seems that the legendary filmmaker is making a picture destined to bomb, he brings in a screenwriter to energise the script. The professional intersects with the personal when a rift develops between the writer and his wife."
+    },
+    "tmdb:27031": {
+      "key": "tmdb:27031",
+      "title": "Samurai Rebellion",
+      "year": 1967,
+      "director": "Masaki Kobayashi",
+      "runtime": 121,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
+      "tmdbId": 27031,
+      "popularity": 2.8506,
+      "releaseDate": "1967-05-27",
+      "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
     },
     "tmdb:843": {
       "key": "tmdb:843",
@@ -1427,92 +1371,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "grandlake:2026-10-13:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-13",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261013",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-13:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-13",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-13",
-      "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-10-13:18:15:t:filipinana",
-      "venueId": "newparkway",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-13",
-      "time": "18:15",
-      "url": "https://thenewparkway.com/movie/filipiana/",
-      "source": "newparkway"
-    },
-    {
-      "id": "grandlake:2026-10-13:19:00:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-13",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261013",
-      "source": "grandlake"
-    },
-    {
-      "id": "alamo:2026-10-13:19:00:tmdb:14353",
-      "venueId": "alamo",
-      "filmKey": "tmdb:14353",
-      "date": "2026-10-13",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/movie-party-repo-the-genetic-opera?cinemaId=0801&sessionId=82946",
-      "note": "Movie Parties · Catchy songs, flesh masks, and squishy human organs",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-10-13:19:30:tmdb:1226578",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1226578",
-      "date": "2026-10-13",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/longlegs-october-13",
-      "format": "35mm",
-      "note": "Projected on 35mm",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-13:20:00:tmdb:49728",
-      "venueId": "roxie",
-      "filmKey": "tmdb:49728",
-      "date": "2026-10-13",
-      "time": "20:00",
-      "url": "https://roxie.com/film/office-killer/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-13:20:35:tmdb:57447",
-      "venueId": "roxie",
-      "filmKey": "tmdb:57447",
-      "date": "2026-10-13",
-      "time": "20:35",
-      "url": "https://roxie.com/film/the-house-with-laughing-windows/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-13:21:15:tmdb:9871",
-      "venueId": "alamo",
-      "filmKey": "tmdb:9871",
-      "date": "2026-10-13",
-      "time": "21:15",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-ginger-snaps?cinemaId=0801&sessionId=82947",
-      "note": "Terror Tuesday · The ultimate feminist werewolf parable",
-      "source": "alamo"
-    },
     {
       "id": "grandlake:2026-10-14:16:30:tmdb:1596296",
       "venueId": "grandlake",
@@ -2920,6 +2778,16 @@
       "source": "bampfa"
     },
     {
+      "id": "4star:2026-11-08:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-08",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-society-of-rockets",
+      "note": "Society of Rockets",
+      "source": "4star"
+    },
+    {
       "id": "newparkway:2026-11-10:18:30:tmdb:18671",
       "venueId": "newparkway",
       "filmKey": "tmdb:18671",
@@ -2948,37 +2816,37 @@
       "url": "https://thenewparkway.com/movie/the-damned-dont-cry-noirvember/",
       "note": "Noirvember",
       "source": "newparkway"
+    },
+    {
+      "id": "operaplaza:2026-11-11:19:00:tmdb:203",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:203",
+      "date": "2026-11-11",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/236-mean-streets/",
+      "source": "operaplaza"
+    },
+    {
+      "id": "bampfa:2026-11-11:19:00:tmdb:27031",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:27031",
+      "date": "2026-11-11",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/samurai-rebellion",
+      "format": "35mm",
+      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
+      "source": "bampfa"
     }
   ],
   "festivals": [
     {
-      "key": "fest:alamo:fantastic fest presents baby day",
-      "name": "Fantastic Fest Presents · Baby Day",
-      "venueId": "alamo",
-      "startDate": "2026-10-13",
-      "endDate": "2026-10-13",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83562",
-      "showtimes": 1,
-      "sample": [
-        "Primetime"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-13",
-          "time": "15:50",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83562"
-        }
-      ]
-    },
-    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-10-13",
+      "startDate": "2026-10-14",
       "endDate": "2026-11-08",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83569",
-      "showtimes": 18,
+      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83572",
+      "showtimes": 16,
       "sample": [
         "Primetime",
         "Restoration at Grayson Manor",
@@ -2986,18 +2854,6 @@
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-10-13",
-          "time": "18:45",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83569"
-        },
-        {
-          "date": "2026-10-13",
-          "time": "21:40",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83563"
-        },
         {
           "date": "2026-10-14",
           "time": "15:10",
@@ -3624,6 +3480,51 @@
           "time": "19:00",
           "title": "Back to the Future",
           "url": "https://www.balboamovies.com/calendar-of-events/Back to the Future-november-15"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:san francisco underground short film festival 2026",
+      "name": "San Francisco Underground Short Film Festival 2026",
+      "venueId": "4star",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-1",
+      "showtimes": 4,
+      "sample": [
+        "First Program (presented by Media Meltdown)",
+        "Second Program (presented by Media Meltdown)",
+        "Third Program (presented by Media Meltdown)",
+        "Fourth Program (presented by Media Meltdown)"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-14",
+          "time": "14:15",
+          "title": "First Program (presented by Media Meltdown)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-1",
+          "note": "Media Meltdown Movie Madhouse"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "17:00",
+          "title": "Second Program (presented by Media Meltdown)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-2",
+          "note": "Media Meltdown Movie Madhouse"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "20:00",
+          "title": "Third Program (presented by Media Meltdown)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-3",
+          "note": "Media Meltdown Movie Madhouse"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "22:45",
+          "title": "Fourth Program (presented by Media Meltdown)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-3-5s7at",
+          "note": "Media Meltdown Movie Madhouse"
         }
       ]
     }
