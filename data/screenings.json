@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-10-14T17:41:16.401Z",
+  "generatedAt": "2026-10-15T17:27:34.792Z",
   "films": {
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-16.jpg"
-    },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
       "title": "Chronovisor",
@@ -175,6 +166,15 @@
       "popularity": 2.1736,
       "releaseDate": "1957-04-20",
       "overview": "In the last few days of the Warsaw Uprising during World War II, a modest group of Resistance members remains. The band must take refuge in the sewers under the orders of leader Zadra, but it's only a matter of time before they will have to emerge. However, when they try, they are met only with intense hostility from the Nazis. Despite their attempts stay resolute through immense mental strain, it becomes increasingly apparent that they may be doomed."
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-16.jpg"
     },
     "tmdb:1887": {
       "key": "tmdb:1887",
@@ -343,20 +343,6 @@
       "popularity": 1.0092,
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
-    },
-    "tmdb:8413": {
-      "key": "tmdb:8413",
-      "title": "Event Horizon",
-      "year": 1997,
-      "director": "Paul W. S. Anderson",
-      "runtime": 96,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
-      "tmdbId": 8413,
-      "popularity": 13.505,
-      "releaseDate": "1997-08-15",
-      "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
     },
     "tmdb:28055": {
       "key": "tmdb:28055",
@@ -579,6 +565,20 @@
       "releaseDate": "1971-01-01",
       "overview": "Two short stop-motion animated films. The first film, 'Life is Nice I Think', follows a mannequin as it moves around a building. The second film, '-Rex- King of the Animals', follows a toy monkey that interacts with various other animals."
     },
+    "tmdb:582913": {
+      "key": "tmdb:582913",
+      "title": "The Room",
+      "year": 2019,
+      "director": "Christian Volckman",
+      "runtime": 99,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/bWyQwZziHh1DK9F59eqahZD8Upc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/snbRXbkzEpc35mFDlwUg41cN8aw.jpg",
+      "tmdbId": 582913,
+      "popularity": 6.0879,
+      "releaseDate": "2019-09-12",
+      "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
+    },
     "tmdb:239": {
       "key": "tmdb:239",
       "title": "Some Like It Hot",
@@ -709,10 +709,6 @@
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
       "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
     },
-    "t:finn wolfhard": {
-      "key": "t:finn wolfhard",
-      "title": "Finn Wolfhard"
-    },
     "tmdb:39264": {
       "key": "tmdb:39264",
       "title": "Godzilla vs. Megalon",
@@ -825,20 +821,6 @@
       "releaseDate": "1986-10-24",
       "overview": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of his unreleased album, which, when played backwards, brings the rocker back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll...It's life and death."
     },
-    "tmdb:67298": {
-      "key": "tmdb:67298",
-      "title": "Lisztomania",
-      "year": 1975,
-      "director": "Ken Russell",
-      "runtime": 103,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/slkgkRL8hu0Sj4sOkcb8NSkwdGd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6SuOxhp79bAdisY61ItOxqSVgbi.jpg",
-      "tmdbId": 67298,
-      "popularity": 2.2837,
-      "releaseDate": "1975-10-01",
-      "overview": "In the 19th century, Romantic composer/pianist Franz Liszt tries to end his hedonistic ways but keeps getting sucked back in by his seductive fellow composer Richard Wagner."
-    },
     "tmdb:22293": {
       "key": "tmdb:22293",
       "title": "\"MANOS\" The Hands of Fate",
@@ -879,6 +861,20 @@
       "popularity": 0.7382,
       "releaseDate": "1983-06-15",
       "overview": "The Fall of the I-Hotel brings to life the battle for housing in San Francisco. The brutal eviction of the International Hotel's tenants culminated a decade of spirited resistance to the razing of Manilatown. The Fall of the I-Hotel works on several levels. It not only documents the struggle to save the I-Hotel, but also gives an overview of Filipino American history."
+    },
+    "tmdb:448491": {
+      "key": "tmdb:448491",
+      "title": "Little Forest",
+      "year": 2018,
+      "director": "Yim Soon-rye",
+      "runtime": 103,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/gKmPuyjmALswSQUF94PWXoAvkKM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vTw1MjLJfCFzFdq5iElKpjI0LIV.jpg",
+      "tmdbId": 448491,
+      "popularity": 7.4868,
+      "releaseDate": "2018-02-28",
+      "overview": "A young woman leaves the city to return to her hometown in the countryside. Seeking to escape the hustle and bustle of the city, she becomes self-sufficient in a bid to reconnect with nature."
     },
     "tmdb:203": {
       "key": "tmdb:203",
@@ -963,20 +959,6 @@
       "popularity": 5.8665,
       "releaseDate": "1954-03-05",
       "overview": "When scientists exploring the Amazon River stumble on a “missing link” connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fiancée, Kay."
-    },
-    "tmdb:12122": {
-      "key": "tmdb:12122",
-      "title": "Village of the Damned",
-      "year": 1995,
-      "director": "John Carpenter",
-      "runtime": 98,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/hDNZHzYy62mOAsby0PTadKQh7so.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/udqpyMs0zvaP9MjETzhWg04zVKe.jpg",
-      "tmdbId": 12122,
-      "popularity": 4.3625,
-      "releaseDate": "1995-04-28",
-      "overview": "An American village is visited by some unknown life form which leaves the women of the village pregnant. Nine months later, the babies are born, and they all look normal, but it doesn't take the \"parents\" long to realize that the kids are not human or humane."
     },
     "tmdb:15855": {
       "key": "tmdb:15855",
@@ -1201,19 +1183,19 @@
       "releaseDate": "1967-05-27",
       "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
     },
-    "tmdb:843": {
-      "key": "tmdb:843",
-      "title": "In the Mood for Love",
-      "year": 2000,
-      "director": "Wong Kar-Wai",
-      "runtime": 99,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
-      "tmdbId": 843,
-      "popularity": 14.741,
-      "releaseDate": "2000-09-29",
-      "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love."
+    "tmdb:8073": {
+      "key": "tmdb:8073",
+      "title": "Band of Outsiders",
+      "year": 1964,
+      "director": "Jean-Luc Godard",
+      "runtime": 97,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/9oqyj79xmcypxLajJdefOtrYx64.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
+      "tmdbId": 8073,
+      "popularity": 5.1667,
+      "releaseDate": "1964-08-05",
+      "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want."
     },
     "tmdb:1694": {
       "key": "tmdb:1694",
@@ -1228,6 +1210,34 @@
       "popularity": 6.5151,
       "releaseDate": "1985-10-18",
       "overview": "Conducting clandestine experiments within the morgue at Miskatonic University, scientist Herbert West reveals to a fellow graduate student his groundbreaking work concerning the re-animation of fresh corpses."
+    },
+    "tmdb:653": {
+      "key": "tmdb:653",
+      "title": "Nosferatu",
+      "year": 1922,
+      "director": "F. W. Murnau",
+      "runtime": 94,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cA9iGtvjRGJHzDBfrq48l0eyCvA.jpg",
+      "tmdbId": 653,
+      "popularity": 6.1107,
+      "releaseDate": "1922-02-16",
+      "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
+    },
+    "tmdb:19316": {
+      "key": "tmdb:19316",
+      "title": "Saving Face",
+      "year": 2004,
+      "director": "Alice Wu",
+      "runtime": 97,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/7XbbgkKi4nEMOu9iwiANXpjKKhe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/piT1WWJlC0ebUVpAWI1SBwg2Vdq.jpg",
+      "tmdbId": 19316,
+      "popularity": 3.2256,
+      "releaseDate": "2004-09-12",
+      "overview": "A Chinese-American lesbian and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations."
     },
     "tmdb:9637": {
       "key": "tmdb:9637",
@@ -1341,6 +1351,20 @@
       "releaseDate": "1950-05-13",
       "overview": "Fed up with her small-town marriage, a woman goes after the big time and gets mixed up with the mob."
     },
+    "tmdb:8413": {
+      "key": "tmdb:8413",
+      "title": "Event Horizon",
+      "year": 1997,
+      "director": "Paul W. S. Anderson",
+      "runtime": 96,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
+      "tmdbId": 8413,
+      "popularity": 13.505,
+      "releaseDate": "1997-08-15",
+      "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
+    },
     "tmdb:46838": {
       "key": "tmdb:46838",
       "title": "Tucker and Dale vs. Evil",
@@ -1371,91 +1395,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "grandlake:2026-10-14:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-14",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261014",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-10-14:17:00:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-14",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-14",
-      "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-10-14:18:15:tmdb:843",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:843",
-      "date": "2026-10-14",
-      "time": "18:15",
-      "url": "https://thenewparkway.com/movie/in-the-mood-for-love/",
-      "source": "newparkway"
-    },
-    {
-      "id": "operaplaza:2026-10-14:19:00:tmdb:12122",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:12122",
-      "date": "2026-10-14",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/12978-village-of-the-damned-1995/",
-      "note": "Filmmaker Focus - John Carpenter",
-      "source": "operaplaza"
-    },
-    {
-      "id": "balboa:2026-10-14:19:30:tmdb:8413",
-      "venueId": "balboa",
-      "filmKey": "tmdb:8413",
-      "date": "2026-10-14",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/event-horizon-october-14",
-      "source": "balboa"
-    },
-    {
-      "id": "grandlake:2026-10-14:19:35:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-14",
-      "time": "19:35",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261014",
-      "source": "grandlake"
-    },
-    {
-      "id": "castro:2026-10-14:20:00:t:finn wolfhard",
-      "venueId": "castro",
-      "filmKey": "t:finn wolfhard",
-      "date": "2026-10-14",
-      "time": "20:00",
-      "url": "https://thecastro.com/events/finn-wolfhard-261014",
-      "note": "The Common Side Effects Tour",
-      "source": "castro"
-    },
-    {
-      "id": "roxie:2026-10-14:20:30:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-14",
-      "time": "20:30",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-14:21:20:tmdb:67298",
-      "venueId": "alamo",
-      "filmKey": "tmdb:67298",
-      "date": "2026-10-14",
-      "time": "21:20",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-lisztomania?cinemaId=0801&sessionId=83316",
-      "format": "35mm",
-      "note": "Weird Wednesday · The surreal life of rock star composer Franz Liszt.",
-      "source": "alamo"
-    },
     {
       "id": "balboa:2026-10-15:16:30:tmdb:1596296",
       "venueId": "balboa",
@@ -1835,6 +1774,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-10-18:15:20:tmdb:653",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:653",
+      "date": "2026-10-18",
+      "time": "15:20",
+      "url": "https://thenewparkway.com/movie/nosferatu-1922/",
+      "source": "newparkway"
+    },
+    {
       "id": "balboa:2026-10-18:17:00:tmdb:5842",
       "venueId": "balboa",
       "filmKey": "tmdb:5842",
@@ -1843,6 +1791,15 @@
       "url": "https://www.balboamovies.com/calendar-of-events/versus-october-18",
       "note": "Samurai Rebellion",
       "source": "balboa"
+    },
+    {
+      "id": "newparkway:2026-10-18:17:25:tmdb:19316",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:19316",
+      "date": "2026-10-18",
+      "time": "17:25",
+      "url": "https://thenewparkway.com/movie/saving-face/",
+      "source": "newparkway"
     },
     {
       "id": "bampfa:2026-10-18:19:00:tmdb:262",
@@ -1882,6 +1839,15 @@
       "time": "20:10",
       "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261018",
       "source": "grandlake"
+    },
+    {
+      "id": "newparkway:2026-10-18:21:30:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-18",
+      "time": "21:30",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
     },
     {
       "id": "balboa:2026-10-19:19:30:tmdb:846867",
@@ -2017,6 +1983,15 @@
       "source": "vogue"
     },
     {
+      "id": "newparkway:2026-10-22:17:00:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-22",
+      "time": "17:00",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
+    },
+    {
       "id": "bampfa:2026-10-22:19:00:tmdb:269",
       "venueId": "bampfa",
       "filmKey": "tmdb:269",
@@ -2037,15 +2012,6 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-10-22:20:30:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-22",
-      "time": "20:30",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-10-22:20:30:tmdb:1596296",
       "venueId": "roxie",
       "filmKey": "tmdb:1596296",
@@ -2055,13 +2021,13 @@
       "source": "roxie"
     },
     {
-      "id": "newparkway:2026-10-22:21:25:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
+      "id": "roxie:2026-10-22:20:30:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
       "date": "2026-10-22",
-      "time": "21:25",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
+      "time": "20:30",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
     },
     {
       "id": "newparkway:2026-10-22:21:30:tmdb:9637",
@@ -2103,6 +2069,15 @@
       "source": "balboa"
     },
     {
+      "id": "newparkway:2026-10-23:22:30:tmdb:377",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:377",
+      "date": "2026-10-23",
+      "time": "22:30",
+      "url": "https://thenewparkway.com/movie/nightmare-on-elm-street/",
+      "source": "newparkway"
+    },
+    {
       "id": "piedmont:2026-10-23:22:30:tmdb:8413",
       "venueId": "piedmont",
       "filmKey": "tmdb:8413",
@@ -2111,15 +2086,6 @@
       "url": "https://www.landmarktheatres.com/movies/17491-event-horizon/",
       "note": "Cine Insomnia - Scary Spaces",
       "source": "piedmont"
-    },
-    {
-      "id": "newparkway:2026-10-23:22:30:tmdb:377",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:377",
-      "date": "2026-10-23",
-      "time": "22:30",
-      "url": "https://thenewparkway.com/movie/nightmare-on-elm-street/",
-      "source": "newparkway"
     },
     {
       "id": "4star:2026-10-24:10:00:tmdb:8839",
@@ -2738,6 +2704,15 @@
       "source": "4star"
     },
     {
+      "id": "balboa:2026-11-07:23:00:tmdb:582913",
+      "venueId": "balboa",
+      "filmKey": "tmdb:582913",
+      "date": "2026-11-07",
+      "time": "23:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-room-november-7",
+      "source": "balboa"
+    },
+    {
       "id": "bampfa:2026-11-08:13:30:tmdb:31217",
       "venueId": "bampfa",
       "filmKey": "tmdb:31217",
@@ -2836,122 +2811,40 @@
       "format": "35mm",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
       "source": "bampfa"
+    },
+    {
+      "id": "sfmoma:2026-11-12:18:30:tmdb:448491",
+      "venueId": "sfmoma",
+      "filmKey": "tmdb:448491",
+      "date": "2026-11-12",
+      "time": "18:30",
+      "url": "https://www.sfmoma.org/event/little-forest-film-screening-conversation/",
+      "note": "a special screening of the delightful foodie film \"Little Forest\" followed by a conversation with the filmmaker Yim Soon-Rye.",
+      "source": "sfmoma"
+    },
+    {
+      "id": "bampfa:2026-11-12:19:00:tmdb:8073",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:8073",
+      "date": "2026-11-12",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/band-outsiders",
+      "format": "DCP",
+      "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-11-12:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-12",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-school-fair",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:alamo:fantastic fest presents",
-      "name": "Fantastic Fest Presents",
-      "venueId": "alamo",
-      "startDate": "2026-10-14",
-      "endDate": "2026-11-08",
-      "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83572",
-      "showtimes": 16,
-      "sample": [
-        "Primetime",
-        "Restoration at Grayson Manor",
-        "The Cycle",
-        "Wild Horse Nine"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-14",
-          "time": "15:10",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83572"
-        },
-        {
-          "date": "2026-10-14",
-          "time": "18:20",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83581"
-        },
-        {
-          "date": "2026-10-14",
-          "time": "21:00",
-          "title": "Primetime",
-          "url": "https://drafthouse.com/sf/show/primetime?cinemaId=0801&sessionId=83573"
-        },
-        {
-          "date": "2026-10-20",
-          "time": "19:00",
-          "title": "The Cycle",
-          "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "21:30",
-          "title": "Restoration at Grayson Manor",
-          "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
-        }
-      ]
-    },
     {
       "key": "fest:roxie:2026 hump film festival",
       "name": "2026 HUMP! Film Festival",
@@ -3210,6 +3103,100 @@
       ]
     },
     {
+      "key": "fest:alamo:fantastic fest presents",
+      "name": "Fantastic Fest Presents",
+      "venueId": "alamo",
+      "startDate": "2026-10-20",
+      "endDate": "2026-11-08",
+      "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040",
+      "showtimes": 13,
+      "sample": [
+        "Restoration at Grayson Manor",
+        "The Cycle",
+        "Wild Horse Nine"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-20",
+          "time": "19:00",
+          "title": "The Cycle",
+          "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040"
+        },
+        {
+          "date": "2026-10-29",
+          "time": "21:30",
+          "title": "Restoration at Grayson Manor",
+          "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
+        }
+      ]
+    },
+    {
       "key": "fest:roxie:sf latino film festival",
       "name": "SF Latino Film Festival",
       "venueId": "roxie",
@@ -3292,6 +3279,26 @@
           "time": "13:00",
           "title": "San Quentin Film Festival 2026",
           "url": "https://roxie.com/film/san-quentin-film-festival-2026/"
+        }
+      ]
+    },
+    {
+      "key": "fest:ata:bonds of belonging shorts program",
+      "name": "Bonds of Belonging Shorts Program",
+      "venueId": "ata",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "url": "https://www.atasite.org/event/cinemas-bonds-of-belonging-shorts-program/",
+      "showtimes": 1,
+      "sample": [
+        "Cine+Mas: Bonds of Belonging Shorts Program"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-24",
+          "time": "14:00",
+          "title": "Cine+Mas: Bonds of Belonging Shorts Program",
+          "url": "https://www.atasite.org/event/cinemas-bonds-of-belonging-shorts-program/"
         }
       ]
     },
