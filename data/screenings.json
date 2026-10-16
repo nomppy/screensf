@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-10-15T17:27:34.792Z",
+  "generatedAt": "2026-10-16T17:05:04.243Z",
   "films": {
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
     "tmdb:50173": {
       "key": "tmdb:50173",
       "title": "Jigoku",
@@ -138,6 +124,20 @@
       "popularity": 1.6241,
       "releaseDate": "2020-02-28",
       "overview": "Author Barry Gifford's gritty autobiographical stories of growing up in 1950s Chicago provide the backdrop for an impressionistic documentary portrait of a vanished time and place."
+    },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
     },
     "tmdb:3019": {
       "key": "tmdb:3019",
@@ -343,20 +343,6 @@
       "popularity": 1.0092,
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
-    },
-    "tmdb:28055": {
-      "key": "tmdb:28055",
-      "title": "Blood and Black Lace",
-      "year": 1964,
-      "director": "Mario Bava",
-      "runtime": 88,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/zYCQjsdktEvlWTRap836iI5paEL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6eW84lUWSJ09OuWTCNOmTY1i2Cm.jpg",
-      "tmdbId": 28055,
-      "popularity": 3.9825,
-      "releaseDate": "1964-03-14",
-      "overview": "Isabella, a young model, is murdered by a mysterious masked figure at a fashion house in Rome. When her diary, which details the house employees' many vices, disappears, the masked killer begins killing off all the models in and around the house to find it."
     },
     "tmdb:18415": {
       "key": "tmdb:18415",
@@ -578,20 +564,6 @@
       "popularity": 6.0879,
       "releaseDate": "2019-09-12",
       "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
-    },
-    "tmdb:239": {
-      "key": "tmdb:239",
-      "title": "Some Like It Hot",
-      "year": 1959,
-      "director": "Billy Wilder",
-      "runtime": 123,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
-      "tmdbId": 239,
-      "popularity": 9.6948,
-      "releaseDate": "1959-03-19",
-      "overview": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in."
     },
     "tmdb:25389": {
       "key": "tmdb:25389",
@@ -974,19 +946,6 @@
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
     },
-    "tmdb:702789": {
-      "key": "tmdb:702789",
-      "title": "Collaborations",
-      "year": 2014,
-      "director": "Gabriel Le Bomin",
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/1ktuEsr06d1e3PbTuMGP0tL5Wy2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/lyClMCgJhyHtxHpeQjvz9QOcEzX.jpg",
-      "tmdbId": 702789,
-      "popularity": 1.9905,
-      "releaseDate": "2014-02-10",
-      "overview": "Stefanie Schulte Strathaus has spent a considerable amount of time living in Cairo and working closely with the staff at Cimatheque – Alternative Film Centre. She presents two recently completed restorations by the Egyptian archive. Sad Song of Touha by Atteyat Al Abnoudy is a dreamlike portrait of Cairo’s street performers, whose stories are told by the voice of poet Abdel Rahman El-Abnoudy. Hussein Shariffe’s The Dislocation of Amber was filmed in the city of Suakin, formerly a flourishing port in Sudan, now reduced to ruins. Also shown will be a selection of home movies shot in Egypt from the Rafla Collection, amassed by Magdy Rafla, a jeweler who was also a passionate film collector."
-    },
     "tmdb:1578": {
       "key": "tmdb:1578",
       "title": "Raging Bull",
@@ -1197,6 +1156,20 @@
       "releaseDate": "1964-08-05",
       "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want."
     },
+    "tmdb:200976": {
+      "key": "tmdb:200976",
+      "title": "Waikiki Brothers",
+      "year": 2001,
+      "director": "Yim Soon-rye",
+      "runtime": 109,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/id9ROvLlzbsmIYvnnks4OUZ12sB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gs1ADlbXHQv8DSX0Qe3rsetNt7b.jpg",
+      "tmdbId": 200976,
+      "popularity": 2.0336,
+      "releaseDate": "2001-10-27",
+      "overview": "Waikiki Brothers is a band going nowhere. After another depressing gig, the saxophonist quits, leaving the three remaining members to continue on the road. The band ends up at the lead singer's hometown, which was a popular hot spring resort in the '80s, but the return home is filled with reservations of previous and past disappointments, a lost love, unemployment and tragedy."
+    },
     "tmdb:1694": {
       "key": "tmdb:1694",
       "title": "Re-Animator",
@@ -1395,64 +1368,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "balboa:2026-10-15:16:30:tmdb:1596296",
-      "venueId": "balboa",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-15",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-history-of-concrete-october-15",
-      "note": "Final Show",
-      "source": "balboa"
-    },
-    {
-      "id": "grandlake:2026-10-15:16:30:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-15",
-      "time": "16:30",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261015",
-      "source": "grandlake"
-    },
-    {
-      "id": "roxie:2026-10-15:18:40:tmdb:1599181",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-10-15",
-      "time": "18:40",
-      "url": "https://roxie.com/film/chronovisor/",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-10-15:19:00:tmdb:702789",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:702789",
-      "date": "2026-10-15",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/collaborations-cairos-cimatheque",
-      "note": "Stefanie Schulte Strathaus: Modes of Archivism",
-      "source": "bampfa"
-    },
-    {
-      "id": "balboa:2026-10-15:19:30:tmdb:28055",
-      "venueId": "balboa",
-      "filmKey": "tmdb:28055",
-      "date": "2026-10-15",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/blood-and-black-lace-october-15",
-      "note": "Presented by Gallery 3630",
-      "source": "balboa"
-    },
-    {
-      "id": "vogue:2026-10-15:19:30:tmdb:239",
-      "venueId": "vogue",
-      "filmKey": "tmdb:239",
-      "date": "2026-10-15",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/some-like-it-hot-october-15",
-      "note": "Some Like It Hot",
-      "source": "vogue"
-    },
     {
       "id": "vogue:2026-10-16:17:00:tmdb:1596296",
       "venueId": "vogue",
@@ -2842,54 +2757,35 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-school-fair",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "bampfa:2026-11-13:16:00:tmdb:200976",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:200976",
+      "date": "2026-11-13",
+      "time": "16:00",
+      "url": "https://bampfa.org/event/waikiki-brothers",
+      "format": "DCP",
+      "note": "Yim Soon-rye in Person · In Conversation: Yim Soon-rye, Kyu Hyun Kim",
+      "source": "bampfa"
     }
   ],
   "festivals": [
     {
-      "key": "fest:roxie:2026 hump film festival",
-      "name": "2026 HUMP! Film Festival",
-      "venueId": "roxie",
-      "startDate": "2026-10-15",
-      "endDate": "2026-10-15",
-      "url": "https://www.humpfilmfest.com/",
-      "showtimes": 2,
-      "sample": [],
-      "programme": [
-        {
-          "date": "2026-10-15",
-          "time": "18:30",
-          "title": "2026 HUMP! Film Festival",
-          "url": "https://roxie.com/film/2026-hump-film-festival/"
-        },
-        {
-          "date": "2026-10-15",
-          "time": "21:00",
-          "title": "2026 HUMP! Film Festival",
-          "url": "https://roxie.com/film/2026-hump-film-festival/"
-        }
-      ]
-    },
-    {
       "key": "fest:4star:green film festival",
       "name": "GREEN FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-15",
+      "startDate": "2026-10-16",
       "endDate": "2026-10-22",
-      "url": "https://www.4-star-movies.com/calendar-of-events/hen-green-film",
-      "showtimes": 13,
+      "url": "https://www.4-star-movies.com/calendar-of-events/dont-be-prey-green",
+      "showtimes": 12,
       "sample": [
-        "Hen (Opening Night!)",
         "Don't Be Prey (with The Locals)",
         "Animal Conservation Shorts",
-        "In Excess (with Elders of Time)"
+        "In Excess (with Elders of Time)",
+        "Best Day Ever (with Other Shorts)"
       ],
       "programme": [
-        {
-          "date": "2026-10-15",
-          "time": "18:00",
-          "title": "Hen (Opening Night!)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/hen-green-film"
-        },
         {
           "date": "2026-10-16",
           "time": "18:00",
@@ -2968,23 +2864,17 @@
       "key": "fest:4star:sf short film festival",
       "name": "SF SHORT FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-15",
+      "startDate": "2026-10-16",
       "endDate": "2026-10-21",
-      "url": "https://www.4-star-movies.com/calendar-of-events/opening-night-shorts",
-      "showtimes": 7,
+      "url": "https://www.4-star-movies.com/calendar-of-events/funny-shorts",
+      "showtimes": 6,
       "sample": [
-        "Opening Night Shorts",
         "Funny Shorts",
         "Animated Shorts",
-        "True Stories Shorts"
+        "True Stories Shorts",
+        "Spontaneous Connections Shorts"
       ],
       "programme": [
-        {
-          "date": "2026-10-15",
-          "time": "20:15",
-          "title": "Opening Night Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/opening-night-shorts"
-        },
         {
           "date": "2026-10-16",
           "time": "20:30",
