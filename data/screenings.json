@@ -1,62 +1,6 @@
 {
-  "generatedAt": "2026-10-16T17:05:04.243Z",
+  "generatedAt": "2026-10-17T16:03:02.244Z",
   "films": {
-    "tmdb:50173": {
-      "key": "tmdb:50173",
-      "title": "Jigoku",
-      "year": 1960,
-      "director": "Nobuo Nakagawa",
-      "runtime": 99,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/ehiMOuKE7i9WHgvs7dSIZelsHwA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4ZVAAGCGDYncbZhjEgnfU1v2iQD.jpg",
-      "tmdbId": 50173,
-      "popularity": 2.081,
-      "releaseDate": "1960-07-30",
-      "overview": "A group of sinners involved in interconnected tales of murder, revenge, deceit and adultery all meet at the Gates of Hell."
-    },
-    "tmdb:2649": {
-      "key": "tmdb:2649",
-      "title": "The Game",
-      "year": 1997,
-      "director": "David Fincher",
-      "runtime": 129,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
-      "tmdbId": 2649,
-      "popularity": 11.9202,
-      "releaseDate": "1997-09-12",
-      "overview": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins."
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:25623": {
-      "key": "tmdb:25623",
-      "title": "House",
-      "year": 1977,
-      "director": "Nobuhiko Obayashi",
-      "runtime": 88,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "tmdbId": 25623,
-      "popularity": 3.9413,
-      "releaseDate": "1977-08-26",
-      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye."
-    },
     "tmdb:7857": {
       "key": "tmdb:7857",
       "title": "Amarcord",
@@ -85,6 +29,20 @@
       "releaseDate": "1990-01-12",
       "overview": "Iris is a shy and dowdy young woman stuck in a dead-end job at a match factory, who dreams of finding love at the local dancehall. Finding herself pregnant after a one-night stand and abandoned by the father, Iris finally decides the time has come to get even and she begins to plot her revenge."
     },
+    "tmdb:50173": {
+      "key": "tmdb:50173",
+      "title": "Jigoku",
+      "year": 1960,
+      "director": "Nobuo Nakagawa",
+      "runtime": 99,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/ehiMOuKE7i9WHgvs7dSIZelsHwA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4ZVAAGCGDYncbZhjEgnfU1v2iQD.jpg",
+      "tmdbId": 50173,
+      "popularity": 2.081,
+      "releaseDate": "1960-07-30",
+      "overview": "A group of sinners involved in interconnected tales of murder, revenge, deceit and adultery all meet at the Gates of Hell."
+    },
     "tmdb:638": {
       "key": "tmdb:638",
       "title": "Lost Highway",
@@ -98,6 +56,20 @@
       "popularity": 10.2926,
       "releaseDate": "1997-01-15",
       "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell."
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:1175473": {
       "key": "tmdb:1175473",
@@ -343,20 +315,6 @@
       "popularity": 1.0092,
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
-    },
-    "tmdb:18415": {
-      "key": "tmdb:18415",
-      "title": "Gummo",
-      "year": 1997,
-      "director": "Harmony Korine",
-      "runtime": 89,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
-      "tmdbId": 18415,
-      "popularity": 3.8657,
-      "releaseDate": "1997-10-17",
-      "overview": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s."
     },
     "tmdb:377": {
       "key": "tmdb:377",
@@ -709,20 +667,6 @@
       "releaseDate": "1978-10-24",
       "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again."
     },
-    "tmdb:9064": {
-      "key": "tmdb:9064",
-      "title": "Hellbound: Hellraiser II",
-      "year": 1988,
-      "director": "Tony Randel",
-      "runtime": 97,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/auPOq1wgZuYSaADejOskBKG6fuV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pl5OzUABUK5AgAsMlQg2VyybRHL.jpg",
-      "tmdbId": 9064,
-      "popularity": 6.5927,
-      "releaseDate": "1988-12-23",
-      "overview": "Now confined to a mental hospital, young Kirsty insists her supposedly dead father is actually stuck in Hell following his wife’s betrayal. Few believe the young woman’s lurid stories aside from the thrill-seeking Dr. Channard. Kirsty is undeterred and, with the help of a fellow patient, heads to Hell for a rescue."
-    },
     "tmdb:46175": {
       "key": "tmdb:46175",
       "title": "Daughters of Darkness",
@@ -862,20 +806,6 @@
       "releaseDate": "1973-10-14",
       "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
     },
-    "tmdb:11976": {
-      "key": "tmdb:11976",
-      "title": "Legend",
-      "year": 1985,
-      "director": "Ridley Scott",
-      "runtime": 94,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/6n3PQSYpZRK5YPk2w8JEwED7AZk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/3g8rLMw0SbA0h2GHiOCBoqFTXVq.jpg",
-      "tmdbId": 11976,
-      "popularity": 11.1703,
-      "releaseDate": "1985-08-28",
-      "overview": "Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess  Lili and defeat the demonic Lord of Darkness, or the world will be plunged into a never-ending ice age."
-    },
     "tmdb:564": {
       "key": "tmdb:564",
       "title": "The Mummy",
@@ -945,20 +875,6 @@
       "popularity": 3.7208,
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
-    },
-    "tmdb:1578": {
-      "key": "tmdb:1578",
-      "title": "Raging Bull",
-      "year": 1980,
-      "director": "Martin Scorsese",
-      "runtime": 129,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
-      "tmdbId": 1578,
-      "popularity": 9.0655,
-      "releaseDate": "1980-11-14",
-      "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
     },
     "tmdb:43231": {
       "key": "tmdb:43231",
@@ -1170,6 +1086,20 @@
       "releaseDate": "2001-10-27",
       "overview": "Waikiki Brothers is a band going nowhere. After another depressing gig, the saxophonist quits, leaving the three remaining members to continue on the road. The band ends up at the lead singer's hometown, which was a popular hot spring resort in the '80s, but the return home is filled with reservations of previous and past disappointments, a lost love, unemployment and tragedy."
     },
+    "tmdb:103": {
+      "key": "tmdb:103",
+      "title": "Taxi Driver",
+      "year": 1976,
+      "director": "Martin Scorsese",
+      "runtime": 114,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg",
+      "tmdbId": 103,
+      "popularity": 22.5478,
+      "releaseDate": "1976-02-09",
+      "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city."
+    },
     "tmdb:1694": {
       "key": "tmdb:1694",
       "title": "Re-Animator",
@@ -1324,6 +1254,20 @@
       "releaseDate": "1950-05-13",
       "overview": "Fed up with her small-town marriage, a woman goes after the big time and gets mixed up with the mob."
     },
+    "tmdb:996": {
+      "key": "tmdb:996",
+      "title": "Double Indemnity",
+      "year": 1944,
+      "director": "Billy Wilder",
+      "runtime": 107,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/rVNYZZgfhwqVMMWlBmxOfWqnwCj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/byQdu1nzQLI9t1VeoP1xuQfru3L.jpg",
+      "tmdbId": 996,
+      "popularity": 7.8207,
+      "releaseDate": "1944-07-06",
+      "overview": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator."
+    },
     "tmdb:8413": {
       "key": "tmdb:8413",
       "title": "Event Horizon",
@@ -1337,20 +1281,6 @@
       "popularity": 13.505,
       "releaseDate": "1997-08-15",
       "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
-    },
-    "tmdb:46838": {
-      "key": "tmdb:46838",
-      "title": "Tucker and Dale vs. Evil",
-      "year": 2010,
-      "director": "Eli Craig",
-      "runtime": 89,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/8shwLEDzajJGSfLgbpac8x8xn1U.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kgaQLCOpH8K5kZZRmeiI4btSrl0.jpg",
-      "tmdbId": 46838,
-      "popularity": 8.2768,
-      "releaseDate": "2010-01-22",
-      "overview": "Two hillbillies are suspected of being killers by a group of paranoid college kids camping near the duo's West Virginian cabin. As the body count climbs, so does the fear and confusion as the college kids try to seek revenge against the pair."
     },
     "tmdb:11547": {
       "key": "tmdb:11547",
@@ -1368,138 +1298,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "vogue:2026-10-16:17:00:tmdb:1596296",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-16",
-      "time": "17:00",
-      "url": "https://voguemovies.com/calendar-of-events/the-history-of-concrete-october-16",
-      "source": "vogue"
-    },
-    {
-      "id": "roxie:2026-10-16:18:15:tmdb:50173",
-      "venueId": "roxie",
-      "filmKey": "tmdb:50173",
-      "date": "2026-10-16",
-      "time": "18:15",
-      "url": "https://roxie.com/film/new-people-jigoku/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-16:19:00:tmdb:2649",
-      "venueId": "roxie",
-      "filmKey": "tmdb:2649",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-the-game/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-16:19:00:tmdb:9064",
-      "venueId": "alamo",
-      "filmKey": "tmdb:9064",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/hellbound-hellraiser-ii?cinemaId=0801&sessionId=83039",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-10-16:19:00:tmdb:1578",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:1578",
-      "date": "2026-10-16",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/raging-bull",
-      "format": "4K",
-      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "balboa:2026-10-16:19:30:tmdb:18415",
-      "venueId": "balboa",
-      "filmKey": "tmdb:18415",
-      "date": "2026-10-16",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/gummo-october-16",
-      "source": "balboa"
-    },
-    {
-      "id": "ata:2026-10-16:20:00:tmdb:449576",
-      "venueId": "ata",
-      "filmKey": "tmdb:449576",
-      "date": "2026-10-16",
-      "time": "20:00",
-      "url": "https://www.atasite.org/event/an-evening-with-mike-kuchar/",
-      "format": "8mm",
-      "source": "ata"
-    },
-    {
-      "id": "roxie:2026-10-16:20:05:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-16",
-      "time": "20:05",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-16:20:10:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-16",
-      "time": "20:10",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "grandlake:2026-10-16:20:10:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-16",
-      "time": "20:10",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261016",
-      "source": "grandlake"
-    },
-    {
-      "id": "roxie:2026-10-16:20:30:tmdb:25623",
-      "venueId": "roxie",
-      "filmKey": "tmdb:25623",
-      "date": "2026-10-16",
-      "time": "20:30",
-      "url": "https://roxie.com/film/new-people-hausu/",
-      "source": "roxie"
-    },
-    {
-      "id": "operaplaza:2026-10-16:20:30:tmdb:11976",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:11976",
-      "date": "2026-10-16",
-      "time": "20:30",
-      "url": "https://www.landmarktheatres.com/movies/541-legend-1986/",
-      "note": "Honoring Tim Curry, an Icon of Stage and ScreenHosted by Peaches Christwith a special screening of Legend",
-      "source": "operaplaza"
-    },
-    {
-      "id": "newparkway:2026-10-16:22:30:tmdb:8337",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:8337",
-      "date": "2026-10-16",
-      "time": "22:30",
-      "url": "https://thenewparkway.com/movie/they-live/",
-      "source": "newparkway"
-    },
-    {
-      "id": "piedmont:2026-10-16:22:30:tmdb:46838",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:46838",
-      "date": "2026-10-16",
-      "time": "22:30",
-      "url": "https://www.landmarktheatres.com/movies/176961-tucker-and-dale-vs-evil/",
-      "note": "Cine Insomnia - Scary Spaces",
-      "source": "piedmont"
-    },
     {
       "id": "roxie:2026-10-17:12:30:tmdb:7857",
       "venueId": "roxie",
@@ -1578,21 +1376,21 @@
       "source": "bampfa"
     },
     {
-      "id": "roxie:2026-10-17:20:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-17",
-      "time": "20:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-10-17:20:00:tmdb:638",
       "venueId": "roxie",
       "filmKey": "tmdb:638",
       "date": "2026-10-17",
       "time": "20:00",
       "url": "https://roxie.com/film/lost-highway/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-17:20:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-17",
+      "time": "20:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
     },
     {
@@ -2043,6 +1841,15 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-10-24:19:30:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-24",
+      "time": "19:30",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-10-25:10:00:tmdb:8839",
       "venueId": "4star",
       "filmKey": "tmdb:8839",
@@ -2062,6 +1869,15 @@
       "source": "alamo"
     },
     {
+      "id": "roxie:2026-10-25:15:00:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-10-25",
+      "time": "15:00",
+      "url": "https://roxie.com/film/chronovisor/",
+      "source": "roxie"
+    },
+    {
       "id": "balboa:2026-10-25:17:30:tmdb:8337",
       "venueId": "balboa",
       "filmKey": "tmdb:8337",
@@ -2070,15 +1886,6 @@
       "url": "https://www.balboamovies.com/calendar-of-events/they-live-october-25",
       "note": "Presented by on VHS by Warped VHS and Another Hole in the Head",
       "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-25:18:00:tmdb:9845",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9845",
-      "date": "2026-10-25",
-      "time": "18:00",
-      "url": "https://roxie.com/film/perdita-durango/",
-      "source": "roxie"
     },
     {
       "id": "newparkway:2026-10-25:18:30:tmdb:252171",
@@ -2099,6 +1906,24 @@
       "format": "4K",
       "note": "Martin Scorsese Pictures · 4K Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-10-25:19:20:tmdb:9845",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9845",
+      "date": "2026-10-25",
+      "time": "19:20",
+      "url": "https://roxie.com/film/perdita-durango/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-25:20:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-25",
+      "time": "20:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "balboa:2026-10-25:20:00:tmdb:27274",
@@ -2168,6 +1993,15 @@
       "url": "https://drafthouse.com/sf/show/movie-party-marie-antoinette-2006?cinemaId=0801&sessionId=83582",
       "note": "Movie Parties · Celebrate the 20th anniversary of Sofia Coppola's cult classic",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-10-27:20:20:t:filipinana",
+      "venueId": "roxie",
+      "filmKey": "t:filipinana",
+      "date": "2026-10-27",
+      "time": "20:20",
+      "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-10-27:21:30:tmdb:609",
@@ -2768,30 +2602,114 @@
       "format": "DCP",
       "note": "Yim Soon-rye in Person · In Conversation: Yim Soon-rye, Kyu Hyun Kim",
       "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-11-14:12:00:tmdb:996",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:996",
+      "date": "2026-11-14",
+      "time": "12:00",
+      "url": "https://thenewparkway.com/movie/double-indemnity/",
+      "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-11-14:15:30:tmdb:103",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:103",
+      "date": "2026-11-14",
+      "time": "15:30",
+      "url": "https://bampfa.org/event/taxi-driver",
+      "format": "4K",
+      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "bampfa:2026-11-14:18:30:tmdb:448491",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:448491",
+      "date": "2026-11-14",
+      "time": "18:30",
+      "url": "https://bampfa.org/event/little-forest",
+      "format": "DCP",
+      "note": "Yim Soon-rye in Person · In Conversation: Yim Soon-rye, Jinsoo An",
+      "source": "bampfa"
     }
   ],
   "festivals": [
     {
-      "key": "fest:4star:green film festival",
-      "name": "GREEN FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-22",
-      "url": "https://www.4-star-movies.com/calendar-of-events/dont-be-prey-green",
-      "showtimes": 12,
+      "key": "fest:balboa:international vampire film fest",
+      "name": "International Vampire Film Fest",
+      "venueId": "balboa",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "url": "https://www.balboamovies.com/international-vampire-film-fest",
+      "showtimes": 7,
       "sample": [
-        "Don't Be Prey (with The Locals)",
-        "Animal Conservation Shorts",
-        "In Excess (with Elders of Time)",
-        "Best Day Ever (with Other Shorts)"
+        "El Vampiro",
+        "Let the Right One",
+        "A Girl Walks Home Alone at Night",
+        "The Vourdalak"
       ],
       "programme": [
         {
-          "date": "2026-10-16",
-          "time": "18:00",
-          "title": "Don't Be Prey (with The Locals)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/dont-be-prey-green"
+          "date": "2026-10-17",
+          "time": "11:30",
+          "title": "El Vampiro",
+          "url": "https://www.balboamovies.com/calendar-of-events/el-vampiro-october-17"
         },
+        {
+          "date": "2026-10-17",
+          "time": "13:15",
+          "title": "Let the Right One",
+          "url": "https://www.balboamovies.com/calendar-of-events/let-the-right-one-in-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "15:30",
+          "title": "A Girl Walks Home Alone at Night",
+          "url": "https://www.balboamovies.com/calendar-of-events/a-girl-walks-home-alone-at-night-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "17:30",
+          "title": "The Vourdalak",
+          "url": "https://www.balboamovies.com/calendar-of-events/the-vourdalak-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "19:15",
+          "title": "Horror of Dracula",
+          "url": "https://www.balboamovies.com/calendar-of-events/horror-of-dracula-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "20:55",
+          "title": "Planet of the Vampires",
+          "url": "https://www.balboamovies.com/calendar-of-events/planet-of-the-vampires-october-17"
+        },
+        {
+          "date": "2026-10-17",
+          "time": "22:30",
+          "title": "Lake of Dracula",
+          "url": "https://www.balboamovies.com/calendar-of-events/lake-of-dracula-october-17"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:green film festival",
+      "name": "GREEN FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-22",
+      "url": "https://www.4-star-movies.com/calendar-of-events/animal-conservation-green",
+      "showtimes": 11,
+      "sample": [
+        "Animal Conservation Shorts",
+        "In Excess (with Elders of Time)",
+        "Best Day Ever (with Other Shorts)",
+        "Unless Something Goes Terribly Wrong (with Dad vs. Bees)"
+      ],
+      "programme": [
         {
           "date": "2026-10-17",
           "time": "12:00",
@@ -2864,23 +2782,17 @@
       "key": "fest:4star:sf short film festival",
       "name": "SF SHORT FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-16",
+      "startDate": "2026-10-17",
       "endDate": "2026-10-21",
-      "url": "https://www.4-star-movies.com/calendar-of-events/funny-shorts",
-      "showtimes": 6,
+      "url": "https://www.4-star-movies.com/calendar-of-events/animated-shorts",
+      "showtimes": 5,
       "sample": [
-        "Funny Shorts",
         "Animated Shorts",
         "True Stories Shorts",
-        "Spontaneous Connections Shorts"
+        "Spontaneous Connections Shorts",
+        "Spine-tingling Shorts"
       ],
       "programme": [
-        {
-          "date": "2026-10-16",
-          "time": "20:30",
-          "title": "Funny Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/funny-shorts"
-        },
         {
           "date": "2026-10-17",
           "time": "20:30",
@@ -2910,65 +2822,6 @@
           "time": "20:15",
           "title": "Closing Night Shorts",
           "url": "https://www.4-star-movies.com/calendar-of-events/closing-night-shorts"
-        }
-      ]
-    },
-    {
-      "key": "fest:balboa:international vampire film fest",
-      "name": "International Vampire Film Fest",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/international-vampire-film-fest",
-      "showtimes": 7,
-      "sample": [
-        "El Vampiro",
-        "Let the Right One",
-        "A Girl Walks Home Alone at Night",
-        "The Vourdalak"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-17",
-          "time": "11:30",
-          "title": "El Vampiro",
-          "url": "https://www.balboamovies.com/calendar-of-events/el-vampiro-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "13:15",
-          "title": "Let the Right One",
-          "url": "https://www.balboamovies.com/calendar-of-events/let-the-right-one-in-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "15:30",
-          "title": "A Girl Walks Home Alone at Night",
-          "url": "https://www.balboamovies.com/calendar-of-events/a-girl-walks-home-alone-at-night-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "17:30",
-          "title": "The Vourdalak",
-          "url": "https://www.balboamovies.com/calendar-of-events/the-vourdalak-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "19:15",
-          "title": "Horror of Dracula",
-          "url": "https://www.balboamovies.com/calendar-of-events/horror-of-dracula-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "20:55",
-          "title": "Planet of the Vampires",
-          "url": "https://www.balboamovies.com/calendar-of-events/planet-of-the-vampires-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "22:30",
-          "title": "Lake of Dracula",
-          "url": "https://www.balboamovies.com/calendar-of-events/lake-of-dracula-october-17"
         }
       ]
     },
@@ -3083,6 +2936,33 @@
           "time": "18:40",
           "title": "Wild Horse Nine",
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
+        }
+      ]
+    },
+    {
+      "key": "fest:vogue:frameline fall showcase",
+      "name": "Frameline Fall Showcase",
+      "venueId": "vogue",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-28",
+      "url": "https://voguemovies.com/calendar-of-events/frameline-fall-clarissa-october-21",
+      "showtimes": 2,
+      "sample": [
+        "Clarissa",
+        "Coward"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-21",
+          "time": "19:00",
+          "title": "Clarissa",
+          "url": "https://voguemovies.com/calendar-of-events/frameline-fall-clarissa-october-21"
+        },
+        {
+          "date": "2026-10-28",
+          "time": "19:00",
+          "title": "Coward",
+          "url": "https://voguemovies.com/calendar-of-events/frameline-fall-coward-october-28"
         }
       ]
     },
@@ -3336,6 +3216,26 @@
           "time": "14:00",
           "title": "Juried Show: Personal Visions (Presented by SF Artists Alumni)",
           "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa"
+        }
+      ]
+    },
+    {
+      "key": "fest:castro:30th arab film festival",
+      "name": "The 30th Arab Film Festival",
+      "venueId": "castro",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "url": "https://thecastro.com/events/edward-said-between-worlds",
+      "showtimes": 1,
+      "sample": [
+        "Edward Said: Between Worlds"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-08",
+          "time": "17:45",
+          "title": "Edward Said: Between Worlds",
+          "url": "https://thecastro.com/events/edward-said-between-worlds"
         }
       ]
     },
