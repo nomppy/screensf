@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-17T16:03:02.244Z",
+  "generatedAt": "2026-10-18T16:18:14.829Z",
   "films": {
-    "tmdb:7857": {
-      "key": "tmdb:7857",
-      "title": "Amarcord",
-      "year": 1973,
-      "director": "Federico Fellini",
-      "runtime": 123,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/kS7i093sQpkLTawUEdgf4HVOHSc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/iFQzlUmO5QmMPcSHHDdfd522x33.jpg",
-      "tmdbId": 7857,
-      "popularity": 3.9139,
-      "releaseDate": "1973-12-18",
-      "overview": "In an Italian seaside town, young Titta gets into trouble with his friends and watches various local eccentrics as they engage in often absurd behavior. Frequently clashing with his stern father and defended by his doting mother, Titta witnesses the actions of a wide range of characters, from his extended family to Fascist loyalists to sensual women, with certain moments shifting into fantastical scenarios."
-    },
-    "tmdb:7974": {
-      "key": "tmdb:7974",
-      "title": "The Match Factory Girl",
-      "year": 1990,
-      "director": "Aki Kaurismäki",
-      "runtime": 69,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/zHfabvr3RKEbNfksFBs2Cder91i.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tHF5OIcguut0Y83BXzqHtGdJOAf.jpg",
-      "tmdbId": 7974,
-      "popularity": 3.9945,
-      "releaseDate": "1990-01-12",
-      "overview": "Iris is a shy and dowdy young woman stuck in a dead-end job at a match factory, who dreams of finding love at the local dancehall. Finding herself pregnant after a one-night stand and abandoned by the father, Iris finally decides the time has come to get even and she begins to plot her revenge."
-    },
     "tmdb:50173": {
       "key": "tmdb:50173",
       "title": "Jigoku",
@@ -42,34 +14,6 @@
       "popularity": 2.081,
       "releaseDate": "1960-07-30",
       "overview": "A group of sinners involved in interconnected tales of murder, revenge, deceit and adultery all meet at the Gates of Hell."
-    },
-    "tmdb:638": {
-      "key": "tmdb:638",
-      "title": "Lost Highway",
-      "year": 1997,
-      "director": "David Lynch",
-      "runtime": 134,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/5POhfNeFPIi4VUNwCTaK85sh98r.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
-      "tmdbId": 638,
-      "popularity": 10.2926,
-      "releaseDate": "1997-01-15",
-      "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell."
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:1175473": {
       "key": "tmdb:1175473",
@@ -111,6 +55,20 @@
       "releaseDate": "2026-09-04",
       "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
     },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
     "tmdb:3019": {
       "key": "tmdb:3019",
       "title": "Dr. Jekyll and Mr. Hyde",
@@ -124,6 +82,20 @@
       "popularity": 3.9437,
       "releaseDate": "1931-12-24",
       "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late."
+    },
+    "tmdb:638": {
+      "key": "tmdb:638",
+      "title": "Lost Highway",
+      "year": 1997,
+      "director": "David Lynch",
+      "runtime": 134,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/5POhfNeFPIi4VUNwCTaK85sh98r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+      "tmdbId": 638,
+      "popularity": 10.2926,
+      "releaseDate": "1997-01-15",
+      "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell."
     },
     "tmdb:29933": {
       "key": "tmdb:29933",
@@ -315,6 +287,20 @@
       "popularity": 1.0092,
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
+    },
+    "tmdb:198669": {
+      "key": "tmdb:198669",
+      "title": "Hunting Flies",
+      "year": 1969,
+      "director": "Andrzej Wajda",
+      "runtime": 104,
+      "genre": "Romance",
+      "poster": "https://image.tmdb.org/t/p/w500/pBKUvoARZ8es3WXgM81PDo0tdDt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bGreAeXgzRSqNnbclynL6spZorB.jpg",
+      "tmdbId": 198669,
+      "popularity": 1.1079,
+      "releaseDate": "1969-08-19",
+      "overview": "Włodek is a middle-aged man stuck in a dead-end job at the local library who lives with his harridan wife and critical in-laws in a small apartment. When Włodek draws the interest of a library patron, the beautiful young woman encourages him to strive for better things in his life and professional career. Together, the two take off for a three-day affair, but surprises could await Włodek upon his return home."
     },
     "tmdb:377": {
       "key": "tmdb:377",
@@ -806,20 +792,6 @@
       "releaseDate": "1973-10-14",
       "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
     },
-    "tmdb:564": {
-      "key": "tmdb:564",
-      "title": "The Mummy",
-      "year": 1999,
-      "director": "Stephen Sommers",
-      "runtime": 124,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
-      "tmdbId": 564,
-      "popularity": 26.4712,
-      "releaseDate": "1999-04-16",
-      "overview": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken."
-    },
     "tmdb:1091": {
       "key": "tmdb:1091",
       "title": "The Thing",
@@ -875,20 +847,6 @@
       "popularity": 3.7208,
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
-    },
-    "tmdb:43231": {
-      "key": "tmdb:43231",
-      "title": "White Nights",
-      "year": 1957,
-      "director": "Luchino Visconti",
-      "runtime": 101,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/sAFR7LbXnPSjZGpG1ihSAN7vrfR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fWkNhudvl6dtEHWSdQD6nl92GnD.jpg",
-      "tmdbId": 43231,
-      "popularity": 3.6748,
-      "releaseDate": "1957-11-14",
-      "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return."
     },
     "tmdb:501048": {
       "key": "tmdb:501048",
@@ -1100,19 +1058,19 @@
       "releaseDate": "1976-02-09",
       "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city."
     },
-    "tmdb:1694": {
-      "key": "tmdb:1694",
-      "title": "Re-Animator",
-      "year": 1985,
-      "director": "Stuart Gordon",
-      "runtime": 86,
-      "genre": "Science Fiction",
-      "poster": "https://image.tmdb.org/t/p/w500/7FYhY70LTumoFfQgTI8TK0UDdsF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ogojPeWqjHBVUGCPGhfMxyQJLZ7.jpg",
-      "tmdbId": 1694,
-      "popularity": 6.5151,
-      "releaseDate": "1985-10-18",
-      "overview": "Conducting clandestine experiments within the morgue at Miskatonic University, scientist Herbert West reveals to a fellow graduate student his groundbreaking work concerning the re-animation of fresh corpses."
+    "tmdb:34528": {
+      "key": "tmdb:34528",
+      "title": "The Human Condition II: Road to Eternity",
+      "year": 1959,
+      "director": "Masaki Kobayashi",
+      "runtime": 178,
+      "genre": "War",
+      "poster": "https://image.tmdb.org/t/p/w500/7jfv1C4t06VGenQxf3HbmLVmUHZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4zNC1BtW9uyOKCjbtMZmtu5oGrt.jpg",
+      "tmdbId": 34528,
+      "popularity": 4.2754,
+      "releaseDate": "1959-11-20",
+      "overview": "Kaji, sent to the Japanese army labeled Red, witnesses cruelties in the army and revolts against the abusive treatment against a fellow recruit. He also sees his friend Shinjô defecting to the Russian border, and he ends in the front to fight a lost battle against the Russian tanks division."
     },
     "tmdb:653": {
       "key": "tmdb:653",
@@ -1268,6 +1226,20 @@
       "releaseDate": "1944-07-06",
       "overview": "An insurance representative is seduced by a dissatisfied housewife into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, a claims investigator."
     },
+    "tmdb:1213": {
+      "key": "tmdb:1213",
+      "title": "The Talented Mr. Ripley",
+      "year": 1999,
+      "director": "Anthony Minghella",
+      "runtime": 140,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/51UDa3IuGyiKGe2MgMcLGvJE2Fm.jpg",
+      "tmdbId": 1213,
+      "popularity": 18.6294,
+      "releaseDate": "1999-12-25",
+      "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder."
+    },
     "tmdb:8413": {
       "key": "tmdb:8413",
       "title": "Event Horizon",
@@ -1298,128 +1270,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "roxie:2026-10-17:12:30:tmdb:7857",
-      "venueId": "roxie",
-      "filmKey": "tmdb:7857",
-      "date": "2026-10-17",
-      "time": "12:30",
-      "url": "https://roxie.com/film/zyzzyva-movie-matinee-with-ingrid-rojas-contreras-amarcord/",
-      "format": "35mm",
-      "source": "roxie"
-    },
-    {
-      "id": "operaplaza:2026-10-17:13:00:tmdb:564",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:564",
-      "date": "2026-10-17",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/631-the-mummy-1932/",
-      "note": "Marquee Matinees - Monster Madness",
-      "source": "operaplaza"
-    },
-    {
-      "id": "grandlake:2026-10-17:13:35:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-17",
-      "time": "13:35",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261017",
-      "source": "grandlake"
-    },
-    {
-      "id": "vogue:2026-10-17:14:30:tmdb:1596296",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-17",
-      "time": "14:30",
-      "url": "https://voguemovies.com/calendar-of-events/the-history-of-concrete-october-17",
-      "source": "vogue"
-    },
-    {
-      "id": "newparkway:2026-10-17:15:10:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-17",
-      "time": "15:10",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-10-17:16:10:tmdb:7974",
-      "venueId": "roxie",
-      "filmKey": "tmdb:7974",
-      "date": "2026-10-17",
-      "time": "16:10",
-      "url": "https://roxie.com/film/the-match-factory-girl/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-17:18:00:tmdb:50173",
-      "venueId": "roxie",
-      "filmKey": "tmdb:50173",
-      "date": "2026-10-17",
-      "time": "18:00",
-      "url": "https://roxie.com/film/new-people-jigoku/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-10-17:18:30:tmdb:43231",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:43231",
-      "date": "2026-10-17",
-      "time": "18:30",
-      "url": "https://bampfa.org/event/white-nights",
-      "format": "4K",
-      "note": "Special Screenings 2026 · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-10-17:20:00:tmdb:638",
-      "venueId": "roxie",
-      "filmKey": "tmdb:638",
-      "date": "2026-10-17",
-      "time": "20:00",
-      "url": "https://roxie.com/film/lost-highway/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-17:20:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-17",
-      "time": "20:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "grandlake:2026-10-17:20:10:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-17",
-      "time": "20:10",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261017",
-      "source": "grandlake"
-    },
-    {
-      "id": "newparkway:2026-10-17:21:00:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-17",
-      "time": "21:00",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "newparkway:2026-10-17:22:15:tmdb:1694",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1694",
-      "date": "2026-10-17",
-      "time": "22:15",
-      "url": "https://thenewparkway.com/movie/re-animator/",
-      "source": "newparkway"
-    },
     {
       "id": "grandlake:2026-10-18:13:35:tmdb:1596296",
       "venueId": "grandlake",
@@ -2633,107 +2483,63 @@
       "format": "DCP",
       "note": "Yim Soon-rye in Person · In Conversation: Yim Soon-rye, Jinsoo An",
       "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-11-15:13:00:tmdb:1213",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1213",
+      "date": "2026-11-15",
+      "time": "13:00",
+      "url": "https://thenewparkway.com/movie/the-talented-mr-ripley/",
+      "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-11-15:13:30:tmdb:34528",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:34528",
+      "date": "2026-11-15",
+      "time": "13:30",
+      "url": "https://bampfa.org/event/human-condition-road-eternity",
+      "format": "35mm",
+      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
+      "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-11-15:15:00:tmdb:198669",
+      "venueId": "roxie",
+      "filmKey": "tmdb:198669",
+      "date": "2026-11-15",
+      "time": "15:00",
+      "url": "https://roxie.com/film/hunting-flies-roly-poly/",
+      "source": "roxie"
+    },
+    {
+      "id": "4star:2026-11-15:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-15",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-todd-day-wait",
+      "note": "Todd Day Wait",
+      "source": "4star"
     }
   ],
   "festivals": [
     {
-      "key": "fest:balboa:international vampire film fest",
-      "name": "International Vampire Film Fest",
-      "venueId": "balboa",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
-      "url": "https://www.balboamovies.com/international-vampire-film-fest",
-      "showtimes": 7,
-      "sample": [
-        "El Vampiro",
-        "Let the Right One",
-        "A Girl Walks Home Alone at Night",
-        "The Vourdalak"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-17",
-          "time": "11:30",
-          "title": "El Vampiro",
-          "url": "https://www.balboamovies.com/calendar-of-events/el-vampiro-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "13:15",
-          "title": "Let the Right One",
-          "url": "https://www.balboamovies.com/calendar-of-events/let-the-right-one-in-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "15:30",
-          "title": "A Girl Walks Home Alone at Night",
-          "url": "https://www.balboamovies.com/calendar-of-events/a-girl-walks-home-alone-at-night-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "17:30",
-          "title": "The Vourdalak",
-          "url": "https://www.balboamovies.com/calendar-of-events/the-vourdalak-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "19:15",
-          "title": "Horror of Dracula",
-          "url": "https://www.balboamovies.com/calendar-of-events/horror-of-dracula-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "20:55",
-          "title": "Planet of the Vampires",
-          "url": "https://www.balboamovies.com/calendar-of-events/planet-of-the-vampires-october-17"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "22:30",
-          "title": "Lake of Dracula",
-          "url": "https://www.balboamovies.com/calendar-of-events/lake-of-dracula-october-17"
-        }
-      ]
-    },
-    {
       "key": "fest:4star:green film festival",
       "name": "GREEN FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-17",
+      "startDate": "2026-10-18",
       "endDate": "2026-10-22",
-      "url": "https://www.4-star-movies.com/calendar-of-events/animal-conservation-green",
-      "showtimes": 11,
+      "url": "https://www.4-star-movies.com/calendar-of-events/water-and-oceans-green",
+      "showtimes": 7,
       "sample": [
-        "Animal Conservation Shorts",
-        "In Excess (with Elders of Time)",
-        "Best Day Ever (with Other Shorts)",
-        "Unless Something Goes Terribly Wrong (with Dad vs. Bees)"
+        "Water & Oceans Shorts",
+        "The Terroirist (with Plant Life)",
+        "Narrative Fiction Shorts",
+        "Harvest"
       ],
       "programme": [
-        {
-          "date": "2026-10-17",
-          "time": "12:00",
-          "title": "Animal Conservation Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/animal-conservation-green"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "14:00",
-          "title": "In Excess (with Elders of Time)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/in-excess-green"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "16:15",
-          "title": "Best Day Ever (with Other Shorts)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/best-day-ever-shorts-green"
-        },
-        {
-          "date": "2026-10-17",
-          "time": "18:00",
-          "title": "Unless Something Goes Terribly Wrong (with Dad vs. Bees)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/unless-something-green"
-        },
         {
           "date": "2026-10-18",
           "time": "12:00",
@@ -2782,23 +2588,17 @@
       "key": "fest:4star:sf short film festival",
       "name": "SF SHORT FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-17",
+      "startDate": "2026-10-18",
       "endDate": "2026-10-21",
-      "url": "https://www.4-star-movies.com/calendar-of-events/animated-shorts",
-      "showtimes": 5,
+      "url": "https://www.4-star-movies.com/calendar-of-events/true-stories-shorts",
+      "showtimes": 4,
       "sample": [
-        "Animated Shorts",
         "True Stories Shorts",
         "Spontaneous Connections Shorts",
-        "Spine-tingling Shorts"
+        "Spine-tingling Shorts",
+        "Closing Night Shorts"
       ],
       "programme": [
-        {
-          "date": "2026-10-17",
-          "time": "20:30",
-          "title": "Animated Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/animated-shorts"
-        },
         {
           "date": "2026-10-18",
           "time": "17:00",
@@ -3077,12 +2877,13 @@
       "name": "Hong Kong Cinema: Rarities and Restorations · Digital Restoration",
       "venueId": "bampfa",
       "startDate": "2026-10-25",
-      "endDate": "2026-11-05",
+      "endDate": "2026-11-22",
       "url": "https://bampfa.org/event/colorful-youth",
-      "showtimes": 2,
+      "showtimes": 3,
       "sample": [
         "Colorful Youth",
-        "The Secret"
+        "The Secret",
+        "Rouge"
       ],
       "programme": [
         {
@@ -3096,6 +2897,12 @@
           "time": "19:00",
           "title": "The Secret",
           "url": "https://bampfa.org/event/secret"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "18:00",
+          "title": "Rouge",
+          "url": "https://bampfa.org/event/rouge"
         }
       ]
     },
