@@ -1,60 +1,6 @@
 {
-  "generatedAt": "2026-10-18T16:18:14.829Z",
+  "generatedAt": "2026-10-19T18:54:01.338Z",
   "films": {
-    "tmdb:50173": {
-      "key": "tmdb:50173",
-      "title": "Jigoku",
-      "year": 1960,
-      "director": "Nobuo Nakagawa",
-      "runtime": 99,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/ehiMOuKE7i9WHgvs7dSIZelsHwA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4ZVAAGCGDYncbZhjEgnfU1v2iQD.jpg",
-      "tmdbId": 50173,
-      "popularity": 2.081,
-      "releaseDate": "1960-07-30",
-      "overview": "A group of sinners involved in interconnected tales of murder, revenge, deceit and adultery all meet at the Gates of Hell."
-    },
-    "tmdb:1175473": {
-      "key": "tmdb:1175473",
-      "title": "The 9 Lives of Barbara Dane",
-      "year": 2023,
-      "director": "Maureen Gosling",
-      "runtime": 107,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/tp6LetQPYzvlkFI4eApFrAV1VvM.jpg",
-      "tmdbId": 1175473,
-      "popularity": 1.4428,
-      "releaseDate": "2023-10-10",
-      "overview": "For decades, Barbara Dane lent her stellar singing voice to social-justice movements in the Bay Area and beyond, garnering an impressive FBI file along the way. Deeply respected by fellow luminaries in folk, blues and jazz, Dane built a far-reaching legacy with music, activism, and love. As Maureen Gosling’s celebratory portrait reveals, early solidarity with those suffering racial and economic injustice sparked Dane’s passion to use her talent to sustain marginalized people. Rather than chase stardom, she followed her own maternal instincts to root herself and her family among generations of activist performers. Bonnie Raitt, Jane Fonda and other notables attest to Dane’s unique way of shaping and being shaped by tumultuous social revolutions from the 1950s on. Nearing 90, Dane triumphantly tours with piano virtuoso Tammy Hall to celebrate a life of staying awake and connected, true to her ideals. One star among many illuminates so much."
-    },
-    "tmdb:632690": {
-      "key": "tmdb:632690",
-      "title": "Roy's World: Barry Gifford's Chicago",
-      "year": 2020,
-      "director": "Rob Christopher",
-      "runtime": 75,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/afkGeD6GMwGifK1mkiFHAhCpNCL.jpg",
-      "tmdbId": 632690,
-      "popularity": 1.6241,
-      "releaseDate": "2020-02-28",
-      "overview": "Author Barry Gifford's gritty autobiographical stories of growing up in 1950s Chicago provide the backdrop for an impressionistic documentary portrait of a vanished time and place."
-    },
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
       "title": "The History of Concrete",
@@ -148,6 +94,20 @@
       "releaseDate": "1993-07-16",
       "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all."
     },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+    },
     "tmdb:9845": {
       "key": "tmdb:9845",
       "title": "Dance with the Devil",
@@ -203,6 +163,20 @@
       "popularity": 12.6807,
       "releaseDate": "2019-03-14",
       "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited."
+    },
+    "tmdb:1358532": {
+      "key": "tmdb:1358532",
+      "title": "Séance",
+      "year": 2024,
+      "director": "Vivian Kerr",
+      "runtime": 85,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/iyzqbXWqj7ccEQkAbBR3ZeAA6Mg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gLkTiVekcbGpz3uszIrK970IWG.jpg",
+      "tmdbId": 1358532,
+      "popularity": 1.7228,
+      "releaseDate": "2024-10-18",
+      "overview": "Novelist Emma Strand is on vacation at the seaside in 1892 California with her second husband Albert when she encounters her first husband George and his mentally unstable new wife, Lillian. Emma and Albert take refuge from a sudden storm at George and Lillian's mansion. Over the course of the evening, Emma must confront her past, the temptation of adultery, and the disturbing possibility the house is haunted by George and Lillian's recently drowned daughter Hazel."
     },
     "tmdb:182921": {
       "key": "tmdb:182921",
@@ -274,6 +248,20 @@
       "releaseDate": "1990-09-28",
       "overview": "A couple works hard to renovate their dream house and become landlords to pay for it. Unfortunately one of their tenants has plans of his own."
     },
+    "tmdb:664572": {
+      "key": "tmdb:664572",
+      "title": "Los Conductos",
+      "year": 2020,
+      "director": "Camilo Restrepo",
+      "runtime": 70,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/6SvyVHvcTsO0XXIynghi9JRr6KL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tsidJCUMLAssBsuBkpgU2SruS0N.jpg",
+      "tmdbId": 664572,
+      "popularity": 1.7921,
+      "releaseDate": "2020-02-22",
+      "overview": "Pinky is on the run. At night the empty streets smell of the apocalypse and the city seems to be on fire. Narcotics swirl through the veins and the air. Having freed himself from the clutches of a sect led by a certain “padre” and determined to take his fate into his own hands, he is now holed up in an illegal T-shirt factory, surrounded by paints, slogans and heat presses. Pinky is looking for the light at the end of the tunnel, but ghosts are breathing down his neck. He is running for his life, and Colombia is on fire. But Colombia is alive."
+    },
     "tmdb:94527": {
       "key": "tmdb:94527",
       "title": "Everything for Sale",
@@ -301,34 +289,6 @@
       "popularity": 1.1079,
       "releaseDate": "1969-08-19",
       "overview": "Włodek is a middle-aged man stuck in a dead-end job at the local library who lives with his harridan wife and critical in-laws in a small apartment. When Włodek draws the interest of a library patron, the beautiful young woman encourages him to strive for better things in his life and professional career. Together, the two take off for a three-day affair, but surprises could await Włodek upon his return home."
-    },
-    "tmdb:377": {
-      "key": "tmdb:377",
-      "title": "A Nightmare on Elm Street",
-      "year": 1984,
-      "director": "Wes Craven",
-      "runtime": 91,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
-      "tmdbId": 377,
-      "popularity": 17.8068,
-      "releaseDate": "1984-11-09",
-      "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world..."
-    },
-    "tmdb:5842": {
-      "key": "tmdb:5842",
-      "title": "Versus",
-      "year": 2000,
-      "director": "Ryuhei Kitamura",
-      "runtime": 120,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/dEk6Fpm4lkEBQBVpzTOLau7qgR9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/rZjRoASxOOyafFruGRuDBzL7dZ8.jpg",
-      "tmdbId": 5842,
-      "popularity": 2.0773,
-      "releaseDate": "2000-10-23",
-      "overview": "A group of ruthless gangsters, an unknown woman and an escaped convict have met, in The Forest of Resurrection, the 444th portal to the other side. Their troubles start when those once killed and buried in the forest come back from the dead."
     },
     "tmdb:846867": {
       "key": "tmdb:846867",
@@ -550,20 +510,6 @@
       "popularity": 14.3513,
       "releaseDate": "1987-07-31",
       "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him."
-    },
-    "tmdb:21588": {
-      "key": "tmdb:21588",
-      "title": "Cemetery Man",
-      "year": 1994,
-      "director": "Michele Soavi",
-      "runtime": 104,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/cI5AV3jCuxmoQp0N7Z16SI2b7Xk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fHPTQ18tuwtJ3JvrCeZMZs4X58Q.jpg",
-      "tmdbId": 21588,
-      "popularity": 3.8578,
-      "releaseDate": "1994-03-25",
-      "overview": "Francesco Dellamorte  is the groundskeeper at a cemetery where the dead just won’t stay dead—and it’s up to him to deal with those who come back to life with a hunger for human flesh. But Dellamorte’s job soon becomes much more complicated when he falls for an enigmatic young woman whose husband has recently died."
     },
     "tmdb:8839": {
       "key": "tmdb:8839",
@@ -848,34 +794,6 @@
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
     },
-    "tmdb:501048": {
-      "key": "tmdb:501048",
-      "title": "Shaihu Umar",
-      "year": 1976,
-      "director": "Adamu Halilu",
-      "runtime": 142,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/6bsdGUPZ8ieVWzi6M6waLoSFYLC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ohhOHfkQfpHQLhDaPL6615IsiyH.jpg",
-      "tmdbId": 501048,
-      "popularity": 0.8078,
-      "releaseDate": "1976-01-25",
-      "overview": "Set in northern Nigeria towards the end of the 19th century, Shaihu Umar begins with a discussion between Islamic students and their renowned teacher, the wise man Shaihu Umar. Asked about his origins, Umar begins to tell his story: he comes from a modest background and is separated from his mother after his father dies and his stepfather is banished. His subsequent trials and tribulations are marked by slavery, and he is put to any number of tests until he finally becomes the adopted son of his Arabic master Abdulkarim. He attends Quranic school and is made an imam upon reaching adulthood. Following a particular dream, he resolves to search for his mother."
-    },
-    "tmdb:262": {
-      "key": "tmdb:262",
-      "title": "The King of Comedy",
-      "year": 1982,
-      "director": "Martin Scorsese",
-      "runtime": 109,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/m24EbHxT9NGYEkOlu29YcLOgjgK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/7Mh1DM4kCMbN93C2MlUavYbH5YM.jpg",
-      "tmdbId": 262,
-      "popularity": 10.9994,
-      "releaseDate": "1982-12-18",
-      "overview": "Aspiring comic Rupert Pupkin attempts to achieve success in show business by stalking his idol, a late night talk-show host who craves his own privacy."
-    },
     "tmdb:269": {
       "key": "tmdb:269",
       "title": "Breathless",
@@ -1072,34 +990,6 @@
       "releaseDate": "1959-11-20",
       "overview": "Kaji, sent to the Japanese army labeled Red, witnesses cruelties in the army and revolts against the abusive treatment against a fellow recruit. He also sees his friend Shinjô defecting to the Russian border, and he ends in the front to fight a lost battle against the Russian tanks division."
     },
-    "tmdb:653": {
-      "key": "tmdb:653",
-      "title": "Nosferatu",
-      "year": 1922,
-      "director": "F. W. Murnau",
-      "runtime": 94,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/cA9iGtvjRGJHzDBfrq48l0eyCvA.jpg",
-      "tmdbId": 653,
-      "popularity": 6.1107,
-      "releaseDate": "1922-02-16",
-      "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal."
-    },
-    "tmdb:19316": {
-      "key": "tmdb:19316",
-      "title": "Saving Face",
-      "year": 2004,
-      "director": "Alice Wu",
-      "runtime": 97,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/7XbbgkKi4nEMOu9iwiANXpjKKhe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/piT1WWJlC0ebUVpAWI1SBwg2Vdq.jpg",
-      "tmdbId": 19316,
-      "popularity": 3.2256,
-      "releaseDate": "2004-09-12",
-      "overview": "A Chinese-American lesbian and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations."
-    },
     "tmdb:9637": {
       "key": "tmdb:9637",
       "title": "Scooby-Doo",
@@ -1113,6 +1003,20 @@
       "popularity": 12.0857,
       "releaseDate": "2002-06-14",
       "overview": "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren't the only things that are spooky. Strange things are happening, and it's up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings."
+    },
+    "tmdb:377": {
+      "key": "tmdb:377",
+      "title": "A Nightmare on Elm Street",
+      "year": 1984,
+      "director": "Wes Craven",
+      "runtime": 91,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
+      "tmdbId": 377,
+      "popularity": 17.8068,
+      "releaseDate": "1984-11-09",
+      "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world..."
     },
     "tmdb:252171": {
       "key": "tmdb:252171",
@@ -1271,148 +1175,6 @@
   },
   "screenings": [
     {
-      "id": "grandlake:2026-10-18:13:35:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-18",
-      "time": "13:35",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261018",
-      "source": "grandlake"
-    },
-    {
-      "id": "vogue:2026-10-18:14:30:tmdb:1596296",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-18",
-      "time": "14:30",
-      "url": "https://voguemovies.com/calendar-of-events/the-history-of-concrete-october-18",
-      "source": "vogue"
-    },
-    {
-      "id": "balboa:2026-10-18:14:30:tmdb:377",
-      "venueId": "balboa",
-      "filmKey": "tmdb:377",
-      "date": "2026-10-18",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/a-nightmare-on-elm-street-october-18",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-18:15:00:tmdb:50173",
-      "venueId": "roxie",
-      "filmKey": "tmdb:50173",
-      "date": "2026-10-18",
-      "time": "15:00",
-      "url": "https://roxie.com/film/new-people-jigoku/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-10-18:15:00:tmdb:501048",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:501048",
-      "date": "2026-10-18",
-      "time": "15:00",
-      "url": "https://bampfa.org/event/shaihu-umar",
-      "format": "DCP",
-      "note": "Stefanie Schulte Strathaus: Modes of Archivism · Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-10-18:15:10:tmdb:1175473",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1175473",
-      "date": "2026-10-18",
-      "time": "15:10",
-      "url": "https://roxie.com/film/the-9-lives-of-barbara-dane/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-18:15:10:tmdb:632690",
-      "venueId": "roxie",
-      "filmKey": "tmdb:632690",
-      "date": "2026-10-18",
-      "time": "15:10",
-      "url": "https://roxie.com/film/roys-world-barry-giffords-chicago/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-18:15:20:tmdb:653",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:653",
-      "date": "2026-10-18",
-      "time": "15:20",
-      "url": "https://thenewparkway.com/movie/nosferatu-1922/",
-      "source": "newparkway"
-    },
-    {
-      "id": "balboa:2026-10-18:17:00:tmdb:5842",
-      "venueId": "balboa",
-      "filmKey": "tmdb:5842",
-      "date": "2026-10-18",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/versus-october-18",
-      "note": "Samurai Rebellion",
-      "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-10-18:17:25:tmdb:19316",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:19316",
-      "date": "2026-10-18",
-      "time": "17:25",
-      "url": "https://thenewparkway.com/movie/saving-face/",
-      "source": "newparkway"
-    },
-    {
-      "id": "bampfa:2026-10-18:19:00:tmdb:262",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:262",
-      "date": "2026-10-18",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/king-comedy",
-      "format": "DCP",
-      "note": "Martin Scorsese Pictures",
-      "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-10-18:19:30:tmdb:1599181",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-10-18",
-      "time": "19:30",
-      "url": "https://roxie.com/film/chronovisor/",
-      "source": "roxie"
-    },
-    {
-      "id": "4star:2026-10-18:19:30:tmdb:21588",
-      "venueId": "4star",
-      "filmKey": "tmdb:21588",
-      "date": "2026-10-18",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/media-meltdown-movie-madhouse",
-      "note": "DELLAMORTE DELLAMORE: CEMETERY MAN (1994)",
-      "source": "4star"
-    },
-    {
-      "id": "grandlake:2026-10-18:20:10:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-18",
-      "time": "20:10",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261018",
-      "source": "grandlake"
-    },
-    {
-      "id": "newparkway:2026-10-18:21:30:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-18",
-      "time": "21:30",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
       "id": "balboa:2026-10-19:19:30:tmdb:846867",
       "venueId": "balboa",
       "filmKey": "tmdb:846867",
@@ -1420,15 +1182,6 @@
       "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/mad-god-october-19",
       "source": "balboa"
-    },
-    {
-      "id": "grandlake:2026-10-19:20:10:tmdb:1596296",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-19",
-      "time": "20:10",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261019",
-      "source": "grandlake"
     },
     {
       "id": "roxie:2026-10-19:20:30:tmdb:1596296",
@@ -1835,6 +1588,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-26:20:10:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-26",
+      "time": "20:10",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-10-27:19:00:tmdb:1887",
       "venueId": "alamo",
       "filmKey": "tmdb:1887",
@@ -2043,6 +1805,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/great-pumpkin-sat",
       "note": "Every year he rises from the pumpkin patch…",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-10-31:13:00:tmdb:1358532",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1358532",
+      "date": "2026-10-31",
+      "time": "13:00",
+      "url": "https://roxie.com/film/seance/",
+      "source": "roxie"
     },
     {
       "id": "operaplaza:2026-10-31:13:00:tmdb:15855",
@@ -2312,6 +2083,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-11-08:13:20:tmdb:664572",
+      "venueId": "roxie",
+      "filmKey": "tmdb:664572",
+      "date": "2026-11-08",
+      "time": "13:20",
+      "url": "https://roxie.com/film/los-conductos/",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-11-08:13:30:tmdb:31217",
       "venueId": "bampfa",
       "filmKey": "tmdb:31217",
@@ -2522,6 +2302,16 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-todd-day-wait",
       "note": "Todd Day Wait",
       "source": "4star"
+    },
+    {
+      "id": "4star:2026-11-16:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-16",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-elanor-moss",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
     }
   ],
   "festivals": [
@@ -2529,29 +2319,17 @@
       "key": "fest:4star:green film festival",
       "name": "GREEN FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-18",
+      "startDate": "2026-10-19",
       "endDate": "2026-10-22",
-      "url": "https://www.4-star-movies.com/calendar-of-events/water-and-oceans-green",
-      "showtimes": 7,
+      "url": "https://www.4-star-movies.com/calendar-of-events/narrative-fiction-green",
+      "showtimes": 5,
       "sample": [
-        "Water & Oceans Shorts",
-        "The Terroirist (with Plant Life)",
         "Narrative Fiction Shorts",
-        "Harvest"
+        "Harvest",
+        "The Big Picture Shorts",
+        "A City in the Forest (Closing Night!)"
       ],
       "programme": [
-        {
-          "date": "2026-10-18",
-          "time": "12:00",
-          "title": "Water & Oceans Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/water-and-oceans-green"
-        },
-        {
-          "date": "2026-10-18",
-          "time": "14:30",
-          "title": "The Terroirist (with Plant Life)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/terroirist-green"
-        },
         {
           "date": "2026-10-19",
           "time": "18:00",
@@ -2588,23 +2366,16 @@
       "key": "fest:4star:sf short film festival",
       "name": "SF SHORT FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-18",
+      "startDate": "2026-10-19",
       "endDate": "2026-10-21",
-      "url": "https://www.4-star-movies.com/calendar-of-events/true-stories-shorts",
-      "showtimes": 4,
+      "url": "https://www.4-star-movies.com/calendar-of-events/spontaneous-connections-shorts",
+      "showtimes": 3,
       "sample": [
-        "True Stories Shorts",
         "Spontaneous Connections Shorts",
         "Spine-tingling Shorts",
         "Closing Night Shorts"
       ],
       "programme": [
-        {
-          "date": "2026-10-18",
-          "time": "17:00",
-          "title": "True Stories Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/true-stories-shorts"
-        },
         {
           "date": "2026-10-19",
           "time": "20:15",
@@ -2622,26 +2393,6 @@
           "time": "20:15",
           "title": "Closing Night Shorts",
           "url": "https://www.4-star-movies.com/calendar-of-events/closing-night-shorts"
-        }
-      ]
-    },
-    {
-      "key": "fest:sfmoma:studio 8 film festival",
-      "name": "Studio 8 Film Festival",
-      "venueId": "sfmoma",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "url": "https://www.eventbrite.com/cc/studio-8-film-festival-2026-4867642/",
-      "showtimes": 1,
-      "sample": [
-        "No Nothing Cinema + George Kuchar"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-18",
-          "time": "14:00",
-          "title": "No Nothing Cinema + George Kuchar",
-          "url": "https://www.sfmoma.org/event/studio-8-film-festival-no-nothing-cinema-george-kuchar/"
         }
       ]
     },
