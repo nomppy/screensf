@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-10-19T18:54:01.338Z",
+  "generatedAt": "2026-10-20T17:37:57.181Z",
   "films": {
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "tmdb:3019": {
       "key": "tmdb:3019",
       "title": "Dr. Jekyll and Mr. Hyde",
@@ -65,6 +51,20 @@
       "runtime": 100,
       "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
       "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-16.jpg"
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:1887": {
       "key": "tmdb:1887",
@@ -290,19 +290,19 @@
       "releaseDate": "1969-08-19",
       "overview": "Włodek is a middle-aged man stuck in a dead-end job at the local library who lives with his harridan wife and critical in-laws in a small apartment. When Włodek draws the interest of a library patron, the beautiful young woman encourages him to strive for better things in his life and professional career. Together, the two take off for a three-day affair, but surprises could await Włodek upon his return home."
     },
-    "tmdb:846867": {
-      "key": "tmdb:846867",
-      "title": "Mad God",
-      "year": 2021,
-      "director": "Phil Tippett",
-      "runtime": 84,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/105stT9GkiENXiYqvWYKoAuHKQL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eMDQdKeoWTrCm2wEs7I7OD3bTQl.jpg",
-      "tmdbId": 846867,
-      "popularity": 3.8905,
-      "releaseDate": "2021-09-17",
-      "overview": "A silent figure known as The Assassin travels through a nightmare underworld of tortured souls, ruined cities and wretched monstrosities forged from the primordial horrors of the unconscious mind of Phil Tippett, the world's preeminent stop-motion animator."
+    "tmdb:53792": {
+      "key": "tmdb:53792",
+      "title": "Counsellor at Law",
+      "year": 1933,
+      "director": "William Wyler",
+      "runtime": 82,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/6mQ9jFo5qpNGptSe5AJMYAcrnSs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1UIzcxkGkd2nNjDE5BGTnjumRHH.jpg",
+      "tmdbId": 53792,
+      "popularity": 1.3143,
+      "releaseDate": "1933-12-25",
+      "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
     },
     "tmdb:25199": {
       "key": "tmdb:25199",
@@ -510,6 +510,62 @@
       "popularity": 14.3513,
       "releaseDate": "1987-07-31",
       "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him."
+    },
+    "tmdb:19483": {
+      "key": "tmdb:19483",
+      "title": "It Came from Outer Space",
+      "year": 1953,
+      "director": "Jack Arnold",
+      "runtime": 80,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/zPXff8iRma28YQFApfzuWadZXzP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gViGkoDcSzD068r04Vdo6jF0oGM.jpg",
+      "tmdbId": 19483,
+      "popularity": 2.9322,
+      "releaseDate": "1953-06-05",
+      "overview": "Author and amateur astronomer John Putnam and schoolteacher Ellen Fields witness an enormous meteorite come down near a small town in Arizona. Putnam becomes a local object of scorn when, after examining the object up close, he announces that it is a spacecraft, and that it is inhabited..."
+    },
+    "tmdb:10066": {
+      "key": "tmdb:10066",
+      "title": "House of Wax",
+      "year": 2005,
+      "director": "Jaume Collet-Serra",
+      "runtime": 113,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/aCLSgw1DaqkRvosYc3YUttBTtpT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2J7re6BvXXxLFXCYZpTUmRKkTHn.jpg",
+      "tmdbId": 10066,
+      "popularity": 17.6109,
+      "releaseDate": "2005-05-05",
+      "overview": "A group of unwitting teens are stranded near a strange wax museum and soon must fight to survive and keep from becoming the next exhibit."
+    },
+    "tmdb:14435": {
+      "key": "tmdb:14435",
+      "title": "My Bloody Valentine",
+      "year": 2009,
+      "director": "Patrick Lussier",
+      "runtime": 101,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/9biIVOMTdvv4aj4a5HClmrK5EHB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/lhYlBOsmwoFlGQg9FmTsS7UMz1K.jpg",
+      "tmdbId": 14435,
+      "popularity": 5.6209,
+      "releaseDate": "2009-01-16",
+      "overview": "Ten years after a Valentine's Day tragedy claimed the lives of five miners, Harry Warden returns for a vengeful massacre among teen sweethearts gearing up for another party."
+    },
+    "tmdb:9728": {
+      "key": "tmdb:9728",
+      "title": "Friday the 13th Part III",
+      "year": 1982,
+      "director": "Steve Miner",
+      "runtime": 95,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dtEkXmWPRwja6CtwPFcVpuMb7tW.jpg",
+      "tmdbId": 9728,
+      "popularity": 12.9168,
+      "releaseDate": "1982-08-13",
+      "overview": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naïve friends. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason, who stalks them at every turn..."
     },
     "tmdb:8839": {
       "key": "tmdb:8839",
@@ -724,6 +780,20 @@
       "releaseDate": "2018-02-28",
       "overview": "A young woman leaves the city to return to her hometown in the countryside. Seeking to escape the hustle and bustle of the city, she becomes self-sufficient in a bid to reconnect with nature."
     },
+    "tmdb:619778": {
+      "key": "tmdb:619778",
+      "title": "Malignant",
+      "year": 2021,
+      "director": "James Wan",
+      "runtime": 111,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+      "tmdbId": 619778,
+      "popularity": 17.4741,
+      "releaseDate": "2021-09-01",
+      "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past."
+    },
     "tmdb:203": {
       "key": "tmdb:203",
       "title": "Mean Streets",
@@ -765,20 +835,6 @@
       "popularity": 7.1181,
       "releaseDate": "1987-10-23",
       "overview": "A priest discovers an ancient canister containing a strange liquid in an abandoned church. When a group of graduate students and scientists are tasked with studying it, they unknowingly unleash an evil force waiting to destroy all of humanity."
-    },
-    "tmdb:10973": {
-      "key": "tmdb:10973",
-      "title": "Creature from the Black Lagoon",
-      "year": 1954,
-      "director": "Jack Arnold",
-      "runtime": 79,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/euCzA2Exc70MpTDCVYih8tdE7z1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/31P56eY3GQOA0wTwiW0gzkJyhSG.jpg",
-      "tmdbId": 10973,
-      "popularity": 5.8665,
-      "releaseDate": "1954-03-05",
-      "overview": "When scientists exploring the Amazon River stumble on a “missing link” connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fiancée, Kay."
     },
     "tmdb:15855": {
       "key": "tmdb:15855",
@@ -1144,6 +1200,34 @@
       "releaseDate": "1999-12-25",
       "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder."
     },
+    "tmdb:36949": {
+      "key": "tmdb:36949",
+      "title": "99 River Street",
+      "year": 1953,
+      "director": "Phil Karlson",
+      "runtime": 83,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/sJ4kX89iD0Ne8cdlVAFCsAn0kbe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oKVL30uzSd0IYk5wR3iU2u4gQTk.jpg",
+      "tmdbId": 36949,
+      "popularity": 2.5044,
+      "releaseDate": "1953-08-21",
+      "overview": "A former boxer turned taxi driver earns the scorn of his nagging wife and gets mixed up with jewel thieves."
+    },
+    "tmdb:17058": {
+      "key": "tmdb:17058",
+      "title": "Scarlet Street",
+      "year": 1945,
+      "director": "Fritz Lang",
+      "runtime": 103,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",
+      "tmdbId": 17058,
+      "popularity": 3.7622,
+      "releaseDate": "1945-12-25",
+      "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much."
+    },
     "tmdb:8413": {
       "key": "tmdb:8413",
       "title": "Event Horizon",
@@ -1174,33 +1258,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "balboa:2026-10-19:19:30:tmdb:846867",
-      "venueId": "balboa",
-      "filmKey": "tmdb:846867",
-      "date": "2026-10-19",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/mad-god-october-19",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-19:20:30:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-19",
-      "time": "20:30",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-19:21:30:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-19",
-      "time": "21:30",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
     {
       "id": "roxie:2026-10-20:18:00:tmdb:3019",
       "venueId": "roxie",
@@ -1328,21 +1385,21 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-10-22:20:30:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-22",
-      "time": "20:30",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-10-22:20:30:t:filipinana",
       "venueId": "roxie",
       "filmKey": "t:filipinana",
       "date": "2026-10-22",
       "time": "20:30",
       "url": "https://roxie.com/film/filipinana/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-10-22:20:30:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-22",
+      "time": "20:30",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
     },
     {
@@ -1354,6 +1411,24 @@
       "url": "https://thenewparkway.com/movie/scooby-doo-animation-ko/",
       "note": "Animation KO",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-10-23:11:00:tmdb:39264",
+      "venueId": "alamo",
+      "filmKey": "tmdb:39264",
+      "date": "2026-10-23",
+      "time": "11:00",
+      "url": "https://drafthouse.com/sf/show/godzilla-vs-megalon?cinemaId=0801&sessionId=83770",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-23:12:15:tmdb:1887",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1887",
+      "date": "2026-10-23",
+      "time": "12:15",
+      "url": "https://drafthouse.com/sf/show/marie-antoinette?cinemaId=0801&sessionId=83769",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-10-23:18:00:tmdb:1887",
@@ -1414,16 +1489,6 @@
       "source": "4star"
     },
     {
-      "id": "operaplaza:2026-10-24:13:00:tmdb:10973",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:10973",
-      "date": "2026-10-24",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/5144-creature-from-the-black-lagoon-1954/",
-      "note": "Marquee Matinees - Monster Madness",
-      "source": "operaplaza"
-    },
-    {
       "id": "roxie:2026-10-24:15:00:tmdb:3019",
       "venueId": "roxie",
       "filmKey": "tmdb:3019",
@@ -1469,6 +1534,16 @@
       "date": "2026-10-25",
       "time": "12:00",
       "url": "https://drafthouse.com/sf/show/godzilla-vs-megalon?cinemaId=0801&sessionId=83184",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-25:14:40:tmdb:46175",
+      "venueId": "alamo",
+      "filmKey": "tmdb:46175",
+      "date": "2026-10-25",
+      "time": "14:40",
+      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-daughters-of-darkness?cinemaId=0801&sessionId=83799",
+      "note": "Queer Film Theory 101 · Delphine Seyrig dazzles in this 1970s erotic lesbian vampire cult classic",
       "source": "alamo"
     },
     {
@@ -1595,6 +1670,15 @@
       "time": "20:10",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-27:13:30:tmdb:39264",
+      "venueId": "alamo",
+      "filmKey": "tmdb:39264",
+      "date": "2026-10-27",
+      "time": "13:30",
+      "url": "https://drafthouse.com/sf/show/godzilla-vs-megalon?cinemaId=0801&sessionId=83825",
+      "source": "alamo"
     },
     {
       "id": "alamo:2026-10-27:19:00:tmdb:1887",
@@ -1826,6 +1910,17 @@
       "source": "operaplaza"
     },
     {
+      "id": "vogue:2026-10-31:13:30:tmdb:19483",
+      "venueId": "vogue",
+      "filmKey": "tmdb:19483",
+      "date": "2026-10-31",
+      "time": "13:30",
+      "url": "https://voguemovies.com/calendar-of-events/it-came-from-outer-space-october-31",
+      "format": "3D",
+      "note": "Projected on Dolby Digital 3-D",
+      "source": "vogue"
+    },
+    {
       "id": "balboa:2026-10-31:14:00:tmdb:4232",
       "venueId": "balboa",
       "filmKey": "tmdb:4232",
@@ -1855,6 +1950,17 @@
       "format": "35mm",
       "note": "Jean-Luc Godard’s Early Films",
       "source": "bampfa"
+    },
+    {
+      "id": "vogue:2026-10-31:16:30:tmdb:10066",
+      "venueId": "vogue",
+      "filmKey": "tmdb:10066",
+      "date": "2026-10-31",
+      "time": "16:30",
+      "url": "https://voguemovies.com/calendar-of-events/house-of-wax-october-31",
+      "format": "3D",
+      "note": "Projected in Dolby Digital 3-D",
+      "source": "vogue"
     },
     {
       "id": "roxie:2026-10-31:16:45:tmdb:182921",
@@ -1905,6 +2011,17 @@
       "source": "balboa"
     },
     {
+      "id": "vogue:2026-10-31:19:30:tmdb:14435",
+      "venueId": "vogue",
+      "filmKey": "tmdb:14435",
+      "date": "2026-10-31",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/my-bloody-valentine-october-31",
+      "format": "3D",
+      "note": "Projected in Dolby Digital 3-D",
+      "source": "vogue"
+    },
+    {
       "id": "roxie:2026-10-31:21:15:tmdb:483",
       "venueId": "roxie",
       "filmKey": "tmdb:483",
@@ -1913,6 +2030,17 @@
       "url": "https://roxie.com/film/wild-at-heart/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "vogue:2026-10-31:21:30:tmdb:9728",
+      "venueId": "vogue",
+      "filmKey": "tmdb:9728",
+      "date": "2026-10-31",
+      "time": "21:30",
+      "url": "https://voguemovies.com/calendar-of-events/friday-the-13th-part-iii-october-31-2026",
+      "format": "3D",
+      "note": "Projected in Dolby Digital 3-D",
+      "source": "vogue"
     },
     {
       "id": "alamo:2026-10-31:21:30:tmdb:25438",
@@ -1952,6 +2080,16 @@
       "url": "https://roxie.com/film/thx-1138-35mm/",
       "format": "35mm",
       "source": "roxie"
+    },
+    {
+      "id": "ata:2026-11-02:19:30:tmdb:619778",
+      "venueId": "ata",
+      "filmKey": "tmdb:619778",
+      "date": "2026-11-02",
+      "time": "19:30",
+      "url": "https://www.atasite.org/event/rewards-program-malignant/",
+      "note": "A live-scored three-projector celluloid performance with: MILES LASSI is an interdisciplinary artist based out of Oakland, CA.",
+      "source": "ata"
     },
     {
       "id": "alamo:2026-11-04:18:00:tmdb:483",
@@ -2312,6 +2450,46 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-elanor-moss",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-11-17:18:00:tmdb:53792",
+      "venueId": "roxie",
+      "filmKey": "tmdb:53792",
+      "date": "2026-11-17",
+      "time": "18:00",
+      "url": "https://roxie.com/film/counsellor-at-law/",
+      "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-11-17:18:30:tmdb:36949",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:36949",
+      "date": "2026-11-17",
+      "time": "18:30",
+      "url": "https://thenewparkway.com/movie/99-river-street-noirvember/",
+      "note": "Noirvember",
+      "source": "newparkway"
+    },
+    {
+      "id": "newparkway:2026-11-17:20:30:tmdb:17058",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:17058",
+      "date": "2026-11-17",
+      "time": "20:30",
+      "url": "https://thenewparkway.com/movie/scarlet-street-noirvember/",
+      "note": "Noirvember",
+      "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-11-17:21:30:tmdb:9552",
+      "venueId": "alamo",
+      "filmKey": "tmdb:9552",
+      "date": "2026-11-17",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-the-exorcist-on-35mm?cinemaId=0801&sessionId=82961",
+      "format": "35mm",
+      "note": "Terror Tuesday",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -2319,23 +2497,17 @@
       "key": "fest:4star:green film festival",
       "name": "GREEN FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-19",
+      "startDate": "2026-10-20",
       "endDate": "2026-10-22",
-      "url": "https://www.4-star-movies.com/calendar-of-events/narrative-fiction-green",
-      "showtimes": 5,
+      "url": "https://www.4-star-movies.com/calendar-of-events/harvest-green",
+      "showtimes": 4,
       "sample": [
-        "Narrative Fiction Shorts",
         "Harvest",
         "The Big Picture Shorts",
-        "A City in the Forest (Closing Night!)"
+        "A City in the Forest (Closing Night!)",
+        "Bodyhackers"
       ],
       "programme": [
-        {
-          "date": "2026-10-19",
-          "time": "18:00",
-          "title": "Narrative Fiction Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/narrative-fiction-green"
-        },
         {
           "date": "2026-10-20",
           "time": "18:00",
@@ -2366,22 +2538,15 @@
       "key": "fest:4star:sf short film festival",
       "name": "SF SHORT FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-10-19",
+      "startDate": "2026-10-20",
       "endDate": "2026-10-21",
-      "url": "https://www.4-star-movies.com/calendar-of-events/spontaneous-connections-shorts",
-      "showtimes": 3,
+      "url": "https://www.4-star-movies.com/calendar-of-events/spine-tingling-shorts",
+      "showtimes": 2,
       "sample": [
-        "Spontaneous Connections Shorts",
         "Spine-tingling Shorts",
         "Closing Night Shorts"
       ],
       "programme": [
-        {
-          "date": "2026-10-19",
-          "time": "20:15",
-          "title": "Spontaneous Connections Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/spontaneous-connections-shorts"
-        },
         {
           "date": "2026-10-20",
           "time": "20:15",
