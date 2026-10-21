@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-20T17:37:57.181Z",
+  "generatedAt": "2026-10-21T17:45:05.819Z",
   "films": {
-    "tmdb:3019": {
-      "key": "tmdb:3019",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1931,
-      "director": "Rouben Mamoulian",
-      "runtime": 96,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
-      "tmdbId": 3019,
-      "popularity": 3.9437,
-      "releaseDate": "1931-12-24",
-      "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late."
-    },
-    "tmdb:638": {
-      "key": "tmdb:638",
-      "title": "Lost Highway",
-      "year": 1997,
-      "director": "David Lynch",
-      "runtime": 134,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/5POhfNeFPIi4VUNwCTaK85sh98r.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
-      "tmdbId": 638,
-      "popularity": 10.2926,
-      "releaseDate": "1997-01-15",
-      "overview": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell."
-    },
     "tmdb:29933": {
       "key": "tmdb:29933",
       "title": "Kanal",
@@ -93,6 +65,20 @@
       "popularity": 16.2733,
       "releaseDate": "1993-07-16",
       "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all."
+    },
+    "tmdb:3019": {
+      "key": "tmdb:3019",
+      "title": "Dr. Jekyll and Mr. Hyde",
+      "year": 1931,
+      "director": "Rouben Mamoulian",
+      "runtime": 96,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
+      "tmdbId": 3019,
+      "popularity": 3.9437,
+      "releaseDate": "1931-12-24",
+      "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late."
     },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
@@ -627,6 +613,20 @@
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
       "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
     },
+    "tmdb:99": {
+      "key": "tmdb:99",
+      "title": "All About My Mother",
+      "year": 1999,
+      "director": "Pedro Almodóvar",
+      "runtime": 101,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
+      "tmdbId": 99,
+      "popularity": 9.027,
+      "releaseDate": "1999-04-16",
+      "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun."
+    },
     "tmdb:39264": {
       "key": "tmdb:39264",
       "title": "Godzilla vs. Megalon",
@@ -683,6 +683,62 @@
       "releaseDate": "2003-06-13",
       "overview": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
     },
+    "tmdb:219": {
+      "key": "tmdb:219",
+      "title": "Volver",
+      "year": 2006,
+      "director": "Pedro Almodóvar",
+      "runtime": 121,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/ljRPzuI1xybiFUGU1uCRdx68h0K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cLvcOx8RbSUPCbkynKzNIg1zc2g.jpg",
+      "tmdbId": 219,
+      "popularity": 5.7896,
+      "releaseDate": "2006-03-17",
+      "overview": "Three generations of women deal with family secrets while surviving the east wind, fire, insanity, superstition, lies and even death."
+    },
+    "tmdb:4723": {
+      "key": "tmdb:4723",
+      "title": "Southland Tales",
+      "year": 2006,
+      "director": "Richard Kelly",
+      "runtime": 145,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/7dbIDQ80z4bxiDlAvxRwc5TI44C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oaT5yMG61XetddVmymGrDVeoCg4.jpg",
+      "tmdbId": 4723,
+      "popularity": 5.9099,
+      "releaseDate": "2007-11-14",
+      "overview": "Set in the futuristic landscape of Los Angeles on July 4, 2008, as it stands on the brink of social, economic and environmental disaster. Boxer Santaros is an action star who's stricken with amnesia. His life intertwines with Krysta Now, an adult film star developing her own reality television project, and Ronald Taverner, a Hermosa Beach police officer who holds the key to a vast conspiracy."
+    },
+    "tmdb:313922": {
+      "key": "tmdb:313922",
+      "title": "Green Room",
+      "year": 2015,
+      "director": "Jeremy Saulnier",
+      "runtime": 95,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
+      "tmdbId": 313922,
+      "popularity": 6.7738,
+      "releaseDate": "2016-04-15",
+      "overview": "Members of a punk rock band and a tough young woman are forced to fight for survival after witnessing an act of violence at a skinhead bar."
+    },
+    "tmdb:10692": {
+      "key": "tmdb:10692",
+      "title": "Henry: Portrait of a Serial Killer",
+      "year": 1986,
+      "director": "John McNaughton",
+      "runtime": 83,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/diVMzTarVLgjc3jyODyhZMadfwD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nLr8MU3e4YVwdSMpzhtiKRsO79b.jpg",
+      "tmdbId": 10692,
+      "popularity": 3.8305,
+      "releaseDate": "1986-09-24",
+      "overview": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer."
+    },
     "tmdb:609": {
       "key": "tmdb:609",
       "title": "Poltergeist",
@@ -697,19 +753,33 @@
       "releaseDate": "1982-06-04",
       "overview": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back."
     },
-    "tmdb:28752": {
-      "key": "tmdb:28752",
-      "title": "The Curse of the Werewolf",
-      "year": 1961,
-      "director": "Terence Fisher",
-      "runtime": 93,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/eKQ6kovQVp2I7g1hJegOo8vRBhu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kHmAXmPOzFOct3TqZUZZBUBYfjI.jpg",
-      "tmdbId": 28752,
-      "popularity": 3.8578,
-      "releaseDate": "1961-05-01",
-      "overview": "A child conceived by a mute servant girl transforms from an innocent youth to a killer beast at night with uncontrollable urges."
+    "tmdb:965": {
+      "key": "tmdb:965",
+      "title": "The Magnificent Ambersons",
+      "year": 1942,
+      "director": "Orson Welles",
+      "runtime": 88,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/g5EosvM0delNPkgBDGYYZvJl46n.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pkD7zVlHpBoORTtupteZxiOxaG4.jpg",
+      "tmdbId": 965,
+      "popularity": 4.198,
+      "releaseDate": "1942-07-10",
+      "overview": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved."
+    },
+    "tmdb:63311": {
+      "key": "tmdb:63311",
+      "title": "The Skin I Live In",
+      "year": 2011,
+      "director": "Pedro Almodóvar",
+      "runtime": 120,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/xa7uCwGYykrf8MMI8iF5dZvNlrG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oPxTkDKK2NcHcAEADATWiXKOkFw.jpg",
+      "tmdbId": 63311,
+      "popularity": 9.264,
+      "releaseDate": "2011-08-17",
+      "overview": "A brilliant plastic surgeon creates a synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession."
     },
     "tmdb:25438": {
       "key": "tmdb:25438",
@@ -724,6 +794,20 @@
       "popularity": 3.0284,
       "releaseDate": "1986-10-24",
       "overview": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of his unreleased album, which, when played backwards, brings the rocker back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll...It's life and death."
+    },
+    "tmdb:26573": {
+      "key": "tmdb:26573",
+      "title": "Dr. Goldfoot and the Bikini Machine",
+      "year": 1965,
+      "director": "Norman Taurog",
+      "runtime": 88,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/v1NPmkAgQ85fTJAD7cmZ2EcFCvh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8P4YHsHMimLyDEK5EhOPGfjmRwD.jpg",
+      "tmdbId": 26573,
+      "popularity": 2.5336,
+      "releaseDate": "1965-11-06",
+      "overview": "Mad scientist Dr. Goldfoot has invented an army of bikini-clad robots programmed to seek out wealthy men and charm them into signing over their assets. Secret agent Craig Gamble and millionaire Todd Armstrong set out to foil his fiendish plot."
     },
     "tmdb:22293": {
       "key": "tmdb:22293",
@@ -752,6 +836,20 @@
       "popularity": 2.9183,
       "releaseDate": "1986-01-17",
       "overview": "When a family moves into a San Francisco apartment, an opportunistic troll decides to make his move and take possession of little Wendy, thereby paving the way for new troll recruits, the first in his army that will take eventual control of the planet. We soon discover Torok is the ex-husband of Eunice St. Clair, a resident in the building who was married to Torok."
+    },
+    "tmdb:4203": {
+      "key": "tmdb:4203",
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "year": 1988,
+      "director": "Pedro Almodóvar",
+      "runtime": 88,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/lOehCiqghODNrNBpI1JS76zl6Lx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eRzwmzyz4sSq2QqjXWehWNkU0Us.jpg",
+      "tmdbId": 4203,
+      "popularity": 5.9956,
+      "releaseDate": "1988-03-25",
+      "overview": "After being dumped by her lover, Pepa finds her life and the lives of those around her spiraling out of control in a deliciously chaotic series of events."
     },
     "tmdb:441944": {
       "key": "tmdb:441944",
@@ -835,6 +933,20 @@
       "popularity": 7.1181,
       "releaseDate": "1987-10-23",
       "overview": "A priest discovers an ancient canister containing a strange liquid in an abandoned church. When a group of graduate students and scientists are tasked with studying it, they unknowingly unleash an evil force waiting to destroy all of humanity."
+    },
+    "tmdb:11778": {
+      "key": "tmdb:11778",
+      "title": "The Deer Hunter",
+      "year": 1978,
+      "director": "Michael Cimino",
+      "runtime": 183,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg",
+      "tmdbId": 11778,
+      "popularity": 11.4383,
+      "releaseDate": "1978-12-08",
+      "overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever."
     },
     "tmdb:15855": {
       "key": "tmdb:15855",
@@ -1228,6 +1340,20 @@
       "releaseDate": "1945-12-25",
       "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much."
     },
+    "tmdb:25768": {
+      "key": "tmdb:25768",
+      "title": "Steamboat Bill, Jr.",
+      "year": 1928,
+      "director": "Charles Reisner, Buster Keaton",
+      "runtime": 70,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
+      "tmdbId": 25768,
+      "popularity": 4.5603,
+      "releaseDate": "1928-05-09",
+      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
+    },
     "tmdb:8413": {
       "key": "tmdb:8413",
       "title": "Event Horizon",
@@ -1258,44 +1384,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "roxie:2026-10-20:18:00:tmdb:3019",
-      "venueId": "roxie",
-      "filmKey": "tmdb:3019",
-      "date": "2026-10-20",
-      "time": "18:00",
-      "url": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-20:18:30:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-20",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-10-20:20:00:tmdb:638",
-      "venueId": "roxie",
-      "filmKey": "tmdb:638",
-      "date": "2026-10-20",
-      "time": "20:00",
-      "url": "https://roxie.com/film/lost-highway/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-20:21:15:tmdb:28752",
-      "venueId": "alamo",
-      "filmKey": "tmdb:28752",
-      "date": "2026-10-20",
-      "time": "21:15",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-the-curse-of-the-werewolf-1961-2?cinemaId=0801&sessionId=82955",
-      "format": "35mm",
-      "note": "Terror Tuesday · Oliver Reed goes fangs out for this overlooked British treasure.",
-      "source": "alamo"
-    },
     {
       "id": "roxie:2026-10-21:18:20:tmdb:29933",
       "venueId": "roxie",
@@ -1498,6 +1586,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-10-24:17:30:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-24",
+      "time": "17:30",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
+    },
+    {
       "id": "bampfa:2026-10-24:19:00:tmdb:50785",
       "venueId": "bampfa",
       "filmKey": "tmdb:50785",
@@ -1678,7 +1775,17 @@
       "date": "2026-10-27",
       "time": "13:30",
       "url": "https://drafthouse.com/sf/show/godzilla-vs-megalon?cinemaId=0801&sessionId=83825",
+      "note": "Baby Day",
       "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-10-27:18:45:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-27",
+      "time": "18:45",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
     },
     {
       "id": "alamo:2026-10-27:19:00:tmdb:1887",
@@ -1848,6 +1955,16 @@
       "format": "4K",
       "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "alamo:2026-10-30:21:45:tmdb:313922",
+      "venueId": "alamo",
+      "filmKey": "tmdb:313922",
+      "date": "2026-10-30",
+      "time": "21:45",
+      "url": "https://drafthouse.com/sf/show/special-event-green-room-10th-anniversary?cinemaId=0801&sessionId=83735",
+      "note": "10th Anniversary · Punk rock, loaded mac, and a SLAYGROUND popcorn bucket",
+      "source": "alamo"
     },
     {
       "id": "newparkway:2026-10-30:22:30:tmdb:13310",
@@ -2221,6 +2338,15 @@
       "source": "balboa"
     },
     {
+      "id": "alamo:2026-11-08:12:00:tmdb:965",
+      "venueId": "alamo",
+      "filmKey": "tmdb:965",
+      "date": "2026-11-08",
+      "time": "12:00",
+      "url": "https://drafthouse.com/sf/show/the-magnificent-ambersons?cinemaId=0801&sessionId=83857",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-11-08:13:20:tmdb:664572",
       "venueId": "roxie",
       "filmKey": "tmdb:664572",
@@ -2239,6 +2365,15 @@
       "format": "35mm",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
       "source": "bampfa"
+    },
+    {
+      "id": "alamo:2026-11-08:14:40:tmdb:4723",
+      "venueId": "alamo",
+      "filmKey": "tmdb:4723",
+      "date": "2026-11-08",
+      "time": "14:40",
+      "url": "https://drafthouse.com/sf/show/southland-tales?cinemaId=0801&sessionId=83858",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-11-08:15:10:tmdb:94527",
@@ -2310,12 +2445,23 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-11-10:21:30:tmdb:10692",
+      "venueId": "alamo",
+      "filmKey": "tmdb:10692",
+      "date": "2026-11-10",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-henry-portrait-of-a-serial-killer?cinemaId=0801&sessionId=83860",
+      "note": "Terror Tuesday · An unflinching gaze into a serial killer from John McNaughton",
+      "source": "alamo"
+    },
+    {
       "id": "operaplaza:2026-11-11:19:00:tmdb:203",
       "venueId": "operaplaza",
       "filmKey": "tmdb:203",
       "date": "2026-11-11",
       "time": "19:00",
       "url": "https://www.landmarktheatres.com/movies/236-mean-streets/",
+      "note": "Filmmaker Focus: Robert De Niro",
       "source": "operaplaza"
     },
     {
@@ -2338,6 +2484,15 @@
       "url": "https://www.sfmoma.org/event/little-forest-film-screening-conversation/",
       "note": "a special screening of the delightful foodie film \"Little Forest\" followed by a conversation with the filmmaker Yim Soon-Rye.",
       "source": "sfmoma"
+    },
+    {
+      "id": "alamo:2026-11-12:18:40:tmdb:4203",
+      "venueId": "alamo",
+      "filmKey": "tmdb:4203",
+      "date": "2026-11-12",
+      "time": "18:40",
+      "url": "https://drafthouse.com/sf/show/women-on-the-verge-of-a-nervous-breakdown?cinemaId=0801&sessionId=83859",
+      "source": "alamo"
     },
     {
       "id": "bampfa:2026-11-12:19:00:tmdb:8073",
@@ -2372,6 +2527,15 @@
       "source": "bampfa"
     },
     {
+      "id": "alamo:2026-11-13:18:30:tmdb:99",
+      "venueId": "alamo",
+      "filmKey": "tmdb:99",
+      "date": "2026-11-13",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/all-about-my-mother?cinemaId=0801&sessionId=83862",
+      "source": "alamo"
+    },
+    {
       "id": "newparkway:2026-11-14:12:00:tmdb:996",
       "venueId": "newparkway",
       "filmKey": "tmdb:996",
@@ -2379,6 +2543,16 @@
       "time": "12:00",
       "url": "https://thenewparkway.com/movie/double-indemnity/",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-11-14:15:00:tmdb:219",
+      "venueId": "alamo",
+      "filmKey": "tmdb:219",
+      "date": "2026-11-14",
+      "time": "15:00",
+      "url": "https://drafthouse.com/sf/show/sad-girl-cinema-club-volver?cinemaId=0801&sessionId=83863",
+      "note": "Sad Girl Cinema Club · Pedro Almodóvar and his muse Penélope Cruz’s celebration of female community",
+      "source": "alamo"
     },
     {
       "id": "bampfa:2026-11-14:15:30:tmdb:103",
@@ -2430,6 +2604,15 @@
       "time": "15:00",
       "url": "https://roxie.com/film/hunting-flies-roly-poly/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-11-15:15:00:tmdb:63311",
+      "venueId": "alamo",
+      "filmKey": "tmdb:63311",
+      "date": "2026-11-15",
+      "time": "15:00",
+      "url": "https://drafthouse.com/sf/show/the-skin-i-live-in?cinemaId=0801&sessionId=83864",
+      "source": "alamo"
     },
     {
       "id": "4star:2026-11-15:20:00:tmdb:98096",
@@ -2490,171 +2673,39 @@
       "format": "35mm",
       "note": "Terror Tuesday",
       "source": "alamo"
+    },
+    {
+      "id": "operaplaza:2026-11-18:19:00:tmdb:11778",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:11778",
+      "date": "2026-11-18",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/29714-the-deer-hunter/",
+      "note": "Filmmaker Focus: Robert De Niro",
+      "source": "operaplaza"
+    },
+    {
+      "id": "grandlake:2026-11-18:19:00:tmdb:25768",
+      "venueId": "grandlake",
+      "filmKey": "tmdb:25768",
+      "date": "2026-11-18",
+      "time": "19:00",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261118",
+      "source": "grandlake"
+    },
+    {
+      "id": "alamo:2026-11-18:21:30:tmdb:26573",
+      "venueId": "alamo",
+      "filmKey": "tmdb:26573",
+      "date": "2026-11-18",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-dr-goldfoot-and-the-bikini-machine?cinemaId=0801&sessionId=83043",
+      "format": "35mm",
+      "note": "Weird Wednesday · Super sexbots... built to kill!",
+      "source": "alamo"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:4star:green film festival",
-      "name": "GREEN FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-22",
-      "url": "https://www.4-star-movies.com/calendar-of-events/harvest-green",
-      "showtimes": 4,
-      "sample": [
-        "Harvest",
-        "The Big Picture Shorts",
-        "A City in the Forest (Closing Night!)",
-        "Bodyhackers"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-20",
-          "time": "18:00",
-          "title": "Harvest",
-          "url": "https://www.4-star-movies.com/calendar-of-events/harvest-green"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "18:00",
-          "title": "The Big Picture Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/big-picture-shorts-green"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "18:00",
-          "title": "A City in the Forest (Closing Night!)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/a-city-green"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "20:30",
-          "title": "Bodyhackers",
-          "url": "https://www.4-star-movies.com/calendar-of-events/bodyhackers-green"
-        }
-      ]
-    },
-    {
-      "key": "fest:4star:sf short film festival",
-      "name": "SF SHORT FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-21",
-      "url": "https://www.4-star-movies.com/calendar-of-events/spine-tingling-shorts",
-      "showtimes": 2,
-      "sample": [
-        "Spine-tingling Shorts",
-        "Closing Night Shorts"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-20",
-          "time": "20:15",
-          "title": "Spine-tingling Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/spine-tingling-shorts"
-        },
-        {
-          "date": "2026-10-21",
-          "time": "20:15",
-          "title": "Closing Night Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/closing-night-shorts"
-        }
-      ]
-    },
-    {
-      "key": "fest:alamo:fantastic fest presents",
-      "name": "Fantastic Fest Presents",
-      "venueId": "alamo",
-      "startDate": "2026-10-20",
-      "endDate": "2026-11-08",
-      "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040",
-      "showtimes": 13,
-      "sample": [
-        "Restoration at Grayson Manor",
-        "The Cycle",
-        "Wild Horse Nine"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-20",
-          "time": "19:00",
-          "title": "The Cycle",
-          "url": "https://drafthouse.com/sf/show/the-cycle?cinemaId=0801&sessionId=83040"
-        },
-        {
-          "date": "2026-10-29",
-          "time": "21:30",
-          "title": "Restoration at Grayson Manor",
-          "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
-        }
-      ]
-    },
     {
       "key": "fest:vogue:frameline fall showcase",
       "name": "Frameline Fall Showcase",
@@ -2679,6 +2730,60 @@
           "time": "19:00",
           "title": "Coward",
           "url": "https://voguemovies.com/calendar-of-events/frameline-fall-coward-october-28"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:green film festival",
+      "name": "GREEN FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-22",
+      "url": "https://www.4-star-movies.com/calendar-of-events/big-picture-shorts-green",
+      "showtimes": 3,
+      "sample": [
+        "The Big Picture Shorts",
+        "A City in the Forest (Closing Night!)",
+        "Bodyhackers"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-21",
+          "time": "18:00",
+          "title": "The Big Picture Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/big-picture-shorts-green"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "18:00",
+          "title": "A City in the Forest (Closing Night!)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/a-city-green"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "20:30",
+          "title": "Bodyhackers",
+          "url": "https://www.4-star-movies.com/calendar-of-events/bodyhackers-green"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:sf short film festival",
+      "name": "SF SHORT FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21",
+      "url": "https://www.4-star-movies.com/calendar-of-events/closing-night-shorts",
+      "showtimes": 1,
+      "sample": [
+        "Closing Night Shorts"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-21",
+          "time": "20:15",
+          "title": "Closing Night Shorts",
+          "url": "https://www.4-star-movies.com/calendar-of-events/closing-night-shorts"
         }
       ]
     },
@@ -2876,6 +2981,225 @@
       ]
     },
     {
+      "key": "fest:alamo:fantastic fest presents",
+      "name": "Fantastic Fest Presents",
+      "venueId": "alamo",
+      "startDate": "2026-10-29",
+      "endDate": "2026-11-08",
+      "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446",
+      "showtimes": 12,
+      "sample": [
+        "Restoration at Grayson Manor",
+        "Wild Horse Nine"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-29",
+          "time": "21:30",
+          "title": "Restoration at Grayson Manor",
+          "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
+        }
+      ]
+    },
+    {
+      "key": "fest:grandlake:23rd animation show of shows",
+      "name": "23rd Animation Show of Shows",
+      "venueId": "grandlake",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-04",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030",
+      "showtimes": 20,
+      "sample": [],
+      "programme": [
+        {
+          "date": "2026-10-30",
+          "time": "16:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "22:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "12:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "14:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "16:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "18:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "20:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "22:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "12:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "14:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "16:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "18:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "20:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "16:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "18:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "20:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "16:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "18:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "20:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "16:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104"
+        }
+      ]
+    },
+    {
       "key": "fest:roxie:dance thrill fest",
       "name": "Dance Thrill Fest",
       "venueId": "roxie",
@@ -2959,6 +3283,26 @@
           "time": "17:45",
           "title": "Edward Said: Between Worlds",
           "url": "https://thecastro.com/events/edward-said-between-worlds"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents ee two gen z internet brain rot transmissions",
+      "name": "Fantastic Fest Presents · + EE · Two Gen Z internet brain rot transmissions!",
+      "venueId": "alamo",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-crocodile-dose-ee?cinemaId=0801&sessionId=83861",
+      "showtimes": 1,
+      "sample": [
+        "Crocodile Dose"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-11",
+          "time": "21:30",
+          "title": "Crocodile Dose",
+          "url": "https://drafthouse.com/sf/show/weird-wednesday-crocodile-dose-ee?cinemaId=0801&sessionId=83861"
         }
       ]
     },
