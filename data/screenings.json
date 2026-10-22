@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-10-21T17:45:05.819Z",
+  "generatedAt": "2026-10-22T17:43:33.551Z",
   "films": {
-    "tmdb:29933": {
-      "key": "tmdb:29933",
-      "title": "Kanal",
-      "year": 1957,
-      "director": "Andrzej Wajda",
-      "runtime": 96,
-      "genre": "War",
-      "poster": "https://image.tmdb.org/t/p/w500/mUxZNNmvX3MwIJ9LTcuw76ZdtN6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kfuJtNiY3aevZHzSMA007pbVWqH.jpg",
-      "tmdbId": 29933,
-      "popularity": 2.1736,
-      "releaseDate": "1957-04-20",
-      "overview": "In the last few days of the Warsaw Uprising during World War II, a modest group of Resistance members remains. The band must take refuge in the sewers under the orders of leader Zadra, but it's only a matter of time before they will have to emerge. However, when they try, they are met only with intense hostility from the Nazis. Despite their attempts stay resolute through immense mental strain, it becomes increasingly apparent that they may be doomed."
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -135,6 +121,20 @@
       "popularity": 6.7913,
       "releaseDate": "1964-02-15",
       "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them."
+    },
+    "tmdb:25623": {
+      "key": "tmdb:25623",
+      "title": "House",
+      "year": 1977,
+      "director": "Nobuhiko Obayashi",
+      "runtime": 88,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
+      "tmdbId": 25623,
+      "popularity": 3.9413,
+      "releaseDate": "1977-08-26",
+      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye."
     },
     "tmdb:458723": {
       "key": "tmdb:458723",
@@ -262,6 +262,18 @@
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
     },
+    "tmdb:425395": {
+      "key": "tmdb:425395",
+      "title": "Go Like This",
+      "year": 1985,
+      "director": "Rock Ross",
+      "runtime": 3,
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/10/2-11-e1792604112245.jpg",
+      "tmdbId": 425395,
+      "popularity": 0.5428,
+      "releaseDate": "1985-01-01",
+      "overview": "Frenetic and impressionistic, this nocturnal foray through San Francisco's streets (heightened by a stop at a nightclub) delivers a thrill-hit of ebullient adrenaline. The rush of excitement, of anonymity, of adventure, of being alive, of potentially meeting someone new is palpable. Somewhere in the middle of this burst of gorgeous black-and-white, the neon takes on a life of its own, squiggling into infinity. \"This is about living fast and dying peacefully,\" the filmmaker said at the time, which adds another layer of poignancy. - Michael Fox"
+    },
     "tmdb:198669": {
       "key": "tmdb:198669",
       "title": "Hunting Flies",
@@ -289,20 +301,6 @@
       "popularity": 1.3143,
       "releaseDate": "1933-12-25",
       "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
-    },
-    "tmdb:25199": {
-      "key": "tmdb:25199",
-      "title": "Teen Witch",
-      "year": 1989,
-      "director": "Dorian Walker",
-      "runtime": 94,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/8UNA7PZ9gpoIgELB13bKCwOuICp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/vRfo7aDU9k10G1FUSixOCPbcBmr.jpg",
-      "tmdbId": 25199,
-      "popularity": 4.1143,
-      "releaseDate": "1989-04-28",
-      "overview": "Louise is not very popular at her highschool. Then she learns that she's descended from the witches of Salem and has inherited their powers. At first she uses them to get back at the girls and teachers who teased her and to win the heart of the handsome footballer's captain. But soon she has doubts if it's right to 'cheat' her way to popularity."
     },
     "tmdb:11455": {
       "key": "tmdb:11455",
@@ -669,20 +667,6 @@
       "releaseDate": "1971-05-28",
       "overview": "Ostend, Belgium. In a decadent seaside hotel, Stefan and Valerie, a newlywed couple, meet the mysterious Countess Báthory and Ilona, her secretary."
     },
-    "tmdb:4552": {
-      "key": "tmdb:4552",
-      "title": "A Tale of Two Sisters",
-      "year": 2003,
-      "director": "Kim Jee-woon",
-      "runtime": 115,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/syKbZiHVdXw0NcH6NdXWEKZaECv.jpg",
-      "tmdbId": 4552,
-      "popularity": 7.7035,
-      "releaseDate": "2003-06-13",
-      "overview": "Two sisters return home after a stay in a mental institution, only to face disturbing events and a strained relationship with their stepmother. As eerie occurrences unfold, dark family secrets begin to surface, blurring the line between reality and nightmare."
-    },
     "tmdb:219": {
       "key": "tmdb:219",
       "title": "Volver",
@@ -809,20 +793,6 @@
       "releaseDate": "1965-11-06",
       "overview": "Mad scientist Dr. Goldfoot has invented an army of bikini-clad robots programmed to seek out wealthy men and charm them into signing over their assets. Secret agent Craig Gamble and millionaire Todd Armstrong set out to foil his fiendish plot."
     },
-    "tmdb:22293": {
-      "key": "tmdb:22293",
-      "title": "\"MANOS\" The Hands of Fate",
-      "year": 1966,
-      "director": "Harold P. Warren",
-      "runtime": 74,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/aJZsXdJWgtVCSE3SOcOkMPNpbkV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/cjbIk6T7NqhX6myBGyQXU3j9ngk.jpg",
-      "tmdbId": 22293,
-      "popularity": 2.5415,
-      "releaseDate": "1966-11-15",
-      "overview": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo."
-    },
     "tmdb:33061": {
       "key": "tmdb:33061",
       "title": "Troll",
@@ -919,20 +889,6 @@
       "popularity": 18.9272,
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
-    },
-    "tmdb:8852": {
-      "key": "tmdb:8852",
-      "title": "Prince of Darkness",
-      "year": 1987,
-      "director": "John Carpenter",
-      "runtime": 102,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/jjcAOhtGuX4p8XvlVn1WXUT1jWi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9FYa8R1VQdgfuX4QcgZgvbaQ2ca.jpg",
-      "tmdbId": 8852,
-      "popularity": 7.1181,
-      "releaseDate": "1987-10-23",
-      "overview": "A priest discovers an ancient canister containing a strange liquid in an abandoned church. When a group of graduate students and scientists are tasked with studying it, they unknowingly unleash an evil force waiting to destroy all of humanity."
     },
     "tmdb:11778": {
       "key": "tmdb:11778",
@@ -1158,6 +1114,20 @@
       "releaseDate": "1959-11-20",
       "overview": "Kaji, sent to the Japanese army labeled Red, witnesses cruelties in the army and revolts against the abusive treatment against a fellow recruit. He also sees his friend Shinjô defecting to the Russian border, and he ends in the front to fight a lost battle against the Russian tanks division."
     },
+    "tmdb:1629": {
+      "key": "tmdb:1629",
+      "title": "La Chinoise",
+      "year": 1967,
+      "director": "Jean-Luc Godard",
+      "runtime": 96,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/hfGzYErvwi8hB38kCsSNy6OjdPv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5xKuOSej5ZmcDzrXIg6gqHask3o.jpg",
+      "tmdbId": 1629,
+      "popularity": 3.4199,
+      "releaseDate": "1967-08-30",
+      "overview": "A small group of French students are studying Mao, trying to find out their position in the world and how to change the world to a Maoistic community using terrorism."
+    },
     "tmdb:9637": {
       "key": "tmdb:9637",
       "title": "Scooby-Doo",
@@ -1340,6 +1310,33 @@
       "releaseDate": "1945-12-25",
       "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much."
     },
+    "tmdb:1362422": {
+      "key": "tmdb:1362422",
+      "title": "Beware! The Devil's Wrath",
+      "year": 2024,
+      "director": "Craig Meinhart",
+      "runtime": 10,
+      "genre": "Horror",
+      "backdrop": "https://indy-systems.imgix.net/en2vcrtkp3mei241u47hcv8jntr5?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress",
+      "tmdbId": 1362422,
+      "popularity": 1.0114,
+      "releaseDate": "2024-09-01",
+      "overview": "A young man is stalked, abducted, and tortured for a crime he may, or may not, have committed. He's subjected to a hallucinatory trip into hell by a vengeful figure in a cloak and hood."
+    },
+    "tmdb:273191": {
+      "key": "tmdb:273191",
+      "title": "Over the Garden Wall",
+      "year": 1934,
+      "director": "John Daumery",
+      "runtime": 65,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/pr1snPkxmWjLkVI1ryxeVhAe61b.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sNFcgDk1mDA7EWOII27eXZ2Xq1y.jpg",
+      "tmdbId": 273191,
+      "popularity": 1.1219,
+      "releaseDate": "1934-06-20",
+      "overview": "An aunt objects to the romance between her niece and a neighbour's nephew, and steps in to put an end to the love affair."
+    },
     "tmdb:25768": {
       "key": "tmdb:25768",
       "title": "Steamboat Bill, Jr.",
@@ -1381,59 +1378,23 @@
       "popularity": 5.5529,
       "releaseDate": "2003-08-15",
       "overview": "A group of five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals."
+    },
+    "tmdb:1712": {
+      "key": "tmdb:1712",
+      "title": "Giant",
+      "year": 1956,
+      "director": "George Stevens",
+      "runtime": 201,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
+      "tmdbId": 1712,
+      "popularity": 10.5593,
+      "releaseDate": "1956-11-08",
+      "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
     }
   },
   "screenings": [
-    {
-      "id": "roxie:2026-10-21:18:20:tmdb:29933",
-      "venueId": "roxie",
-      "filmKey": "tmdb:29933",
-      "date": "2026-10-21",
-      "time": "18:20",
-      "url": "https://roxie.com/film/kanal-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-21:18:40:tmdb:4552",
-      "venueId": "alamo",
-      "filmKey": "tmdb:4552",
-      "date": "2026-10-21",
-      "time": "18:40",
-      "url": "https://drafthouse.com/sf/show/sad-girl-cinema-club-a-tale-of-two-sisters?cinemaId=0801&sessionId=82956",
-      "note": "Sad Girl Cinema Club · Sad Girl Cinema Club gets spooky with Kim Jee-woon’s top tier twisted tale",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-10-21:19:00:tmdb:25199",
-      "venueId": "balboa",
-      "filmKey": "tmdb:25199",
-      "date": "2026-10-21",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/teen-witch-october-21",
-      "note": "Presented as part of",
-      "source": "balboa"
-    },
-    {
-      "id": "operaplaza:2026-10-21:19:00:tmdb:8852",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:8852",
-      "date": "2026-10-21",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/3533-prince-of-darkness/",
-      "note": "Filmmaker Focus - John Carpenter",
-      "source": "operaplaza"
-    },
-    {
-      "id": "alamo:2026-10-21:21:50:tmdb:22293",
-      "venueId": "alamo",
-      "filmKey": "tmdb:22293",
-      "date": "2026-10-21",
-      "time": "21:50",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-manos-the-hands-of-fate?cinemaId=0801&sessionId=82957",
-      "note": "Weird Wednesday · The master would not approve",
-      "source": "alamo"
-    },
     {
       "id": "vogue:2026-10-22:16:00:tmdb:25389",
       "venueId": "vogue",
@@ -1916,6 +1877,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-10-29:20:40:tmdb:25623",
+      "venueId": "roxie",
+      "filmKey": "tmdb:25623",
+      "date": "2026-10-29",
+      "time": "20:40",
+      "url": "https://roxie.com/film/new-people-hausu/",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-10-30:18:00:tmdb:13353",
       "venueId": "4star",
       "filmKey": "tmdb:13353",
@@ -2228,6 +2198,16 @@
       "source": "roxie"
     },
     {
+      "id": "operaplaza:2026-11-04:19:00:tmdb:203",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:203",
+      "date": "2026-11-04",
+      "time": "19:00",
+      "url": "https://www.landmarktheatres.com/movies/236-mean-streets/",
+      "note": "Filmmaker Focus: Robert De Niro",
+      "source": "operaplaza"
+    },
+    {
       "id": "4star:2026-11-04:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -2451,16 +2431,26 @@
       "date": "2026-11-10",
       "time": "21:30",
       "url": "https://drafthouse.com/sf/show/terror-tuesday-henry-portrait-of-a-serial-killer?cinemaId=0801&sessionId=83860",
-      "note": "Terror Tuesday · An unflinching gaze into a serial killer from John McNaughton",
+      "note": "Terror Tuesday · An unflinching gaze into a serial killer, newly restored",
       "source": "alamo"
     },
     {
-      "id": "operaplaza:2026-11-11:19:00:tmdb:203",
+      "id": "roxie:2026-11-11:18:00:tmdb:425395",
+      "venueId": "roxie",
+      "filmKey": "tmdb:425395",
+      "date": "2026-11-11",
+      "time": "18:00",
+      "url": "https://roxie.com/film/rock-ross-go-like-this-16mm/",
+      "format": "16mm",
+      "source": "roxie"
+    },
+    {
+      "id": "operaplaza:2026-11-11:19:00:tmdb:11778",
       "venueId": "operaplaza",
-      "filmKey": "tmdb:203",
+      "filmKey": "tmdb:11778",
       "date": "2026-11-11",
       "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/236-mean-streets/",
+      "url": "https://www.landmarktheatres.com/movies/29714-the-deer-hunter/",
       "note": "Filmmaker Focus: Robert De Niro",
       "source": "operaplaza"
     },
@@ -2625,16 +2615,6 @@
       "source": "4star"
     },
     {
-      "id": "4star:2026-11-16:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-16",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-elanor-moss",
-      "note": "Throwin’ Bo’s presents:",
-      "source": "4star"
-    },
-    {
       "id": "roxie:2026-11-17:18:00:tmdb:53792",
       "venueId": "roxie",
       "filmKey": "tmdb:53792",
@@ -2675,16 +2655,6 @@
       "source": "alamo"
     },
     {
-      "id": "operaplaza:2026-11-18:19:00:tmdb:11778",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:11778",
-      "date": "2026-11-18",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/29714-the-deer-hunter/",
-      "note": "Filmmaker Focus: Robert De Niro",
-      "source": "operaplaza"
-    },
-    {
       "id": "grandlake:2026-11-18:19:00:tmdb:25768",
       "venueId": "grandlake",
       "filmKey": "tmdb:25768",
@@ -2703,90 +2673,60 @@
       "format": "35mm",
       "note": "Weird Wednesday · Super sexbots... built to kill!",
       "source": "alamo"
+    },
+    {
+      "id": "bampfa:2026-11-19:19:00:tmdb:1629",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:1629",
+      "date": "2026-11-19",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/la-chinoise",
+      "format": "DCP",
+      "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "rafael:2026-11-19:19:00:tmdb:1712",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1712",
+      "date": "2026-11-19",
+      "time": "19:00",
+      "url": "https://cinema.cafilm.org/film/giant",
+      "note": "Stage To Screen",
+      "source": "rafael"
+    },
+    {
+      "id": "4star:2026-11-19:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-19",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-computerwife",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
+    },
+    {
+      "id": "newparkway:2026-11-19:20:30:tmdb:1362422",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1362422",
+      "date": "2026-11-19",
+      "time": "20:30",
+      "url": "https://thenewparkway.com/movie/beware-the-devils-wrath-with-filmmaker-q-a/",
+      "note": "with Filmmaker Q & A",
+      "source": "newparkway"
+    },
+    {
+      "id": "newparkway:2026-11-19:21:00:tmdb:273191",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:273191",
+      "date": "2026-11-19",
+      "time": "21:00",
+      "url": "https://thenewparkway.com/movie/over-the-garden-wall-animation-ko/",
+      "note": "Animation KO",
+      "source": "newparkway"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:vogue:frameline fall showcase",
-      "name": "Frameline Fall Showcase",
-      "venueId": "vogue",
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-28",
-      "url": "https://voguemovies.com/calendar-of-events/frameline-fall-clarissa-october-21",
-      "showtimes": 2,
-      "sample": [
-        "Clarissa",
-        "Coward"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-21",
-          "time": "19:00",
-          "title": "Clarissa",
-          "url": "https://voguemovies.com/calendar-of-events/frameline-fall-clarissa-october-21"
-        },
-        {
-          "date": "2026-10-28",
-          "time": "19:00",
-          "title": "Coward",
-          "url": "https://voguemovies.com/calendar-of-events/frameline-fall-coward-october-28"
-        }
-      ]
-    },
-    {
-      "key": "fest:4star:green film festival",
-      "name": "GREEN FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-22",
-      "url": "https://www.4-star-movies.com/calendar-of-events/big-picture-shorts-green",
-      "showtimes": 3,
-      "sample": [
-        "The Big Picture Shorts",
-        "A City in the Forest (Closing Night!)",
-        "Bodyhackers"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-21",
-          "time": "18:00",
-          "title": "The Big Picture Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/big-picture-shorts-green"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "18:00",
-          "title": "A City in the Forest (Closing Night!)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/a-city-green"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "20:30",
-          "title": "Bodyhackers",
-          "url": "https://www.4-star-movies.com/calendar-of-events/bodyhackers-green"
-        }
-      ]
-    },
-    {
-      "key": "fest:4star:sf short film festival",
-      "name": "SF SHORT FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-10-21",
-      "endDate": "2026-10-21",
-      "url": "https://www.4-star-movies.com/calendar-of-events/closing-night-shorts",
-      "showtimes": 1,
-      "sample": [
-        "Closing Night Shorts"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-21",
-          "time": "20:15",
-          "title": "Closing Night Shorts",
-          "url": "https://www.4-star-movies.com/calendar-of-events/closing-night-shorts"
-        }
-      ]
-    },
     {
       "key": "fest:roxie:sf latino film festival",
       "name": "SF Latino Film Festival",
@@ -2825,6 +2765,33 @@
           "time": "13:00",
           "title": "Libertad",
           "url": "https://roxie.com/film/sf-latino-film-festival-libertad/"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:green film festival",
+      "name": "GREEN FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "url": "https://www.4-star-movies.com/calendar-of-events/a-city-green",
+      "showtimes": 2,
+      "sample": [
+        "A City in the Forest (Closing Night!)",
+        "Bodyhackers"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-22",
+          "time": "18:00",
+          "title": "A City in the Forest (Closing Night!)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/a-city-green"
+        },
+        {
+          "date": "2026-10-22",
+          "time": "20:30",
+          "title": "Bodyhackers",
+          "url": "https://www.4-star-movies.com/calendar-of-events/bodyhackers-green"
         }
       ]
     },
@@ -2950,6 +2917,26 @@
           "time": "22:00",
           "title": "Littermates",
           "url": "https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-advance-screening?cinemaId=0801&sessionId=83222"
+        }
+      ]
+    },
+    {
+      "key": "fest:vogue:frameline fall showcase",
+      "name": "Frameline Fall Showcase",
+      "venueId": "vogue",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "url": "https://voguemovies.com/calendar-of-events/frameline-fall-coward-october-28",
+      "showtimes": 1,
+      "sample": [
+        "Coward"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-28",
+          "time": "19:00",
+          "title": "Coward",
+          "url": "https://voguemovies.com/calendar-of-events/frameline-fall-coward-october-28"
         }
       ]
     },
@@ -3109,13 +3096,13 @@
         },
         {
           "date": "2026-10-31",
-          "time": "18:00",
+          "time": "18:10",
           "title": "23rd Animation Show of Shows",
           "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
         },
         {
           "date": "2026-10-31",
-          "time": "20:00",
+          "time": "20:10",
           "title": "23rd Animation Show of Shows",
           "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
         },
@@ -3139,7 +3126,7 @@
         },
         {
           "date": "2026-11-01",
-          "time": "16:00",
+          "time": "16:10",
           "title": "23rd Animation Show of Shows",
           "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
         },
@@ -3157,13 +3144,13 @@
         },
         {
           "date": "2026-11-02",
-          "time": "16:00",
+          "time": "16:10",
           "title": "23rd Animation Show of Shows",
           "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
         },
         {
           "date": "2026-11-02",
-          "time": "18:00",
+          "time": "18:10",
           "title": "23rd Animation Show of Shows",
           "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
         },
@@ -3175,13 +3162,13 @@
         },
         {
           "date": "2026-11-03",
-          "time": "16:00",
+          "time": "16:10",
           "title": "23rd Animation Show of Shows",
           "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
         },
         {
           "date": "2026-11-03",
-          "time": "18:00",
+          "time": "18:10",
           "title": "23rd Animation Show of Shows",
           "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
         },
@@ -3193,7 +3180,7 @@
         },
         {
           "date": "2026-11-04",
-          "time": "16:00",
+          "time": "16:10",
           "title": "23rd Animation Show of Shows",
           "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104"
         }
@@ -3287,8 +3274,8 @@
       ]
     },
     {
-      "key": "fest:alamo:fantastic fest presents ee two gen z internet brain rot transmissions",
-      "name": "Fantastic Fest Presents · + EE · Two Gen Z internet brain rot transmissions!",
+      "key": "fest:alamo:fantastic fest presents preceded by the short film ee",
+      "name": "Fantastic Fest Presents · Preceded by the short film, \"ee.\"",
       "venueId": "alamo",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
