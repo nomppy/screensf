@@ -1,29 +1,6 @@
 {
-  "generatedAt": "2026-10-22T17:43:33.551Z",
+  "generatedAt": "2026-10-23T17:34:48.036Z",
   "films": {
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-16.jpg"
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "tmdb:1887": {
       "key": "tmdb:1887",
       "title": "Marie Antoinette",
@@ -66,6 +43,20 @@
       "releaseDate": "1931-12-24",
       "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late."
     },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
       "title": "Chronovisor",
@@ -93,6 +84,15 @@
       "popularity": 3.3641,
       "releaseDate": "1997-10-31",
       "overview": "She's sexy, shameless and loves taking people to their limit. She's a dangerous young woman who dreams about a jaguar that licks her naked body and sleeps by her side. Her past is bathed in blood and weird passions. Now she's met the man of her wildest dreams. He's dark, tough and mysterious. He likes robbing banks, trafficking in corpses and spicing it all with voodoo rituals. Together, the duo sets off toward Mexico destined to become the most feared outlaws in the continent."
+    },
+    "t:filipinana": {
+      "key": "t:filipinana",
+      "title": "Filipiñana",
+      "year": 2926,
+      "director": "Rafael Manuel",
+      "runtime": 100,
+      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
+      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-16.jpg"
     },
     "tmdb:258363": {
       "key": "tmdb:258363",
@@ -302,20 +302,6 @@
       "releaseDate": "1933-12-25",
       "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
     },
-    "tmdb:11455": {
-      "key": "tmdb:11455",
-      "title": "Up in Smoke",
-      "year": 1978,
-      "director": "Lou Adler",
-      "runtime": 86,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/bZclIeyzmybXLe3hTbFOIqlyPE0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eEG0Wq8TFg11HFuaKnetw0dQNUy.jpg",
-      "tmdbId": 11455,
-      "popularity": 4.5404,
-      "releaseDate": "1978-09-15",
-      "overview": "An unemployed pot-smoking slacker and amateur drummer, Anthony Stoner ditches his strict parents and hits the road, eventually meeting kindred spirit Pedro de Pacas. While the drug-ingesting duo is soon arrested for possession of marijuana, Anthony and Pedro get released on a technicality, allowing them to continue their many misadventures and ultimately compete in a rock band contest, where they perform the raucous tune \"Earache My Eye.\""
-    },
     "tmdb:98096": {
       "key": "tmdb:98096",
       "title": "Live Music",
@@ -452,20 +438,6 @@
       "popularity": 6.0879,
       "releaseDate": "2019-09-12",
       "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
-    },
-    "tmdb:25389": {
-      "key": "tmdb:25389",
-      "title": "Matinee",
-      "year": 1993,
-      "director": "Joe Dante",
-      "runtime": 99,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/2S6FEhl4dpr5E0mj3sth0XxJQAu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nfTkAIHLQ0XGVAxJefC8zX5yYrr.jpg",
-      "tmdbId": 25389,
-      "popularity": 3.1811,
-      "releaseDate": "1993-01-29",
-      "overview": "A showman introduces a small coastal town to a unique movie experience and capitalizes on the Cuban Missile crisis hysteria with a kitschy horror extravaganza combining film effects, stage props and actors in rubber suits in this salute to the B-movie."
     },
     "tmdb:203912": {
       "key": "tmdb:203912",
@@ -737,6 +709,20 @@
       "releaseDate": "1982-06-04",
       "overview": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back."
     },
+    "tmdb:7452": {
+      "key": "tmdb:7452",
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "year": 1989,
+      "director": "Peter Greenaway",
+      "runtime": 124,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/15xMqAnFsROopAT66zdRyu2Dtek.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rzaf3eCT8pVCGvuS7P8g2nPitqC.jpg",
+      "tmdbId": 7452,
+      "popularity": 5.9829,
+      "releaseDate": "1989-10-13",
+      "overview": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge."
+    },
     "tmdb:965": {
       "key": "tmdb:965",
       "title": "The Magnificent Ambersons",
@@ -778,6 +764,20 @@
       "popularity": 3.0284,
       "releaseDate": "1986-10-24",
       "overview": "Eddie Weinbauer, a metalhead teen who is bullied at school, looks to his heavy metal superstar idol, Sammi Curr, for guidance. When Curr is killed in a hotel fire, Eddie becomes the recipient of the only copy of his unreleased album, which, when played backwards, brings the rocker back to life. As Halloween approaches, Eddie begins to realize that this isn't only rock 'n roll...It's life and death."
+    },
+    "tmdb:2001": {
+      "key": "tmdb:2001",
+      "title": "We Own the Night",
+      "year": 2007,
+      "director": "James Gray",
+      "runtime": 118,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/rsKhSr3UNjG2DhVj2KPj0ARujez.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fJWeJL39Pddz30ULiQBn4WIv5hx.jpg",
+      "tmdbId": 2001,
+      "popularity": 6.816,
+      "releaseDate": "2007-10-12",
+      "overview": "A New York nightclub manager tries to save his brother and father from Russian mafia hitmen."
     },
     "tmdb:26573": {
       "key": "tmdb:26573",
@@ -890,6 +890,20 @@
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
+    "tmdb:10973": {
+      "key": "tmdb:10973",
+      "title": "Creature from the Black Lagoon",
+      "year": 1954,
+      "director": "Jack Arnold",
+      "runtime": 79,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/euCzA2Exc70MpTDCVYih8tdE7z1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/31P56eY3GQOA0wTwiW0gzkJyhSG.jpg",
+      "tmdbId": 10973,
+      "popularity": 5.8665,
+      "releaseDate": "1954-03-05",
+      "overview": "When scientists exploring the Amazon River stumble on a “missing link” connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fiancée, Kay."
+    },
     "tmdb:11778": {
       "key": "tmdb:11778",
       "title": "The Deer Hunter",
@@ -917,20 +931,6 @@
       "popularity": 3.7208,
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
-    },
-    "tmdb:269": {
-      "key": "tmdb:269",
-      "title": "Breathless",
-      "year": 1960,
-      "director": "Jean-Luc Godard",
-      "runtime": 90,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4WGuyWf1f94CsEeVIIqDKGw5rmO.jpg",
-      "tmdbId": 269,
-      "popularity": 8.2963,
-      "releaseDate": "1960-03-16",
-      "overview": "A small-time thief steals a car and impulsively murders a motorcycle policeman. Wanted by the authorities, he attempts to persuade a girl to run away to Italy with him."
     },
     "tmdb:50785": {
       "key": "tmdb:50785",
@@ -1128,19 +1128,19 @@
       "releaseDate": "1967-08-30",
       "overview": "A small group of French students are studying Mao, trying to find out their position in the world and how to change the world to a Maoistic community using terrorism."
     },
-    "tmdb:9637": {
-      "key": "tmdb:9637",
-      "title": "Scooby-Doo",
-      "year": 2002,
-      "director": "Raja Gosnell",
-      "runtime": 87,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/mTAiBJGg8mqEfnYHHbi37ZoRSZm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/1RAxtBxslR4OZCZC1vxIRUxjR7a.jpg",
-      "tmdbId": 9637,
-      "popularity": 12.0857,
-      "releaseDate": "2002-06-14",
-      "overview": "When the Mystery Inc. gang is invited to Spooky Island, a popular amusement park, they soon discover that the attractions aren't the only things that are spooky. Strange things are happening, and it's up to Scooby, Shaggy, Fred, Daphne, and Velma to uncover the truth behind the mysterious happenings."
+    "tmdb:27511": {
+      "key": "tmdb:27511",
+      "title": "He Who Gets Slapped",
+      "year": 1924,
+      "director": "Victor Sjöström",
+      "runtime": 72,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/ue7ce11Y6vEjZXKZeKCBKl6O9Dp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1Y6bivrnmJPR6OPBZSw7AMGzPD4.jpg",
+      "tmdbId": 27511,
+      "popularity": 2.2402,
+      "releaseDate": "1924-12-22",
+      "overview": "After a baron steals his scientific discoveries, runs away with his wife, and slaps him in public, a man joins a Parisian circus sideshow as a clown whose act consists of being slapped repeatedly and becomes infatuated with a showgirl colleague whose father intends to marry her off to the baron."
     },
     "tmdb:377": {
       "key": "tmdb:377",
@@ -1337,6 +1337,20 @@
       "releaseDate": "1934-06-20",
       "overview": "An aunt objects to the romance between her niece and a neighbour's nephew, and steps in to put an end to the love affair."
     },
+    "tmdb:9603": {
+      "key": "tmdb:9603",
+      "title": "Clueless",
+      "year": 1995,
+      "director": "Amy Heckerling",
+      "runtime": 97,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/65d0MccsiRSPTVicregKQL8owoo.jpg",
+      "tmdbId": 9603,
+      "popularity": 11.6045,
+      "releaseDate": "1995-07-19",
+      "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him."
+    },
     "tmdb:25768": {
       "key": "tmdb:25768",
       "title": "Steamboat Bill, Jr.",
@@ -1395,72 +1409,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "vogue:2026-10-22:16:00:tmdb:25389",
-      "venueId": "vogue",
-      "filmKey": "tmdb:25389",
-      "date": "2026-10-22",
-      "time": "16:00",
-      "url": "https://voguemovies.com/calendar-of-events/matinee-october-22",
-      "source": "vogue"
-    },
-    {
-      "id": "newparkway:2026-10-22:17:00:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-22",
-      "time": "17:00",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "bampfa:2026-10-22:19:00:tmdb:269",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:269",
-      "date": "2026-10-22",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/breathless",
-      "format": "4K",
-      "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "balboa:2026-10-22:19:30:tmdb:11455",
-      "venueId": "balboa",
-      "filmKey": "tmdb:11455",
-      "date": "2026-10-22",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/up-in-smoke-october-22",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-22:20:30:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-22",
-      "time": "20:30",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-22:20:30:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-22",
-      "time": "20:30",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-22:21:30:tmdb:9637",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:9637",
-      "date": "2026-10-22",
-      "time": "21:30",
-      "url": "https://thenewparkway.com/movie/scooby-doo-animation-ko/",
-      "note": "Animation KO",
-      "source": "newparkway"
-    },
     {
       "id": "alamo:2026-10-23:11:00:tmdb:39264",
       "venueId": "alamo",
@@ -1536,6 +1484,16 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/casper-sat",
       "note": "Popcorn Palace - FREE!",
       "source": "4star"
+    },
+    {
+      "id": "operaplaza:2026-10-24:13:00:tmdb:10973",
+      "venueId": "operaplaza",
+      "filmKey": "tmdb:10973",
+      "date": "2026-10-24",
+      "time": "13:00",
+      "url": "https://www.landmarktheatres.com/movies/5144-creature-from-the-black-lagoon-1954/",
+      "note": "Marquee Matinees - Monster Madness",
+      "source": "operaplaza"
     },
     {
       "id": "roxie:2026-10-24:15:00:tmdb:3019",
@@ -2269,6 +2227,15 @@
       "source": "balboa"
     },
     {
+      "id": "alamo:2026-11-07:12:00:tmdb:2001",
+      "venueId": "alamo",
+      "filmKey": "tmdb:2001",
+      "date": "2026-11-07",
+      "time": "12:00",
+      "url": "https://drafthouse.com/sf/show/we-own-the-night?cinemaId=0801&sessionId=83856",
+      "source": "alamo"
+    },
+    {
       "id": "newparkway:2026-11-07:12:00:tmdb:872",
       "venueId": "newparkway",
       "filmKey": "tmdb:872",
@@ -2724,77 +2691,60 @@
       "url": "https://thenewparkway.com/movie/over-the-garden-wall-animation-ko/",
       "note": "Animation KO",
       "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-11-20:16:00:tmdb:14537",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:14537",
+      "date": "2026-11-20",
+      "time": "16:00",
+      "url": "https://bampfa.org/event/harakiri",
+      "format": "35mm",
+      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
+      "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-11-20:18:00:tmdb:9603",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:9603",
+      "date": "2026-11-20",
+      "time": "18:00",
+      "url": "https://thenewparkway.com/movie/clueless-pasta-at-the-parkway/",
+      "note": "Pasta at the Parkway",
+      "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-11-20:19:30:tmdb:27511",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:27511",
+      "date": "2026-11-20",
+      "time": "19:30",
+      "url": "https://bampfa.org/event/cinespin",
+      "format": "DCP",
+      "note": "Special Screenings 2026",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-11-20:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-20",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-babehoven",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
+    },
+    {
+      "id": "alamo:2026-11-20:21:00:tmdb:7452",
+      "venueId": "alamo",
+      "filmKey": "tmdb:7452",
+      "date": "2026-11-20",
+      "time": "21:00",
+      "url": "https://drafthouse.com/sf/show/the-cook-the-thief-his-wife-her-lover?cinemaId=0801&sessionId=83865",
+      "source": "alamo"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:roxie:sf latino film festival",
-      "name": "SF Latino Film Festival",
-      "venueId": "roxie",
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-25",
-      "url": "https://roxie.com/series/18th-san-francisco-latino-film-festival/",
-      "showtimes": 4,
-      "sample": [
-        "STREET SMART: Lessons from a TV Icon",
-        "Comparsa",
-        "New People: SF Latino Film Festival: Community Voices",
-        "Libertad"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-22",
-          "time": "18:00",
-          "title": "STREET SMART: Lessons from a TV Icon",
-          "url": "https://roxie.com/film/sf-latino-film-festival-street-smart-lessons-from-a-tv-icon/"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "12:30",
-          "title": "Comparsa",
-          "url": "https://roxie.com/film/sf-latino-film-festival-comparsa/"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "15:10",
-          "title": "New People: SF Latino Film Festival: Community Voices",
-          "url": "https://roxie.com/film/new-people-sf-latino-film-festival-community-voices/"
-        },
-        {
-          "date": "2026-10-25",
-          "time": "13:00",
-          "title": "Libertad",
-          "url": "https://roxie.com/film/sf-latino-film-festival-libertad/"
-        }
-      ]
-    },
-    {
-      "key": "fest:4star:green film festival",
-      "name": "GREEN FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-22",
-      "url": "https://www.4-star-movies.com/calendar-of-events/a-city-green",
-      "showtimes": 2,
-      "sample": [
-        "A City in the Forest (Closing Night!)",
-        "Bodyhackers"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-22",
-          "time": "18:00",
-          "title": "A City in the Forest (Closing Night!)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/a-city-green"
-        },
-        {
-          "date": "2026-10-22",
-          "time": "20:30",
-          "title": "Bodyhackers",
-          "url": "https://www.4-star-movies.com/calendar-of-events/bodyhackers-green"
-        }
-      ]
-    },
     {
       "key": "fest:bampfa:hong kong cinema rarities and restorations 4k digital restoration",
       "name": "Hong Kong Cinema: Rarities and Restorations · 4K Digital Restoration",
@@ -2819,6 +2769,40 @@
           "time": "18:00",
           "title": "Just Like Weather",
           "url": "https://bampfa.org/event/just-weather"
+        }
+      ]
+    },
+    {
+      "key": "fest:roxie:sf latino film festival",
+      "name": "SF Latino Film Festival",
+      "venueId": "roxie",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-25",
+      "url": "https://roxie.com/series/18th-san-francisco-latino-film-festival/",
+      "showtimes": 3,
+      "sample": [
+        "Comparsa",
+        "New People: SF Latino Film Festival: Community Voices",
+        "Libertad"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-24",
+          "time": "12:30",
+          "title": "Comparsa",
+          "url": "https://roxie.com/film/sf-latino-film-festival-comparsa/"
+        },
+        {
+          "date": "2026-10-24",
+          "time": "15:10",
+          "title": "New People: SF Latino Film Festival: Community Voices",
+          "url": "https://roxie.com/film/new-people-sf-latino-film-festival-community-voices/"
+        },
+        {
+          "date": "2026-10-25",
+          "time": "13:00",
+          "title": "Libertad",
+          "url": "https://roxie.com/film/sf-latino-film-festival-libertad/"
         }
       ]
     },
