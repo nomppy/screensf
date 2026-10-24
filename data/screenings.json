@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-23T17:34:48.036Z",
+  "generatedAt": "2026-10-24T16:20:56.879Z",
   "films": {
-    "tmdb:1887": {
-      "key": "tmdb:1887",
-      "title": "Marie Antoinette",
-      "year": 2006,
-      "director": "Sofia Coppola",
-      "runtime": 123,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
-      "tmdbId": 1887,
-      "popularity": 8.2818,
-      "releaseDate": "2006-05-24",
-      "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles."
-    },
-    "tmdb:10439": {
-      "key": "tmdb:10439",
-      "title": "Hocus Pocus",
-      "year": 1993,
-      "director": "Kenny Ortega",
-      "runtime": 96,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
-      "tmdbId": 10439,
-      "popularity": 16.2733,
-      "releaseDate": "1993-07-16",
-      "overview": "After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all."
-    },
     "tmdb:3019": {
       "key": "tmdb:3019",
       "title": "Dr. Jekyll and Mr. Hyde",
@@ -108,6 +80,20 @@
       "releaseDate": "2015-04-12",
       "overview": "A group of Mexican emigrants attempts to cross the Mexican-US border. What begins as a hopeful journey becomes a harrowing, bloody and primal fight for survival when a deranged, rifle-toting vigilante and his loyal Belgian Malinois dog chase the group of unarmed men and women through the treacherous borderland. In the harsh, unforgiving desert terrain, the odds are stacked firmly against them as they discover there’s nowhere to hide from the unrelenting, merciless killer."
     },
+    "tmdb:1887": {
+      "key": "tmdb:1887",
+      "title": "Marie Antoinette",
+      "year": 2006,
+      "director": "Sofia Coppola",
+      "runtime": 123,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+      "tmdbId": 1887,
+      "popularity": 8.2818,
+      "releaseDate": "2006-05-24",
+      "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles."
+    },
     "tmdb:16672": {
       "key": "tmdb:16672",
       "title": "Woman in the Dunes",
@@ -163,6 +149,20 @@
       "popularity": 1.7228,
       "releaseDate": "2024-10-18",
       "overview": "Novelist Emma Strand is on vacation at the seaside in 1892 California with her second husband Albert when she encounters her first husband George and his mentally unstable new wife, Lillian. Emma and Albert take refuge from a sudden storm at George and Lillian's mansion. Over the course of the evening, Emma must confront her past, the temptation of adultery, and the disturbing possibility the house is haunted by George and Lillian's recently drowned daughter Hazel."
+    },
+    "tmdb:10166": {
+      "key": "tmdb:10166",
+      "title": "The Witches",
+      "year": 1990,
+      "director": "Nicolas Roeg",
+      "runtime": 91,
+      "genre": "Fantasy",
+      "poster": "https://image.tmdb.org/t/p/w500/mPYBjVkeHakkPGY7WaKyyNU4RWm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hehaK1jIuTOvRPGPccVivZcZ2Cb.jpg",
+      "tmdbId": 10166,
+      "popularity": 7.9506,
+      "releaseDate": "1990-05-25",
+      "overview": "While staying at a hotel in England with his grandmother, Helga, a young boy named Luke inadvertently spies on a convention of witches. The Grand High Witch reveals a plan to turn all children into mice via a magical formula. When they discover the eavesdropper, the witches test the formula on him. Now, with the help of Helga and hotel manager Mr Stringer, Luke the mouse must fight back against the witches."
     },
     "tmdb:182921": {
       "key": "tmdb:182921",
@@ -301,19 +301,6 @@
       "popularity": 1.3143,
       "releaseDate": "1933-12-25",
       "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
-    },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0169,
-      "releaseDate": "2009-11-20",
-      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
     },
     "tmdb:8337": {
       "key": "tmdb:8337",
@@ -537,6 +524,19 @@
       "releaseDate": "1995-05-26",
       "overview": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics."
     },
+    "tmdb:98096": {
+      "key": "tmdb:98096",
+      "title": "Live Music",
+      "year": 2009,
+      "director": "Yair Landau",
+      "runtime": 6,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
+      "tmdbId": 98096,
+      "popularity": 1.0169,
+      "releaseDate": "2009-11-20",
+      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
+    },
     "tmdb:86252": {
       "key": "tmdb:86252",
       "title": "Deadbeat at Dawn",
@@ -624,6 +624,20 @@
       "popularity": 18.0912,
       "releaseDate": "1978-10-24",
       "overview": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again."
+    },
+    "tmdb:47504": {
+      "key": "tmdb:47504",
+      "title": "Little Odessa",
+      "year": 1994,
+      "director": "James Gray",
+      "runtime": 98,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/f7E3jZVWgjzxONUfrCkJRGQJH0t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eixQk0rpDH3vYamqWw4Bvu3Y635.jpg",
+      "tmdbId": 47504,
+      "popularity": 2.8679,
+      "releaseDate": "1994-10-28",
+      "overview": "Long separated from his family, hitman Joshua returns to Brighton Beach for a contract killing for the Russian Mafia. His abusive father, Arkady, banned him from returning after Joshua committed his first murder. He takes up residence in a hotel, and soon everyone knows he has returned. He goes home to visit his dying mother, Irina, and prepares for the assassination, getting drawn back into the criminal community he left behind."
     },
     "tmdb:46175": {
       "key": "tmdb:46175",
@@ -847,6 +861,20 @@
       "popularity": 7.4868,
       "releaseDate": "2018-02-28",
       "overview": "A young woman leaves the city to return to her hometown in the countryside. Seeking to escape the hustle and bustle of the city, she becomes self-sufficient in a bid to reconnect with nature."
+    },
+    "tmdb:1547796": {
+      "key": "tmdb:1547796",
+      "title": "Baon",
+      "year": 2019,
+      "director": "Noel Escondo",
+      "runtime": 12,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/2gATaUFzfswDCElw4lADaY3IkC9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cVtgWpoejDwF7GGwGSx9uBGmCMa.jpg",
+      "tmdbId": 1547796,
+      "popularity": 1.2725,
+      "releaseDate": "2019-02-25",
+      "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
     },
     "tmdb:619778": {
       "key": "tmdb:619778",
@@ -1142,19 +1170,19 @@
       "releaseDate": "1924-12-22",
       "overview": "After a baron steals his scientific discoveries, runs away with his wife, and slaps him in public, a man joins a Parisian circus sideshow as a clown whose act consists of being slapped repeatedly and becomes infatuated with a showgirl colleague whose father intends to marry her off to the baron."
     },
-    "tmdb:377": {
-      "key": "tmdb:377",
-      "title": "A Nightmare on Elm Street",
-      "year": 1984,
-      "director": "Wes Craven",
-      "runtime": 91,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/tI0RQFYevX97NSdDSYmn0Z19i3r.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nzSjTiecdosBfwMGAdpt9CxltCI.jpg",
-      "tmdbId": 377,
-      "popularity": 17.8068,
-      "releaseDate": "1984-11-09",
-      "overview": "Teenagers in a small town are dropping like flies, apparently in the grip of mass hysteria causing their suicides. A cop's daughter, Nancy Thompson, traces the cause to child molester Fred Krueger, who was burned alive by angry parents many years before. Krueger has now come back in the dreams of his killers' children, claiming their lives as his revenge. Nancy and her boyfriend, Glen, must devise a plan to lure the monster out of the realm of nightmares and into the real world..."
+    "tmdb:1578": {
+      "key": "tmdb:1578",
+      "title": "Raging Bull",
+      "year": 1980,
+      "director": "Martin Scorsese",
+      "runtime": 129,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+      "tmdbId": 1578,
+      "popularity": 9.0655,
+      "releaseDate": "1980-11-14",
+      "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
     },
     "tmdb:252171": {
       "key": "tmdb:252171",
@@ -1365,20 +1393,6 @@
       "releaseDate": "1928-05-09",
       "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
     },
-    "tmdb:8413": {
-      "key": "tmdb:8413",
-      "title": "Event Horizon",
-      "year": 1997,
-      "director": "Paul W. S. Anderson",
-      "runtime": 96,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/qfluaDXv0cIdLwgQWzNB2piHL2q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nByMcYBhChTs2TF9fEFcTSsjme5.jpg",
-      "tmdbId": 8413,
-      "popularity": 13.505,
-      "releaseDate": "1997-08-15",
-      "overview": "In 2047, a group of astronauts are sent to investigate and salvage the starship Event Horizon which disappeared mysteriously seven years before on its maiden voyage. However, it soon becomes evident that something sinister resides in its corridors."
-    },
     "tmdb:11547": {
       "key": "tmdb:11547",
       "title": "Cabin Fever",
@@ -1409,72 +1423,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-10-23:11:00:tmdb:39264",
-      "venueId": "alamo",
-      "filmKey": "tmdb:39264",
-      "date": "2026-10-23",
-      "time": "11:00",
-      "url": "https://drafthouse.com/sf/show/godzilla-vs-megalon?cinemaId=0801&sessionId=83770",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-23:12:15:tmdb:1887",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1887",
-      "date": "2026-10-23",
-      "time": "12:15",
-      "url": "https://drafthouse.com/sf/show/marie-antoinette?cinemaId=0801&sessionId=83769",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-10-23:18:00:tmdb:1887",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1887",
-      "date": "2026-10-23",
-      "time": "18:00",
-      "url": "https://roxie.com/film/marie-antoinette-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-23:19:00:tmdb:10439",
-      "venueId": "roxie",
-      "filmKey": "tmdb:10439",
-      "date": "2026-10-23",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-hocus-pocus-2/",
-      "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-10-23:20:00:tmdb:98096",
-      "venueId": "balboa",
-      "filmKey": "tmdb:98096",
-      "date": "2026-10-23",
-      "time": "20:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/izaak-opatz-joe-kaplow-october-23",
-      "note": "Izaak Opatz",
-      "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-10-23:22:30:tmdb:377",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:377",
-      "date": "2026-10-23",
-      "time": "22:30",
-      "url": "https://thenewparkway.com/movie/nightmare-on-elm-street/",
-      "source": "newparkway"
-    },
-    {
-      "id": "piedmont:2026-10-23:22:30:tmdb:8413",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:8413",
-      "date": "2026-10-23",
-      "time": "22:30",
-      "url": "https://www.landmarktheatres.com/movies/17491-event-horizon/",
-      "note": "Cine Insomnia - Scary Spaces",
-      "source": "piedmont"
-    },
     {
       "id": "4star:2026-10-24:10:00:tmdb:8839",
       "venueId": "4star",
@@ -1977,6 +1925,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-10-31:15:30:tmdb:10166",
+      "venueId": "roxie",
+      "filmKey": "tmdb:10166",
+      "date": "2026-10-31",
+      "time": "15:30",
+      "url": "https://roxie.com/film/the-witches/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-10-31:15:45:tmdb:948",
       "venueId": "alamo",
       "filmKey": "tmdb:948",
@@ -2127,6 +2084,24 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-11-01:20:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-01",
+      "time": "20:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-02:18:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-02",
+      "time": "18:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "ata:2026-11-02:19:30:tmdb:619778",
       "venueId": "ata",
       "filmKey": "tmdb:619778",
@@ -2135,6 +2110,16 @@
       "url": "https://www.atasite.org/event/rewards-program-malignant/",
       "note": "A live-scored three-projector celluloid performance with: MILES LASSI is an interdisciplinary artist based out of Oakland, CA.",
       "source": "ata"
+    },
+    {
+      "id": "roxie:2026-11-03:18:00:tmdb:483",
+      "venueId": "roxie",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-03",
+      "time": "18:00",
+      "url": "https://roxie.com/film/wild-at-heart/",
+      "format": "4K",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-11-04:18:00:tmdb:483",
@@ -2264,6 +2249,15 @@
       "format": "4K",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks · 4K Digital Restoration, Director’s Cut",
       "source": "bampfa"
+    },
+    {
+      "id": "alamo:2026-11-07:15:00:tmdb:47504",
+      "venueId": "alamo",
+      "filmKey": "tmdb:47504",
+      "date": "2026-11-07",
+      "time": "15:00",
+      "url": "https://drafthouse.com/sf/show/little-odessa?cinemaId=0801&sessionId=83855",
+      "source": "alamo"
     },
     {
       "id": "4star:2026-11-07:20:00:tmdb:98096",
@@ -2742,36 +2736,41 @@
       "time": "21:00",
       "url": "https://drafthouse.com/sf/show/the-cook-the-thief-his-wife-her-lover?cinemaId=0801&sessionId=83865",
       "source": "alamo"
+    },
+    {
+      "id": "sfmoma:2026-11-21:14:00:tmdb:1547796",
+      "venueId": "sfmoma",
+      "filmKey": "tmdb:1547796",
+      "date": "2026-11-21",
+      "time": "14:00",
+      "url": "https://www.sfmoma.org/event/baon-stories-and-struggles-of-filipino-migrants/",
+      "note": "Film Screening and Conversation — the premiere of \"Baon: Stories and Struggles of Filipino Migrants,\" followed by a conversation featuring the filmmaker,…",
+      "source": "sfmoma"
+    },
+    {
+      "id": "bampfa:2026-11-21:15:30:tmdb:27031",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:27031",
+      "date": "2026-11-21",
+      "time": "15:30",
+      "url": "https://bampfa.org/event/samurai-rebellion",
+      "format": "35mm",
+      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
+      "source": "bampfa"
+    },
+    {
+      "id": "bampfa:2026-11-21:18:30:tmdb:1578",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:1578",
+      "date": "2026-11-21",
+      "time": "18:30",
+      "url": "https://bampfa.org/event/raging-bull",
+      "format": "4K",
+      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
+      "source": "bampfa"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:bampfa:hong kong cinema rarities and restorations 4k digital restoration",
-      "name": "Hong Kong Cinema: Rarities and Restorations · 4K Digital Restoration",
-      "venueId": "bampfa",
-      "startDate": "2026-10-23",
-      "endDate": "2026-11-15",
-      "url": "https://bampfa.org/event/arch",
-      "showtimes": 2,
-      "sample": [
-        "The Arch",
-        "Just Like Weather"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-23",
-          "time": "19:00",
-          "title": "The Arch",
-          "url": "https://bampfa.org/event/arch"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "18:00",
-          "title": "Just Like Weather",
-          "url": "https://bampfa.org/event/just-weather"
-        }
-      ]
-    },
     {
       "key": "fest:roxie:sf latino film festival",
       "name": "SF Latino Film Festival",
@@ -3360,6 +3359,33 @@
           "title": "Fourth Program (presented by Media Meltdown)",
           "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-3-5s7at",
           "note": "Media Meltdown Movie Madhouse"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations 4k digital restoration",
+      "name": "Hong Kong Cinema: Rarities and Restorations · 4K Digital Restoration",
+      "venueId": "bampfa",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-28",
+      "url": "https://bampfa.org/event/just-weather",
+      "showtimes": 2,
+      "sample": [
+        "Just Like Weather",
+        "Center Stage"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-15",
+          "time": "18:00",
+          "title": "Just Like Weather",
+          "url": "https://bampfa.org/event/just-weather"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "15:00",
+          "title": "Center Stage",
+          "url": "https://bampfa.org/event/center-stage"
         }
       ]
     }
