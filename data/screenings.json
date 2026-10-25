@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-24T16:20:56.879Z",
+  "generatedAt": "2026-10-25T16:56:40.119Z",
   "films": {
-    "tmdb:3019": {
-      "key": "tmdb:3019",
-      "title": "Dr. Jekyll and Mr. Hyde",
-      "year": 1931,
-      "director": "Rouben Mamoulian",
-      "runtime": 96,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/zN6pJV518rw1DSFrXSpaelqxHkZ.jpg",
-      "tmdbId": 3019,
-      "popularity": 3.9437,
-      "releaseDate": "1931-12-24",
-      "overview": "Dr. Henry Jekyll believes that there are two distinct sides to men: one that is good and one that is evil. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late."
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
       "title": "Chronovisor",
@@ -56,6 +28,20 @@
       "popularity": 3.3641,
       "releaseDate": "1997-10-31",
       "overview": "She's sexy, shameless and loves taking people to their limit. She's a dangerous young woman who dreams about a jaguar that licks her naked body and sleeps by her side. Her past is bathed in blood and weird passions. Now she's met the man of her wildest dreams. He's dark, tough and mysterious. He likes robbing banks, trafficking in corpses and spicing it all with voodoo rituals. Together, the duo sets off toward Mexico destined to become the most feared outlaws in the continent."
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "t:filipinana": {
       "key": "t:filipinana",
@@ -426,6 +412,34 @@
       "releaseDate": "2019-09-12",
       "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
     },
+    "tmdb:989988": {
+      "key": "tmdb:989988",
+      "title": "New Moon",
+      "year": 2022,
+      "director": "Jérémie Balais, Jeffig Le Bars",
+      "runtime": 11,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/3fPmU1SXHGt5DQfgQOVVkkQovXw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kZIgUWz6iUIgZO4Qdsb6kcrsoyA.jpg",
+      "tmdbId": 989988,
+      "popularity": 1.9933,
+      "releaseDate": "2022-07-16",
+      "overview": "An imaginative surrealist journey of young Jay Jay and his mother Edie. Their inner city dreams are illuminated by the New Moon accompanied by magic of Aretha Franklin playing on a summer's eve on a transistor radio in a backyard in West Philadelphia."
+    },
+    "tmdb:9067": {
+      "key": "tmdb:9067",
+      "title": "Tank Girl",
+      "year": 1995,
+      "director": "Rachel Talalay",
+      "runtime": 104,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/qohdY3BcJ98sFneOUAWp0FmH4Z6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/n0hLpeTGnyiHOYjY5MnU1VgeyPM.jpg",
+      "tmdbId": 9067,
+      "popularity": 4.9031,
+      "releaseDate": "1995-03-31",
+      "overview": "After a comet disrupts the rain cycle of Earth, the planet has become a desolate, barren desert by the year 2033. With resources scarce, Kesslee, head of the powerful and evil Water & Power Corporation, the de facto government, has taken control of the water supply. Unwilling to cower under Kesslee's tyrannical rule, a pair of outlaws known as Tank Girl and Jet Girl rise up, joining the mysterious rebel Rippers to destroy the corrupt system."
+    },
     "tmdb:203912": {
       "key": "tmdb:203912",
       "title": "National Theatre Live: Frankenstein",
@@ -582,6 +596,20 @@
     "t:claudio simonettis goblin performs the live score to tenebre": {
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
       "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
+    },
+    "tmdb:949423": {
+      "key": "tmdb:949423",
+      "title": "Pearl",
+      "year": 2022,
+      "director": "Ti West",
+      "runtime": 102,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fdzpbJ0xdyjMUY4DqN6cOpESA1X.jpg",
+      "tmdbId": 949423,
+      "popularity": 13.876,
+      "releaseDate": "2022-09-16",
+      "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide."
     },
     "tmdb:99": {
       "key": "tmdb:99",
@@ -918,20 +946,6 @@
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
-    "tmdb:10973": {
-      "key": "tmdb:10973",
-      "title": "Creature from the Black Lagoon",
-      "year": 1954,
-      "director": "Jack Arnold",
-      "runtime": 79,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/euCzA2Exc70MpTDCVYih8tdE7z1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/31P56eY3GQOA0wTwiW0gzkJyhSG.jpg",
-      "tmdbId": 10973,
-      "popularity": 5.8665,
-      "releaseDate": "1954-03-05",
-      "overview": "When scientists exploring the Amazon River stumble on a “missing link” connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fiancée, Kay."
-    },
     "tmdb:11778": {
       "key": "tmdb:11778",
       "title": "The Deer Hunter",
@@ -959,20 +973,6 @@
       "popularity": 3.7208,
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
-    },
-    "tmdb:50785": {
-      "key": "tmdb:50785",
-      "title": "Le Petit Soldat",
-      "year": 1963,
-      "director": "Jean-Luc Godard",
-      "runtime": 87,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/pzKFKVZHeGhJQYWZN6qO3GXUApU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/q53o3eyUorC2WTbdepCiuc2XSix.jpg",
-      "tmdbId": 50785,
-      "popularity": 2.0482,
-      "releaseDate": "1963-01-25",
-      "overview": "Despite his lack of political convictions, photojournalist Bruno Forestier is roped into a paramilitary group waging a shadow war in Geneva against the Algerian independence movement."
     },
     "tmdb:10843": {
       "key": "tmdb:10843",
@@ -1184,6 +1184,20 @@
       "releaseDate": "1980-11-14",
       "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
     },
+    "tmdb:34530": {
+      "key": "tmdb:34530",
+      "title": "The Human Condition III: A Soldier's Prayer",
+      "year": 1961,
+      "director": "Masaki Kobayashi",
+      "runtime": 190,
+      "genre": "War",
+      "poster": "https://image.tmdb.org/t/p/w500/pag7gyxSFe7vTl6riHfZ5Xci6q7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/h9jZQJ97PM9bumabvl81N6jJvvz.jpg",
+      "tmdbId": 34530,
+      "popularity": 5.7108,
+      "releaseDate": "1961-01-28",
+      "overview": "After the Japanese defeat to the Russians, Kaji leads the last remaining men through Manchuria. Intent on returning to his old life, he faces great odds in a variety of different harrowing circumstances as he and his men sneak behind enemy lines."
+    },
     "tmdb:252171": {
       "key": "tmdb:252171",
       "title": "A Girl Walks Home Alone at Night",
@@ -1379,20 +1393,6 @@
       "releaseDate": "1995-07-19",
       "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him."
     },
-    "tmdb:25768": {
-      "key": "tmdb:25768",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "director": "Charles Reisner, Buster Keaton",
-      "runtime": 70,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
-      "tmdbId": 25768,
-      "popularity": 4.5603,
-      "releaseDate": "1928-05-09",
-      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
-    },
     "tmdb:11547": {
       "key": "tmdb:11547",
       "title": "Cabin Fever",
@@ -1420,67 +1420,23 @@
       "popularity": 10.5593,
       "releaseDate": "1956-11-08",
       "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
+    },
+    "tmdb:25768": {
+      "key": "tmdb:25768",
+      "title": "Steamboat Bill, Jr.",
+      "year": 1928,
+      "director": "Charles Reisner, Buster Keaton",
+      "runtime": 70,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
+      "tmdbId": 25768,
+      "popularity": 4.5603,
+      "releaseDate": "1928-05-09",
+      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
     }
   },
   "screenings": [
-    {
-      "id": "4star:2026-10-24:10:00:tmdb:8839",
-      "venueId": "4star",
-      "filmKey": "tmdb:8839",
-      "date": "2026-10-24",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/casper-sat",
-      "note": "Popcorn Palace - FREE!",
-      "source": "4star"
-    },
-    {
-      "id": "operaplaza:2026-10-24:13:00:tmdb:10973",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:10973",
-      "date": "2026-10-24",
-      "time": "13:00",
-      "url": "https://www.landmarktheatres.com/movies/5144-creature-from-the-black-lagoon-1954/",
-      "note": "Marquee Matinees - Monster Madness",
-      "source": "operaplaza"
-    },
-    {
-      "id": "roxie:2026-10-24:15:00:tmdb:3019",
-      "venueId": "roxie",
-      "filmKey": "tmdb:3019",
-      "date": "2026-10-24",
-      "time": "15:00",
-      "url": "https://roxie.com/film/dr-jekyll-and-mr-hyde-1931/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-24:17:30:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-24",
-      "time": "17:30",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "bampfa:2026-10-24:19:00:tmdb:50785",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:50785",
-      "date": "2026-10-24",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/le-petit-soldat",
-      "format": "35mm",
-      "note": "Jean-Luc Godard’s Early Films",
-      "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-10-24:19:30:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-24",
-      "time": "19:30",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
     {
       "id": "4star:2026-10-25:10:00:tmdb:8839",
       "venueId": "4star",
@@ -2427,6 +2383,17 @@
       "source": "bampfa"
     },
     {
+      "id": "balboa:2026-11-11:19:30:tmdb:989988",
+      "venueId": "balboa",
+      "filmKey": "tmdb:989988",
+      "date": "2026-11-11",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/twilight-new-moon-november-11",
+      "format": "35mm",
+      "note": "Presented on 35mm by",
+      "source": "balboa"
+    },
+    {
       "id": "sfmoma:2026-11-12:18:30:tmdb:448491",
       "venueId": "sfmoma",
       "filmKey": "tmdb:448491",
@@ -2444,6 +2411,16 @@
       "time": "18:40",
       "url": "https://drafthouse.com/sf/show/women-on-the-verge-of-a-nervous-breakdown?cinemaId=0801&sessionId=83859",
       "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-11-12:19:00:tmdb:9067",
+      "venueId": "balboa",
+      "filmKey": "tmdb:9067",
+      "date": "2026-11-12",
+      "time": "19:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/tank-girl-november-12",
+      "note": "Presented as part of",
+      "source": "balboa"
     },
     {
       "id": "bampfa:2026-11-12:19:00:tmdb:8073",
@@ -2768,6 +2745,37 @@
       "format": "4K",
       "note": "Martin Scorsese Pictures · 4K Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "rafael:2026-11-22:13:00:tmdb:1712",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1712",
+      "date": "2026-11-22",
+      "time": "13:00",
+      "url": "https://cinema.cafilm.org/film/giant",
+      "note": "Stage To Screen",
+      "source": "rafael"
+    },
+    {
+      "id": "bampfa:2026-11-22:13:30:tmdb:34530",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:34530",
+      "date": "2026-11-22",
+      "time": "13:30",
+      "url": "https://bampfa.org/event/human-condition-soldiers-prayer",
+      "format": "35mm",
+      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
+      "source": "bampfa"
+    },
+    {
+      "id": "alamo:2026-11-22:19:00:tmdb:949423",
+      "venueId": "alamo",
+      "filmKey": "tmdb:949423",
+      "date": "2026-11-22",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/a24-x-alamo-cinema-club-mandatory-bundle-pearl?cinemaId=0801&sessionId=83332",
+      "note": "Alamo Drafthouse x A24 Cinema Club · You axed for it",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -2775,71 +2783,19 @@
       "key": "fest:roxie:sf latino film festival",
       "name": "SF Latino Film Festival",
       "venueId": "roxie",
-      "startDate": "2026-10-24",
+      "startDate": "2026-10-25",
       "endDate": "2026-10-25",
       "url": "https://roxie.com/series/18th-san-francisco-latino-film-festival/",
-      "showtimes": 3,
+      "showtimes": 1,
       "sample": [
-        "Comparsa",
-        "New People: SF Latino Film Festival: Community Voices",
         "Libertad"
       ],
       "programme": [
-        {
-          "date": "2026-10-24",
-          "time": "12:30",
-          "title": "Comparsa",
-          "url": "https://roxie.com/film/sf-latino-film-festival-comparsa/"
-        },
-        {
-          "date": "2026-10-24",
-          "time": "15:10",
-          "title": "New People: SF Latino Film Festival: Community Voices",
-          "url": "https://roxie.com/film/new-people-sf-latino-film-festival-community-voices/"
-        },
         {
           "date": "2026-10-25",
           "time": "13:00",
           "title": "Libertad",
           "url": "https://roxie.com/film/sf-latino-film-festival-libertad/"
-        }
-      ]
-    },
-    {
-      "key": "fest:roxie:san quentin film festival 2026",
-      "name": "San Quentin Film Festival 2026",
-      "venueId": "roxie",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "url": "https://roxie.com/film/san-quentin-film-festival-2026/",
-      "showtimes": 1,
-      "sample": [],
-      "programme": [
-        {
-          "date": "2026-10-24",
-          "time": "13:00",
-          "title": "San Quentin Film Festival 2026",
-          "url": "https://roxie.com/film/san-quentin-film-festival-2026/"
-        }
-      ]
-    },
-    {
-      "key": "fest:ata:bonds of belonging shorts program",
-      "name": "Bonds of Belonging Shorts Program",
-      "venueId": "ata",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "url": "https://www.atasite.org/event/cinemas-bonds-of-belonging-shorts-program/",
-      "showtimes": 1,
-      "sample": [
-        "Cine+Mas: Bonds of Belonging Shorts Program"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-24",
-          "time": "14:00",
-          "title": "Cine+Mas: Bonds of Belonging Shorts Program",
-          "url": "https://www.atasite.org/event/cinemas-bonds-of-belonging-shorts-program/"
         }
       ]
     },
@@ -3038,138 +2994,6 @@
       ]
     },
     {
-      "key": "fest:grandlake:23rd animation show of shows",
-      "name": "23rd Animation Show of Shows",
-      "venueId": "grandlake",
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-04",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030",
-      "showtimes": 20,
-      "sample": [],
-      "programme": [
-        {
-          "date": "2026-10-30",
-          "time": "16:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "22:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "12:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "14:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "16:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "18:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "20:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
-        },
-        {
-          "date": "2026-10-31",
-          "time": "22:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "12:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "14:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "18:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "20:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "18:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "20:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "18:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "20:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104"
-        }
-      ]
-    },
-    {
       "key": "fest:roxie:dance thrill fest",
       "name": "Dance Thrill Fest",
       "venueId": "roxie",
@@ -3206,6 +3030,26 @@
           "time": "16:00",
           "title": "The Valiant Ones",
           "url": "https://bampfa.org/event/valiant-ones"
+        }
+      ]
+    },
+    {
+      "key": "fest:balboa:movies for maniacs presents get off the internet film festival hosted by jesse hawthorne ficks",
+      "name": "MOViES FOR MANiACS presents “Get Off the Internet” Film Festival hosted by Jesse Hawthorne Ficks",
+      "venueId": "balboa",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "url": "https://www.balboamovies.com/calendar-of-events/too-much-november-4",
+      "showtimes": 1,
+      "sample": [
+        "Too Much"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-04",
+          "time": "19:30",
+          "title": "Too Much",
+          "url": "https://www.balboamovies.com/calendar-of-events/too-much-november-4"
         }
       ]
     },
