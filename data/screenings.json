@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-25T16:56:40.119Z",
+  "generatedAt": "2026-10-26T18:57:24.121Z",
   "films": {
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
-    "tmdb:9845": {
-      "key": "tmdb:9845",
-      "title": "Dance with the Devil",
-      "year": 1997,
-      "director": "Álex de la Iglesia",
-      "runtime": 130,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/37oOHBE3bQUzKScnx9s9QhVLFXz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kznmEv5dOczfbEw8ZC3KTpY4T5c.jpg",
-      "tmdbId": 9845,
-      "popularity": 3.3641,
-      "releaseDate": "1997-10-31",
-      "overview": "She's sexy, shameless and loves taking people to their limit. She's a dangerous young woman who dreams about a jaguar that licks her naked body and sleeps by her side. Her past is bathed in blood and weird passions. Now she's met the man of her wildest dreams. He's dark, tough and mysterious. He likes robbing banks, trafficking in corpses and spicing it all with voodoo rituals. Together, the duo sets off toward Mexico destined to become the most feared outlaws in the continent."
-    },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
       "title": "The History of Concrete",
@@ -192,6 +164,20 @@
       "releaseDate": "1971-03-11",
       "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
     },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+    },
     "tmdb:449576": {
       "key": "tmdb:449576",
       "title": "An Evening",
@@ -287,34 +273,6 @@
       "popularity": 1.3143,
       "releaseDate": "1933-12-25",
       "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
-    },
-    "tmdb:8337": {
-      "key": "tmdb:8337",
-      "title": "They Live",
-      "year": 1988,
-      "director": "John Carpenter",
-      "runtime": 93,
-      "genre": "Science Fiction",
-      "poster": "https://image.tmdb.org/t/p/w500/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
-      "tmdbId": 8337,
-      "popularity": 9.6116,
-      "releaseDate": "1988-11-04",
-      "overview": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission."
-    },
-    "tmdb:27274": {
-      "key": "tmdb:27274",
-      "title": "Frankenhooker",
-      "year": 1990,
-      "director": "Frank Henenlotter",
-      "runtime": 85,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/s8Oubzkc2pPdOdj4D23ljZSKRbg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pI56isyuRNOr4fFr0jRlIPnr3wv.jpg",
-      "tmdbId": 27274,
-      "popularity": 3.7201,
-      "releaseDate": "1990-06-01",
-      "overview": "A medical school dropout loses his fiancée in a tragic lawnmower incident and decides to bring her back to life. Unfortunately, he was only able to save her head, so he goes to the red light district in the city and lures prostitutes into a hotel room so he can collect body parts to reassemble her."
     },
     "tmdb:38775": {
       "key": "tmdb:38775",
@@ -524,20 +482,6 @@
       "releaseDate": "1982-08-13",
       "overview": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naïve friends. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason, who stalks them at every turn..."
     },
-    "tmdb:8839": {
-      "key": "tmdb:8839",
-      "title": "Casper",
-      "year": 1995,
-      "director": "Brad Silberling",
-      "runtime": 100,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sQPckU0TfSeYIlUneHfIXwzQC2f.jpg",
-      "tmdbId": 8839,
-      "popularity": 11.1707,
-      "releaseDate": "1995-05-26",
-      "overview": "Casper is a kind young ghost who peacefully haunts a mansion in Maine. When specialist James Harvey arrives to communicate with Casper and his fellow spirits, he brings along his teenage daughter, Kat. Casper quickly falls in love with Kat, but their budding relationship is complicated not only by his transparent state, but also by his troublemaking apparition uncles and their mischievous antics."
-    },
     "tmdb:98096": {
       "key": "tmdb:98096",
       "title": "Live Music",
@@ -592,6 +536,20 @@
       "popularity": 10.9785,
       "releaseDate": "1986-06-27",
       "overview": "Frustrated with babysitting on yet another weekend night, Sarah, a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King. Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers."
+    },
+    "tmdb:441130": {
+      "key": "tmdb:441130",
+      "title": "Wolfwalkers",
+      "year": 2020,
+      "director": "Tomm Moore, Ross Stewart",
+      "runtime": 102,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3zTbERSBLh7waK9811RTKGAcG86.jpg",
+      "tmdbId": 441130,
+      "popularity": 11.6849,
+      "releaseDate": "2020-10-26",
+      "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy."
     },
     "t:claudio simonettis goblin performs the live score to tenebre": {
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
@@ -680,6 +638,20 @@
       "popularity": 2.6611,
       "releaseDate": "1971-05-28",
       "overview": "Ostend, Belgium. In a decadent seaside hotel, Stefan and Valerie, a newlywed couple, meet the mysterious Countess Báthory and Ilona, her secretary."
+    },
+    "tmdb:26039": {
+      "key": "tmdb:26039",
+      "title": "Point Blank",
+      "year": 1967,
+      "director": "John Boorman",
+      "runtime": 92,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/xvZc8EvB7tNPHM9VdmNA19EiwqU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sousyLLi3l14qho6gATKYX7pEyR.jpg",
+      "tmdbId": 26039,
+      "popularity": 5.164,
+      "releaseDate": "1967-08-30",
+      "overview": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the rather inconsequential sum of money that was stolen from him."
     },
     "tmdb:219": {
       "key": "tmdb:219",
@@ -904,20 +876,6 @@
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
     },
-    "tmdb:619778": {
-      "key": "tmdb:619778",
-      "title": "Malignant",
-      "year": 2021,
-      "director": "James Wan",
-      "runtime": 111,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
-      "tmdbId": 619778,
-      "popularity": 17.4741,
-      "releaseDate": "2021-09-01",
-      "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past."
-    },
     "tmdb:203": {
       "key": "tmdb:203",
       "title": "Mean Streets",
@@ -973,20 +931,6 @@
       "popularity": 3.7208,
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
-    },
-    "tmdb:10843": {
-      "key": "tmdb:10843",
-      "title": "After Hours",
-      "year": 1985,
-      "director": "Martin Scorsese",
-      "runtime": 97,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/8upjM945SVY99tu2Z8OG27Jd4m6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
-      "tmdbId": 10843,
-      "popularity": 7.5688,
-      "releaseDate": "1985-09-13",
-      "overview": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman."
     },
     "tmdb:31522": {
       "key": "tmdb:31522",
@@ -1198,20 +1142,6 @@
       "releaseDate": "1961-01-28",
       "overview": "After the Japanese defeat to the Russians, Kaji leads the last remaining men through Manchuria. Intent on returning to his old life, he faces great odds in a variety of different harrowing circumstances as he and his men sneak behind enemy lines."
     },
-    "tmdb:252171": {
-      "key": "tmdb:252171",
-      "title": "A Girl Walks Home Alone at Night",
-      "year": 2014,
-      "director": "Ana Lily Amirpour",
-      "runtime": 101,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/cd2rCE1nun7CESjBI8PGNEof1tb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5mUTmmBFbsXlJE66XOumJSzYK7M.jpg",
-      "tmdbId": 252171,
-      "popularity": 5.0216,
-      "releaseDate": "2014-11-21",
-      "overview": "In the Iranian ghost-town Bad City, a place that reeks of death and loneliness, the townspeople are unaware they are being stalked by a lonesome vampire."
-    },
     "tmdb:13310": {
       "key": "tmdb:13310",
       "title": "Let the Right One In",
@@ -1393,6 +1323,20 @@
       "releaseDate": "1995-07-19",
       "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him."
     },
+    "tmdb:25768": {
+      "key": "tmdb:25768",
+      "title": "Steamboat Bill, Jr.",
+      "year": 1928,
+      "director": "Charles Reisner, Buster Keaton",
+      "runtime": 70,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
+      "tmdbId": 25768,
+      "popularity": 4.5603,
+      "releaseDate": "1928-05-09",
+      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
+    },
     "tmdb:11547": {
       "key": "tmdb:11547",
       "title": "Cabin Fever",
@@ -1421,128 +1365,22 @@
       "releaseDate": "1956-11-08",
       "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
     },
-    "tmdb:25768": {
-      "key": "tmdb:25768",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "director": "Charles Reisner, Buster Keaton",
-      "runtime": 70,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
-      "tmdbId": 25768,
-      "popularity": 4.5603,
-      "releaseDate": "1928-05-09",
-      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
+    "tmdb:619778": {
+      "key": "tmdb:619778",
+      "title": "Malignant",
+      "year": 2021,
+      "director": "James Wan",
+      "runtime": 111,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+      "tmdbId": 619778,
+      "popularity": 17.4741,
+      "releaseDate": "2021-09-01",
+      "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past."
     }
   },
   "screenings": [
-    {
-      "id": "4star:2026-10-25:10:00:tmdb:8839",
-      "venueId": "4star",
-      "filmKey": "tmdb:8839",
-      "date": "2026-10-25",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/casper-sun",
-      "note": "Popcorn Palace - FREE!",
-      "source": "4star"
-    },
-    {
-      "id": "alamo:2026-10-25:12:00:tmdb:39264",
-      "venueId": "alamo",
-      "filmKey": "tmdb:39264",
-      "date": "2026-10-25",
-      "time": "12:00",
-      "url": "https://drafthouse.com/sf/show/godzilla-vs-megalon?cinemaId=0801&sessionId=83184",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-25:14:40:tmdb:46175",
-      "venueId": "alamo",
-      "filmKey": "tmdb:46175",
-      "date": "2026-10-25",
-      "time": "14:40",
-      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-daughters-of-darkness?cinemaId=0801&sessionId=83799",
-      "note": "Queer Film Theory 101 · Delphine Seyrig dazzles in this 1970s erotic lesbian vampire cult classic",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-10-25:15:00:tmdb:1599181",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-10-25",
-      "time": "15:00",
-      "url": "https://roxie.com/film/chronovisor/",
-      "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-10-25:17:30:tmdb:8337",
-      "venueId": "balboa",
-      "filmKey": "tmdb:8337",
-      "date": "2026-10-25",
-      "time": "17:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/they-live-october-25",
-      "note": "Presented by on VHS by Warped VHS and Another Hole in the Head",
-      "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-10-25:18:30:tmdb:252171",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:252171",
-      "date": "2026-10-25",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/a-girl-walks-home-alone-at-night/",
-      "source": "newparkway"
-    },
-    {
-      "id": "bampfa:2026-10-25:19:00:tmdb:10843",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:10843",
-      "date": "2026-10-25",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/after-hours",
-      "format": "4K",
-      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-10-25:19:20:tmdb:9845",
-      "venueId": "roxie",
-      "filmKey": "tmdb:9845",
-      "date": "2026-10-25",
-      "time": "19:20",
-      "url": "https://roxie.com/film/perdita-durango/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-10-25:20:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-25",
-      "time": "20:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-10-25:20:00:tmdb:27274",
-      "venueId": "balboa",
-      "filmKey": "tmdb:27274",
-      "date": "2026-10-25",
-      "time": "20:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/frankenhooker-october-25",
-      "note": "Presented with live drag by Bonita Rose (@bonitarosedrag on Instagram)",
-      "source": "balboa"
-    },
-    {
-      "id": "4star:2026-10-25:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-10-25",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-resavoir",
-      "note": "Throwin’ Bo’s presents:",
-      "source": "4star"
-    },
     {
       "id": "alamo:2026-10-26:16:00:tmdb:1887",
       "venueId": "alamo",
@@ -1789,6 +1627,15 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-10-30:20:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-30",
+      "time": "20:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-10-30:21:45:tmdb:313922",
       "venueId": "alamo",
       "filmKey": "tmdb:313922",
@@ -1857,6 +1704,15 @@
       "url": "https://www.landmarktheatres.com/movies/47559-phantom-of-the-opera-1943/",
       "note": "Marquee Matinees - Monster Madness",
       "source": "operaplaza"
+    },
+    {
+      "id": "roxie:2026-10-31:13:15:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-31",
+      "time": "13:15",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "vogue:2026-10-31:13:30:tmdb:19483",
@@ -2049,6 +1905,16 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-11-01:20:00:tmdb:1887",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1887",
+      "date": "2026-11-01",
+      "time": "20:00",
+      "url": "https://roxie.com/film/marie-antoinette-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-11-02:18:00:tmdb:1596296",
       "venueId": "roxie",
       "filmKey": "tmdb:1596296",
@@ -2075,6 +1941,15 @@
       "time": "18:00",
       "url": "https://roxie.com/film/wild-at-heart/",
       "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-03:20:30:tmdb:1599181",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-11-03",
+      "time": "20:30",
+      "url": "https://roxie.com/film/chronovisor/",
       "source": "roxie"
     },
     {
@@ -2115,6 +1990,34 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-green-house",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-11-04:20:30:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-04",
+      "time": "20:30",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-04:21:00:tmdb:483",
+      "venueId": "roxie",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-04",
+      "time": "21:00",
+      "url": "https://roxie.com/film/wild-at-heart/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-05:15:30:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-05",
+      "time": "15:30",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "4star:2026-11-05:20:00:tmdb:98096",
@@ -2166,6 +2069,16 @@
       "url": "https://www.balboamovies.com/calendar-of-events/double-feature-with-sandow-birk-november-6",
       "note": "August 29 - November 7 at the Catharine Clark Gallery",
       "source": "balboa"
+    },
+    {
+      "id": "4star:2026-11-07:10:00:tmdb:441130",
+      "venueId": "4star",
+      "filmKey": "tmdb:441130",
+      "date": "2026-11-07",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/wolfwalkers-sat",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
     },
     {
       "id": "alamo:2026-11-07:12:00:tmdb:2001",
@@ -2233,6 +2146,16 @@
       "time": "23:00",
       "url": "https://www.balboamovies.com/calendar-of-events/the-room-november-7",
       "source": "balboa"
+    },
+    {
+      "id": "4star:2026-11-08:10:00:tmdb:441130",
+      "venueId": "4star",
+      "filmKey": "tmdb:441130",
+      "date": "2026-11-08",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/wolfwalkers-sun",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
     },
     {
       "id": "alamo:2026-11-08:12:00:tmdb:965",
@@ -2776,63 +2699,19 @@
       "url": "https://drafthouse.com/sf/show/a24-x-alamo-cinema-club-mandatory-bundle-pearl?cinemaId=0801&sessionId=83332",
       "note": "Alamo Drafthouse x A24 Cinema Club · You axed for it",
       "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-23:18:45:tmdb:26039",
+      "venueId": "alamo",
+      "filmKey": "tmdb:26039",
+      "date": "2026-11-23",
+      "time": "18:45",
+      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-point-blank-1967?cinemaId=0801&sessionId=83867",
+      "note": "Queer Film Theory 101 · John Boorman and Lee Marvin bring hardboiled noir into the New Wave",
+      "source": "alamo"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:roxie:sf latino film festival",
-      "name": "SF Latino Film Festival",
-      "venueId": "roxie",
-      "startDate": "2026-10-25",
-      "endDate": "2026-10-25",
-      "url": "https://roxie.com/series/18th-san-francisco-latino-film-festival/",
-      "showtimes": 1,
-      "sample": [
-        "Libertad"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-25",
-          "time": "13:00",
-          "title": "Libertad",
-          "url": "https://roxie.com/film/sf-latino-film-festival-libertad/"
-        }
-      ]
-    },
-    {
-      "key": "fest:bampfa:hong kong cinema rarities and restorations digital restoration",
-      "name": "Hong Kong Cinema: Rarities and Restorations · Digital Restoration",
-      "venueId": "bampfa",
-      "startDate": "2026-10-25",
-      "endDate": "2026-11-22",
-      "url": "https://bampfa.org/event/colorful-youth",
-      "showtimes": 3,
-      "sample": [
-        "Colorful Youth",
-        "The Secret",
-        "Rouge"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-25",
-          "time": "16:00",
-          "title": "Colorful Youth",
-          "url": "https://bampfa.org/event/colorful-youth"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "19:00",
-          "title": "The Secret",
-          "url": "https://bampfa.org/event/secret"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "18:00",
-          "title": "Rouge",
-          "url": "https://bampfa.org/event/rouge"
-        }
-      ]
-    },
     {
       "key": "fest:alamo:fantastic fest presents littermates advance screening",
       "name": "Fantastic Fest Presents Littermates Advance Screening",
@@ -2994,6 +2873,138 @@
       ]
     },
     {
+      "key": "fest:grandlake:23rd animation show of shows",
+      "name": "23rd Animation Show of Shows",
+      "venueId": "grandlake",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-04",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030",
+      "showtimes": 20,
+      "sample": [],
+      "programme": [
+        {
+          "date": "2026-10-30",
+          "time": "16:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030"
+        },
+        {
+          "date": "2026-10-30",
+          "time": "22:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "12:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "14:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "16:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "18:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "20:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "22:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "12:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "14:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "16:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "18:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "20:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "16:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "18:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "20:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "16:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "18:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "20:00",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
+        },
+        {
+          "date": "2026-11-04",
+          "time": "16:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104"
+        }
+      ]
+    },
+    {
       "key": "fest:roxie:dance thrill fest",
       "name": "Dance Thrill Fest",
       "venueId": "roxie",
@@ -3054,6 +3065,33 @@
       ]
     },
     {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations digital restoration",
+      "name": "Hong Kong Cinema: Rarities and Restorations · Digital Restoration",
+      "venueId": "bampfa",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-22",
+      "url": "https://bampfa.org/event/secret",
+      "showtimes": 2,
+      "sample": [
+        "The Secret",
+        "Rouge"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-05",
+          "time": "19:00",
+          "title": "The Secret",
+          "url": "https://bampfa.org/event/secret"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "18:00",
+          "title": "Rouge",
+          "url": "https://bampfa.org/event/rouge"
+        }
+      ]
+    },
+    {
       "key": "fest:4star:studio 8 film festival",
       "name": "STUDIO 8 FILM FESTIVAL",
       "venueId": "4star",
@@ -3097,6 +3135,33 @@
           "time": "17:45",
           "title": "Edward Said: Between Worlds",
           "url": "https://thecastro.com/events/edward-said-between-worlds"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:culture and diversity film festival",
+      "name": "CULTURE & DIVERSITY FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-10",
+      "url": "https://www.4-star-movies.com/calendar-of-events/cdff-mon",
+      "showtimes": 2,
+      "sample": [
+        "Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
+        "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\""
+      ],
+      "programme": [
+        {
+          "date": "2026-11-09",
+          "time": "16:00",
+          "title": "Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
+          "url": "https://www.4-star-movies.com/calendar-of-events/cdff-mon"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "16:00",
+          "title": "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\"",
+          "url": "https://www.4-star-movies.com/calendar-of-events/cdff-tue"
         }
       ]
     },
@@ -3158,6 +3223,53 @@
           "time": "19:00",
           "title": "Back to the Future",
           "url": "https://www.balboamovies.com/calendar-of-events/Back to the Future-november-15"
+        }
+      ]
+    },
+    {
+      "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
+      "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
+      "venueId": "vogue",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13",
+      "showtimes": 5,
+      "sample": [
+        "De Gaulle: Part 1 – Resistance",
+        "De la Comédie Française",
+        "Women on Trial",
+        "Another Day"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-13",
+          "time": "18:30",
+          "title": "De Gaulle: Part 1 – Resistance",
+          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "15:00",
+          "title": "De la Comédie Française",
+          "url": "https://voguemovies.com/calendar-of-events/de-la-comdie-franaise-november-14"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:00",
+          "title": "Women on Trial",
+          "url": "https://voguemovies.com/calendar-of-events/women-on-trial-november-14"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "15:00",
+          "title": "Another Day",
+          "url": "https://voguemovies.com/calendar-of-events/another-day-november-15"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:00",
+          "title": "Family Quiz",
+          "url": "https://voguemovies.com/calendar-of-events/family-quiz-november-15"
         }
       ]
     },
