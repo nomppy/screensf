@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-10-26T18:57:24.121Z",
+  "generatedAt": "2026-10-27T18:26:46.271Z",
   "films": {
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "t:filipinana": {
       "key": "t:filipinana",
       "title": "Filipiñana",
@@ -94,6 +80,20 @@
       "releaseDate": "2019-03-14",
       "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited."
     },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
     "tmdb:1358532": {
       "key": "tmdb:1358532",
       "title": "Séance",
@@ -149,6 +149,20 @@
       "popularity": 8.6766,
       "releaseDate": "1990-08-17",
       "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
+    },
+    "tmdb:4977": {
+      "key": "tmdb:4977",
+      "title": "Paprika",
+      "year": 2006,
+      "director": "Satoshi Kon",
+      "runtime": 90,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/nHJljo2Pi7XimYEgV9hvRchQWmg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
+      "tmdbId": 4977,
+      "popularity": 9.0953,
+      "releaseDate": "2006-10-01",
+      "overview": "Dr. Atsuko Chiba is a research psychologist who uses a device called the DC Mini to enter her patients' dreams, wherein she adopts the alter-ego \"Paprika\". When the device is stolen, she must stop rogue elements from merging the dream and waking worlds."
     },
     "tmdb:636": {
       "key": "tmdb:636",
@@ -274,20 +288,6 @@
       "releaseDate": "1933-12-25",
       "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
     },
-    "tmdb:38775": {
-      "key": "tmdb:38775",
-      "title": "Night Tide",
-      "year": 1961,
-      "director": "Curtis Harrington",
-      "runtime": 84,
-      "genre": "Romance",
-      "poster": "https://image.tmdb.org/t/p/w500/bd8pTcZQNRBFrShJoCQUWnJxmZJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/uAW0YfIBSm6TTwyE2hTKsqRVhga.jpg",
-      "tmdbId": 38775,
-      "popularity": 2.6917,
-      "releaseDate": "1961-07-01",
-      "overview": "A young sailor is enamored with a mysterious woman performing as a mermaid on the local pier. As their existences become entwined, he comes to suspect the woman might be a real mermaid who lures men to a watery death during the full moon."
-    },
     "tmdb:15762": {
       "key": "tmdb:15762",
       "title": "Night of the Creeps",
@@ -397,20 +397,6 @@
       "popularity": 4.9031,
       "releaseDate": "1995-03-31",
       "overview": "After a comet disrupts the rain cycle of Earth, the planet has become a desolate, barren desert by the year 2033. With resources scarce, Kesslee, head of the powerful and evil Water & Power Corporation, the de facto government, has taken control of the water supply. Unwilling to cower under Kesslee's tyrannical rule, a pair of outlaws known as Tank Girl and Jet Girl rise up, joining the mysterious rebel Rippers to destroy the corrupt system."
-    },
-    "tmdb:203912": {
-      "key": "tmdb:203912",
-      "title": "National Theatre Live: Frankenstein",
-      "year": 2011,
-      "director": "Danny Boyle, Tim Van Someren",
-      "runtime": 130,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/8xyvEc5knCDuO8jEgdwBqeMvaau.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/1W6zwX287HJU7jVoUQIMpoSnwWi.jpg",
-      "tmdbId": 203912,
-      "popularity": 2.7636,
-      "releaseDate": "2011-03-17",
-      "overview": "Childlike in his innocence but grotesque in form, Frankenstein’s bewildered creature is cast out into a hostile universe by his horror-struck maker. Meeting with cruelty wherever he goes, the friendless Creature, increasingly desperate and vengeful, determines to track down his creator and strike a terrifying deal.  Urgent concerns of scientific responsibility, parental neglect, cognitive development and the nature of good and evil are embedded within this thrilling and deeply disturbing tale."
     },
     "tmdb:1547": {
       "key": "tmdb:1547",
@@ -551,6 +537,20 @@
       "releaseDate": "2020-10-26",
       "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy."
     },
+    "tmdb:16227": {
+      "key": "tmdb:16227",
+      "title": "Dark Passage",
+      "year": 1947,
+      "director": "Delmer Daves",
+      "runtime": 106,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/dvwmiD6qQ05gojrFQRaFbdhbNDF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nFCXzdeJbJiYZF6rvSQnkkHAL7G.jpg",
+      "tmdbId": 16227,
+      "popularity": 2.9278,
+      "releaseDate": "1947-09-05",
+      "overview": "A man convicted of murdering his wife escapes from prison and works with a woman to try and prove his innocence."
+    },
     "t:claudio simonettis goblin performs the live score to tenebre": {
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
       "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
@@ -625,20 +625,6 @@
       "releaseDate": "1994-10-28",
       "overview": "Long separated from his family, hitman Joshua returns to Brighton Beach for a contract killing for the Russian Mafia. His abusive father, Arkady, banned him from returning after Joshua committed his first murder. He takes up residence in a hotel, and soon everyone knows he has returned. He goes home to visit his dying mother, Irina, and prepares for the assassination, getting drawn back into the criminal community he left behind."
     },
-    "tmdb:46175": {
-      "key": "tmdb:46175",
-      "title": "Daughters of Darkness",
-      "year": 1971,
-      "director": "Harry Kümel",
-      "runtime": 100,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/w6669wTC2x3WtBveKEBv04y70fh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/unIuV3x6bbaR9ur6EidZXjj6lTb.jpg",
-      "tmdbId": 46175,
-      "popularity": 2.6611,
-      "releaseDate": "1971-05-28",
-      "overview": "Ostend, Belgium. In a decadent seaside hotel, Stefan and Valerie, a newlywed couple, meet the mysterious Countess Báthory and Ilona, her secretary."
-    },
     "tmdb:26039": {
       "key": "tmdb:26039",
       "title": "Point Blank",
@@ -666,6 +652,19 @@
       "popularity": 5.7896,
       "releaseDate": "2006-03-17",
       "overview": "Three generations of women deal with family secrets while surviving the east wind, fire, insanity, superstition, lies and even death."
+    },
+    "tmdb:389010": {
+      "key": "tmdb:389010",
+      "title": "September Songs: The Music of Kurt Weill",
+      "year": 1994,
+      "director": "Larry Weinstein",
+      "runtime": 91,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/9l3jj6wLAiop2TAKRDdf9ZaX372.jpg",
+      "tmdbId": 389010,
+      "popularity": 1.0488,
+      "releaseDate": "1994-01-25",
+      "overview": "Filmmaker Larry Weinstein stages a wide range of performances in tribute to the compositions of Kurt Weill."
     },
     "tmdb:4723": {
       "key": "tmdb:4723",
@@ -875,6 +874,20 @@
       "popularity": 1.2725,
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
+    },
+    "tmdb:619778": {
+      "key": "tmdb:619778",
+      "title": "Malignant",
+      "year": 2021,
+      "director": "James Wan",
+      "runtime": 111,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
+      "tmdbId": 619778,
+      "popularity": 17.4741,
+      "releaseDate": "2021-09-01",
+      "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past."
     },
     "tmdb:203": {
       "key": "tmdb:203",
@@ -1156,20 +1169,6 @@
       "releaseDate": "2008-10-24",
       "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl."
     },
-    "tmdb:4011": {
-      "key": "tmdb:4011",
-      "title": "Beetlejuice",
-      "year": 1988,
-      "director": "Tim Burton",
-      "runtime": 92,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
-      "tmdbId": 4011,
-      "popularity": 14.5289,
-      "releaseDate": "1988-03-30",
-      "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home."
-    },
     "tmdb:872": {
       "key": "tmdb:872",
       "title": "Singin' in the Rain",
@@ -1323,6 +1322,34 @@
       "releaseDate": "1995-07-19",
       "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him."
     },
+    "tmdb:42077": {
+      "key": "tmdb:42077",
+      "title": "My Name Is Julia Ross",
+      "year": 1945,
+      "director": "Joseph H. Lewis",
+      "runtime": 65,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/ofUTB5ojMTr6mndUxVQan5p8p2X.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gFl2UbHNznIxxsp4kkKX7lB8uGX.jpg",
+      "tmdbId": 42077,
+      "popularity": 1.9485,
+      "releaseDate": "1945-11-08",
+      "overview": "Julia Ross secures employment with a wealthy widow and goes to live at her house. Two days later, she awakens in a different house in different clothes and with a new identity."
+    },
+    "tmdb:33673": {
+      "key": "tmdb:33673",
+      "title": "His Kind of Woman",
+      "year": 1951,
+      "director": "John Farrow",
+      "runtime": 120,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/mB5vCfHE7ootyK96F3IVhLSaJzP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/pOtCuWEVxWrO7bkZiPvirOv27ZT.jpg",
+      "tmdbId": 33673,
+      "popularity": 2.3539,
+      "releaseDate": "1951-08-15",
+      "overview": "Career gambler Dan Milner agrees to a $50,000 deal to leave the USA for Mexico, only to find himself entangled with fellow guests at a luxurious resort and suspecting that the man who hired him may be the deported crime boss Nick Ferraro aiming to re-enter to the USA."
+    },
     "tmdb:25768": {
       "key": "tmdb:25768",
       "title": "Steamboat Bill, Jr.",
@@ -1364,71 +1391,9 @@
       "popularity": 10.5593,
       "releaseDate": "1956-11-08",
       "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
-    },
-    "tmdb:619778": {
-      "key": "tmdb:619778",
-      "title": "Malignant",
-      "year": 2021,
-      "director": "James Wan",
-      "runtime": 111,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
-      "tmdbId": 619778,
-      "popularity": 17.4741,
-      "releaseDate": "2021-09-01",
-      "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past."
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-10-26:16:00:tmdb:1887",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1887",
-      "date": "2026-10-26",
-      "time": "16:00",
-      "url": "https://drafthouse.com/sf/show/marie-antoinette?cinemaId=0801&sessionId=83451",
-      "source": "alamo"
-    },
-    {
-      "id": "vogue:2026-10-26:19:00:tmdb:203912",
-      "venueId": "vogue",
-      "filmKey": "tmdb:203912",
-      "date": "2026-10-26",
-      "time": "19:00",
-      "url": "https://voguemovies.com/calendar-of-events/national-theatre-live-frankenstein-october-26",
-      "note": "Find out more about National Theatre Live.",
-      "source": "vogue"
-    },
-    {
-      "id": "alamo:2026-10-26:19:00:tmdb:46175",
-      "venueId": "alamo",
-      "filmKey": "tmdb:46175",
-      "date": "2026-10-26",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-daughters-of-darkness?cinemaId=0801&sessionId=82959",
-      "note": "Queer Film Theory 101 · Delphine Seyrig dazzles in this 1970s erotic lesbian vampire cult classic",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-10-26:19:30:tmdb:38775",
-      "venueId": "balboa",
-      "filmKey": "tmdb:38775",
-      "date": "2026-10-26",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/night-tide-october-26",
-      "note": "The Last Movie",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-10-26:20:10:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-26",
-      "time": "20:10",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
     {
       "id": "alamo:2026-10-27:13:30:tmdb:39264",
       "venueId": "alamo",
@@ -1538,6 +1503,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-10-29:17:20:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-29",
+      "time": "17:20",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-10-29:18:00:tmdb:16672",
       "venueId": "roxie",
       "filmKey": "tmdb:16672",
@@ -1584,6 +1558,26 @@
       "time": "20:40",
       "url": "https://roxie.com/film/new-people-hausu/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-10-30:12:15:tmdb:483",
+      "venueId": "alamo",
+      "filmKey": "tmdb:483",
+      "date": "2026-10-30",
+      "time": "12:15",
+      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84038",
+      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-10-30:15:45:tmdb:483",
+      "venueId": "alamo",
+      "filmKey": "tmdb:483",
+      "date": "2026-10-30",
+      "time": "15:45",
+      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84039",
+      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
     },
     {
       "id": "4star:2026-10-30:18:00:tmdb:13353",
@@ -1737,6 +1731,15 @@
       "source": "balboa"
     },
     {
+      "id": "alamo:2026-10-31:14:50:tmdb:948",
+      "venueId": "alamo",
+      "filmKey": "tmdb:948",
+      "date": "2026-10-31",
+      "time": "14:50",
+      "url": "https://drafthouse.com/sf/show/halloween-1978?cinemaId=0801&sessionId=83990",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-10-31:15:30:tmdb:10166",
       "venueId": "roxie",
       "filmKey": "tmdb:10166",
@@ -1784,15 +1787,6 @@
       "time": "16:45",
       "url": "https://roxie.com/film/new-people-the-snake-girl-and-the-silver-haired-witch/",
       "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-31:17:00:tmdb:4011",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:4011",
-      "date": "2026-10-31",
-      "time": "17:00",
-      "url": "https://thenewparkway.com/movie/beetlejuice/",
-      "source": "newparkway"
     },
     {
       "id": "alamo:2026-10-31:18:30:tmdb:36685",
@@ -1876,6 +1870,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-11-01:15:40:tmdb:4977",
+      "venueId": "roxie",
+      "filmKey": "tmdb:4977",
+      "date": "2026-11-01",
+      "time": "15:40",
+      "url": "https://roxie.com/film/new-people-paprika/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-11-01:16:00:tmdb:483",
       "venueId": "alamo",
       "filmKey": "tmdb:483",
@@ -1896,15 +1899,6 @@
       "source": "roxie"
     },
     {
-      "id": "roxie:2026-11-01:20:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-01",
-      "time": "20:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-11-01:20:00:tmdb:1887",
       "venueId": "roxie",
       "filmKey": "tmdb:1887",
@@ -1912,6 +1906,15 @@
       "time": "20:00",
       "url": "https://roxie.com/film/marie-antoinette-4k-restoration/",
       "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-01:20:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-01",
+      "time": "20:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
     },
     {
@@ -1932,6 +1935,16 @@
       "url": "https://www.atasite.org/event/rewards-program-malignant/",
       "note": "A live-scored three-projector celluloid performance with: MILES LASSI is an interdisciplinary artist based out of Oakland, CA.",
       "source": "ata"
+    },
+    {
+      "id": "alamo:2026-11-02:22:10:tmdb:483",
+      "venueId": "alamo",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-02",
+      "time": "22:10",
+      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84036",
+      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-11-03:18:00:tmdb:483",
@@ -2011,6 +2024,16 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-11-04:21:40:tmdb:483",
+      "venueId": "alamo",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-04",
+      "time": "21:40",
+      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84040",
+      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-11-05:15:30:tmdb:1596296",
       "venueId": "roxie",
       "filmKey": "tmdb:1596296",
@@ -2028,6 +2051,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-good-friends-nov",
       "note": "Good Friends",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-11-05:21:20:tmdb:4977",
+      "venueId": "roxie",
+      "filmKey": "tmdb:4977",
+      "date": "2026-11-05",
+      "time": "21:20",
+      "url": "https://roxie.com/film/new-people-paprika/",
+      "source": "roxie"
     },
     {
       "id": "bampfa:2026-11-06:16:00:tmdb:203",
@@ -2275,6 +2307,17 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-11-11:16:30:tmdb:989988",
+      "venueId": "balboa",
+      "filmKey": "tmdb:989988",
+      "date": "2026-11-11",
+      "time": "16:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/twilight-new-moon-november-11",
+      "format": "35mm",
+      "note": "Presented on 35mm by",
+      "source": "balboa"
+    },
+    {
       "id": "roxie:2026-11-11:18:00:tmdb:425395",
       "venueId": "roxie",
       "filmKey": "tmdb:425395",
@@ -2304,17 +2347,6 @@
       "format": "35mm",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
       "source": "bampfa"
-    },
-    {
-      "id": "balboa:2026-11-11:19:30:tmdb:989988",
-      "venueId": "balboa",
-      "filmKey": "tmdb:989988",
-      "date": "2026-11-11",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/twilight-new-moon-november-11",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
     },
     {
       "id": "sfmoma:2026-11-12:18:30:tmdb:448491",
@@ -2512,7 +2544,7 @@
       "time": "21:30",
       "url": "https://drafthouse.com/sf/show/terror-tuesday-the-exorcist-on-35mm?cinemaId=0801&sessionId=82961",
       "format": "35mm",
-      "note": "Terror Tuesday",
+      "note": "Terror Tuesday · The original theatrical cut in 35mm",
       "source": "alamo"
     },
     {
@@ -2701,6 +2733,16 @@
       "source": "alamo"
     },
     {
+      "id": "4star:2026-11-22:19:30:tmdb:16227",
+      "venueId": "4star",
+      "filmKey": "tmdb:16227",
+      "date": "2026-11-22",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/wnp-film-club-dark-passage",
+      "note": "Presented by the WESTERN NEIGHBORHOODS PROJECT FILM CLUB & BAY AREA MOVIES",
+      "source": "4star"
+    },
+    {
       "id": "alamo:2026-11-23:18:45:tmdb:26039",
       "venueId": "alamo",
       "filmKey": "tmdb:26039",
@@ -2709,35 +2751,38 @@
       "url": "https://drafthouse.com/sf/show/queer-film-theory-101-point-blank-1967?cinemaId=0801&sessionId=83867",
       "note": "Queer Film Theory 101 · John Boorman and Lee Marvin bring hardboiled noir into the New Wave",
       "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-11-24:18:30:tmdb:42077",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:42077",
+      "date": "2026-11-24",
+      "time": "18:30",
+      "url": "https://thenewparkway.com/movie/my-name-is-julia-ross-noirvember/",
+      "note": "Noirvember",
+      "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-11-24:18:45:tmdb:389010",
+      "venueId": "alamo",
+      "filmKey": "tmdb:389010",
+      "date": "2026-11-24",
+      "time": "18:45",
+      "url": "https://drafthouse.com/sf/show/september-songs?cinemaId=0801&sessionId=83868",
+      "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-11-24:20:10:tmdb:33673",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:33673",
+      "date": "2026-11-24",
+      "time": "20:10",
+      "url": "https://thenewparkway.com/movie/his-kind-of-woman-noirvember/",
+      "note": "Noirvember",
+      "source": "newparkway"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:alamo:fantastic fest presents littermates advance screening",
-      "name": "Fantastic Fest Presents Littermates Advance Screening",
-      "venueId": "alamo",
-      "startDate": "2026-10-26",
-      "endDate": "2026-10-26",
-      "url": "https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-advance-screening?cinemaId=0801&sessionId=83223",
-      "showtimes": 2,
-      "sample": [
-        "Littermates"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-26",
-          "time": "19:15",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-advance-screening?cinemaId=0801&sessionId=83223"
-        },
-        {
-          "date": "2026-10-26",
-          "time": "22:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/fantastic-fest-presents-littermates-advance-screening?cinemaId=0801&sessionId=83222"
-        }
-      ]
-    },
     {
       "key": "fest:vogue:frameline fall showcase",
       "name": "Frameline Fall Showcase",
@@ -2790,10 +2835,11 @@
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
       "startDate": "2026-10-29",
-      "endDate": "2026-11-08",
+      "endDate": "2026-11-12",
       "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446",
-      "showtimes": 12,
+      "showtimes": 18,
       "sample": [
+        "Littermates",
         "Restoration at Grayson Manor",
         "Wild Horse Nine"
       ],
@@ -2848,6 +2894,12 @@
         },
         {
           "date": "2026-11-07",
+          "time": "21:20",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882"
+        },
+        {
+          "date": "2026-11-07",
           "time": "21:50",
           "title": "Wild Horse Nine",
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
@@ -2869,6 +2921,36 @@
           "time": "18:40",
           "title": "Wild Horse Nine",
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "21:40",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "19:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83884"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:45",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83885"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "19:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83886"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "21:15",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
         }
       ]
     },
@@ -3192,7 +3274,7 @@
       "startDate": "2026-11-13",
       "endDate": "2026-11-15",
       "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13",
-      "showtimes": 4,
+      "showtimes": 5,
       "sample": [
         "Nirvanna the Band the Show Season One",
         "Nirvanna the Band the Show Season Two",
@@ -3217,6 +3299,12 @@
           "time": "19:30",
           "title": "Nirvanna the Band the Show the Movie",
           "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-14"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "16:00",
+          "title": "Nirvanna the Band the Show the Movie",
+          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-15"
         },
         {
           "date": "2026-11-15",
