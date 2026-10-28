@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-10-27T18:26:46.271Z",
+  "generatedAt": "2026-10-28T18:35:03.025Z",
   "films": {
-    "t:filipinana": {
-      "key": "t:filipinana",
-      "title": "Filipiñana",
-      "year": 2926,
-      "director": "Rafael Manuel",
-      "runtime": 100,
-      "overview": "Amid stifling heat and pervasive drought, Isabel (Jorrybell Agoto), a 17-year-old Ilokana from the rural north, works at a posh country club outside Manila, lining up golf balls for powerful men to drive into the verdant horizon. New to the job, she wanders the immaculate grounds sampling its luxuries as members, including an industrialist and his expatriate niece, the club president and his pampered wife, and a slew of Chinese tourists, engage in a complex dance with the club’s doting and subservient staff. But something is rotting beneath the pristine fairways of the elite resort, as Isabel discovers when she tries to return a mislaid golf club to its patriarchal director, Dr. Palanca (Teroy Guzman). The deeper she journeys into its most exclusive corners, the closer she gets to the violent truths of the club, her native Philippines, and her own past..",
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/07/2-16.jpg"
-    },
     "tmdb:258363": {
       "key": "tmdb:258363",
       "title": "Desierto",
@@ -398,6 +389,62 @@
       "releaseDate": "1995-03-31",
       "overview": "After a comet disrupts the rain cycle of Earth, the planet has become a desolate, barren desert by the year 2033. With resources scarce, Kesslee, head of the powerful and evil Water & Power Corporation, the de facto government, has taken control of the water supply. Unwilling to cower under Kesslee's tyrannical rule, a pair of outlaws known as Tank Girl and Jet Girl rise up, joining the mysterious rebel Rippers to destroy the corrupt system."
     },
+    "tmdb:2609": {
+      "key": "tmdb:2609",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987,
+      "director": "John Hughes",
+      "runtime": 92,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
+      "tmdbId": 2609,
+      "popularity": 7.8594,
+      "releaseDate": "1987-11-26",
+      "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith."
+    },
+    "tmdb:3766": {
+      "key": "tmdb:3766",
+      "title": "The Lady from Shanghai",
+      "year": 1947,
+      "director": "Orson Welles",
+      "runtime": 87,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ehgX2eTBOgqB1Py3vSTKf3LXbEv.jpg",
+      "tmdbId": 3766,
+      "popularity": 3.693,
+      "releaseDate": "1947-12-24",
+      "overview": "A romantic drifter gets caught between a corrupt tycoon and his voluptuous wife."
+    },
+    "tmdb:45706": {
+      "key": "tmdb:45706",
+      "title": "Tokyo Drifter",
+      "year": 1966,
+      "director": "Seijun Suzuki",
+      "runtime": 83,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xrsqHuS402Msz8yhWbwre2QQYWd.jpg",
+      "tmdbId": 45706,
+      "popularity": 2.48,
+      "releaseDate": "1966-04-10",
+      "overview": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable Tatsuzo the \"Viper\", a ruthless gun-for-hire, to assassinate him. As the Viper trails his target through the countryside, the agile Phoenix Tetsu grows concerned that one of his former associates has betrayed him."
+    },
+    "tmdb:339877": {
+      "key": "tmdb:339877",
+      "title": "Loving Vincent",
+      "year": 2017,
+      "director": "DK Welchman, Hugh Welchman",
+      "runtime": 95,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/KKrsUGDXZfpeL3ddXTeGibmUHS.jpg",
+      "tmdbId": 339877,
+      "popularity": 5.7769,
+      "releaseDate": "2017-06-22",
+      "overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there."
+    },
     "tmdb:1547": {
       "key": "tmdb:1547",
       "title": "The Lost Boys",
@@ -583,20 +630,6 @@
       "releaseDate": "1999-04-16",
       "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun."
     },
-    "tmdb:39264": {
-      "key": "tmdb:39264",
-      "title": "Godzilla vs. Megalon",
-      "year": 1973,
-      "director": "Jun Fukuda",
-      "runtime": 78,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/au8CGZeCjgoxHe33gZWO0DDvndL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5KPRH4vvVVsAC5y0d0g5qNw6AT3.jpg",
-      "tmdbId": 39264,
-      "popularity": 3.493,
-      "releaseDate": "1973-03-17",
-      "overview": "Inventor Goro Ibuki creates a humanoid robot named Jet Jaguar. It is soon seized by an undersea race of people called the Seatopians. Using Jet Jaguar as a guide, the Seatopians send Megalon as vengeance for the nuclear tests that have devastated their society."
-    },
     "tmdb:948": {
       "key": "tmdb:948",
       "title": "Halloween",
@@ -708,19 +741,19 @@
       "releaseDate": "1986-09-24",
       "overview": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer."
     },
-    "tmdb:609": {
-      "key": "tmdb:609",
-      "title": "Poltergeist",
-      "year": 1982,
-      "director": "Tobe Hooper",
-      "runtime": 114,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
-      "tmdbId": 609,
-      "popularity": 9.8595,
-      "releaseDate": "1982-06-04",
-      "overview": "The Freelings' suburban home becomes the center of paranormal activity that opens a portal to the 'other side'. With help, they must cross over to get their daughter back."
+    "tmdb:18910": {
+      "key": "tmdb:18910",
+      "title": "The Ninth Configuration",
+      "year": 1980,
+      "director": "William Peter Blatty",
+      "runtime": 118,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/jlQMBckfnLhiCusar62sJ7WCKBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rflNo8MqOQnkyA4aplRweprlwwe.jpg",
+      "tmdbId": 18910,
+      "popularity": 3.8005,
+      "releaseDate": "1980-02-29",
+      "overview": "Army psychiatrist Colonel Kane is posted to a secluded gothic castle housing a military asylum. With a reserved calm, he indulges the inmates' delusions, allowing them free rein to express their fantasies."
     },
     "tmdb:7452": {
       "key": "tmdb:7452",
@@ -805,6 +838,19 @@
       "popularity": 2.5336,
       "releaseDate": "1965-11-06",
       "overview": "Mad scientist Dr. Goldfoot has invented an army of bikini-clad robots programmed to seek out wealthy men and charm them into signing over their assets. Secret agent Craig Gamble and millionaire Todd Armstrong set out to foil his fiendish plot."
+    },
+    "tmdb:146790": {
+      "key": "tmdb:146790",
+      "title": "Sudden Fury",
+      "year": 1993,
+      "director": "Craig R. Baxley",
+      "runtime": 98,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/bcJflZpjpDEFooOsX4gXGzumo6F.jpg",
+      "tmdbId": 146790,
+      "popularity": 3.9253,
+      "releaseDate": "1993-11-21",
+      "overview": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
     },
     "tmdb:33061": {
       "key": "tmdb:33061",
@@ -1155,6 +1201,20 @@
       "releaseDate": "1961-01-28",
       "overview": "After the Japanese defeat to the Russians, Kaji leads the last remaining men through Manchuria. Intent on returning to his old life, he faces great odds in a variety of different harrowing circumstances as he and his men sneak behind enemy lines."
     },
+    "tmdb:31767": {
+      "key": "tmdb:31767",
+      "title": "The Devils",
+      "year": 1971,
+      "director": "Ken Russell",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+      "tmdbId": 31767,
+      "popularity": 5.9565,
+      "releaseDate": "1971-07-16",
+      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    },
     "tmdb:13310": {
       "key": "tmdb:13310",
       "title": "Let the Right One In",
@@ -1196,6 +1256,20 @@
       "popularity": 6.2464,
       "releaseDate": "2003-09-12",
       "overview": "A phobic con artist and his protege are on the verge of pulling off a lucrative swindle when the con artist's teenage daughter arrives unexpectedly."
+    },
+    "tmdb:71883": {
+      "key": "tmdb:71883",
+      "title": "Redline",
+      "year": 2009,
+      "director": "Takeshi Koike",
+      "runtime": 102,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/yUkH0y9OsY7J08Dvfzi1P0di559.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/hpiEAclfvNJOYPEIhmVewK3n77c.jpg",
+      "tmdbId": 71883,
+      "popularity": 4.6738,
+      "releaseDate": "2009-08-14",
+      "overview": "A daredevil driver is determined to compete in Redline, the most popular race in the galaxy. The race only occurs every five years, but in order to participate he must overcome the mafia, the government and even love."
     },
     "tmdb:18671": {
       "key": "tmdb:18671",
@@ -1395,55 +1469,6 @@
   },
   "screenings": [
     {
-      "id": "alamo:2026-10-27:13:30:tmdb:39264",
-      "venueId": "alamo",
-      "filmKey": "tmdb:39264",
-      "date": "2026-10-27",
-      "time": "13:30",
-      "url": "https://drafthouse.com/sf/show/godzilla-vs-megalon?cinemaId=0801&sessionId=83825",
-      "note": "Baby Day",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-10-27:18:45:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-27",
-      "time": "18:45",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-10-27:19:00:tmdb:1887",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1887",
-      "date": "2026-10-27",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/movie-party-marie-antoinette-2006?cinemaId=0801&sessionId=83582",
-      "note": "Movie Parties · Celebrate the 20th anniversary of Sofia Coppola's cult classic",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-10-27:20:20:t:filipinana",
-      "venueId": "roxie",
-      "filmKey": "t:filipinana",
-      "date": "2026-10-27",
-      "time": "20:20",
-      "url": "https://roxie.com/film/filipinana/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-27:21:30:tmdb:609",
-      "venueId": "alamo",
-      "filmKey": "tmdb:609",
-      "date": "2026-10-27",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-poltergeist-1982-on-35mm?cinemaId=0801&sessionId=83041",
-      "format": "35mm",
-      "note": "Terror Tuesday · They’re here in 35mm",
-      "source": "alamo"
-    },
-    {
       "id": "roxie:2026-10-28:18:00:tmdb:258363",
       "venueId": "roxie",
       "filmKey": "tmdb:258363",
@@ -1459,7 +1484,6 @@
       "date": "2026-10-28",
       "time": "19:00",
       "url": "https://www.landmarktheatres.com/movies/1048-the-thing-1982/",
-      "note": "Filmmaker Focus - John Carpenter",
       "source": "operaplaza"
     },
     {
@@ -1580,6 +1604,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-10-30:17:00:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-10-30",
+      "time": "17:00",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "4star:2026-10-30:18:00:tmdb:13353",
       "venueId": "4star",
       "filmKey": "tmdb:13353",
@@ -1597,6 +1630,15 @@
       "time": "19:00",
       "url": "https://roxie.com/film/floating-features-us/",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-10-30:19:25:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-30",
+      "time": "19:25",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
     },
     {
       "id": "balboa:2026-10-30:19:30:tmdb:4232",
@@ -1669,6 +1711,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/labyrinth-sat",
       "note": "Popcorn Palace - FREE!",
       "source": "4star"
+    },
+    {
+      "id": "newparkway:2026-10-31:12:00:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-10-31",
+      "time": "12:00",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
     },
     {
       "id": "4star:2026-10-31:12:30:tmdb:13353",
@@ -1860,6 +1911,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-10-31:22:00:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-10-31",
+      "time": "22:00",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "4star:2026-11-01:10:00:tmdb:13597",
       "venueId": "4star",
       "filmKey": "tmdb:13597",
@@ -1868,6 +1928,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/labyrinth-sun",
       "note": "Popcorn Palace - FREE!",
       "source": "4star"
+    },
+    {
+      "id": "newparkway:2026-11-01:14:15:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-01",
+      "time": "14:15",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
     },
     {
       "id": "roxie:2026-11-01:15:40:tmdb:4977",
@@ -1927,6 +1996,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-11-02:18:15:tmdb:1596296",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-02",
+      "time": "18:15",
+      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
+      "source": "newparkway"
+    },
+    {
       "id": "ata:2026-11-02:19:30:tmdb:619778",
       "venueId": "ata",
       "filmKey": "tmdb:619778",
@@ -1955,6 +2033,15 @@
       "url": "https://roxie.com/film/wild-at-heart/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-11-03:20:20:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-03",
+      "time": "20:20",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "roxie:2026-11-03:20:30:tmdb:1599181",
@@ -2014,6 +2101,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-11-04:20:35:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-04",
+      "time": "20:35",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-11-04:21:00:tmdb:483",
       "venueId": "roxie",
       "filmKey": "tmdb:483",
@@ -2040,6 +2136,15 @@
       "date": "2026-11-05",
       "time": "15:30",
       "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-05:19:15:tmdb:4977",
+      "venueId": "roxie",
+      "filmKey": "tmdb:4977",
+      "date": "2026-11-05",
+      "time": "19:15",
+      "url": "https://roxie.com/film/new-people-paprika/",
       "source": "roxie"
     },
     {
@@ -2255,6 +2360,15 @@
       "format": "4K",
       "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-11-08:19:00:tmdb:71883",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:71883",
+      "date": "2026-11-08",
+      "time": "19:00",
+      "url": "https://thenewparkway.com/movie/redline/",
+      "source": "newparkway"
     },
     {
       "id": "4star:2026-11-08:20:00:tmdb:98096",
@@ -2557,6 +2671,17 @@
       "source": "grandlake"
     },
     {
+      "id": "balboa:2026-11-18:19:30:tmdb:2609",
+      "venueId": "balboa",
+      "filmKey": "tmdb:2609",
+      "date": "2026-11-18",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/planes-trains-and-automobiles-november-20",
+      "format": "35mm",
+      "note": "Presented on 35mm by",
+      "source": "balboa"
+    },
+    {
       "id": "alamo:2026-11-18:21:30:tmdb:26573",
       "venueId": "alamo",
       "filmKey": "tmdb:26573",
@@ -2680,6 +2805,15 @@
       "source": "sfmoma"
     },
     {
+      "id": "balboa:2026-11-21:14:30:tmdb:3766",
+      "venueId": "balboa",
+      "filmKey": "tmdb:3766",
+      "date": "2026-11-21",
+      "time": "14:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-lady-from-shanghai-november-21",
+      "source": "balboa"
+    },
+    {
       "id": "bampfa:2026-11-21:15:30:tmdb:27031",
       "venueId": "bampfa",
       "filmKey": "tmdb:27031",
@@ -2721,6 +2855,16 @@
       "format": "35mm",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
       "source": "bampfa"
+    },
+    {
+      "id": "balboa:2026-11-22:15:30:tmdb:45706",
+      "venueId": "balboa",
+      "filmKey": "tmdb:45706",
+      "date": "2026-11-22",
+      "time": "15:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/tokyo-drifter-november-22",
+      "note": "Tokyo Drifter",
+      "source": "balboa"
     },
     {
       "id": "alamo:2026-11-22:19:00:tmdb:949423",
@@ -2772,6 +2916,16 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-11-24:19:30:tmdb:339877",
+      "venueId": "balboa",
+      "filmKey": "tmdb:339877",
+      "date": "2026-11-24",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/loving-vincent-november-24",
+      "note": "Presented by Gallery 3630, a series which specializes in cinema about artists.",
+      "source": "balboa"
+    },
+    {
       "id": "newparkway:2026-11-24:20:10:tmdb:33673",
       "venueId": "newparkway",
       "filmKey": "tmdb:33673",
@@ -2780,6 +2934,26 @@
       "url": "https://thenewparkway.com/movie/his-kind-of-woman-noirvember/",
       "note": "Noirvember",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-11-24:21:30:tmdb:18910",
+      "venueId": "alamo",
+      "filmKey": "tmdb:18910",
+      "date": "2026-11-24",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-the-ninth-configuration?cinemaId=0801&sessionId=83869",
+      "note": "Terror Tuesday · William Peter Blatty's \"real\" EXORCIST II",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-25:21:30:tmdb:146790",
+      "venueId": "alamo",
+      "filmKey": "tmdb:146790",
+      "date": "2026-11-25",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-sudden-fury?cinemaId=0801&sessionId=83871",
+      "note": "Weird Wednesday · The explosive story of an accident that turned into murder!",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -2894,15 +3068,15 @@
         },
         {
           "date": "2026-11-07",
-          "time": "21:20",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882"
-        },
-        {
-          "date": "2026-11-07",
           "time": "21:50",
           "title": "Wild Horse Nine",
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "22:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882"
         },
         {
           "date": "2026-11-08",
@@ -3248,22 +3422,20 @@
       ]
     },
     {
-      "key": "fest:alamo:fantastic fest presents preceded by the short film ee",
-      "name": "Fantastic Fest Presents · Preceded by the short film, \"ee.\"",
-      "venueId": "alamo",
+      "key": "fest:roxie:arab film festival 2026",
+      "name": "Arab Film Festival 2026",
+      "venueId": "roxie",
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-crocodile-dose-ee?cinemaId=0801&sessionId=83861",
+      "url": "http://arabfilmfestival.org/",
       "showtimes": 1,
-      "sample": [
-        "Crocodile Dose"
-      ],
+      "sample": [],
       "programme": [
         {
           "date": "2026-11-11",
-          "time": "21:30",
-          "title": "Crocodile Dose",
-          "url": "https://drafthouse.com/sf/show/weird-wednesday-crocodile-dose-ee?cinemaId=0801&sessionId=83861"
+          "time": "18:00",
+          "title": "Arab Film Festival 2026",
+          "url": "https://roxie.com/film/arab-film-festival-2026/"
         }
       ]
     },
