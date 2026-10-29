@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-28T18:35:03.025Z",
+  "generatedAt": "2026-10-29T18:44:10.688Z",
   "films": {
-    "tmdb:258363": {
-      "key": "tmdb:258363",
-      "title": "Desierto",
-      "year": 2015,
-      "director": "Jonás Cuarón",
-      "runtime": 88,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/67Ue5or6ZPScqkagC3EJSOYuzyR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/rrTKWLU0JBYKWSJd8abzXq3LjyQ.jpg",
-      "tmdbId": 258363,
-      "popularity": 2.9563,
-      "releaseDate": "2015-04-12",
-      "overview": "A group of Mexican emigrants attempts to cross the Mexican-US border. What begins as a hopeful journey becomes a harrowing, bloody and primal fight for survival when a deranged, rifle-toting vigilante and his loyal Belgian Malinois dog chase the group of unarmed men and women through the treacherous borderland. In the harsh, unforgiving desert terrain, the odds are stacked firmly against them as they discover there’s nowhere to hide from the unrelenting, merciless killer."
-    },
-    "tmdb:1887": {
-      "key": "tmdb:1887",
-      "title": "Marie Antoinette",
-      "year": 2006,
-      "director": "Sofia Coppola",
-      "runtime": 123,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
-      "tmdbId": 1887,
-      "popularity": 8.2818,
-      "releaseDate": "2006-05-24",
-      "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles."
-    },
     "tmdb:16672": {
       "key": "tmdb:16672",
       "title": "Woman in the Dunes",
@@ -169,6 +141,20 @@
       "releaseDate": "1971-03-11",
       "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
     },
+    "tmdb:1887": {
+      "key": "tmdb:1887",
+      "title": "Marie Antoinette",
+      "year": 2006,
+      "director": "Sofia Coppola",
+      "runtime": 123,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
+      "tmdbId": 1887,
+      "popularity": 8.2818,
+      "releaseDate": "2006-05-24",
+      "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles."
+    },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
       "title": "Chronovisor",
@@ -279,19 +265,19 @@
       "releaseDate": "1933-12-25",
       "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
     },
-    "tmdb:15762": {
-      "key": "tmdb:15762",
-      "title": "Night of the Creeps",
-      "year": 1986,
-      "director": "Fred Dekker",
-      "runtime": 88,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/A3s2tQGNb6mhlr1hPZeE5F8IUwp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/rKr2NzAvxlTDCI7iSSNLaCXt0Aj.jpg",
-      "tmdbId": 15762,
-      "popularity": 4.9895,
-      "releaseDate": "1986-08-21",
-      "overview": "In 1959, an alien experiment crashes to earth and infects a fraternity member. They freeze the body, but in the modern day, two geeks pledging a fraternity accidentally thaw the corpse, which proceeds to infect the campus with parasites that transform their hosts into killer zombies."
+    "tmdb:10404": {
+      "key": "tmdb:10404",
+      "title": "Raise the Red Lantern",
+      "year": 1991,
+      "director": "Zhang Yimou",
+      "runtime": 125,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
+      "tmdbId": 10404,
+      "popularity": 7.1554,
+      "releaseDate": "1991-10-10",
+      "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained."
     },
     "tmdb:9552": {
       "key": "tmdb:9552",
@@ -515,19 +501,6 @@
       "releaseDate": "1982-08-13",
       "overview": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naïve friends. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason, who stalks them at every turn..."
     },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0169,
-      "releaseDate": "2009-11-20",
-      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
-    },
     "tmdb:86252": {
       "key": "tmdb:86252",
       "title": "Deadbeat at Dawn",
@@ -570,6 +543,19 @@
       "releaseDate": "1986-06-27",
       "overview": "Frustrated with babysitting on yet another weekend night, Sarah, a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King. Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers."
     },
+    "tmdb:98096": {
+      "key": "tmdb:98096",
+      "title": "Live Music",
+      "year": 2009,
+      "director": "Yair Landau",
+      "runtime": 6,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
+      "tmdbId": 98096,
+      "popularity": 1.0169,
+      "releaseDate": "2009-11-20",
+      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
+    },
     "tmdb:441130": {
       "key": "tmdb:441130",
       "title": "Wolfwalkers",
@@ -583,6 +569,48 @@
       "popularity": 11.6849,
       "releaseDate": "2020-10-26",
       "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy."
+    },
+    "tmdb:19596": {
+      "key": "tmdb:19596",
+      "title": "Electric Dreams",
+      "year": 1984,
+      "director": "Steve Barron",
+      "runtime": 96,
+      "genre": "Romance",
+      "poster": "https://image.tmdb.org/t/p/w500/2XWmN9EXYrHSRDvkAV9VhvngHGn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/bMLQAoEtRMi36wq66qXyJ17yVQd.jpg",
+      "tmdbId": 19596,
+      "popularity": 3.6207,
+      "releaseDate": "1984-07-20",
+      "overview": "Miles Harding buys a state-of-the-art computer that starts expressing conscious thought and emotion after an interaction with spilled champagne. Things begin getting out of hand when both Miles and Edgar, the computer, fall in love with beautiful neighbor Madeline Robistat."
+    },
+    "tmdb:10315": {
+      "key": "tmdb:10315",
+      "title": "Fantastic Mr. Fox",
+      "year": 2009,
+      "director": "Wes Anderson",
+      "runtime": 87,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
+      "tmdbId": 10315,
+      "popularity": 15.6707,
+      "releaseDate": "2009-10-14",
+      "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family."
+    },
+    "tmdb:13479": {
+      "key": "tmdb:13479",
+      "title": "A Charlie Brown Thanksgiving",
+      "year": 1973,
+      "director": "Bill Melendez, Phil Roman",
+      "runtime": 25,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
+      "tmdbId": 13479,
+      "popularity": 3.5954,
+      "releaseDate": "1973-11-20",
+      "overview": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful."
     },
     "tmdb:16227": {
       "key": "tmdb:16227",
@@ -657,6 +685,19 @@
       "popularity": 2.8679,
       "releaseDate": "1994-10-28",
       "overview": "Long separated from his family, hitman Joshua returns to Brighton Beach for a contract killing for the Russian Mafia. His abusive father, Arkady, banned him from returning after Joshua committed his first murder. He takes up residence in a hotel, and soon everyone knows he has returned. He goes home to visit his dying mother, Irina, and prepares for the assassination, getting drawn back into the criminal community he left behind."
+    },
+    "tmdb:369508": {
+      "key": "tmdb:369508",
+      "title": "In Transit",
+      "year": 2005,
+      "director": "Lisa Aschan",
+      "runtime": 25,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/8u658mslFOjj3SaZYwkU5nq6FYL.jpg",
+      "tmdbId": 369508,
+      "popularity": 2.6583,
+      "releaseDate": "2005-06-11",
+      "overview": "A Polish stewardess who has to spend the night in Copenhagen to board her next flight meets a Danish man who insists on taking her out. The night does not turn out quite like either of them had expected."
     },
     "tmdb:26039": {
       "key": "tmdb:26039",
@@ -852,20 +893,6 @@
       "releaseDate": "1993-11-21",
       "overview": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
     },
-    "tmdb:33061": {
-      "key": "tmdb:33061",
-      "title": "Troll",
-      "year": 1986,
-      "director": "John Carl Buechler",
-      "runtime": 83,
-      "genre": "Fantasy",
-      "poster": "https://image.tmdb.org/t/p/w500/rqU0HnCty94ds8e4At4TzEH3CcY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/oDKhYf1ROWqvvHUDOebNUQysuGx.jpg",
-      "tmdbId": 33061,
-      "popularity": 2.9183,
-      "releaseDate": "1986-01-17",
-      "overview": "When a family moves into a San Francisco apartment, an opportunistic troll decides to make his move and take possession of little Wendy, thereby paving the way for new troll recruits, the first in his army that will take eventual control of the planet. We soon discover Torok is the ex-husband of Eunice St. Clair, a resident in the building who was married to Torok."
-    },
     "tmdb:4203": {
       "key": "tmdb:4203",
       "title": "Women on the Verge of a Nervous Breakdown",
@@ -948,20 +975,6 @@
       "popularity": 7.183,
       "releaseDate": "1973-10-14",
       "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
-    },
-    "tmdb:1091": {
-      "key": "tmdb:1091",
-      "title": "The Thing",
-      "year": 1982,
-      "director": "John Carpenter",
-      "runtime": 109,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
-      "tmdbId": 1091,
-      "popularity": 18.9272,
-      "releaseDate": "1982-06-25",
-      "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
     "tmdb:11778": {
       "key": "tmdb:11778",
@@ -1200,20 +1213,6 @@
       "popularity": 5.7108,
       "releaseDate": "1961-01-28",
       "overview": "After the Japanese defeat to the Russians, Kaji leads the last remaining men through Manchuria. Intent on returning to his old life, he faces great odds in a variety of different harrowing circumstances as he and his men sneak behind enemy lines."
-    },
-    "tmdb:31767": {
-      "key": "tmdb:31767",
-      "title": "The Devils",
-      "year": 1971,
-      "director": "Ken Russell",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
-      "tmdbId": 31767,
-      "popularity": 5.9565,
-      "releaseDate": "1971-07-16",
-      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
     },
     "tmdb:13310": {
       "key": "tmdb:13310",
@@ -1469,64 +1468,6 @@
   },
   "screenings": [
     {
-      "id": "roxie:2026-10-28:18:00:tmdb:258363",
-      "venueId": "roxie",
-      "filmKey": "tmdb:258363",
-      "date": "2026-10-28",
-      "time": "18:00",
-      "url": "https://roxie.com/film/desierto/",
-      "source": "roxie"
-    },
-    {
-      "id": "operaplaza:2026-10-28:19:00:tmdb:1091",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:1091",
-      "date": "2026-10-28",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/1048-the-thing-1982/",
-      "source": "operaplaza"
-    },
-    {
-      "id": "balboa:2026-10-28:19:30:tmdb:15762",
-      "venueId": "balboa",
-      "filmKey": "tmdb:15762",
-      "date": "2026-10-28",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/night-of-the-creeps-october-28",
-      "source": "balboa"
-    },
-    {
-      "id": "4star:2026-10-28:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-10-28",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-wildwoods",
-      "note": "(((folkYEAH!))) presents:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-10-28:20:05:tmdb:1887",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1887",
-      "date": "2026-10-28",
-      "time": "20:05",
-      "url": "https://roxie.com/film/marie-antoinette-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-28:21:30:tmdb:33061",
-      "venueId": "alamo",
-      "filmKey": "tmdb:33061",
-      "date": "2026-10-28",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-troll-1986?cinemaId=0801&sessionId=83317",
-      "format": "35mm",
-      "note": "Weird Wednesday · Apartment for Rent. Inquire Within...",
-      "source": "alamo"
-    },
-    {
       "id": "newparkway:2026-10-29:17:20:tmdb:1596296",
       "venueId": "newparkway",
       "filmKey": "tmdb:1596296",
@@ -1602,15 +1543,6 @@
       "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84039",
       "note": "Unrated · Returning to theaters in a new 4K digital restoration",
       "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-10-30:17:00:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-10-30",
-      "time": "17:00",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
     },
     {
       "id": "4star:2026-10-30:18:00:tmdb:13353",
@@ -1911,15 +1843,6 @@
       "source": "alamo"
     },
     {
-      "id": "newparkway:2026-10-31:22:00:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-10-31",
-      "time": "22:00",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
       "id": "4star:2026-11-01:10:00:tmdb:13597",
       "venueId": "4star",
       "filmKey": "tmdb:13597",
@@ -1968,6 +1891,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-11-01:20:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-01",
+      "time": "20:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-11-01:20:00:tmdb:1887",
       "venueId": "roxie",
       "filmKey": "tmdb:1887",
@@ -1975,15 +1907,6 @@
       "time": "20:00",
       "url": "https://roxie.com/film/marie-antoinette-4k-restoration/",
       "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-01:20:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-01",
-      "time": "20:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
     },
     {
@@ -2033,15 +1956,6 @@
       "url": "https://roxie.com/film/wild-at-heart/",
       "format": "4K",
       "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-03:20:20:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-03",
-      "time": "20:20",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
     },
     {
       "id": "roxie:2026-11-03:20:30:tmdb:1599181",
@@ -2099,15 +2013,6 @@
       "time": "20:30",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-04:20:35:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-04",
-      "time": "20:35",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
     },
     {
       "id": "roxie:2026-11-04:21:00:tmdb:483",
@@ -2302,6 +2207,15 @@
       "time": "12:00",
       "url": "https://drafthouse.com/sf/show/the-magnificent-ambersons?cinemaId=0801&sessionId=83857",
       "source": "alamo"
+    },
+    {
+      "id": "4star:2026-11-08:12:30:tmdb:1599181",
+      "venueId": "4star",
+      "filmKey": "tmdb:1599181",
+      "date": "2026-11-08",
+      "time": "12:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/chronovisor",
+      "source": "4star"
     },
     {
       "id": "roxie:2026-11-08:13:20:tmdb:664572",
@@ -2641,6 +2555,16 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-11-17:19:00:tmdb:369508",
+      "venueId": "alamo",
+      "filmKey": "tmdb:369508",
+      "date": "2026-11-17",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/live-q-a-in-transit?cinemaId=0801&sessionId=83889",
+      "note": "Live Q&A · With cast & crew Q&As",
+      "source": "alamo"
+    },
+    {
       "id": "newparkway:2026-11-17:20:30:tmdb:17058",
       "venueId": "newparkway",
       "filmKey": "tmdb:17058",
@@ -2680,6 +2604,16 @@
       "format": "35mm",
       "note": "Presented on 35mm by",
       "source": "balboa"
+    },
+    {
+      "id": "4star:2026-11-18:19:30:tmdb:19596",
+      "venueId": "4star",
+      "filmKey": "tmdb:19596",
+      "date": "2026-11-18",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/electric-dreams-hi-nrg",
+      "note": "HI NRG presents:",
+      "source": "4star"
     },
     {
       "id": "alamo:2026-11-18:21:30:tmdb:26573",
@@ -2755,6 +2689,17 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-11-20:18:00:tmdb:10404",
+      "venueId": "roxie",
+      "filmKey": "tmdb:10404",
+      "date": "2026-11-20",
+      "time": "18:00",
+      "url": "https://roxie.com/film/raise-the-red-lantern-35th-anniversary-4k-restoration/",
+      "format": "4K",
+      "note": "35th Anniversary 4K Restoration",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-11-20:18:00:tmdb:9603",
       "venueId": "newparkway",
       "filmKey": "tmdb:9603",
@@ -2795,6 +2740,16 @@
       "source": "alamo"
     },
     {
+      "id": "4star:2026-11-21:10:00:tmdb:10315",
+      "venueId": "4star",
+      "filmKey": "tmdb:10315",
+      "date": "2026-11-21",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/fantastic-mr-fox-sat-2026",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
+    },
+    {
       "id": "sfmoma:2026-11-21:14:00:tmdb:1547796",
       "venueId": "sfmoma",
       "filmKey": "tmdb:1547796",
@@ -2812,6 +2767,16 @@
       "time": "14:30",
       "url": "https://www.balboamovies.com/calendar-of-events/the-lady-from-shanghai-november-21",
       "source": "balboa"
+    },
+    {
+      "id": "4star:2026-11-21:14:45:tmdb:13479",
+      "venueId": "4star",
+      "filmKey": "tmdb:13479",
+      "date": "2026-11-21",
+      "time": "14:45",
+      "url": "https://www.4-star-movies.com/calendar-of-events/peanuts-thanksgiving-sat",
+      "note": "Spend Thanksgiving with good ol’ Charlie Brown!",
+      "source": "4star"
     },
     {
       "id": "bampfa:2026-11-21:15:30:tmdb:27031",
@@ -2836,6 +2801,16 @@
       "source": "bampfa"
     },
     {
+      "id": "4star:2026-11-22:10:00:tmdb:10315",
+      "venueId": "4star",
+      "filmKey": "tmdb:10315",
+      "date": "2026-11-22",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/fantastic-mr-fox-sun-2026",
+      "note": "Popcorn Palace - FREE!",
+      "source": "4star"
+    },
+    {
       "id": "rafael:2026-11-22:13:00:tmdb:1712",
       "venueId": "rafael",
       "filmKey": "tmdb:1712",
@@ -2855,6 +2830,16 @@
       "format": "35mm",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
       "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-11-22:14:45:tmdb:13479",
+      "venueId": "4star",
+      "filmKey": "tmdb:13479",
+      "date": "2026-11-22",
+      "time": "14:45",
+      "url": "https://www.4-star-movies.com/calendar-of-events/peanuts-thanksgiving-sun",
+      "note": "Spend Thanksgiving with good ol’ Charlie Brown!",
+      "source": "4star"
     },
     {
       "id": "balboa:2026-11-22:15:30:tmdb:45706",
@@ -2946,6 +2931,16 @@
       "source": "alamo"
     },
     {
+      "id": "4star:2026-11-25:18:15:tmdb:13479",
+      "venueId": "4star",
+      "filmKey": "tmdb:13479",
+      "date": "2026-11-25",
+      "time": "18:15",
+      "url": "https://www.4-star-movies.com/calendar-of-events/peanuts-thanksgiving-wed",
+      "note": "Spend Thanksgiving with good ol’ Charlie Brown!",
+      "source": "4star"
+    },
+    {
       "id": "alamo:2026-11-25:21:30:tmdb:146790",
       "venueId": "alamo",
       "filmKey": "tmdb:146790",
@@ -2954,56 +2949,18 @@
       "url": "https://drafthouse.com/sf/show/weird-wednesday-sudden-fury?cinemaId=0801&sessionId=83871",
       "note": "Weird Wednesday · The explosive story of an accident that turned into murder!",
       "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-26:16:00:tmdb:2609",
+      "venueId": "alamo",
+      "filmKey": "tmdb:2609",
+      "date": "2026-11-26",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/planes-trains-automobiles?cinemaId=0801&sessionId=83872",
+      "source": "alamo"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:vogue:frameline fall showcase",
-      "name": "Frameline Fall Showcase",
-      "venueId": "vogue",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "url": "https://voguemovies.com/calendar-of-events/frameline-fall-coward-october-28",
-      "showtimes": 1,
-      "sample": [
-        "Coward"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-28",
-          "time": "19:00",
-          "title": "Coward",
-          "url": "https://voguemovies.com/calendar-of-events/frameline-fall-coward-october-28"
-        }
-      ]
-    },
-    {
-      "key": "fest:bampfa:hong kong cinema rarities and restorations",
-      "name": "Hong Kong Cinema: Rarities and Restorations",
-      "venueId": "bampfa",
-      "startDate": "2026-10-28",
-      "endDate": "2026-11-07",
-      "url": "https://bampfa.org/event/our-sister-hedy",
-      "showtimes": 2,
-      "sample": [
-        "Our Sister Hedy",
-        "The Sword"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-28",
-          "time": "19:00",
-          "title": "Our Sister Hedy",
-          "url": "https://bampfa.org/event/our-sister-hedy"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "18:30",
-          "title": "The Sword",
-          "url": "https://bampfa.org/event/sword"
-        }
-      ]
-    },
     {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
@@ -3098,7 +3055,7 @@
         },
         {
           "date": "2026-11-08",
-          "time": "21:40",
+          "time": "22:10",
           "title": "Littermates",
           "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883"
         },
@@ -3371,6 +3328,26 @@
           "time": "14:00",
           "title": "Juried Show: Personal Visions (Presented by SF Artists Alumni)",
           "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations",
+      "name": "Hong Kong Cinema: Rarities and Restorations",
+      "venueId": "bampfa",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "url": "https://bampfa.org/event/sword",
+      "showtimes": 1,
+      "sample": [
+        "The Sword"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-07",
+          "time": "18:30",
+          "title": "The Sword",
+          "url": "https://bampfa.org/event/sword"
         }
       ]
     },
