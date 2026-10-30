@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-10-29T18:44:10.688Z",
+  "generatedAt": "2026-10-30T18:21:00.794Z",
   "films": {
-    "tmdb:16672": {
-      "key": "tmdb:16672",
-      "title": "Woman in the Dunes",
-      "year": 1964,
-      "director": "Hiroshi Teshigahara",
-      "runtime": 147,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/xiBr3bIT2xpbuIKo5bLK7ebP4O1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/dxfFh9pTKDaYH2B6PwcR6ohCM1L.jpg",
-      "tmdbId": 16672,
-      "popularity": 6.7913,
-      "releaseDate": "1964-02-15",
-      "overview": "A vacationing entomologist suffers extreme physical and psychological trauma after being taken captive by the residents of a poor seaside village and made to live with a woman whose life task is shoveling sand for them."
-    },
-    "tmdb:25623": {
-      "key": "tmdb:25623",
-      "title": "House",
-      "year": 1977,
-      "director": "Nobuhiko Obayashi",
-      "runtime": 88,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/ryZ3DdZPvXVCv9qRCtVRfmNbYAH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5040XNTvwARvLq1KtfCgJXBj3LC.jpg",
-      "tmdbId": 25623,
-      "popularity": 3.9413,
-      "releaseDate": "1977-08-26",
-      "overview": "Hoping to find a sense of connection to her late mother, Gorgeous takes a trip with her friends to visit her aunt's ancestral house in the countryside. The girls soon discover that there is more to the old house than meets the eye."
-    },
     "tmdb:458723": {
       "key": "tmdb:458723",
       "title": "Us",
@@ -265,33 +237,33 @@
       "releaseDate": "1933-12-25",
       "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
     },
-    "tmdb:10404": {
-      "key": "tmdb:10404",
-      "title": "Raise the Red Lantern",
-      "year": 1991,
-      "director": "Zhang Yimou",
-      "runtime": 125,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
-      "tmdbId": 10404,
-      "popularity": 7.1554,
-      "releaseDate": "1991-10-10",
-      "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained."
+    "tmdb:1574": {
+      "key": "tmdb:1574",
+      "title": "Chicago",
+      "year": 2002,
+      "director": "Rob Marshall",
+      "runtime": 113,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/euxYhuuJjChU755u2YHj0ZPjww3.jpg",
+      "tmdbId": 1574,
+      "popularity": 6.9955,
+      "releaseDate": "2002-12-10",
+      "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago."
     },
-    "tmdb:9552": {
-      "key": "tmdb:9552",
-      "title": "The Exorcist",
-      "year": 1973,
-      "director": "William Friedkin",
-      "runtime": 122,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
-      "tmdbId": 9552,
-      "popularity": 19.8753,
-      "releaseDate": "1973-12-26",
-      "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life."
+    "tmdb:9886": {
+      "key": "tmdb:9886",
+      "title": "Johnny Mnemonic",
+      "year": 1995,
+      "director": "Robert Longo",
+      "runtime": 97,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/iH8Jgi8qvb7pnBfI8fVGaUbyRna.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7FRYVIF2hnh1IbPtqMgF5iygdjz.jpg",
+      "tmdbId": 9886,
+      "popularity": 5.8941,
+      "releaseDate": "1995-05-26",
+      "overview": "In a dystopian 2021, Johnny is a data trafficker who has an implant that allows him to securely store data too sensitive for regular computer networks. On one delivery run, he accepts a package that not only exceeds the implant's safety limits—and will kill him if the data is not removed in time—but also contains information far more important and valuable than he had ever imagined. On a race against time, he must avoid the assassins sent to kill him and remove the data before it, too, ends his life."
     },
     "tmdb:4232": {
       "key": "tmdb:4232",
@@ -431,20 +403,6 @@
       "releaseDate": "2017-06-22",
       "overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there."
     },
-    "tmdb:1547": {
-      "key": "tmdb:1547",
-      "title": "The Lost Boys",
-      "year": 1987,
-      "director": "Joel Schumacher",
-      "runtime": 97,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/nH1lvyQvfbL5GKScTtT6zkIvDEn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sSrMPJoHT3qGqdeDPs88mm8ksu5.jpg",
-      "tmdbId": 1547,
-      "popularity": 14.3513,
-      "releaseDate": "1987-07-31",
-      "overview": "When an unsuspecting town newcomer is drawn to local blood fiends, the Frog brothers and other unlikely heroes gear up to rescue him."
-    },
     "tmdb:19483": {
       "key": "tmdb:19483",
       "title": "It Came from Outer Space",
@@ -500,20 +458,6 @@
       "popularity": 12.9168,
       "releaseDate": "1982-08-13",
       "overview": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naïve friends. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason, who stalks them at every turn..."
-    },
-    "tmdb:86252": {
-      "key": "tmdb:86252",
-      "title": "Deadbeat at Dawn",
-      "year": 1988,
-      "director": "Jim Van Bebber",
-      "runtime": 81,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/FmXGssWDpWbUwpiGOD90ftybV3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hScy7EZ0rGWu6rP2UHouv0VJdZx.jpg",
-      "tmdbId": 86252,
-      "popularity": 1.1958,
-      "releaseDate": "1988-11-18",
-      "overview": "Goose leaves the gang life behind after pleas from his girlfriend.  But it isn't long before he's pulled back into the world of violence."
     },
     "tmdb:13353": {
       "key": "tmdb:13353",
@@ -625,6 +569,20 @@
       "popularity": 2.9278,
       "releaseDate": "1947-09-05",
       "overview": "A man convicted of murdering his wife escapes from prison and works with a woman to try and prove his innocence."
+    },
+    "tmdb:60645": {
+      "key": "tmdb:60645",
+      "title": "MC5: A True Testimonial",
+      "year": 2002,
+      "director": "David C. Thomas",
+      "runtime": 120,
+      "genre": "Music",
+      "poster": "https://image.tmdb.org/t/p/w500/6FF7jYhTExD8vZoPb8P9FKL3kL0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/evL0yQMTjzDT5TcdKTCCnZL3DYV.jpg",
+      "tmdbId": 60645,
+      "popularity": 0.773,
+      "releaseDate": "2002-02-02",
+      "overview": "This documentary, made over a period of eight years, tells the remarkable story of an extremely influential rock'n'roll band. Starting from their mid-60's garage band roots (sounding amazingly like the Sonics), the Motor City 5 deveoped into an icon for a brand of loud, crushing music reflecting their industrial roots. Even if you don't care for their music (and you're bound to like even a few of their songs), their story is fascinating. It combines 60's protest, youthful braggadocio, and a style of music that would help carry one to the likes of Iggy and the Stooges (not to mention certain aspects of punk rock). This film is clearly a labor of love, combining extraordinarily rare live shows, still shots, a nearly-continuous backdrop of MC5 tunes, penetrating interviews with the remaining members and their spouses, and even FBI surveillance shots. It's the ultimate testimonial to a band that only gains in stature as time goes on."
     },
     "t:claudio simonettis goblin performs the live score to tenebre": {
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
@@ -781,6 +739,20 @@
       "popularity": 3.8305,
       "releaseDate": "1986-09-24",
       "overview": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer."
+    },
+    "tmdb:9552": {
+      "key": "tmdb:9552",
+      "title": "The Exorcist",
+      "year": 1973,
+      "director": "William Friedkin",
+      "runtime": 122,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+      "tmdbId": 9552,
+      "popularity": 19.8753,
+      "releaseDate": "1973-12-26",
+      "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life."
     },
     "tmdb:18910": {
       "key": "tmdb:18910",
@@ -1214,6 +1186,34 @@
       "releaseDate": "1961-01-28",
       "overview": "After the Japanese defeat to the Russians, Kaji leads the last remaining men through Manchuria. Intent on returning to his old life, he faces great odds in a variety of different harrowing circumstances as he and his men sneak behind enemy lines."
     },
+    "tmdb:3082": {
+      "key": "tmdb:3082",
+      "title": "Modern Times",
+      "year": 1936,
+      "director": "Charlie Chaplin",
+      "runtime": 87,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/AthaPakkuCLROdKxtRbKWclkDBK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+      "tmdbId": 3082,
+      "popularity": 11.8657,
+      "releaseDate": "1936-02-05",
+      "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..."
+    },
+    "tmdb:13963": {
+      "key": "tmdb:13963",
+      "title": "The Last Waltz",
+      "year": 1978,
+      "director": "Martin Scorsese",
+      "runtime": 117,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
+      "tmdbId": 13963,
+      "popularity": 2.6165,
+      "releaseDate": "1978-04-26",
+      "overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends."
+    },
     "tmdb:13310": {
       "key": "tmdb:13310",
       "title": "Let the Right One In",
@@ -1467,63 +1467,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "newparkway:2026-10-29:17:20:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-29",
-      "time": "17:20",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-10-29:18:00:tmdb:16672",
-      "venueId": "roxie",
-      "filmKey": "tmdb:16672",
-      "date": "2026-10-29",
-      "time": "18:00",
-      "url": "https://roxie.com/film/woman-in-the-dunes/",
-      "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-10-29:19:30:tmdb:9552",
-      "venueId": "balboa",
-      "filmKey": "tmdb:9552",
-      "date": "2026-10-29",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-exorcist-october-29",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
-    },
-    {
-      "id": "vogue:2026-10-29:19:30:tmdb:1547",
-      "venueId": "vogue",
-      "filmKey": "tmdb:1547",
-      "date": "2026-10-29",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/the-lost-boys-october-29-2026",
-      "source": "vogue"
-    },
-    {
-      "id": "4star:2026-10-29:19:30:tmdb:86252",
-      "venueId": "4star",
-      "filmKey": "tmdb:86252",
-      "date": "2026-10-29",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/deadbeat-at-dawn-meathook",
-      "note": "TRASH & TREASURES presents:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-10-29:20:40:tmdb:25623",
-      "venueId": "roxie",
-      "filmKey": "tmdb:25623",
-      "date": "2026-10-29",
-      "time": "20:40",
-      "url": "https://roxie.com/film/new-people-hausu/",
-      "source": "roxie"
-    },
     {
       "id": "alamo:2026-10-30:12:15:tmdb:483",
       "venueId": "alamo",
@@ -2295,6 +2238,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-11-09:20:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-09",
+      "time": "20:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-11-10:18:30:tmdb:18671",
       "venueId": "newparkway",
       "filmKey": "tmdb:18671",
@@ -2616,6 +2568,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-11-18:20:20:tmdb:1574",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1574",
+      "date": "2026-11-18",
+      "time": "20:20",
+      "url": "https://roxie.com/film/staff-pick-chicago/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-11-18:21:30:tmdb:26573",
       "venueId": "alamo",
       "filmKey": "tmdb:26573",
@@ -2687,17 +2648,6 @@
       "format": "35mm",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
       "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-11-20:18:00:tmdb:10404",
-      "venueId": "roxie",
-      "filmKey": "tmdb:10404",
-      "date": "2026-11-20",
-      "time": "18:00",
-      "url": "https://roxie.com/film/raise-the-red-lantern-35th-anniversary-4k-restoration/",
-      "format": "4K",
-      "note": "35th Anniversary 4K Restoration",
-      "source": "roxie"
     },
     {
       "id": "newparkway:2026-11-20:18:00:tmdb:9603",
@@ -2958,133 +2908,50 @@
       "time": "16:00",
       "url": "https://drafthouse.com/sf/show/planes-trains-automobiles?cinemaId=0801&sessionId=83872",
       "source": "alamo"
+    },
+    {
+      "id": "bampfa:2026-11-27:15:30:tmdb:3082",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:3082",
+      "date": "2026-11-27",
+      "time": "15:30",
+      "url": "https://bampfa.org/event/modern-times",
+      "format": "DCP",
+      "note": "Special Screenings 2026",
+      "source": "bampfa"
+    },
+    {
+      "id": "bampfa:2026-11-27:17:30:tmdb:13963",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:13963",
+      "date": "2026-11-27",
+      "time": "17:30",
+      "url": "https://bampfa.org/event/last-waltz",
+      "format": "4K",
+      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-11-27:19:30:tmdb:60645",
+      "venueId": "4star",
+      "filmKey": "tmdb:60645",
+      "date": "2026-11-27",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/mc5-chuck-prophet",
+      "note": "CHUCK PROPHET’S CINEMA DISCOTHEQUE presents:",
+      "source": "4star"
+    },
+    {
+      "id": "roxie:2026-11-27:20:40:tmdb:9886",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9886",
+      "date": "2026-11-27",
+      "time": "20:40",
+      "url": "https://roxie.com/film/johnny-mnemonic-in-black-and-white/",
+      "source": "roxie"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:alamo:fantastic fest presents",
-      "name": "Fantastic Fest Presents",
-      "venueId": "alamo",
-      "startDate": "2026-10-29",
-      "endDate": "2026-11-12",
-      "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446",
-      "showtimes": 18,
-      "sample": [
-        "Littermates",
-        "Restoration at Grayson Manor",
-        "Wild Horse Nine"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-29",
-          "time": "21:30",
-          "title": "Restoration at Grayson Manor",
-          "url": "https://drafthouse.com/sf/show/restoration-at-grayson-manor?cinemaId=0801&sessionId=83446"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "22:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "22:10",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "19:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83884"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:45",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83885"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "19:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83886"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "21:15",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
-        }
-      ]
-    },
     {
       "key": "fest:grandlake:23rd animation show of shows",
       "name": "23rd Animation Show of Shows",
@@ -3328,6 +3195,123 @@
           "time": "14:00",
           "title": "Juried Show: Personal Visions (Presented by SF Artists Alumni)",
           "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents",
+      "name": "Fantastic Fest Presents",
+      "venueId": "alamo",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-12",
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671",
+      "showtimes": 17,
+      "sample": [
+        "Littermates",
+        "Wild Horse Nine"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-06",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "22:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "22:10",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "19:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83884"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:45",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83885"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "19:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83886"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "21:15",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
         }
       ]
     },
