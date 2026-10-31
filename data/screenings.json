@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-30T18:21:00.794Z",
+  "generatedAt": "2026-10-31T17:27:51.842Z",
   "films": {
-    "tmdb:458723": {
-      "key": "tmdb:458723",
-      "title": "Us",
-      "year": 2019,
-      "director": "Jordan Peele",
-      "runtime": 116,
+    "tmdb:1358532": {
+      "key": "tmdb:1358532",
+      "title": "Séance",
+      "year": 2024,
+      "director": "Vivian Kerr",
+      "runtime": 85,
       "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sC0b8iPUHfZdD8kseLiHw3N8gkp.jpg",
-      "tmdbId": 458723,
-      "popularity": 12.6807,
-      "releaseDate": "2019-03-14",
-      "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends. But as night descends, their serenity turns to tension and chaos when some shocking visitors arrive uninvited."
+      "poster": "https://image.tmdb.org/t/p/w500/iyzqbXWqj7ccEQkAbBR3ZeAA6Mg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gLkTiVekcbGpz3uszIrK970IWG.jpg",
+      "tmdbId": 1358532,
+      "popularity": 1.7228,
+      "releaseDate": "2024-10-18",
+      "overview": "Novelist Emma Strand is on vacation at the seaside in 1892 California with her second husband Albert when she encounters her first husband George and his mentally unstable new wife, Lillian. Emma and Albert take refuge from a sudden storm at George and Lillian's mansion. Over the course of the evening, Emma must confront her past, the temptation of adultery, and the disturbing possibility the house is haunted by George and Lillian's recently drowned daughter Hazel."
     },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
@@ -28,20 +28,6 @@
       "popularity": 2.7675,
       "releaseDate": "2026-09-18",
       "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:1358532": {
-      "key": "tmdb:1358532",
-      "title": "Séance",
-      "year": 2024,
-      "director": "Vivian Kerr",
-      "runtime": 85,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/iyzqbXWqj7ccEQkAbBR3ZeAA6Mg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/gLkTiVekcbGpz3uszIrK970IWG.jpg",
-      "tmdbId": 1358532,
-      "popularity": 1.7228,
-      "releaseDate": "2024-10-18",
-      "overview": "Novelist Emma Strand is on vacation at the seaside in 1892 California with her second husband Albert when she encounters her first husband George and his mentally unstable new wife, Lillian. Emma and Albert take refuge from a sudden storm at George and Lillian's mansion. Over the course of the evening, Emma must confront her past, the temptation of adultery, and the disturbing possibility the house is haunted by George and Lillian's recently drowned daughter Hazel."
     },
     "tmdb:10166": {
       "key": "tmdb:10166",
@@ -168,6 +154,20 @@
       "popularity": 7.2318,
       "releaseDate": "1990-09-28",
       "overview": "A couple works hard to renovate their dream house and become landlords to pay for it. Unfortunately one of their tenants has plans of his own."
+    },
+    "tmdb:31767": {
+      "key": "tmdb:31767",
+      "title": "The Devils",
+      "year": 1971,
+      "director": "Ken Russell",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+      "tmdbId": 31767,
+      "popularity": 5.9565,
+      "releaseDate": "1971-07-16",
+      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
     },
     "tmdb:664572": {
       "key": "tmdb:664572",
@@ -459,20 +459,6 @@
       "releaseDate": "1982-08-13",
       "overview": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naïve friends. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason, who stalks them at every turn..."
     },
-    "tmdb:13353": {
-      "key": "tmdb:13353",
-      "title": "It's the Great Pumpkin, Charlie Brown",
-      "year": 1966,
-      "director": "Bill Melendez",
-      "runtime": 25,
-      "genre": "Family",
-      "poster": "https://image.tmdb.org/t/p/w500/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/k7F9aj6Vmz8rJ9lcm2mIgUiWDWV.jpg",
-      "tmdbId": 13353,
-      "popularity": 9.0261,
-      "releaseDate": "1966-10-27",
-      "overview": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle."
-    },
     "tmdb:13597": {
       "key": "tmdb:13597",
       "title": "Labyrinth",
@@ -486,6 +472,20 @@
       "popularity": 10.9785,
       "releaseDate": "1986-06-27",
       "overview": "Frustrated with babysitting on yet another weekend night, Sarah, a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King. Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers."
+    },
+    "tmdb:13353": {
+      "key": "tmdb:13353",
+      "title": "It's the Great Pumpkin, Charlie Brown",
+      "year": 1966,
+      "director": "Bill Melendez",
+      "runtime": 25,
+      "genre": "Family",
+      "poster": "https://image.tmdb.org/t/p/w500/59wp9OWexYsxlSPHYmVLsl5xlFt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/k7F9aj6Vmz8rJ9lcm2mIgUiWDWV.jpg",
+      "tmdbId": 13353,
+      "popularity": 9.0261,
+      "releaseDate": "1966-10-27",
+      "overview": "Join the Peanuts gang for a timeless adventure as Charlie Brown preps for a party, Snoopy sets his sights on the Red Baron, and Linus patiently awaits a pumpkin patch miracle."
     },
     "tmdb:98096": {
       "key": "tmdb:98096",
@@ -583,6 +583,20 @@
       "popularity": 0.773,
       "releaseDate": "2002-02-02",
       "overview": "This documentary, made over a period of eight years, tells the remarkable story of an extremely influential rock'n'roll band. Starting from their mid-60's garage band roots (sounding amazingly like the Sonics), the Motor City 5 deveoped into an icon for a brand of loud, crushing music reflecting their industrial roots. Even if you don't care for their music (and you're bound to like even a few of their songs), their story is fascinating. It combines 60's protest, youthful braggadocio, and a style of music that would help carry one to the likes of Iggy and the Stooges (not to mention certain aspects of punk rock). This film is clearly a labor of love, combining extraordinarily rare live shows, still shots, a nearly-continuous backdrop of MC5 tunes, penetrating interviews with the remaining members and their spouses, and even FBI surveillance shots. It's the ultimate testimonial to a band that only gains in stature as time goes on."
+    },
+    "tmdb:12429": {
+      "key": "tmdb:12429",
+      "title": "Ponyo",
+      "year": 2008,
+      "director": "Hayao Miyazaki",
+      "runtime": 100,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/yp8vEZflGynlEylxEesbYasc06i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1QmEcK0w2Ub4Hm094fHbZT8vA7o.jpg",
+      "tmdbId": 12429,
+      "popularity": 15.0041,
+      "releaseDate": "2008-07-19",
+      "overview": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea."
     },
     "t:claudio simonettis goblin performs the live score to tenebre": {
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
@@ -711,20 +725,6 @@
       "popularity": 5.9099,
       "releaseDate": "2007-11-14",
       "overview": "Set in the futuristic landscape of Los Angeles on July 4, 2008, as it stands on the brink of social, economic and environmental disaster. Boxer Santaros is an action star who's stricken with amnesia. His life intertwines with Krysta Now, an adult film star developing her own reality television project, and Ronald Taverner, a Hermosa Beach police officer who holds the key to a vast conspiracy."
-    },
-    "tmdb:313922": {
-      "key": "tmdb:313922",
-      "title": "Green Room",
-      "year": 2015,
-      "director": "Jeremy Saulnier",
-      "runtime": 95,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/evZicaR7nXe4LiD9G6QYTorcJGO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qRjahAq8JVoJBT2x18x2A01kxZT.jpg",
-      "tmdbId": 313922,
-      "popularity": 6.7738,
-      "releaseDate": "2016-04-15",
-      "overview": "Members of a punk rock band and a tough young woman are forced to fight for survival after witnessing an act of violence at a skinhead bar."
     },
     "tmdb:10692": {
       "key": "tmdb:10692",
@@ -976,20 +976,6 @@
       "releaseDate": "1943-08-12",
       "overview": "Following a tragic accident that leaves him disfigured, crazed composer Erique Claudin transformed into a masked phantom who schemes to make beautiful young soprano Christine Dubois the star of the opera and wreak revenge on those who stole his music."
     },
-    "tmdb:31522": {
-      "key": "tmdb:31522",
-      "title": "A Woman Is a Woman",
-      "year": 1961,
-      "director": "Jean-Luc Godard",
-      "runtime": 83,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/xrZu21hriGJQY3qY8nifh2smVHu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/oseBXGQMYWTWzAVHJaUEwGgrjGA.jpg",
-      "tmdbId": 31522,
-      "popularity": 3.6172,
-      "releaseDate": "1961-09-06",
-      "overview": "Longing for a baby, a stripper pursues another man in order to make her boyfriend jealous."
-    },
     "tmdb:1626": {
       "key": "tmdb:1626",
       "title": "Vivre Sa Vie",
@@ -1214,19 +1200,19 @@
       "releaseDate": "1978-04-26",
       "overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends."
     },
-    "tmdb:13310": {
-      "key": "tmdb:13310",
-      "title": "Let the Right One In",
-      "year": 2008,
-      "director": "Tomas Alfredson",
+    "tmdb:43372": {
+      "key": "tmdb:43372",
+      "title": "Bellissima",
+      "year": 1951,
+      "director": "Luchino Visconti",
       "runtime": 115,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mSl9sxOFwBtl2f1FMprrlLqJqON.jpg",
-      "tmdbId": 13310,
-      "popularity": 6.5256,
-      "releaseDate": "2008-10-24",
-      "overview": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl."
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/Ao5l92i1QPYq3Na98cffLInFsGB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c9WbbEdmIAmq9NYYZG2uoEAH8sH.jpg",
+      "tmdbId": 43372,
+      "popularity": 2.0261,
+      "releaseDate": "1952-01-04",
+      "overview": "Film director Blasetti is looking for a little girl for his new movie. Along with other mothers, Maddelena takes her daughter to Cinecittà, hoping she’ll be selected and become a star. She is ready to sacrifice anything for little Maria."
     },
     "tmdb:872": {
       "key": "tmdb:872",
@@ -1437,20 +1423,6 @@
       "releaseDate": "1928-05-09",
       "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
     },
-    "tmdb:11547": {
-      "key": "tmdb:11547",
-      "title": "Cabin Fever",
-      "year": 2002,
-      "director": "Eli Roth",
-      "runtime": 93,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/vaUkSL7PbeeKfdFKOh9TYR9M1ds.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kGG4eCEaWvq20r4OofW4oUskhkY.jpg",
-      "tmdbId": 11547,
-      "popularity": 5.5529,
-      "releaseDate": "2003-08-15",
-      "overview": "A group of five college graduates rent a cabin in the woods and begin to fall victim to a horrifying flesh-eating virus, which attracts the unwanted attention of the homicidal locals."
-    },
     "tmdb:1712": {
       "key": "tmdb:1712",
       "title": "Giant",
@@ -1467,116 +1439,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-10-30:12:15:tmdb:483",
-      "venueId": "alamo",
-      "filmKey": "tmdb:483",
-      "date": "2026-10-30",
-      "time": "12:15",
-      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84038",
-      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-10-30:15:45:tmdb:483",
-      "venueId": "alamo",
-      "filmKey": "tmdb:483",
-      "date": "2026-10-30",
-      "time": "15:45",
-      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84039",
-      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
-      "source": "alamo"
-    },
-    {
-      "id": "4star:2026-10-30:18:00:tmdb:13353",
-      "venueId": "4star",
-      "filmKey": "tmdb:13353",
-      "date": "2026-10-30",
-      "time": "18:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/great-pumpkin-fri",
-      "note": "Every year he rises from the pumpkin patch…",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-10-30:19:00:tmdb:458723",
-      "venueId": "roxie",
-      "filmKey": "tmdb:458723",
-      "date": "2026-10-30",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-us/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-10-30:19:25:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-30",
-      "time": "19:25",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "balboa:2026-10-30:19:30:tmdb:4232",
-      "venueId": "balboa",
-      "filmKey": "tmdb:4232",
-      "date": "2026-10-30",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/scream-october-30",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
-    },
-    {
-      "id": "bampfa:2026-10-30:19:30:tmdb:31522",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:31522",
-      "date": "2026-10-30",
-      "time": "19:30",
-      "url": "https://bampfa.org/event/woman-woman",
-      "format": "4K",
-      "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-10-30:20:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-10-30",
-      "time": "20:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-10-30:21:45:tmdb:313922",
-      "venueId": "alamo",
-      "filmKey": "tmdb:313922",
-      "date": "2026-10-30",
-      "time": "21:45",
-      "url": "https://drafthouse.com/sf/show/special-event-green-room-10th-anniversary?cinemaId=0801&sessionId=83735",
-      "note": "10th Anniversary · Punk rock, loaded mac, and a SLAYGROUND popcorn bucket",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-10-30:22:30:tmdb:13310",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:13310",
-      "date": "2026-10-30",
-      "time": "22:30",
-      "url": "https://thenewparkway.com/movie/let-the-right-one-in-subtitled/",
-      "note": "subtitled",
-      "source": "newparkway"
-    },
-    {
-      "id": "piedmont:2026-10-30:22:30:tmdb:11547",
-      "venueId": "piedmont",
-      "filmKey": "tmdb:11547",
-      "date": "2026-10-30",
-      "time": "22:30",
-      "url": "https://www.landmarktheatres.com/movies/1000043539-cabin-fever-4k-directors-cut/",
-      "format": "4K",
-      "note": "Cine Insomnia - Scary Spaces",
-      "source": "piedmont"
-    },
     {
       "id": "4star:2026-10-31:10:00:tmdb:13597",
       "venueId": "4star",
@@ -1595,6 +1457,15 @@
       "time": "12:00",
       "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-10-31:12:15:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-10-31",
+      "time": "12:15",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=83988",
+      "source": "alamo"
     },
     {
       "id": "4star:2026-10-31:12:30:tmdb:13353",
@@ -1786,6 +1657,24 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-10-31:21:40:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-10-31",
+      "time": "21:40",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=83989",
+      "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-10-31:22:00:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-10-31",
+      "time": "22:00",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "4star:2026-11-01:10:00:tmdb:13597",
       "venueId": "4star",
       "filmKey": "tmdb:13597",
@@ -1796,6 +1685,15 @@
       "source": "4star"
     },
     {
+      "id": "alamo:2026-11-01:12:15:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-01",
+      "time": "12:15",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=83994",
+      "source": "alamo"
+    },
+    {
       "id": "newparkway:2026-11-01:14:15:tmdb:1596296",
       "venueId": "newparkway",
       "filmKey": "tmdb:1596296",
@@ -1803,6 +1701,15 @@
       "time": "14:15",
       "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
       "source": "newparkway"
+    },
+    {
+      "id": "balboa:2026-11-01:14:30:tmdb:31767",
+      "venueId": "balboa",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-01",
+      "time": "14:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-devils-november-1",
+      "source": "balboa"
     },
     {
       "id": "roxie:2026-11-01:15:40:tmdb:4977",
@@ -1821,6 +1728,15 @@
       "time": "16:00",
       "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=83330",
       "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-01:16:50:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-01",
+      "time": "16:50",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84002",
       "source": "alamo"
     },
     {
@@ -1853,6 +1769,24 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-11-01:22:10:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-01",
+      "time": "22:10",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84000",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-02:16:00:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-02",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84016",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-11-02:18:00:tmdb:1596296",
       "venueId": "roxie",
       "filmKey": "tmdb:1596296",
@@ -1881,6 +1815,15 @@
       "source": "ata"
     },
     {
+      "id": "balboa:2026-11-02:20:00:tmdb:31767",
+      "venueId": "balboa",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-02",
+      "time": "20:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-devils-november-2",
+      "source": "balboa"
+    },
+    {
       "id": "alamo:2026-11-02:22:10:tmdb:483",
       "venueId": "alamo",
       "filmKey": "tmdb:483",
@@ -1889,6 +1832,24 @@
       "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84036",
       "note": "Unrated · Returning to theaters in a new 4K digital restoration",
       "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-02:22:20:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-02",
+      "time": "22:20",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84009",
+      "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-11-03:17:00:tmdb:31767",
+      "venueId": "balboa",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-03",
+      "time": "17:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-devils-november-3",
+      "source": "balboa"
     },
     {
       "id": "roxie:2026-11-03:18:00:tmdb:483",
@@ -1901,6 +1862,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-11-03:20:20:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-03",
+      "time": "20:20",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-11-03:20:30:tmdb:1599181",
       "venueId": "roxie",
       "filmKey": "tmdb:1599181",
@@ -1908,6 +1878,34 @@
       "time": "20:30",
       "url": "https://roxie.com/film/chronovisor/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-11-04:13:30:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-04",
+      "time": "13:30",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84026",
+      "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-11-04:16:00:tmdb:31767",
+      "venueId": "balboa",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-04",
+      "time": "16:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-devils-november-4",
+      "note": "Final Show",
+      "source": "balboa"
+    },
+    {
+      "id": "alamo:2026-11-04:16:30:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-04",
+      "time": "16:30",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84028",
+      "source": "alamo"
     },
     {
       "id": "alamo:2026-11-04:18:00:tmdb:483",
@@ -1956,6 +1954,15 @@
       "time": "20:30",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-11-04:20:35:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-04",
+      "time": "20:35",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "roxie:2026-11-04:21:00:tmdb:483",
@@ -2054,6 +2061,16 @@
       "url": "https://www.balboamovies.com/calendar-of-events/double-feature-with-sandow-birk-november-6",
       "note": "August 29 - November 7 at the Catharine Clark Gallery",
       "source": "balboa"
+    },
+    {
+      "id": "roxie:2026-11-06:20:15:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-06",
+      "time": "20:15",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
     },
     {
       "id": "4star:2026-11-07:10:00:tmdb:441130",
@@ -2244,6 +2261,16 @@
       "date": "2026-11-09",
       "time": "20:00",
       "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-10:18:00:tmdb:636",
+      "venueId": "roxie",
+      "filmKey": "tmdb:636",
+      "date": "2026-11-10",
+      "time": "18:00",
+      "url": "https://roxie.com/film/thx-1138-35mm/",
+      "format": "35mm",
       "source": "roxie"
     },
     {
@@ -2690,6 +2717,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-11-20:22:30:tmdb:36685",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:36685",
+      "date": "2026-11-20",
+      "time": "22:30",
+      "url": "https://thenewparkway.com/movie/rocky-horror-picture-show/",
+      "source": "newparkway"
+    },
+    {
       "id": "4star:2026-11-21:10:00:tmdb:10315",
       "venueId": "4star",
       "filmKey": "tmdb:10315",
@@ -2949,31 +2985,80 @@
       "time": "20:40",
       "url": "https://roxie.com/film/johnny-mnemonic-in-black-and-white/",
       "source": "roxie"
+    },
+    {
+      "id": "4star:2026-11-28:10:00:tmdb:12429",
+      "venueId": "4star",
+      "filmKey": "tmdb:12429",
+      "date": "2026-11-28",
+      "time": "10:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/ponyo-sat-2026",
+      "note": "Spirited Away",
+      "source": "4star"
+    },
+    {
+      "id": "bampfa:2026-11-28:18:30:tmdb:43372",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:43372",
+      "date": "2026-11-28",
+      "time": "18:30",
+      "url": "https://bampfa.org/event/bellissima",
+      "format": "4K",
+      "note": "Special Screenings 2026 · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-11-28:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-11-28",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-stay-out",
+      "note": "Stay Out",
+      "source": "4star"
+    },
+    {
+      "id": "balboa:2026-11-28:23:00:tmdb:36685",
+      "venueId": "balboa",
+      "filmKey": "tmdb:36685",
+      "date": "2026-11-28",
+      "time": "23:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-rocky-horror-picture-show-november-28",
+      "note": "Barry Bostwick",
+      "source": "balboa"
     }
   ],
   "festivals": [
     {
+      "key": "fest:roxie:dance thrill fest",
+      "name": "Dance Thrill Fest",
+      "venueId": "roxie",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "url": "https://roxie.com/film/dance-thrill-fest-vi/",
+      "showtimes": 1,
+      "sample": [
+        "VI"
+      ],
+      "programme": [
+        {
+          "date": "2026-10-31",
+          "time": "16:00",
+          "title": "VI",
+          "url": "https://roxie.com/film/dance-thrill-fest-vi/"
+        }
+      ]
+    },
+    {
       "key": "fest:grandlake:23rd animation show of shows",
       "name": "23rd Animation Show of Shows",
       "venueId": "grandlake",
-      "startDate": "2026-10-30",
+      "startDate": "2026-10-31",
       "endDate": "2026-11-04",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030",
-      "showtimes": 20,
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261031",
+      "showtimes": 18,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-10-30",
-          "time": "16:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030"
-        },
-        {
-          "date": "2026-10-30",
-          "time": "22:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261030"
-        },
         {
           "date": "2026-10-31",
           "time": "12:00",
@@ -3085,26 +3170,6 @@
       ]
     },
     {
-      "key": "fest:roxie:dance thrill fest",
-      "name": "Dance Thrill Fest",
-      "venueId": "roxie",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "url": "https://roxie.com/film/dance-thrill-fest-vi/",
-      "showtimes": 1,
-      "sample": [
-        "VI"
-      ],
-      "programme": [
-        {
-          "date": "2026-10-31",
-          "time": "16:00",
-          "title": "VI",
-          "url": "https://roxie.com/film/dance-thrill-fest-vi/"
-        }
-      ]
-    },
-    {
       "key": "fest:bampfa:hong kong cinema rarities and restorations bampfa collection",
       "name": "Hong Kong Cinema: Rarities and Restorations · BAMPFA Collection",
       "venueId": "bampfa",
@@ -3180,14 +3245,14 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/juror-night-studio-8-sfaa",
       "showtimes": 2,
       "sample": [
-        "Juror Night (Films from Ed Jones, Michael LaRocco & Jac White - Presented by SF Artists Alumni)",
+        "Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
         "Juried Show: Personal Visions (Presented by SF Artists Alumni)"
       ],
       "programme": [
         {
           "date": "2026-11-06",
           "time": "19:30",
-          "title": "Juror Night (Films from Ed Jones, Michael LaRocco & Jac White - Presented by SF Artists Alumni)",
+          "title": "Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
           "url": "https://www.4-star-movies.com/calendar-of-events/juror-night-studio-8-sfaa"
         },
         {
