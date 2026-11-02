@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-11-01T18:13:15.326Z",
+  "generatedAt": "2026-11-02T22:00:10.124Z",
   "films": {
-    "tmdb:4977": {
-      "key": "tmdb:4977",
-      "title": "Paprika",
-      "year": 2006,
-      "director": "Satoshi Kon",
-      "runtime": 90,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/nHJljo2Pi7XimYEgV9hvRchQWmg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
-      "tmdbId": 4977,
-      "popularity": 9.0953,
-      "releaseDate": "2006-10-01",
-      "overview": "Dr. Atsuko Chiba is a research psychologist who uses a device called the DC Mini to enter her patients' dreams, wherein she adopts the alter-ego \"Paprika\". When the device is stolen, she must stop rogue elements from merging the dream and waking worlds."
-    },
-    "tmdb:636": {
-      "key": "tmdb:636",
-      "title": "THX 1138",
-      "year": 1971,
-      "director": "George Lucas",
-      "runtime": 86,
-      "genre": "Science Fiction",
-      "poster": "https://image.tmdb.org/t/p/w500/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fM9ODwfR7m8fI2g99M9WyhvqXtI.jpg",
-      "tmdbId": 636,
-      "popularity": 3.4791,
-      "releaseDate": "1971-03-11",
-      "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
-    },
-    "tmdb:1887": {
-      "key": "tmdb:1887",
-      "title": "Marie Antoinette",
-      "year": 2006,
-      "director": "Sofia Coppola",
-      "runtime": 123,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/cybXGmv8Rjd5Os8Xml6YxMBQ0Zt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9hxBNoRjEDZGjyR1JpmmtxJWmVU.jpg",
-      "tmdbId": 1887,
-      "popularity": 8.2818,
-      "releaseDate": "2006-05-24",
-      "overview": "A retelling of the story of France’s iconic but ill-fated queen, Marie Antoinette - from her betrothal and marriage to Louis XVI at fifteen to her reign as queen at nineteen and ultimately the fall of Versailles."
-    },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
       "title": "The History of Concrete",
@@ -99,6 +57,20 @@
       "releaseDate": "2016-05-29",
       "overview": "Having slept together for the first time, two teenage boys must make sense of their evolving relationship."
     },
+    "tmdb:4977": {
+      "key": "tmdb:4977",
+      "title": "Paprika",
+      "year": 2006,
+      "director": "Satoshi Kon",
+      "runtime": 90,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/nHJljo2Pi7XimYEgV9hvRchQWmg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
+      "tmdbId": 4977,
+      "popularity": 9.0953,
+      "releaseDate": "2006-10-01",
+      "overview": "Dr. Atsuko Chiba is a research psychologist who uses a device called the DC Mini to enter her patients' dreams, wherein she adopts the alter-ego \"Paprika\". When the device is stolen, she must stop rogue elements from merging the dream and waking worlds."
+    },
     "tmdb:2990": {
       "key": "tmdb:2990",
       "title": "Pacific Heights",
@@ -154,6 +126,20 @@
       "popularity": 1.0092,
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
+    },
+    "tmdb:636": {
+      "key": "tmdb:636",
+      "title": "THX 1138",
+      "year": 1971,
+      "director": "George Lucas",
+      "runtime": 86,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fM9ODwfR7m8fI2g99M9WyhvqXtI.jpg",
+      "tmdbId": 636,
+      "popularity": 3.4791,
+      "releaseDate": "1971-03-11",
+      "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
     },
     "tmdb:425395": {
       "key": "tmdb:425395",
@@ -361,20 +347,6 @@
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
     },
-    "tmdb:13597": {
-      "key": "tmdb:13597",
-      "title": "Labyrinth",
-      "year": 1986,
-      "director": "Jim Henson",
-      "runtime": 101,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/pejayhTVBEL4w8YKSfrhOjjWVlH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mGkleIuPO2flRyvP8yBcUykSQsp.jpg",
-      "tmdbId": 13597,
-      "popularity": 10.9785,
-      "releaseDate": "1986-06-27",
-      "overview": "Frustrated with babysitting on yet another weekend night, Sarah, a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King. Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers."
-    },
     "tmdb:98096": {
       "key": "tmdb:98096",
       "title": "Live Music",
@@ -558,6 +530,20 @@
       "popularity": 2.6583,
       "releaseDate": "2005-06-11",
       "overview": "A Polish stewardess who has to spend the night in Copenhagen to board her next flight meets a Danish man who insists on taking her out. The night does not turn out quite like either of them had expected."
+    },
+    "tmdb:91735": {
+      "key": "tmdb:91735",
+      "title": "My Brother's Wedding",
+      "year": 1983,
+      "director": "Charles Burnett",
+      "runtime": 81,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/zNTkmyNtdncmMFHOavpgevwsh6o.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/w9clWe4Ymb7Kt7SB36V7PitVBry.jpg",
+      "tmdbId": 91735,
+      "popularity": 1.3864,
+      "releaseDate": "1985-03-01",
+      "overview": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer."
     },
     "tmdb:26039": {
       "key": "tmdb:26039",
@@ -1314,109 +1300,6 @@
   },
   "screenings": [
     {
-      "id": "4star:2026-11-01:10:00:tmdb:13597",
-      "venueId": "4star",
-      "filmKey": "tmdb:13597",
-      "date": "2026-11-01",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/labyrinth-sun",
-      "note": "Popcorn Palace - FREE!",
-      "source": "4star"
-    },
-    {
-      "id": "alamo:2026-11-01:12:15:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-01",
-      "time": "12:15",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=83994",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-11-01:14:15:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-01",
-      "time": "14:15",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "balboa:2026-11-01:14:30:tmdb:31767",
-      "venueId": "balboa",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-01",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-devils-november-1",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-11-01:15:40:tmdb:4977",
-      "venueId": "roxie",
-      "filmKey": "tmdb:4977",
-      "date": "2026-11-01",
-      "time": "15:40",
-      "url": "https://roxie.com/film/new-people-paprika/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-01:16:00:tmdb:483",
-      "venueId": "alamo",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-01",
-      "time": "16:00",
-      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=83330",
-      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-11-01:16:50:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-01",
-      "time": "16:50",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84002",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-01:18:00:tmdb:636",
-      "venueId": "roxie",
-      "filmKey": "tmdb:636",
-      "date": "2026-11-01",
-      "time": "18:00",
-      "url": "https://roxie.com/film/thx-1138-35mm/",
-      "format": "35mm",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-01:20:00:tmdb:1887",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1887",
-      "date": "2026-11-01",
-      "time": "20:00",
-      "url": "https://roxie.com/film/marie-antoinette-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-01:20:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-01",
-      "time": "20:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-01:22:10:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-01",
-      "time": "22:10",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84000",
-      "source": "alamo"
-    },
-    {
       "id": "alamo:2026-11-02:16:00:tmdb:31767",
       "venueId": "alamo",
       "filmKey": "tmdb:31767",
@@ -1450,7 +1333,6 @@
       "date": "2026-11-02",
       "time": "19:30",
       "url": "https://www.atasite.org/event/rewards-program-malignant/",
-      "note": "A live-scored three-projector celluloid performance with: MILES LASSI is an interdisciplinary artist based out of Oakland, CA.",
       "source": "ata"
     },
     {
@@ -1770,6 +1652,16 @@
       "source": "alamo"
     },
     {
+      "id": "roxie:2026-11-07:19:05:tmdb:483",
+      "venueId": "roxie",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-07",
+      "time": "19:05",
+      "url": "https://roxie.com/film/wild-at-heart/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-11-07:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -1884,6 +1776,15 @@
       "source": "newparkway"
     },
     {
+      "id": "roxie:2026-11-08:19:35:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-08",
+      "time": "19:35",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-11-08:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -1931,6 +1832,16 @@
       "url": "https://thecastro.com/events/claudio-simonettis-goblin-261110",
       "note": "Another Planet Entertainment and The Italian Cultural Institute of San Francisco present",
       "source": "castro"
+    },
+    {
+      "id": "roxie:2026-11-10:20:00:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-10",
+      "time": "20:00",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
     },
     {
       "id": "newparkway:2026-11-10:20:35:tmdb:36656",
@@ -2043,6 +1954,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-school-fair",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-11-12:20:40:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-12",
+      "time": "20:40",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "bampfa:2026-11-13:16:00:tmdb:200976",
@@ -2415,6 +2335,15 @@
       "source": "bampfa"
     },
     {
+      "id": "alamo:2026-11-21:16:15:tmdb:91735",
+      "venueId": "alamo",
+      "filmKey": "tmdb:91735",
+      "date": "2026-11-21",
+      "time": "16:15",
+      "url": "https://drafthouse.com/sf/show/my-brothers-wedding?cinemaId=0801&sessionId=83866",
+      "source": "alamo"
+    },
+    {
       "id": "bampfa:2026-11-21:18:30:tmdb:1578",
       "venueId": "bampfa",
       "filmKey": "tmdb:1578",
@@ -2720,65 +2649,15 @@
   ],
   "festivals": [
     {
-      "key": "fest:bampfa:hong kong cinema rarities and restorations bampfa collection",
-      "name": "Hong Kong Cinema: Rarities and Restorations · BAMPFA Collection",
-      "venueId": "bampfa",
-      "startDate": "2026-11-01",
-      "endDate": "2026-11-01",
-      "url": "https://bampfa.org/event/valiant-ones",
-      "showtimes": 1,
-      "sample": [
-        "The Valiant Ones"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-01",
-          "time": "16:00",
-          "title": "The Valiant Ones",
-          "url": "https://bampfa.org/event/valiant-ones"
-        }
-      ]
-    },
-    {
       "key": "fest:grandlake:23rd animation show of shows",
       "name": "23rd Animation Show of Shows",
       "venueId": "grandlake",
-      "startDate": "2026-11-01",
+      "startDate": "2026-11-02",
       "endDate": "2026-11-04",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101",
-      "showtimes": 12,
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102",
+      "showtimes": 7,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-11-01",
-          "time": "12:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "14:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "18:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
-        {
-          "date": "2026-11-01",
-          "time": "20:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261101"
-        },
         {
           "date": "2026-11-02",
           "time": "16:10",
