@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-02T22:00:10.124Z",
+  "generatedAt": "2026-11-03T19:53:56.145Z",
   "films": {
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "tmdb:483": {
       "key": "tmdb:483",
       "title": "Wild at Heart",
@@ -57,6 +43,20 @@
       "releaseDate": "2016-05-29",
       "overview": "Having slept together for the first time, two teenage boys must make sense of their evolving relationship."
     },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
     "tmdb:4977": {
       "key": "tmdb:4977",
       "title": "Paprika",
@@ -98,6 +98,20 @@
       "popularity": 5.9565,
       "releaseDate": "1971-07-16",
       "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    },
+    "tmdb:81": {
+      "key": "tmdb:81",
+      "title": "Warriors of the Wind",
+      "year": 1984,
+      "director": "Hayao Miyazaki",
+      "runtime": 95,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/z2jsAbXWGdJvadhovznjGg33VND.jpg",
+      "tmdbId": 81,
+      "popularity": 18.542,
+      "releaseDate": "1984-03-11",
+      "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
     },
     "tmdb:664572": {
       "key": "tmdb:664572",
@@ -195,6 +209,20 @@
       "releaseDate": "2002-12-10",
       "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago."
     },
+    "tmdb:247": {
+      "key": "tmdb:247",
+      "title": "The Killing",
+      "year": 1956,
+      "director": "Stanley Kubrick",
+      "runtime": 85,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2EltoldCMsYmP2BXJVGiuNalEWv.jpg",
+      "tmdbId": 247,
+      "popularity": 5.4978,
+      "releaseDate": "1956-06-06",
+      "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own."
+    },
     "tmdb:9886": {
       "key": "tmdb:9886",
       "title": "Johnny Mnemonic",
@@ -208,6 +236,20 @@
       "popularity": 5.8941,
       "releaseDate": "1995-05-26",
       "overview": "In a dystopian 2021, Johnny is a data trafficker who has an implant that allows him to securely store data too sensitive for regular computer networks. On one delivery run, he accepts a package that not only exceeds the implant's safety limits—and will kill him if the data is not removed in time—but also contains information far more important and valuable than he had ever imagined. On a race against time, he must avoid the assassins sent to kill him and remove the data before it, too, ends his life."
+    },
+    "tmdb:4203": {
+      "key": "tmdb:4203",
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "year": 1988,
+      "director": "Pedro Almodóvar",
+      "runtime": 88,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/lOehCiqghODNrNBpI1JS76zl6Lx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eRzwmzyz4sSq2QqjXWehWNkU0Us.jpg",
+      "tmdbId": 4203,
+      "popularity": 5.9956,
+      "releaseDate": "1988-03-25",
+      "overview": "After being dumped by her lover, Pepa finds her life and the lives of those around her spiraling out of control in a deliciously chaotic series of events."
     },
     "tmdb:5055": {
       "key": "tmdb:5055",
@@ -347,6 +389,48 @@
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
     },
+    "tmdb:329": {
+      "key": "tmdb:329",
+      "title": "Jurassic Park",
+      "year": 1993,
+      "director": "Steven Spielberg",
+      "runtime": 127,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
+      "tmdbId": 329,
+      "popularity": 11.7047,
+      "releaseDate": "1993-06-11",
+      "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape."
+    },
+    "tmdb:11216": {
+      "key": "tmdb:11216",
+      "title": "Cinema Paradiso",
+      "year": 1988,
+      "director": "Giuseppe Tornatore",
+      "runtime": 124,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/aRgPnx4aPS96f7CnhJH7IG5dN1A.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+      "tmdbId": 11216,
+      "popularity": 12.5067,
+      "releaseDate": "1988-11-17",
+      "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist."
+    },
+    "tmdb:433": {
+      "key": "tmdb:433",
+      "title": "Mary Poppins",
+      "year": 1964,
+      "director": "Robert Stevenson",
+      "runtime": 139,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nMXLizoHhVTeh3GjFyUOfNx3b7i.jpg",
+      "tmdbId": 433,
+      "popularity": 9.1964,
+      "releaseDate": "1964-12-17",
+      "overview": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father."
+    },
     "tmdb:98096": {
       "key": "tmdb:98096",
       "title": "Live Music",
@@ -476,6 +560,20 @@
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
       "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
     },
+    "tmdb:48288": {
+      "key": "tmdb:48288",
+      "title": "Small Town Gay Bar",
+      "year": 2006,
+      "director": "Malcolm Ingram",
+      "runtime": 76,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/pmtStF3fFKohqL1uteBkIDSd2no.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/x1bMKFnLyeBvDN3vW3AnicWzHXU.jpg",
+      "tmdbId": 48288,
+      "popularity": 1.2636,
+      "releaseDate": "2007-03-31",
+      "overview": "The story of community in the Deep South that is forced to deal with the struggles of ignorance, hypocrisy and oppression."
+    },
     "tmdb:949423": {
       "key": "tmdb:949423",
       "title": "Pearl",
@@ -599,6 +697,20 @@
       "popularity": 5.9099,
       "releaseDate": "2007-11-14",
       "overview": "Set in the futuristic landscape of Los Angeles on July 4, 2008, as it stands on the brink of social, economic and environmental disaster. Boxer Santaros is an action star who's stricken with amnesia. His life intertwines with Krysta Now, an adult film star developing her own reality television project, and Ronald Taverner, a Hermosa Beach police officer who holds the key to a vast conspiracy."
+    },
+    "tmdb:11587": {
+      "key": "tmdb:11587",
+      "title": "The Exorcist III",
+      "year": 1990,
+      "director": "William Peter Blatty",
+      "runtime": 110,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/275gw2JA5YCk10o6n84rZdZBycM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2JnyyxTibd5ZdMKMePY7zSyedmi.jpg",
+      "tmdbId": 11587,
+      "popularity": 6.2521,
+      "releaseDate": "1990-08-17",
+      "overview": "On the fifteenth anniversary of the exorcism that claimed Father Damien Karras' life, Police Lieutenant Kinderman's world is once again shattered when a boy is found decapitated and savagely crucified."
     },
     "tmdb:10692": {
       "key": "tmdb:10692",
@@ -739,20 +851,6 @@
       "releaseDate": "1993-11-21",
       "overview": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
     },
-    "tmdb:4203": {
-      "key": "tmdb:4203",
-      "title": "Women on the Verge of a Nervous Breakdown",
-      "year": 1988,
-      "director": "Pedro Almodóvar",
-      "runtime": 88,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/lOehCiqghODNrNBpI1JS76zl6Lx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eRzwmzyz4sSq2QqjXWehWNkU0Us.jpg",
-      "tmdbId": 4203,
-      "popularity": 5.9956,
-      "releaseDate": "1988-03-25",
-      "overview": "After being dumped by her lover, Pepa finds her life and the lives of those around her spiraling out of control in a deliciously chaotic series of events."
-    },
     "tmdb:441944": {
       "key": "tmdb:441944",
       "title": "The Fall of the I-Hotel",
@@ -793,20 +891,6 @@
       "popularity": 1.2725,
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
-    },
-    "tmdb:619778": {
-      "key": "tmdb:619778",
-      "title": "Malignant",
-      "year": 2021,
-      "director": "James Wan",
-      "runtime": 111,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xnyGhzrfqENfFoiNZ9z4oy63Z9F.jpg",
-      "tmdbId": 619778,
-      "popularity": 17.4741,
-      "releaseDate": "2021-09-01",
-      "overview": "Madison is paralyzed by shocking visions of grisly murders, and her torment worsens as she discovers that these waking dreams are in fact terrifying realities with a mysterious tie to her past."
     },
     "tmdb:203": {
       "key": "tmdb:203",
@@ -1074,20 +1158,6 @@
       "releaseDate": "1957-11-14",
       "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return."
     },
-    "tmdb:872": {
-      "key": "tmdb:872",
-      "title": "Singin' in the Rain",
-      "year": 1952,
-      "director": "Stanley Donen, Gene Kelly",
-      "runtime": 103,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
-      "tmdbId": 872,
-      "popularity": 11.8925,
-      "releaseDate": "1952-04-10",
-      "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures."
-    },
     "tmdb:7270": {
       "key": "tmdb:7270",
       "title": "Matchstick Men",
@@ -1300,70 +1370,6 @@
   },
   "screenings": [
     {
-      "id": "alamo:2026-11-02:16:00:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-02",
-      "time": "16:00",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84016",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-02:18:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-02",
-      "time": "18:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-02:18:15:tmdb:1596296",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-02",
-      "time": "18:15",
-      "url": "https://thenewparkway.com/movie/the-history-of-concrete/",
-      "source": "newparkway"
-    },
-    {
-      "id": "ata:2026-11-02:19:30:tmdb:619778",
-      "venueId": "ata",
-      "filmKey": "tmdb:619778",
-      "date": "2026-11-02",
-      "time": "19:30",
-      "url": "https://www.atasite.org/event/rewards-program-malignant/",
-      "source": "ata"
-    },
-    {
-      "id": "balboa:2026-11-02:20:00:tmdb:31767",
-      "venueId": "balboa",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-02",
-      "time": "20:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-devils-november-2",
-      "source": "balboa"
-    },
-    {
-      "id": "alamo:2026-11-02:22:10:tmdb:483",
-      "venueId": "alamo",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-02",
-      "time": "22:10",
-      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84036",
-      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-11-02:22:20:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-02",
-      "time": "22:20",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84009",
-      "source": "alamo"
-    },
-    {
       "id": "balboa:2026-11-03:17:00:tmdb:31767",
       "venueId": "balboa",
       "filmKey": "tmdb:31767",
@@ -1506,6 +1512,16 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-11-05:13:00:tmdb:483",
+      "venueId": "alamo",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-05",
+      "time": "13:00",
+      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84069",
+      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-11-05:15:30:tmdb:1596296",
       "venueId": "roxie",
       "filmKey": "tmdb:1596296",
@@ -1513,6 +1529,25 @@
       "time": "15:30",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-11-05:16:15:tmdb:483",
+      "venueId": "alamo",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-05",
+      "time": "16:15",
+      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84068",
+      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-05:18:00:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-05",
+      "time": "18:00",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84065",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-11-05:19:15:tmdb:4977",
@@ -1543,6 +1578,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-11-06:14:00:tmdb:965",
+      "venueId": "alamo",
+      "filmKey": "tmdb:965",
+      "date": "2026-11-06",
+      "time": "14:00",
+      "url": "https://drafthouse.com/sf/show/the-magnificent-ambersons?cinemaId=0801&sessionId=84132",
+      "source": "alamo"
+    },
+    {
       "id": "bampfa:2026-11-06:16:00:tmdb:203",
       "venueId": "bampfa",
       "filmKey": "tmdb:203",
@@ -1552,6 +1596,15 @@
       "format": "4K",
       "note": "Martin Scorsese Pictures · 4K Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "alamo:2026-11-06:18:15:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-06",
+      "time": "18:15",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84074",
+      "source": "alamo"
     },
     {
       "id": "roxie:2026-11-06:19:00:tmdb:2990",
@@ -1584,6 +1637,15 @@
       "source": "balboa"
     },
     {
+      "id": "roxie:2026-11-06:20:15:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-06",
+      "time": "20:15",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-11-06:20:15:tmdb:31767",
       "venueId": "roxie",
       "filmKey": "tmdb:31767",
@@ -1591,6 +1653,15 @@
       "time": "20:15",
       "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
       "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-06:20:40:tmdb:81",
+      "venueId": "roxie",
+      "filmKey": "tmdb:81",
+      "date": "2026-11-06",
+      "time": "20:40",
+      "url": "https://roxie.com/film/new-people-nausicaa-of-the-valley-of-the-wind/",
       "source": "roxie"
     },
     {
@@ -1611,15 +1682,6 @@
       "time": "12:00",
       "url": "https://drafthouse.com/sf/show/we-own-the-night?cinemaId=0801&sessionId=83856",
       "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-11-07:12:00:tmdb:872",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:872",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "url": "https://thenewparkway.com/movie/singin-in-the-rain/",
-      "source": "newparkway"
     },
     {
       "id": "sfmoma:2026-11-07:13:00:tmdb:441944",
@@ -1649,6 +1711,15 @@
       "date": "2026-11-07",
       "time": "15:00",
       "url": "https://drafthouse.com/sf/show/little-odessa?cinemaId=0801&sessionId=83855",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-07:18:45:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-07",
+      "time": "18:45",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84081",
       "source": "alamo"
     },
     {
@@ -1747,6 +1818,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-11-08:16:45:tmdb:81",
+      "venueId": "roxie",
+      "filmKey": "tmdb:81",
+      "date": "2026-11-08",
+      "time": "16:45",
+      "url": "https://roxie.com/film/new-people-nausicaa-of-the-valley-of-the-wind/",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-11-08:17:00:tmdb:7270",
       "venueId": "newparkway",
       "filmKey": "tmdb:7270",
@@ -1754,6 +1834,15 @@
       "time": "17:00",
       "url": "https://thenewparkway.com/movie/matchstick-men/",
       "source": "newparkway"
+    },
+    {
+      "id": "alamo:2026-11-08:18:30:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-08",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84088",
+      "source": "alamo"
     },
     {
       "id": "bampfa:2026-11-08:18:30:tmdb:266",
@@ -1802,6 +1891,35 @@
       "time": "20:00",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-11-09:21:40:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-09",
+      "time": "21:40",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84098",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-10:14:00:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-10",
+      "time": "14:00",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84114",
+      "source": "alamo"
+    },
+    {
+      "id": "vogue:2026-11-10:16:30:tmdb:329",
+      "venueId": "vogue",
+      "filmKey": "tmdb:329",
+      "date": "2026-11-10",
+      "time": "16:30",
+      "url": "https://voguemovies.com/calendar-of-events/jurassic-park-november-10",
+      "format": "3D",
+      "note": "Projected in Digital 3-D",
+      "source": "vogue"
     },
     {
       "id": "roxie:2026-11-10:18:00:tmdb:636",
@@ -1864,6 +1982,15 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-11-11:14:15:tmdb:47504",
+      "venueId": "alamo",
+      "filmKey": "tmdb:47504",
+      "date": "2026-11-11",
+      "time": "14:15",
+      "url": "https://drafthouse.com/sf/show/little-odessa?cinemaId=0801&sessionId=84131",
+      "source": "alamo"
+    },
+    {
       "id": "balboa:2026-11-11:16:30:tmdb:989988",
       "venueId": "balboa",
       "filmKey": "tmdb:989988",
@@ -1885,6 +2012,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-11-11:18:30:tmdb:31767",
+      "venueId": "alamo",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-11",
+      "time": "18:30",
+      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84125",
+      "source": "alamo"
+    },
+    {
       "id": "operaplaza:2026-11-11:19:00:tmdb:11778",
       "venueId": "operaplaza",
       "filmKey": "tmdb:11778",
@@ -1904,6 +2040,16 @@
       "format": "35mm",
       "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
       "source": "bampfa"
+    },
+    {
+      "id": "vogue:2026-11-11:19:30:tmdb:11216",
+      "venueId": "vogue",
+      "filmKey": "tmdb:11216",
+      "date": "2026-11-11",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/cinema-paradiso-november-11",
+      "note": "Theatrical Cut",
+      "source": "vogue"
     },
     {
       "id": "sfmoma:2026-11-12:18:30:tmdb:448491",
@@ -1944,6 +2090,16 @@
       "format": "DCP",
       "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
       "source": "bampfa"
+    },
+    {
+      "id": "vogue:2026-11-12:19:30:tmdb:11216",
+      "venueId": "vogue",
+      "filmKey": "tmdb:11216",
+      "date": "2026-11-12",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/cinema-paradiso-november-12",
+      "note": "Theatrical Cut",
+      "source": "vogue"
     },
     {
       "id": "4star:2026-11-12:20:00:tmdb:98096",
@@ -2064,6 +2220,16 @@
       "source": "alamo"
     },
     {
+      "id": "roxie:2026-11-15:16:50:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-15",
+      "time": "16:50",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-11-15:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -2072,6 +2238,16 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-todd-day-wait",
       "note": "Todd Day Wait",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-11-16:21:05:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-16",
+      "time": "21:05",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-11-17:18:00:tmdb:53792",
@@ -2124,6 +2300,16 @@
       "source": "alamo"
     },
     {
+      "id": "roxie:2026-11-18:17:45:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-18",
+      "time": "17:45",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "grandlake:2026-11-18:19:00:tmdb:25768",
       "venueId": "grandlake",
       "filmKey": "tmdb:25768",
@@ -2142,6 +2328,15 @@
       "format": "35mm",
       "note": "Presented on 35mm by",
       "source": "balboa"
+    },
+    {
+      "id": "vogue:2026-11-18:19:30:tmdb:433",
+      "venueId": "vogue",
+      "filmKey": "tmdb:433",
+      "date": "2026-11-18",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/mary-poppins-november-18",
+      "source": "vogue"
     },
     {
       "id": "4star:2026-11-18:19:30:tmdb:19596",
@@ -2174,6 +2369,16 @@
       "source": "alamo"
     },
     {
+      "id": "roxie:2026-11-19:18:00:tmdb:247",
+      "venueId": "roxie",
+      "filmKey": "tmdb:247",
+      "date": "2026-11-19",
+      "time": "18:00",
+      "url": "https://roxie.com/film/the-killing-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-11-19:19:00:tmdb:1629",
       "venueId": "bampfa",
       "filmKey": "tmdb:1629",
@@ -2193,6 +2398,15 @@
       "url": "https://cinema.cafilm.org/film/giant",
       "note": "Stage To Screen",
       "source": "rafael"
+    },
+    {
+      "id": "vogue:2026-11-19:19:30:tmdb:433",
+      "venueId": "vogue",
+      "filmKey": "tmdb:433",
+      "date": "2026-11-19",
+      "time": "19:30",
+      "url": "https://voguemovies.com/calendar-of-events/mary-poppins-november-19",
+      "source": "vogue"
     },
     {
       "id": "4star:2026-11-19:20:00:tmdb:98096",
@@ -2565,6 +2779,16 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-11-28:18:00:tmdb:4203",
+      "venueId": "roxie",
+      "filmKey": "tmdb:4203",
+      "date": "2026-11-28",
+      "time": "18:00",
+      "url": "https://roxie.com/film/women-on-the-verge-of-a-nervous-breakdown/",
+      "format": "35mm",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-11-28:18:30:tmdb:43372",
       "venueId": "bampfa",
       "filmKey": "tmdb:43372",
@@ -2645,6 +2869,27 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/begotten",
       "note": "TRASH & TREASURES presents:",
       "source": "4star"
+    },
+    {
+      "id": "castro:2026-12-01:19:30:tmdb:48288",
+      "venueId": "castro",
+      "filmKey": "tmdb:48288",
+      "date": "2026-12-01",
+      "time": "19:30",
+      "url": "https://thecastro.com/events/small-town-gay-bar",
+      "note": "20th Anniversary",
+      "source": "castro"
+    },
+    {
+      "id": "alamo:2026-12-01:21:30:tmdb:11587",
+      "venueId": "alamo",
+      "filmKey": "tmdb:11587",
+      "date": "2026-12-01",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-exorcist-iii?cinemaId=0801&sessionId=83891",
+      "format": "35mm",
+      "note": "Terror Tuesday · A criminally overlooked nerve-shredder from author William Peter Blatty.",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -2652,30 +2897,12 @@
       "key": "fest:grandlake:23rd animation show of shows",
       "name": "23rd Animation Show of Shows",
       "venueId": "grandlake",
-      "startDate": "2026-11-02",
+      "startDate": "2026-11-03",
       "endDate": "2026-11-04",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102",
-      "showtimes": 7,
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103",
+      "showtimes": 4,
       "sample": [],
       "programme": [
-        {
-          "date": "2026-11-02",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "18:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
-        },
-        {
-          "date": "2026-11-02",
-          "time": "20:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261102"
-        },
         {
           "date": "2026-11-03",
           "time": "16:10",
@@ -2719,6 +2946,207 @@
           "time": "19:30",
           "title": "Too Much",
           "url": "https://www.balboamovies.com/calendar-of-events/too-much-november-4"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents",
+      "name": "Fantastic Fest Presents",
+      "venueId": "alamo",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-12",
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84062",
+      "showtimes": 31,
+      "sample": [
+        "Littermates",
+        "Wild Horse Nine"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-05",
+          "time": "15:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84062"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "18:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84060"
+        },
+        {
+          "date": "2026-11-05",
+          "time": "21:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84061"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "11:20",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=84078"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
+        },
+        {
+          "date": "2026-11-06",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "22:10",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "11:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "14:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "18:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "21:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83681"
+        },
+        {
+          "date": "2026-11-08",
+          "time": "22:10",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "15:20",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84102"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "18:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84101"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "19:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83884"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "22:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84105"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "14:20",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84115"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "18:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84116"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "20:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84117"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:45",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83885"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "15:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84129"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "18:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84127"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "19:00",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83886"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "22:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84130"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "21:15",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
         }
       ]
     },
@@ -2773,123 +3201,6 @@
           "time": "14:00",
           "title": "Juried Show: Personal Visions (Presented by SF Artists Alumni)",
           "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa"
-        }
-      ]
-    },
-    {
-      "key": "fest:alamo:fantastic fest presents",
-      "name": "Fantastic Fest Presents",
-      "venueId": "alamo",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-12",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671",
-      "showtimes": 17,
-      "sample": [
-        "Littermates",
-        "Wild Horse Nine"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-06",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "22:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "22:10",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "19:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83884"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:45",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83885"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "19:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83886"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "21:15",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
         }
       ]
     },
