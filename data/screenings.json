@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-11-03T19:53:56.145Z",
+  "generatedAt": "2026-11-04T20:09:15.188Z",
   "films": {
-    "tmdb:483": {
-      "key": "tmdb:483",
-      "title": "Wild at Heart",
-      "year": 1990,
-      "director": "David Lynch",
-      "runtime": 125,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg",
-      "tmdbId": 483,
-      "popularity": 8.6766,
-      "releaseDate": "1990-08-17",
-      "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
-    },
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
     "tmdb:449576": {
       "key": "tmdb:449576",
       "title": "An Evening",
@@ -56,6 +28,20 @@
       "popularity": 2.7675,
       "releaseDate": "2026-09-18",
       "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
+    "tmdb:483": {
+      "key": "tmdb:483",
+      "title": "Wild at Heart",
+      "year": 1990,
+      "director": "David Lynch",
+      "runtime": 125,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg",
+      "tmdbId": 483,
+      "popularity": 8.6766,
+      "releaseDate": "1990-08-17",
+      "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
     },
     "tmdb:4977": {
       "key": "tmdb:4977",
@@ -222,6 +208,20 @@
       "popularity": 5.4978,
       "releaseDate": "1956-06-06",
       "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own."
+    },
+    "tmdb:8220": {
+      "key": "tmdb:8220",
+      "title": "Dark Habits",
+      "year": 1983,
+      "director": "Pedro Almodóvar",
+      "runtime": 100,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/AB9cm20W0lGebbI39swUmdYZAV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/njHtlpln6iBMonTkXGI7plRMaIM.jpg",
+      "tmdbId": 8220,
+      "popularity": 2.166,
+      "releaseDate": "1983-10-03",
+      "overview": "After her drug pusher boyfriend overdoses on heroin, a cabaret singer finds refuge from the authorities in a convent for fallen women."
     },
     "tmdb:9886": {
       "key": "tmdb:9886",
@@ -431,6 +431,20 @@
       "releaseDate": "1964-12-17",
       "overview": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father."
     },
+    "tmdb:66664": {
+      "key": "tmdb:66664",
+      "title": "Shocking Dark",
+      "year": 1989,
+      "director": "Bruno Mattei",
+      "runtime": 90,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/tztmdSyvfvQBVyzqyh6sKQeJP5g.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/b4oyUTJzHQ4Q2CNoDYtvFJkm29q.jpg",
+      "tmdbId": 66664,
+      "popularity": 0.8858,
+      "releaseDate": "1989-03-17",
+      "overview": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures."
+    },
     "tmdb:98096": {
       "key": "tmdb:98096",
       "title": "Live Music",
@@ -457,6 +471,20 @@
       "popularity": 11.6849,
       "releaseDate": "2020-10-26",
       "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy."
+    },
+    "tmdb:1599181": {
+      "key": "tmdb:1599181",
+      "title": "Chronovisor",
+      "year": 2026,
+      "director": "Kevin Walker, Jack Auen",
+      "runtime": 99,
+      "genre": "Mystery",
+      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
+      "tmdbId": 1599181,
+      "popularity": 2.7616,
+      "releaseDate": "2026-09-04",
+      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
     },
     "tmdb:19596": {
       "key": "tmdb:19596",
@@ -556,6 +584,34 @@
       "releaseDate": "1991-06-05",
       "overview": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth."
     },
+    "tmdb:93465": {
+      "key": "tmdb:93465",
+      "title": "The Chinese Feast",
+      "year": 1995,
+      "director": "Tsui Hark",
+      "runtime": 100,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/hbal71oj7AlzQSlvUeAMXHFM1rz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sDEeZGAE7N44XPJa1fi4yYLTaHb.jpg",
+      "tmdbId": 93465,
+      "popularity": 2.5026,
+      "releaseDate": "1995-01-28",
+      "overview": "Within a few years, petty crook Chiu rises to gang leader. But his professional ambitions are actually quite different: he wants to leave illegality behind and make a career for himself and his lover in Canada... as a chef. However, this craft must first be learned and Chiu's talent in the field of cooking leaves much to be desired."
+    },
+    "tmdb:1597242": {
+      "key": "tmdb:1597242",
+      "title": "Cameron Winter at Carnegie Hall",
+      "year": 2026,
+      "director": "Paul Thomas Anderson",
+      "runtime": 75,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/sQt2KQWkpGb79UKlCJNJ2BKobjo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7wwJh55u7y5YoUJaABy5o47d14z.jpg",
+      "tmdbId": 1597242,
+      "popularity": 2.5046,
+      "releaseDate": "2026-11-20",
+      "overview": "A concert film documenting Cameron Winter's sold-out performance at Carnegie Hall."
+    },
     "t:claudio simonettis goblin performs the live score to tenebre": {
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
       "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
@@ -601,6 +657,20 @@
       "popularity": 9.027,
       "releaseDate": "1999-04-16",
       "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun."
+    },
+    "tmdb:364": {
+      "key": "tmdb:364",
+      "title": "Batman Returns",
+      "year": 1992,
+      "director": "Tim Burton",
+      "runtime": 126,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7x4SNxO5HWArighxxFeet5sn3il.jpg",
+      "tmdbId": 364,
+      "popularity": 10.5355,
+      "releaseDate": "1992-06-19",
+      "overview": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader."
     },
     "tmdb:47504": {
       "key": "tmdb:47504",
@@ -1158,6 +1228,34 @@
       "releaseDate": "1957-11-14",
       "overview": "A middle-aged man meets a young woman who is waiting on a canal bridge for her lover's return."
     },
+    "tmdb:795815": {
+      "key": "tmdb:795815",
+      "title": "What Do We See When We Look at the Sky?",
+      "year": 2021,
+      "director": "Alexandre Koberidze",
+      "runtime": 150,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/dQlQWIejF1NKbRDYzFDqGAb6wN5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iVls8472HFJNBLAek0afJmDI1ve.jpg",
+      "tmdbId": 795815,
+      "popularity": 1.5614,
+      "releaseDate": "2021-11-12",
+      "overview": "In the Georgian riverside town of Kutaisi, summertime romance and World Cup fever are in the air. After a pair of chance encounters, pharmacist Lisa and soccer player Giorgi find their plans for a date undone when they both awaken magically transformed with no way to recognize each other."
+    },
+    "tmdb:872": {
+      "key": "tmdb:872",
+      "title": "Singin' in the Rain",
+      "year": 1952,
+      "director": "Stanley Donen, Gene Kelly",
+      "runtime": 103,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
+      "tmdbId": 872,
+      "popularity": 11.8925,
+      "releaseDate": "1952-04-10",
+      "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures."
+    },
     "tmdb:7270": {
       "key": "tmdb:7270",
       "title": "Matchstick Men",
@@ -1339,6 +1437,20 @@
       "releaseDate": "1951-08-15",
       "overview": "Career gambler Dan Milner agrees to a $50,000 deal to leave the USA for Mexico, only to find himself entangled with fellow guests at a luxurious resort and suspecting that the man who hired him may be the deported crime boss Nick Ferraro aiming to re-enter to the USA."
     },
+    "tmdb:39410": {
+      "key": "tmdb:39410",
+      "title": "Mothra",
+      "year": 1961,
+      "director": "Ishirō Honda",
+      "runtime": 101,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/87hiAyyGFHPuuJ3iXHK8xZSMcRP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fyYBmshYHUwjdVG7CaKCSMDOa7s.jpg",
+      "tmdbId": 39410,
+      "popularity": 2.7666,
+      "releaseDate": "1961-07-30",
+      "overview": "Shipwreck survivors found on the presumably uninhabited Infant Island leads to a scientific expedition that discovers a surviving native population along with the Shobijin, tiny twin fairy priestesses of the island's mythical deity called Mothra. After the fairies are kidnapped by an exploitative businessman named Clark Nelson, Mothra sets out to rescue them."
+    },
     "tmdb:25768": {
       "key": "tmdb:25768",
       "title": "Steamboat Bill, Jr.",
@@ -1366,46 +1478,23 @@
       "popularity": 10.5593,
       "releaseDate": "1956-11-08",
       "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
+    },
+    "tmdb:49852": {
+      "key": "tmdb:49852",
+      "title": "The Nutcracker",
+      "year": 2010,
+      "director": "Andrei Konchalovsky",
+      "runtime": 108,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/8qpovUSOZiqFOpsHoByfKojI8iC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/y6ttkVRr6S3FCLxlohx9tyNdeIJ.jpg",
+      "tmdbId": 49852,
+      "popularity": 2.8044,
+      "releaseDate": "2010-11-24",
+      "overview": "On Christmas Eve in 1920s Vienna, a young girl named Mary and her brother are visited by their eccentric uncle Albert, who gifts a magical wooden nutcracker that comes to life and takes her to a fantasy world to fight the evil Rat King."
     }
   },
   "screenings": [
-    {
-      "id": "balboa:2026-11-03:17:00:tmdb:31767",
-      "venueId": "balboa",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-03",
-      "time": "17:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-devils-november-3",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-11-03:18:00:tmdb:483",
-      "venueId": "roxie",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-03",
-      "time": "18:00",
-      "url": "https://roxie.com/film/wild-at-heart/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-03:20:20:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-03",
-      "time": "20:20",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-11-03:20:30:tmdb:1599181",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-11-03",
-      "time": "20:30",
-      "url": "https://roxie.com/film/chronovisor/",
-      "source": "roxie"
-    },
     {
       "id": "alamo:2026-11-04:13:30:tmdb:31767",
       "venueId": "alamo",
@@ -1435,6 +1524,15 @@
       "source": "alamo"
     },
     {
+      "id": "roxie:2026-11-04:18:00:tmdb:449576",
+      "venueId": "roxie",
+      "filmKey": "tmdb:449576",
+      "date": "2026-11-04",
+      "time": "18:00",
+      "url": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-11-04:18:00:tmdb:483",
       "venueId": "alamo",
       "filmKey": "tmdb:483",
@@ -1443,15 +1541,6 @@
       "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=83331",
       "note": "Unrated · Returning to theaters in a new 4K digital restoration",
       "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-04:18:00:tmdb:449576",
-      "venueId": "roxie",
-      "filmKey": "tmdb:449576",
-      "date": "2026-11-04",
-      "time": "18:00",
-      "url": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/",
-      "source": "roxie"
     },
     {
       "id": "operaplaza:2026-11-04:19:00:tmdb:203",
@@ -1675,6 +1764,15 @@
       "source": "4star"
     },
     {
+      "id": "newparkway:2026-11-07:11:45:tmdb:872",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:872",
+      "date": "2026-11-07",
+      "time": "11:45",
+      "url": "https://thenewparkway.com/movie/singin-in-the-rain/",
+      "source": "newparkway"
+    },
+    {
       "id": "alamo:2026-11-07:12:00:tmdb:2001",
       "venueId": "alamo",
       "filmKey": "tmdb:2001",
@@ -1741,6 +1839,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-idaho",
       "note": "essence/universe presents:",
       "source": "4star"
+    },
+    {
+      "id": "newparkway:2026-11-07:21:30:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-07",
+      "time": "21:30",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "balboa:2026-11-07:23:00:tmdb:582913",
@@ -1818,6 +1925,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-11-08:16:30:tmdb:7270",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:7270",
+      "date": "2026-11-08",
+      "time": "16:30",
+      "url": "https://thenewparkway.com/movie/matchstick-men/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-11-08:16:45:tmdb:81",
       "venueId": "roxie",
       "filmKey": "tmdb:81",
@@ -1825,15 +1941,6 @@
       "time": "16:45",
       "url": "https://roxie.com/film/new-people-nausicaa-of-the-valley-of-the-wind/",
       "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-08:17:00:tmdb:7270",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:7270",
-      "date": "2026-11-08",
-      "time": "17:00",
-      "url": "https://thenewparkway.com/movie/matchstick-men/",
-      "source": "newparkway"
     },
     {
       "id": "alamo:2026-11-08:18:30:tmdb:31767",
@@ -1856,11 +1963,11 @@
       "source": "bampfa"
     },
     {
-      "id": "newparkway:2026-11-08:19:00:tmdb:71883",
+      "id": "newparkway:2026-11-08:19:05:tmdb:71883",
       "venueId": "newparkway",
       "filmKey": "tmdb:71883",
       "date": "2026-11-08",
-      "time": "19:00",
+      "time": "19:05",
       "url": "https://thenewparkway.com/movie/redline/",
       "source": "newparkway"
     },
@@ -1908,6 +2015,7 @@
       "date": "2026-11-10",
       "time": "14:00",
       "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84114",
+      "note": "Baby Day",
       "source": "alamo"
     },
     {
@@ -2050,6 +2158,15 @@
       "url": "https://voguemovies.com/calendar-of-events/cinema-paradiso-november-11",
       "note": "Theatrical Cut",
       "source": "vogue"
+    },
+    {
+      "id": "newparkway:2026-11-11:21:00:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-11",
+      "time": "21:00",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "sfmoma:2026-11-12:18:30:tmdb:448491",
@@ -2640,6 +2757,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-11-23:18:00:tmdb:8220",
+      "venueId": "roxie",
+      "filmKey": "tmdb:8220",
+      "date": "2026-11-23",
+      "time": "18:00",
+      "url": "https://roxie.com/film/dark-habits/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-11-23:18:45:tmdb:26039",
       "venueId": "alamo",
       "filmKey": "tmdb:26039",
@@ -2648,6 +2774,17 @@
       "url": "https://drafthouse.com/sf/show/queer-film-theory-101-point-blank-1967?cinemaId=0801&sessionId=83867",
       "note": "Queer Film Theory 101 · John Boorman and Lee Marvin bring hardboiled noir into the New Wave",
       "source": "alamo"
+    },
+    {
+      "id": "vogue:2026-11-24:16:30:tmdb:66664",
+      "venueId": "vogue",
+      "filmKey": "tmdb:66664",
+      "date": "2026-11-24",
+      "time": "16:30",
+      "url": "https://voguemovies.com/calendar-of-events/terminator-2-judgment-day-november-24",
+      "format": "3D",
+      "note": "On Digital 3D",
+      "source": "vogue"
     },
     {
       "id": "newparkway:2026-11-24:18:30:tmdb:42077",
@@ -2841,6 +2978,15 @@
       "source": "bampfa"
     },
     {
+      "id": "newparkway:2026-11-29:15:00:tmdb:39410",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:39410",
+      "date": "2026-11-29",
+      "time": "15:00",
+      "url": "https://thenewparkway.com/movie/mothra/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-11-29:15:30:tmdb:5055",
       "venueId": "roxie",
       "filmKey": "tmdb:5055",
@@ -2890,45 +3036,80 @@
       "format": "35mm",
       "note": "Terror Tuesday · A criminally overlooked nerve-shredder from author William Peter Blatty.",
       "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-12-02:18:00:tmdb:364",
+      "venueId": "alamo",
+      "filmKey": "tmdb:364",
+      "date": "2026-12-02",
+      "time": "18:00",
+      "url": "https://drafthouse.com/sf/show/batman-returns?cinemaId=0801&sessionId=83892",
+      "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-12-02:18:30:tmdb:49852",
+      "venueId": "rafael",
+      "filmKey": "tmdb:49852",
+      "date": "2026-12-02",
+      "time": "18:30",
+      "url": "https://cinema.cafilm.org/film/nutcracker",
+      "note": "Stage To Screen",
+      "source": "rafael"
+    },
+    {
+      "id": "bampfa:2026-12-02:19:00:tmdb:795815",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:795815",
+      "date": "2026-12-02",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/what-do-we-see-when-we-look-sky",
+      "format": "DCP",
+      "note": "Georgian Cinema Now: Alexandre Koberidze in Person",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-12-02:19:30:tmdb:93465",
+      "venueId": "4star",
+      "filmKey": "tmdb:93465",
+      "date": "2026-12-02",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/chinese-feast-hi-nrg",
+      "note": "HI NRG presents:",
+      "source": "4star"
+    },
+    {
+      "id": "castro:2026-12-02:19:30:tmdb:1597242",
+      "venueId": "castro",
+      "filmKey": "tmdb:1597242",
+      "date": "2026-12-02",
+      "time": "19:30",
+      "url": "https://thecastro.com/events/cameron-winter-at-carnegie-hall-261202",
+      "note": "A Janus Films and Criterion Release",
+      "source": "castro"
+    },
+    {
+      "id": "alamo:2026-12-02:21:30:tmdb:636",
+      "venueId": "alamo",
+      "filmKey": "tmdb:636",
+      "date": "2026-12-02",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-thx-1138?cinemaId=0801&sessionId=83893",
+      "format": "35mm",
+      "note": "Weird Wednesday · George Lucas' original cut, in 35mm.",
+      "source": "alamo"
+    },
+    {
+      "id": "castro:2026-12-02:21:45:tmdb:1597242",
+      "venueId": "castro",
+      "filmKey": "tmdb:1597242",
+      "date": "2026-12-02",
+      "time": "21:45",
+      "url": "https://thecastro.com/events/cameron-winter-at-carnegie-hall-261202-late",
+      "note": "Late Screening!A Janus Films and Criterion Release",
+      "source": "castro"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:grandlake:23rd animation show of shows",
-      "name": "23rd Animation Show of Shows",
-      "venueId": "grandlake",
-      "startDate": "2026-11-03",
-      "endDate": "2026-11-04",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103",
-      "showtimes": 4,
-      "sample": [],
-      "programme": [
-        {
-          "date": "2026-11-03",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "18:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
-        },
-        {
-          "date": "2026-11-03",
-          "time": "20:00",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261103"
-        },
-        {
-          "date": "2026-11-04",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104"
-        }
-      ]
-    },
     {
       "key": "fest:balboa:movies for maniacs presents get off the internet film festival hosted by jesse hawthorne ficks",
       "name": "MOViES FOR MANiACS presents “Get Off the Internet” Film Festival hosted by Jesse Hawthorne Ficks",
@@ -2950,13 +3131,31 @@
       ]
     },
     {
+      "key": "fest:grandlake:23rd animation show of shows",
+      "name": "23rd Animation Show of Shows",
+      "venueId": "grandlake",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104",
+      "showtimes": 1,
+      "sample": [],
+      "programme": [
+        {
+          "date": "2026-11-04",
+          "time": "16:10",
+          "title": "23rd Animation Show of Shows",
+          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104"
+        }
+      ]
+    },
+    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
       "startDate": "2026-11-05",
       "endDate": "2026-11-12",
       "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84062",
-      "showtimes": 31,
+      "showtimes": 30,
       "sample": [
         "Littermates",
         "Wild Horse Nine"
@@ -3093,12 +3292,6 @@
           "time": "22:30",
           "title": "Wild Horse Nine",
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84105"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "14:20",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84115"
         },
         {
           "date": "2026-11-10",
@@ -3268,6 +3461,26 @@
           "time": "16:00",
           "title": "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\"",
           "url": "https://www.4-star-movies.com/calendar-of-events/cdff-tue"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents baby day",
+      "name": "Fantastic Fest Presents · Baby Day",
+      "venueId": "alamo",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84115",
+      "showtimes": 1,
+      "sample": [
+        "Wild Horse Nine"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-10",
+          "time": "14:20",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84115"
         }
       ]
     },
@@ -3452,6 +3665,25 @@
           "time": "15:00",
           "title": "Center Stage",
           "url": "https://bampfa.org/event/center-stage"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:arrival unarius mixtape",
+      "name": "The Arrival + Unarius Mixtape",
+      "venueId": "alamo",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-the-arrival-unarius-mixtape?cinemaId=0801&sessionId=83876",
+      "showtimes": 1,
+      "sample": [],
+      "programme": [
+        {
+          "date": "2026-12-09",
+          "time": "21:00",
+          "title": "The Arrival + Unarius Mixtape",
+          "url": "https://drafthouse.com/sf/show/weird-wednesday-the-arrival-unarius-mixtape?cinemaId=0801&sessionId=83876",
+          "note": "Weird Wednesday · A truly spectacular DIY sci-fi lodestone"
         }
       ]
     }
