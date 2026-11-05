@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-04T20:09:15.188Z",
+  "generatedAt": "2026-11-05T20:22:38.075Z",
   "films": {
-    "tmdb:449576": {
-      "key": "tmdb:449576",
-      "title": "An Evening",
-      "year": 2016,
-      "director": "Søren Green",
-      "runtime": 10,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/qVzoprf4klPy5MLU36NHNmojeja.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ze7qmlim7L6avnA8xCE0ERivpua.jpg",
-      "tmdbId": 449576,
-      "popularity": 0.7756,
-      "releaseDate": "2016-05-29",
-      "overview": "Having slept together for the first time, two teenage boys must make sense of their evolving relationship."
-    },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
       "title": "The History of Concrete",
@@ -28,20 +14,6 @@
       "popularity": 2.7675,
       "releaseDate": "2026-09-18",
       "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:483": {
-      "key": "tmdb:483",
-      "title": "Wild at Heart",
-      "year": 1990,
-      "director": "David Lynch",
-      "runtime": 125,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg",
-      "tmdbId": 483,
-      "popularity": 8.6766,
-      "releaseDate": "1990-08-17",
-      "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
     },
     "tmdb:4977": {
       "key": "tmdb:4977",
@@ -98,6 +70,20 @@
       "popularity": 18.542,
       "releaseDate": "1984-03-11",
       "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
+    },
+    "tmdb:483": {
+      "key": "tmdb:483",
+      "title": "Wild at Heart",
+      "year": 1990,
+      "director": "David Lynch",
+      "runtime": 125,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg",
+      "tmdbId": 483,
+      "popularity": 8.6766,
+      "releaseDate": "1990-08-17",
+      "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
     },
     "tmdb:664572": {
       "key": "tmdb:664572",
@@ -208,6 +194,20 @@
       "popularity": 5.4978,
       "releaseDate": "1956-06-06",
       "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own."
+    },
+    "tmdb:1255": {
+      "key": "tmdb:1255",
+      "title": "The Host",
+      "year": 2006,
+      "director": "Bong Joon Ho",
+      "runtime": 120,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/dEDLY3KeghKFzks5nTDWdigVikr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/m0wczZyNfWpu5q9wNuhFUGGiLxG.jpg",
+      "tmdbId": 1255,
+      "popularity": 9.0028,
+      "releaseDate": "2006-07-27",
+      "overview": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her."
     },
     "tmdb:8220": {
       "key": "tmdb:8220",
@@ -388,6 +388,20 @@
       "popularity": 12.5251,
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
+    },
+    "tmdb:33665": {
+      "key": "tmdb:33665",
+      "title": "Opening Night",
+      "year": 1977,
+      "director": "John Cassavetes",
+      "runtime": 144,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/5i1331f4Q2sNHUp9X3BOwWPS2Gg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/gp7rYRo09ir7NEnrQURymsD95RG.jpg",
+      "tmdbId": 33665,
+      "popularity": 2.81,
+      "releaseDate": "1977-12-22",
+      "overview": "Actress Myrtle Gordon is a functioning alcoholic who is a few days from the opening night of her latest play, concerning a woman distraught about aging. One night a car kills one of Myrtle's fans who is chasing her limousine in an attempt to get the star's attention. Myrtle internalizes the accident and goes on a spiritual quest, but fails to finds the answers she is after. As opening night inches closer and closer, fragile Myrtle must find a way to make the show go on."
     },
     "tmdb:329": {
       "key": "tmdb:329",
@@ -962,20 +976,6 @@
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
     },
-    "tmdb:203": {
-      "key": "tmdb:203",
-      "title": "Mean Streets",
-      "year": 1973,
-      "director": "Martin Scorsese",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
-      "tmdbId": 203,
-      "popularity": 7.183,
-      "releaseDate": "1973-10-14",
-      "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
-    },
     "tmdb:11778": {
       "key": "tmdb:11778",
       "title": "The Deer Hunter",
@@ -989,6 +989,20 @@
       "popularity": 11.4383,
       "releaseDate": "1978-12-08",
       "overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever."
+    },
+    "tmdb:203": {
+      "key": "tmdb:203",
+      "title": "Mean Streets",
+      "year": 1973,
+      "director": "Martin Scorsese",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
+      "tmdbId": 203,
+      "popularity": 7.183,
+      "releaseDate": "1973-10-14",
+      "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
     },
     "tmdb:14537": {
       "key": "tmdb:14537",
@@ -1496,111 +1510,6 @@
   },
   "screenings": [
     {
-      "id": "alamo:2026-11-04:13:30:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-04",
-      "time": "13:30",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84026",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-11-04:16:00:tmdb:31767",
-      "venueId": "balboa",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-04",
-      "time": "16:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-devils-november-4",
-      "note": "Final Show",
-      "source": "balboa"
-    },
-    {
-      "id": "alamo:2026-11-04:16:30:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-04",
-      "time": "16:30",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84028",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-04:18:00:tmdb:449576",
-      "venueId": "roxie",
-      "filmKey": "tmdb:449576",
-      "date": "2026-11-04",
-      "time": "18:00",
-      "url": "https://roxie.com/film/an-evening-with-jane-schoenbrun-public-access-afterworld-i-saw-the-tv-glow/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-04:18:00:tmdb:483",
-      "venueId": "alamo",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-04",
-      "time": "18:00",
-      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=83331",
-      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
-      "source": "alamo"
-    },
-    {
-      "id": "operaplaza:2026-11-04:19:00:tmdb:203",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:203",
-      "date": "2026-11-04",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/236-mean-streets/",
-      "note": "Filmmaker Focus: Robert De Niro",
-      "source": "operaplaza"
-    },
-    {
-      "id": "4star:2026-11-04:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-04",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-green-house",
-      "note": "Throwin’ Bo’s presents:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-04:20:30:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-04",
-      "time": "20:30",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-04:20:35:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-04",
-      "time": "20:35",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-11-04:21:00:tmdb:483",
-      "venueId": "roxie",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-04",
-      "time": "21:00",
-      "url": "https://roxie.com/film/wild-at-heart/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-04:21:40:tmdb:483",
-      "venueId": "alamo",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-04",
-      "time": "21:40",
-      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84040",
-      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
-      "source": "alamo"
-    },
-    {
       "id": "alamo:2026-11-05:13:00:tmdb:483",
       "venueId": "alamo",
       "filmKey": "tmdb:483",
@@ -1637,6 +1546,16 @@
       "time": "18:00",
       "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84065",
       "source": "alamo"
+    },
+    {
+      "id": "vogue:2026-11-05:18:30:tmdb:33665",
+      "venueId": "vogue",
+      "filmKey": "tmdb:33665",
+      "date": "2026-11-05",
+      "time": "18:30",
+      "url": "https://voguemovies.com/calendar-of-events/doc-stories-14th-november-4",
+      "note": "Playing as part of 2026 Doc Stories",
+      "source": "vogue"
     },
     {
       "id": "roxie:2026-11-05:19:15:tmdb:4977",
@@ -1972,11 +1891,11 @@
       "source": "newparkway"
     },
     {
-      "id": "roxie:2026-11-08:19:35:tmdb:1596296",
+      "id": "roxie:2026-11-08:19:40:tmdb:1596296",
       "venueId": "roxie",
       "filmKey": "tmdb:1596296",
       "date": "2026-11-08",
-      "time": "19:35",
+      "time": "19:40",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
     },
@@ -2357,11 +2276,11 @@
       "source": "4star"
     },
     {
-      "id": "roxie:2026-11-16:21:05:tmdb:31767",
+      "id": "roxie:2026-11-16:20:00:tmdb:31767",
       "venueId": "roxie",
       "filmKey": "tmdb:31767",
       "date": "2026-11-16",
-      "time": "21:05",
+      "time": "20:00",
       "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
       "format": "4K",
       "source": "roxie"
@@ -2686,6 +2605,16 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-11-21:21:15:tmdb:1255",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1255",
+      "date": "2026-11-21",
+      "time": "21:15",
+      "url": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-11-22:10:00:tmdb:10315",
       "venueId": "4star",
       "filmKey": "tmdb:10315",
@@ -2774,6 +2703,16 @@
       "url": "https://drafthouse.com/sf/show/queer-film-theory-101-point-blank-1967?cinemaId=0801&sessionId=83867",
       "note": "Queer Film Theory 101 · John Boorman and Lee Marvin bring hardboiled noir into the New Wave",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-11-23:20:30:tmdb:1255",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1255",
+      "date": "2026-11-23",
+      "time": "20:30",
+      "url": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
     },
     {
       "id": "vogue:2026-11-24:16:30:tmdb:66664",
@@ -3107,47 +3046,19 @@
       "url": "https://thecastro.com/events/cameron-winter-at-carnegie-hall-261202-late",
       "note": "Late Screening!A Janus Films and Criterion Release",
       "source": "castro"
+    },
+    {
+      "id": "alamo:2026-12-03:16:00:tmdb:13398",
+      "venueId": "alamo",
+      "filmKey": "tmdb:13398",
+      "date": "2026-12-03",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/tokyo-godfathers-subtitled?cinemaId=0801&sessionId=83897",
+      "note": "Subtitled",
+      "source": "alamo"
     }
   ],
   "festivals": [
-    {
-      "key": "fest:balboa:movies for maniacs presents get off the internet film festival hosted by jesse hawthorne ficks",
-      "name": "MOViES FOR MANiACS presents “Get Off the Internet” Film Festival hosted by Jesse Hawthorne Ficks",
-      "venueId": "balboa",
-      "startDate": "2026-11-04",
-      "endDate": "2026-11-04",
-      "url": "https://www.balboamovies.com/calendar-of-events/too-much-november-4",
-      "showtimes": 1,
-      "sample": [
-        "Too Much"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-04",
-          "time": "19:30",
-          "title": "Too Much",
-          "url": "https://www.balboamovies.com/calendar-of-events/too-much-november-4"
-        }
-      ]
-    },
-    {
-      "key": "fest:grandlake:23rd animation show of shows",
-      "name": "23rd Animation Show of Shows",
-      "venueId": "grandlake",
-      "startDate": "2026-11-04",
-      "endDate": "2026-11-04",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104",
-      "showtimes": 1,
-      "sample": [],
-      "programme": [
-        {
-          "date": "2026-11-04",
-          "time": "16:10",
-          "title": "23rd Animation Show of Shows",
-          "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261104"
-        }
-      ]
-    },
     {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
@@ -3367,6 +3278,33 @@
           "time": "18:00",
           "title": "Rouge",
           "url": "https://bampfa.org/event/rouge"
+        }
+      ]
+    },
+    {
+      "key": "fest:vogue:shorts block",
+      "name": "Shorts Block",
+      "venueId": "vogue",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-new-york-times-november-6",
+      "showtimes": 2,
+      "sample": [
+        "New York Times Op Docs",
+        "Sensory Experience"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-06",
+          "time": "17:30",
+          "title": "New York Times Op Docs",
+          "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-new-york-times-november-6"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "11:00",
+          "title": "Sensory Experience",
+          "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-sensory-experience-november-7"
         }
       ]
     },
