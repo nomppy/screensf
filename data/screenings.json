@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-11-05T20:22:38.075Z",
+  "generatedAt": "2026-11-06T19:46:57.266Z",
   "films": {
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:4977": {
-      "key": "tmdb:4977",
-      "title": "Paprika",
-      "year": 2006,
-      "director": "Satoshi Kon",
-      "runtime": 90,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/nHJljo2Pi7XimYEgV9hvRchQWmg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
-      "tmdbId": 4977,
-      "popularity": 9.0953,
-      "releaseDate": "2006-10-01",
-      "overview": "Dr. Atsuko Chiba is a research psychologist who uses a device called the DC Mini to enter her patients' dreams, wherein she adopts the alter-ego \"Paprika\". When the device is stolen, she must stop rogue elements from merging the dream and waking worlds."
-    },
     "tmdb:2990": {
       "key": "tmdb:2990",
       "title": "Pacific Heights",
@@ -56,6 +28,20 @@
       "popularity": 5.9565,
       "releaseDate": "1971-07-16",
       "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:81": {
       "key": "tmdb:81",
@@ -138,6 +124,20 @@
       "popularity": 0.5428,
       "releaseDate": "1985-01-01",
       "overview": "Frenetic and impressionistic, this nocturnal foray through San Francisco's streets (heightened by a stop at a nightclub) delivers a thrill-hit of ebullient adrenaline. The rush of excitement, of anonymity, of adventure, of being alive, of potentially meeting someone new is palpable. Somewhere in the middle of this burst of gorgeous black-and-white, the neon takes on a life of its own, squiggling into infinity. \"This is about living fast and dying peacefully,\" the filmmaker said at the time, which adds another layer of poignancy. - Michael Fox"
+    },
+    "tmdb:4977": {
+      "key": "tmdb:4977",
+      "title": "Paprika",
+      "year": 2006,
+      "director": "Satoshi Kon",
+      "runtime": 90,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/nHJljo2Pi7XimYEgV9hvRchQWmg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
+      "tmdbId": 4977,
+      "popularity": 9.0953,
+      "releaseDate": "2006-10-01",
+      "overview": "Dr. Atsuko Chiba is a research psychologist who uses a device called the DC Mini to enter her patients' dreams, wherein she adopts the alter-ego \"Paprika\". When the device is stolen, she must stop rogue elements from merging the dream and waking worlds."
     },
     "tmdb:198669": {
       "key": "tmdb:198669",
@@ -389,20 +389,6 @@
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
     },
-    "tmdb:33665": {
-      "key": "tmdb:33665",
-      "title": "Opening Night",
-      "year": 1977,
-      "director": "John Cassavetes",
-      "runtime": 144,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/5i1331f4Q2sNHUp9X3BOwWPS2Gg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/gp7rYRo09ir7NEnrQURymsD95RG.jpg",
-      "tmdbId": 33665,
-      "popularity": 2.81,
-      "releaseDate": "1977-12-22",
-      "overview": "Actress Myrtle Gordon is a functioning alcoholic who is a few days from the opening night of her latest play, concerning a woman distraught about aging. One night a car kills one of Myrtle's fans who is chasing her limousine in an attempt to get the star's attention. Myrtle internalizes the accident and goes on a spiritual quest, but fails to finds the answers she is after. As opening night inches closer and closer, fragile Myrtle must find a way to make the show go on."
-    },
     "tmdb:329": {
       "key": "tmdb:329",
       "title": "Jurassic Park",
@@ -459,19 +445,6 @@
       "releaseDate": "1989-03-17",
       "overview": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures."
     },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0169,
-      "releaseDate": "2009-11-20",
-      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
-    },
     "tmdb:441130": {
       "key": "tmdb:441130",
       "title": "Wolfwalkers",
@@ -485,6 +458,19 @@
       "popularity": 11.6849,
       "releaseDate": "2020-10-26",
       "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy."
+    },
+    "tmdb:98096": {
+      "key": "tmdb:98096",
+      "title": "Live Music",
+      "year": 2009,
+      "director": "Yair Landau",
+      "runtime": 6,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
+      "tmdbId": 98096,
+      "popularity": 1.0169,
+      "releaseDate": "2009-11-20",
+      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
     },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
@@ -1256,6 +1242,20 @@
       "releaseDate": "2021-11-12",
       "overview": "In the Georgian riverside town of Kutaisi, summertime romance and World Cup fever are in the air. After a pair of chance encounters, pharmacist Lisa and soccer player Giorgi find their plans for a date undone when they both awaken magically transformed with no way to recognize each other."
     },
+    "tmdb:1598": {
+      "key": "tmdb:1598",
+      "title": "Cape Fear",
+      "year": 1991,
+      "director": "Martin Scorsese",
+      "runtime": 128,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/meJZAAuVcjic2ipvbOPz5UlE4P9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ntgpger7OwFNlEldxuvvFHDKzjW.jpg",
+      "tmdbId": 1598,
+      "popularity": 7.2807,
+      "releaseDate": "1991-11-13",
+      "overview": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss."
+    },
     "tmdb:872": {
       "key": "tmdb:872",
       "title": "Singin' in the Rain",
@@ -1479,6 +1479,20 @@
       "releaseDate": "1928-05-09",
       "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
     },
+    "tmdb:1596326": {
+      "key": "tmdb:1596326",
+      "title": "Barbara Forever",
+      "year": 2026,
+      "director": "Brydie O'Connor",
+      "runtime": 102,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
+      "tmdbId": 1596326,
+      "popularity": 2.5685,
+      "releaseDate": "2026-09-04",
+      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
+    },
     "tmdb:1712": {
       "key": "tmdb:1712",
       "title": "Giant",
@@ -1509,82 +1523,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-11-05:13:00:tmdb:483",
-      "venueId": "alamo",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-05",
-      "time": "13:00",
-      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84069",
-      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-05:15:30:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-05",
-      "time": "15:30",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-05:16:15:tmdb:483",
-      "venueId": "alamo",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-05",
-      "time": "16:15",
-      "url": "https://drafthouse.com/sf/show/special-event-wild-at-heart-unrated?cinemaId=0801&sessionId=84068",
-      "note": "Unrated · Returning to theaters in a new 4K digital restoration",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-11-05:18:00:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-05",
-      "time": "18:00",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84065",
-      "source": "alamo"
-    },
-    {
-      "id": "vogue:2026-11-05:18:30:tmdb:33665",
-      "venueId": "vogue",
-      "filmKey": "tmdb:33665",
-      "date": "2026-11-05",
-      "time": "18:30",
-      "url": "https://voguemovies.com/calendar-of-events/doc-stories-14th-november-4",
-      "note": "Playing as part of 2026 Doc Stories",
-      "source": "vogue"
-    },
-    {
-      "id": "roxie:2026-11-05:19:15:tmdb:4977",
-      "venueId": "roxie",
-      "filmKey": "tmdb:4977",
-      "date": "2026-11-05",
-      "time": "19:15",
-      "url": "https://roxie.com/film/new-people-paprika/",
-      "source": "roxie"
-    },
-    {
-      "id": "4star:2026-11-05:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-05",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-good-friends-nov",
-      "note": "Good Friends",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-05:21:20:tmdb:4977",
-      "venueId": "roxie",
-      "filmKey": "tmdb:4977",
-      "date": "2026-11-05",
-      "time": "21:20",
-      "url": "https://roxie.com/film/new-people-paprika/",
-      "source": "roxie"
-    },
     {
       "id": "alamo:2026-11-06:14:00:tmdb:965",
       "venueId": "alamo",
@@ -1645,15 +1583,6 @@
       "source": "balboa"
     },
     {
-      "id": "roxie:2026-11-06:20:15:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-06",
-      "time": "20:15",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
       "id": "roxie:2026-11-06:20:15:tmdb:31767",
       "venueId": "roxie",
       "filmKey": "tmdb:31767",
@@ -1661,6 +1590,15 @@
       "time": "20:15",
       "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
       "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-06:20:15:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-06",
+      "time": "20:15",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
     },
     {
@@ -1969,6 +1907,16 @@
       "source": "newparkway"
     },
     {
+      "id": "rafael:2026-11-10:18:30:tmdb:1596326",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1596326",
+      "date": "2026-11-10",
+      "time": "18:30",
+      "url": "https://cinema.cafilm.org/film/barbara-forever",
+      "note": "Contenders Season — Director Brydie O'Connor in Conversation with",
+      "source": "rafael"
+    },
+    {
       "id": "castro:2026-11-10:19:30:t:claudio simonettis goblin performs the live score to tenebre",
       "venueId": "castro",
       "filmKey": "t:claudio simonettis goblin performs the live score to tenebre",
@@ -2088,6 +2036,15 @@
       "source": "newparkway"
     },
     {
+      "id": "roxie:2026-11-12:18:00:tmdb:81",
+      "venueId": "roxie",
+      "filmKey": "tmdb:81",
+      "date": "2026-11-12",
+      "time": "18:00",
+      "url": "https://roxie.com/film/new-people-nausicaa-of-the-valley-of-the-wind/",
+      "source": "roxie"
+    },
+    {
       "id": "sfmoma:2026-11-12:18:30:tmdb:448491",
       "venueId": "sfmoma",
       "filmKey": "tmdb:448491",
@@ -2146,6 +2103,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-school-fair",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-11-12:20:30:tmdb:4977",
+      "venueId": "roxie",
+      "filmKey": "tmdb:4977",
+      "date": "2026-11-12",
+      "time": "20:30",
+      "url": "https://roxie.com/film/new-people-paprika/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-11-12:20:40:tmdb:1596296",
@@ -3056,40 +3022,97 @@
       "url": "https://drafthouse.com/sf/show/tokyo-godfathers-subtitled?cinemaId=0801&sessionId=83897",
       "note": "Subtitled",
       "source": "alamo"
+    },
+    {
+      "id": "bampfa:2026-12-04:19:00:tmdb:1598",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:1598",
+      "date": "2026-12-04",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/cape-fear",
+      "format": "35mm",
+      "note": "Martin Scorsese Pictures",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-12-04:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-12-04",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-crooked-jades-2026",
+      "note": "The Crooked Jades",
+      "source": "4star"
     }
   ],
   "festivals": [
     {
+      "key": "fest:vogue:shorts block",
+      "name": "Shorts Block",
+      "venueId": "vogue",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-new-york-times-november-6",
+      "showtimes": 2,
+      "sample": [
+        "New York Times Op Docs",
+        "Sensory Experience"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-06",
+          "time": "17:30",
+          "title": "New York Times Op Docs",
+          "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-new-york-times-november-6"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "11:00",
+          "title": "Sensory Experience",
+          "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-sensory-experience-november-7"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:studio 8 film festival",
+      "name": "STUDIO 8 FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "url": "https://www.4-star-movies.com/calendar-of-events/juror-night-studio-8-sfaa",
+      "showtimes": 2,
+      "sample": [
+        "Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
+        "Juried Show: Personal Visions (Presented by SF Artists Alumni)"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-06",
+          "time": "19:30",
+          "title": "Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/juror-night-studio-8-sfaa"
+        },
+        {
+          "date": "2026-11-07",
+          "time": "14:00",
+          "title": "Juried Show: Personal Visions (Presented by SF Artists Alumni)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa"
+        }
+      ]
+    },
+    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-05",
+      "startDate": "2026-11-06",
       "endDate": "2026-11-12",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84062",
-      "showtimes": 30,
+      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=84078",
+      "showtimes": 27,
       "sample": [
         "Littermates",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-05",
-          "time": "15:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84062"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "18:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84060"
-        },
-        {
-          "date": "2026-11-05",
-          "time": "21:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84061"
-        },
         {
           "date": "2026-11-06",
           "time": "11:20",
@@ -3251,87 +3274,6 @@
           "time": "21:15",
           "title": "Littermates",
           "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
-        }
-      ]
-    },
-    {
-      "key": "fest:bampfa:hong kong cinema rarities and restorations digital restoration",
-      "name": "Hong Kong Cinema: Rarities and Restorations · Digital Restoration",
-      "venueId": "bampfa",
-      "startDate": "2026-11-05",
-      "endDate": "2026-11-22",
-      "url": "https://bampfa.org/event/secret",
-      "showtimes": 2,
-      "sample": [
-        "The Secret",
-        "Rouge"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-05",
-          "time": "19:00",
-          "title": "The Secret",
-          "url": "https://bampfa.org/event/secret"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "18:00",
-          "title": "Rouge",
-          "url": "https://bampfa.org/event/rouge"
-        }
-      ]
-    },
-    {
-      "key": "fest:vogue:shorts block",
-      "name": "Shorts Block",
-      "venueId": "vogue",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-07",
-      "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-new-york-times-november-6",
-      "showtimes": 2,
-      "sample": [
-        "New York Times Op Docs",
-        "Sensory Experience"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-06",
-          "time": "17:30",
-          "title": "New York Times Op Docs",
-          "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-new-york-times-november-6"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "11:00",
-          "title": "Sensory Experience",
-          "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-sensory-experience-november-7"
-        }
-      ]
-    },
-    {
-      "key": "fest:4star:studio 8 film festival",
-      "name": "STUDIO 8 FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-07",
-      "url": "https://www.4-star-movies.com/calendar-of-events/juror-night-studio-8-sfaa",
-      "showtimes": 2,
-      "sample": [
-        "Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
-        "Juried Show: Personal Visions (Presented by SF Artists Alumni)"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-06",
-          "time": "19:30",
-          "title": "Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/juror-night-studio-8-sfaa"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "14:00",
-          "title": "Juried Show: Personal Visions (Presented by SF Artists Alumni)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa"
         }
       ]
     },
@@ -3603,6 +3545,26 @@
           "time": "15:00",
           "title": "Center Stage",
           "url": "https://bampfa.org/event/center-stage"
+        }
+      ]
+    },
+    {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations digital restoration",
+      "name": "Hong Kong Cinema: Rarities and Restorations · Digital Restoration",
+      "venueId": "bampfa",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "url": "https://bampfa.org/event/rouge",
+      "showtimes": 1,
+      "sample": [
+        "Rouge"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-22",
+          "time": "18:00",
+          "title": "Rouge",
+          "url": "https://bampfa.org/event/rouge"
         }
       ]
     },
