@@ -1,62 +1,6 @@
 {
-  "generatedAt": "2026-11-06T19:46:57.266Z",
+  "generatedAt": "2026-11-07T17:57:05.792Z",
   "films": {
-    "tmdb:2990": {
-      "key": "tmdb:2990",
-      "title": "Pacific Heights",
-      "year": 1990,
-      "director": "John Schlesinger",
-      "runtime": 102,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/9iHD6xIrGSuuMEFWhwSVGXSddY2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/oifQqVSpK5fOqgCrYIEbLGkcIiS.jpg",
-      "tmdbId": 2990,
-      "popularity": 7.2318,
-      "releaseDate": "1990-09-28",
-      "overview": "A couple works hard to renovate their dream house and become landlords to pay for it. Unfortunately one of their tenants has plans of his own."
-    },
-    "tmdb:31767": {
-      "key": "tmdb:31767",
-      "title": "The Devils",
-      "year": 1971,
-      "director": "Ken Russell",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
-      "tmdbId": 31767,
-      "popularity": 5.9565,
-      "releaseDate": "1971-07-16",
-      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:81": {
-      "key": "tmdb:81",
-      "title": "Warriors of the Wind",
-      "year": 1984,
-      "director": "Hayao Miyazaki",
-      "runtime": 95,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/z2jsAbXWGdJvadhovznjGg33VND.jpg",
-      "tmdbId": 81,
-      "popularity": 18.542,
-      "releaseDate": "1984-03-11",
-      "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
-    },
     "tmdb:483": {
       "key": "tmdb:483",
       "title": "Wild at Heart",
@@ -99,6 +43,34 @@
       "releaseDate": "1969-01-28",
       "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
     },
+    "tmdb:81": {
+      "key": "tmdb:81",
+      "title": "Warriors of the Wind",
+      "year": 1984,
+      "director": "Hayao Miyazaki",
+      "runtime": 95,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/z2jsAbXWGdJvadhovznjGg33VND.jpg",
+      "tmdbId": 81,
+      "popularity": 18.542,
+      "releaseDate": "1984-03-11",
+      "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
     "tmdb:636": {
       "key": "tmdb:636",
       "title": "THX 1138",
@@ -112,6 +84,20 @@
       "popularity": 3.4791,
       "releaseDate": "1971-03-11",
       "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
+    },
+    "tmdb:31767": {
+      "key": "tmdb:31767",
+      "title": "The Devils",
+      "year": 1971,
+      "director": "Ken Russell",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+      "tmdbId": 31767,
+      "popularity": 5.9565,
+      "releaseDate": "1971-07-16",
+      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
     },
     "tmdb:425395": {
       "key": "tmdb:425395",
@@ -265,17 +251,19 @@
       "releaseDate": "1958-10-03",
       "overview": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales."
     },
-    "tmdb:694952": {
-      "key": "tmdb:694952",
-      "title": "A Double Feature",
-      "year": 1971,
-      "director": "Roger Watkins",
-      "runtime": 4,
-      "poster": "https://image.tmdb.org/t/p/w500/pk2n6G7VgtsuMSIQb2hIiHcdLzB.jpg",
-      "tmdbId": 694952,
-      "popularity": 0.6243,
-      "releaseDate": "1971-01-01",
-      "overview": "Two short stop-motion animated films. The first film, 'Life is Nice I Think', follows a mannequin as it moves around a building. The second film, '-Rex- King of the Animals', follows a toy monkey that interacts with various other animals."
+    "tmdb:1597242": {
+      "key": "tmdb:1597242",
+      "title": "Cameron Winter at Carnegie Hall",
+      "year": 2026,
+      "director": "Paul Thomas Anderson",
+      "runtime": 75,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/sQt2KQWkpGb79UKlCJNJ2BKobjo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/7wwJh55u7y5YoUJaABy5o47d14z.jpg",
+      "tmdbId": 1597242,
+      "popularity": 2.5046,
+      "releaseDate": "2026-11-20",
+      "overview": "A concert film documenting Cameron Winter's sold-out performance at Carnegie Hall."
     },
     "tmdb:582913": {
       "key": "tmdb:582913",
@@ -598,20 +586,6 @@
       "releaseDate": "1995-01-28",
       "overview": "Within a few years, petty crook Chiu rises to gang leader. But his professional ambitions are actually quite different: he wants to leave illegality behind and make a career for himself and his lover in Canada... as a chef. However, this craft must first be learned and Chiu's talent in the field of cooking leaves much to be desired."
     },
-    "tmdb:1597242": {
-      "key": "tmdb:1597242",
-      "title": "Cameron Winter at Carnegie Hall",
-      "year": 2026,
-      "director": "Paul Thomas Anderson",
-      "runtime": 75,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/sQt2KQWkpGb79UKlCJNJ2BKobjo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/7wwJh55u7y5YoUJaABy5o47d14z.jpg",
-      "tmdbId": 1597242,
-      "popularity": 2.5046,
-      "releaseDate": "2026-11-20",
-      "overview": "A concert film documenting Cameron Winter's sold-out performance at Carnegie Hall."
-    },
     "t:claudio simonettis goblin performs the live score to tenebre": {
       "key": "t:claudio simonettis goblin performs the live score to tenebre",
       "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
@@ -698,6 +672,20 @@
       "popularity": 2.6583,
       "releaseDate": "2005-06-11",
       "overview": "A Polish stewardess who has to spend the night in Copenhagen to board her next flight meets a Danish man who insists on taking her out. The night does not turn out quite like either of them had expected."
+    },
+    "tmdb:5255": {
+      "key": "tmdb:5255",
+      "title": "The Polar Express",
+      "year": 2004,
+      "director": "Robert Zemeckis",
+      "runtime": 100,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jtOvTVlkF8TlaOq94oNXRc9u2yp.jpg",
+      "tmdbId": 5255,
+      "popularity": 11.2939,
+      "releaseDate": "2004-11-10",
+      "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."
     },
     "tmdb:91735": {
       "key": "tmdb:91735",
@@ -976,34 +964,6 @@
       "releaseDate": "1978-12-08",
       "overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever."
     },
-    "tmdb:203": {
-      "key": "tmdb:203",
-      "title": "Mean Streets",
-      "year": 1973,
-      "director": "Martin Scorsese",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
-      "tmdbId": 203,
-      "popularity": 7.183,
-      "releaseDate": "1973-10-14",
-      "overview": "A small-time hood must choose from among love, friendship and the chance to rise within the mob."
-    },
-    "tmdb:14537": {
-      "key": "tmdb:14537",
-      "title": "Harakiri",
-      "year": 1962,
-      "director": "Masaki Kobayashi",
-      "runtime": 135,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
-      "tmdbId": 14537,
-      "popularity": 13.2275,
-      "releaseDate": "1962-09-15",
-      "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code."
-    },
     "tmdb:30959": {
       "key": "tmdb:30959",
       "title": "Kwaidan",
@@ -1129,6 +1089,20 @@
       "popularity": 3.4199,
       "releaseDate": "1967-08-30",
       "overview": "A small group of French students are studying Mao, trying to find out their position in the world and how to change the world to a Maoistic community using terrorism."
+    },
+    "tmdb:14537": {
+      "key": "tmdb:14537",
+      "title": "Harakiri",
+      "year": 1962,
+      "director": "Masaki Kobayashi",
+      "runtime": 135,
+      "genre": "Action",
+      "poster": "https://image.tmdb.org/t/p/w500/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+      "tmdbId": 14537,
+      "popularity": 13.2275,
+      "releaseDate": "1962-09-15",
+      "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code."
     },
     "tmdb:27511": {
       "key": "tmdb:27511",
@@ -1465,20 +1439,6 @@
       "releaseDate": "1961-07-30",
       "overview": "Shipwreck survivors found on the presumably uninhabited Infant Island leads to a scientific expedition that discovers a surviving native population along with the Shobijin, tiny twin fairy priestesses of the island's mythical deity called Mothra. After the fairies are kidnapped by an exploitative businessman named Clark Nelson, Mothra sets out to rescue them."
     },
-    "tmdb:25768": {
-      "key": "tmdb:25768",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "director": "Charles Reisner, Buster Keaton",
-      "runtime": 70,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
-      "tmdbId": 25768,
-      "popularity": 4.5603,
-      "releaseDate": "1928-05-09",
-      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
-    },
     "tmdb:1596326": {
       "key": "tmdb:1596326",
       "title": "Barbara Forever",
@@ -1520,96 +1480,23 @@
       "popularity": 2.8044,
       "releaseDate": "2010-11-24",
       "overview": "On Christmas Eve in 1920s Vienna, a young girl named Mary and her brother are visited by their eccentric uncle Albert, who gifts a magical wooden nutcracker that comes to life and takes her to a fantasy world to fight the evil Rat King."
+    },
+    "tmdb:25768": {
+      "key": "tmdb:25768",
+      "title": "Steamboat Bill, Jr.",
+      "year": 1928,
+      "director": "Charles Reisner, Buster Keaton",
+      "runtime": 70,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
+      "tmdbId": 25768,
+      "popularity": 4.5603,
+      "releaseDate": "1928-05-09",
+      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-11-06:14:00:tmdb:965",
-      "venueId": "alamo",
-      "filmKey": "tmdb:965",
-      "date": "2026-11-06",
-      "time": "14:00",
-      "url": "https://drafthouse.com/sf/show/the-magnificent-ambersons?cinemaId=0801&sessionId=84132",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-11-06:16:00:tmdb:203",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:203",
-      "date": "2026-11-06",
-      "time": "16:00",
-      "url": "https://bampfa.org/event/mean-streets",
-      "format": "4K",
-      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "alamo:2026-11-06:18:15:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-06",
-      "time": "18:15",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84074",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-06:19:00:tmdb:2990",
-      "venueId": "roxie",
-      "filmKey": "tmdb:2990",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "url": "https://roxie.com/film/floating-features-pacific-heights/",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-11-06:19:00:tmdb:14537",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:14537",
-      "date": "2026-11-06",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/harakiri",
-      "format": "35mm",
-      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
-      "source": "bampfa"
-    },
-    {
-      "id": "balboa:2026-11-06:19:30:tmdb:694952",
-      "venueId": "balboa",
-      "filmKey": "tmdb:694952",
-      "date": "2026-11-06",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/double-feature-with-sandow-birk-november-6",
-      "note": "August 29 - November 7 at the Catharine Clark Gallery",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-11-06:20:15:tmdb:31767",
-      "venueId": "roxie",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-06",
-      "time": "20:15",
-      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-06:20:15:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-06",
-      "time": "20:15",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-06:20:40:tmdb:81",
-      "venueId": "roxie",
-      "filmKey": "tmdb:81",
-      "date": "2026-11-06",
-      "time": "20:40",
-      "url": "https://roxie.com/film/new-people-nausicaa-of-the-valley-of-the-wind/",
-      "source": "roxie"
-    },
     {
       "id": "4star:2026-11-07:10:00:tmdb:441130",
       "venueId": "4star",
@@ -2973,16 +2860,6 @@
       "source": "bampfa"
     },
     {
-      "id": "4star:2026-12-02:19:30:tmdb:93465",
-      "venueId": "4star",
-      "filmKey": "tmdb:93465",
-      "date": "2026-12-02",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/chinese-feast-hi-nrg",
-      "note": "HI NRG presents:",
-      "source": "4star"
-    },
-    {
       "id": "castro:2026-12-02:19:30:tmdb:1597242",
       "venueId": "castro",
       "filmKey": "tmdb:1597242",
@@ -2991,6 +2868,16 @@
       "url": "https://thecastro.com/events/cameron-winter-at-carnegie-hall-261202",
       "note": "A Janus Films and Criterion Release",
       "source": "castro"
+    },
+    {
+      "id": "4star:2026-12-02:19:30:tmdb:93465",
+      "venueId": "4star",
+      "filmKey": "tmdb:93465",
+      "date": "2026-12-02",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/chinese-feast-hi-nrg",
+      "note": "HI NRG presents:",
+      "source": "4star"
     },
     {
       "id": "alamo:2026-12-02:21:30:tmdb:636",
@@ -3043,6 +2930,26 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-crooked-jades-2026",
       "note": "The Crooked Jades",
       "source": "4star"
+    },
+    {
+      "id": "alamo:2026-12-05:12:00:tmdb:5255",
+      "venueId": "alamo",
+      "filmKey": "tmdb:5255",
+      "date": "2026-12-05",
+      "time": "12:00",
+      "url": "https://drafthouse.com/sf/show/movie-party-the-polar-express?cinemaId=0801&sessionId=83894",
+      "note": "Movie Parties · All aboard for an interactive holiday adventure the whole family will love",
+      "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-12-05:16:00:tmdb:1597242",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1597242",
+      "date": "2026-12-05",
+      "time": "16:00",
+      "url": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/",
+      "format": "35mm",
+      "source": "roxie"
     }
   ],
   "festivals": [
@@ -3050,21 +2957,14 @@
       "key": "fest:vogue:shorts block",
       "name": "Shorts Block",
       "venueId": "vogue",
-      "startDate": "2026-11-06",
+      "startDate": "2026-11-07",
       "endDate": "2026-11-07",
-      "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-new-york-times-november-6",
-      "showtimes": 2,
+      "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-sensory-experience-november-7",
+      "showtimes": 1,
       "sample": [
-        "New York Times Op Docs",
         "Sensory Experience"
       ],
       "programme": [
-        {
-          "date": "2026-11-06",
-          "time": "17:30",
-          "title": "New York Times Op Docs",
-          "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-new-york-times-november-6"
-        },
         {
           "date": "2026-11-07",
           "time": "11:00",
@@ -3077,21 +2977,14 @@
       "key": "fest:4star:studio 8 film festival",
       "name": "STUDIO 8 FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-11-06",
+      "startDate": "2026-11-07",
       "endDate": "2026-11-07",
-      "url": "https://www.4-star-movies.com/calendar-of-events/juror-night-studio-8-sfaa",
-      "showtimes": 2,
+      "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa",
+      "showtimes": 1,
       "sample": [
-        "Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
         "Juried Show: Personal Visions (Presented by SF Artists Alumni)"
       ],
       "programme": [
-        {
-          "date": "2026-11-06",
-          "time": "19:30",
-          "title": "Juror Night: Where To? (Films from Ed Jones, Michael LaRocco & Jacalyn White - Presented by SF Artists Alumni)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/juror-night-studio-8-sfaa"
-        },
         {
           "date": "2026-11-07",
           "time": "14:00",
@@ -3104,45 +2997,15 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-06",
+      "startDate": "2026-11-07",
       "endDate": "2026-11-12",
-      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=84078",
-      "showtimes": 27,
+      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882",
+      "showtimes": 22,
       "sample": [
         "Littermates",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-06",
-          "time": "11:20",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=84078"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83671"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83670"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83672"
-        },
-        {
-          "date": "2026-11-06",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83673"
-        },
         {
           "date": "2026-11-07",
           "time": "11:30",
