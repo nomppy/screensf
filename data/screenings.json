@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-07T17:57:05.792Z",
+  "generatedAt": "2026-11-08T18:09:47.050Z",
   "films": {
-    "tmdb:483": {
-      "key": "tmdb:483",
-      "title": "Wild at Heart",
-      "year": 1990,
-      "director": "David Lynch",
-      "runtime": 125,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg",
-      "tmdbId": 483,
-      "popularity": 8.6766,
-      "releaseDate": "1990-08-17",
-      "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
-    },
     "tmdb:664572": {
       "key": "tmdb:664572",
       "title": "Los Conductos",
@@ -181,6 +167,20 @@
       "releaseDate": "1956-06-06",
       "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own."
     },
+    "tmdb:483": {
+      "key": "tmdb:483",
+      "title": "Wild at Heart",
+      "year": 1990,
+      "director": "David Lynch",
+      "runtime": 125,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg",
+      "tmdbId": 483,
+      "popularity": 8.6766,
+      "releaseDate": "1990-08-17",
+      "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
+    },
     "tmdb:1255": {
       "key": "tmdb:1255",
       "title": "The Host",
@@ -265,19 +265,33 @@
       "releaseDate": "2026-11-20",
       "overview": "A concert film documenting Cameron Winter's sold-out performance at Carnegie Hall."
     },
-    "tmdb:582913": {
-      "key": "tmdb:582913",
-      "title": "The Room",
-      "year": 2019,
-      "director": "Christian Volckman",
-      "runtime": 99,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/bWyQwZziHh1DK9F59eqahZD8Upc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/snbRXbkzEpc35mFDlwUg41cN8aw.jpg",
-      "tmdbId": 582913,
-      "popularity": 6.0879,
-      "releaseDate": "2019-09-12",
-      "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
+    "tmdb:274710": {
+      "key": "tmdb:274710",
+      "title": "Welcome II the Terrordome",
+      "year": 1995,
+      "director": "Ngozi Onwurah",
+      "runtime": 94,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/zNuhvBA8c3UhOQjYFDzI3R0ykmc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nQK3VjcISUIipwYbzZPywc93GI6.jpg",
+      "tmdbId": 274710,
+      "popularity": 1.0744,
+      "releaseDate": "1995-01-20",
+      "overview": "In a near future, black people have been forced to live in the drug-infested Terrordome, a ghetto where they are continually subjected to the racist actions of the police. When a black boy is killed, it sets off an explosion of further violence."
+    },
+    "tmdb:64": {
+      "key": "tmdb:64",
+      "title": "Talk to Her",
+      "year": 2002,
+      "director": "Pedro Almodóvar",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/fWDbQlOWOqjR5jZm98KjGyYmUOw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rknvDtxOe1uqLX0EFWLHIQxRXcJ.jpg",
+      "tmdbId": 64,
+      "popularity": 3.431,
+      "releaseDate": "2002-03-15",
+      "overview": "Two men share an odd friendship while they care for two women who are both in deep comas."
     },
     "tmdb:989988": {
       "key": "tmdb:989988",
@@ -447,19 +461,6 @@
       "releaseDate": "2020-10-26",
       "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy."
     },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0169,
-      "releaseDate": "2009-11-20",
-      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
-    },
     "tmdb:1599181": {
       "key": "tmdb:1599181",
       "title": "Chronovisor",
@@ -473,6 +474,19 @@
       "popularity": 2.7616,
       "releaseDate": "2026-09-04",
       "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
+    },
+    "tmdb:98096": {
+      "key": "tmdb:98096",
+      "title": "Live Music",
+      "year": 2009,
+      "director": "Yair Landau",
+      "runtime": 6,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
+      "tmdbId": 98096,
+      "popularity": 1.0169,
+      "releaseDate": "2009-11-20",
+      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
     },
     "tmdb:19596": {
       "key": "tmdb:19596",
@@ -868,20 +882,6 @@
       "releaseDate": "2003-12-05",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents."
     },
-    "tmdb:2001": {
-      "key": "tmdb:2001",
-      "title": "We Own the Night",
-      "year": 2007,
-      "director": "James Gray",
-      "runtime": 118,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/rsKhSr3UNjG2DhVj2KPj0ARujez.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fJWeJL39Pddz30ULiQBn4WIv5hx.jpg",
-      "tmdbId": 2001,
-      "popularity": 6.816,
-      "releaseDate": "2007-10-12",
-      "overview": "A New York nightclub manager tries to save his brother and father from Russian mafia hitmen."
-    },
     "tmdb:26573": {
       "key": "tmdb:26573",
       "title": "Dr. Goldfoot and the Bikini Machine",
@@ -908,19 +908,6 @@
       "popularity": 3.9253,
       "releaseDate": "1993-11-21",
       "overview": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
-    },
-    "tmdb:441944": {
-      "key": "tmdb:441944",
-      "title": "The Fall of the I-Hotel",
-      "year": 1983,
-      "director": "Curtis Choy",
-      "runtime": 58,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/1Vx476UfkXwSfR4m7564hnroA3v.jpg",
-      "tmdbId": 441944,
-      "popularity": 0.7382,
-      "releaseDate": "1983-06-15",
-      "overview": "The Fall of the I-Hotel brings to life the battle for housing in San Francisco. The brutal eviction of the International Hotel's tenants culminated a decade of spirited resistance to the razing of Manilatown. The Fall of the I-Hotel works on several levels. It not only documents the struggle to save the I-Hotel, but also gives an overview of Filipino American history."
     },
     "tmdb:448491": {
       "key": "tmdb:448491",
@@ -963,20 +950,6 @@
       "popularity": 11.4383,
       "releaseDate": "1978-12-08",
       "overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever."
-    },
-    "tmdb:30959": {
-      "key": "tmdb:30959",
-      "title": "Kwaidan",
-      "year": 1964,
-      "director": "Masaki Kobayashi",
-      "runtime": 183,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
-      "tmdbId": 30959,
-      "popularity": 5.2901,
-      "releaseDate": "1965-01-06",
-      "overview": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup."
     },
     "tmdb:31217": {
       "key": "tmdb:31217",
@@ -1230,19 +1203,19 @@
       "releaseDate": "1991-11-13",
       "overview": "Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss."
     },
-    "tmdb:872": {
-      "key": "tmdb:872",
-      "title": "Singin' in the Rain",
-      "year": 1952,
-      "director": "Stanley Donen, Gene Kelly",
-      "runtime": 103,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/671EPwBsHGHBk0cdOeZqmOK0XB3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6qOyw4yfzbzTp5YsCX26C28Do0S.jpg",
-      "tmdbId": 872,
-      "popularity": 11.8925,
-      "releaseDate": "1952-04-10",
-      "overview": "In 1927 Hollywood, a silent film star falls for a chorus girl just as he and his paranoid screen partner struggle to make the difficult transition to talking pictures."
+    "tmdb:11051": {
+      "key": "tmdb:11051",
+      "title": "The Last Temptation of Christ",
+      "year": 1988,
+      "director": "Martin Scorsese",
+      "runtime": 164,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/rBqdcQeM1h05YjF9rFtPWnNaDO2.jpg",
+      "tmdbId": 11051,
+      "popularity": 3.7719,
+      "releaseDate": "1988-05-28",
+      "overview": "Jesus, a humble Judean carpenter beginning to see that he is the son of God, is drawn into revolutionary action against the Roman occupiers by Judas -- despite his protestations that love, not violence, is the path to salvation. The burden of being the savior of mankind torments Jesus throughout his life, leading him to doubt."
     },
     "tmdb:7270": {
       "key": "tmdb:7270",
@@ -1439,6 +1412,20 @@
       "releaseDate": "1961-07-30",
       "overview": "Shipwreck survivors found on the presumably uninhabited Infant Island leads to a scientific expedition that discovers a surviving native population along with the Shobijin, tiny twin fairy priestesses of the island's mythical deity called Mothra. After the fairies are kidnapped by an exploitative businessman named Clark Nelson, Mothra sets out to rescue them."
     },
+    "tmdb:25768": {
+      "key": "tmdb:25768",
+      "title": "Steamboat Bill, Jr.",
+      "year": 1928,
+      "director": "Charles Reisner, Buster Keaton",
+      "runtime": 70,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
+      "tmdbId": 25768,
+      "popularity": 4.5603,
+      "releaseDate": "1928-05-09",
+      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
+    },
     "tmdb:1596326": {
       "key": "tmdb:1596326",
       "title": "Barbara Forever",
@@ -1480,128 +1467,9 @@
       "popularity": 2.8044,
       "releaseDate": "2010-11-24",
       "overview": "On Christmas Eve in 1920s Vienna, a young girl named Mary and her brother are visited by their eccentric uncle Albert, who gifts a magical wooden nutcracker that comes to life and takes her to a fantasy world to fight the evil Rat King."
-    },
-    "tmdb:25768": {
-      "key": "tmdb:25768",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "director": "Charles Reisner, Buster Keaton",
-      "runtime": 70,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
-      "tmdbId": 25768,
-      "popularity": 4.5603,
-      "releaseDate": "1928-05-09",
-      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
     }
   },
   "screenings": [
-    {
-      "id": "4star:2026-11-07:10:00:tmdb:441130",
-      "venueId": "4star",
-      "filmKey": "tmdb:441130",
-      "date": "2026-11-07",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/wolfwalkers-sat",
-      "note": "Popcorn Palace - FREE!",
-      "source": "4star"
-    },
-    {
-      "id": "newparkway:2026-11-07:11:45:tmdb:872",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:872",
-      "date": "2026-11-07",
-      "time": "11:45",
-      "url": "https://thenewparkway.com/movie/singin-in-the-rain/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-11-07:12:00:tmdb:2001",
-      "venueId": "alamo",
-      "filmKey": "tmdb:2001",
-      "date": "2026-11-07",
-      "time": "12:00",
-      "url": "https://drafthouse.com/sf/show/we-own-the-night?cinemaId=0801&sessionId=83856",
-      "source": "alamo"
-    },
-    {
-      "id": "sfmoma:2026-11-07:13:00:tmdb:441944",
-      "venueId": "sfmoma",
-      "filmKey": "tmdb:441944",
-      "date": "2026-11-07",
-      "time": "13:00",
-      "url": "https://www.sfmoma.org/event/the-fall-of-the-i-hotel-manilatown-manang-screenings/",
-      "format": "16mm",
-      "source": "sfmoma"
-    },
-    {
-      "id": "bampfa:2026-11-07:14:30:tmdb:30959",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:30959",
-      "date": "2026-11-07",
-      "time": "14:30",
-      "url": "https://bampfa.org/event/kwaidan",
-      "format": "4K",
-      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks · 4K Digital Restoration, Director’s Cut",
-      "source": "bampfa"
-    },
-    {
-      "id": "alamo:2026-11-07:15:00:tmdb:47504",
-      "venueId": "alamo",
-      "filmKey": "tmdb:47504",
-      "date": "2026-11-07",
-      "time": "15:00",
-      "url": "https://drafthouse.com/sf/show/little-odessa?cinemaId=0801&sessionId=83855",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-11-07:18:45:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-07",
-      "time": "18:45",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84081",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-07:19:05:tmdb:483",
-      "venueId": "roxie",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-07",
-      "time": "19:05",
-      "url": "https://roxie.com/film/wild-at-heart/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "4star:2026-11-07:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-07",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-idaho",
-      "note": "essence/universe presents:",
-      "source": "4star"
-    },
-    {
-      "id": "newparkway:2026-11-07:21:30:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-07",
-      "time": "21:30",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
-      "id": "balboa:2026-11-07:23:00:tmdb:582913",
-      "venueId": "balboa",
-      "filmKey": "tmdb:582913",
-      "date": "2026-11-07",
-      "time": "23:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-room-november-7",
-      "source": "balboa"
-    },
     {
       "id": "4star:2026-11-08:10:00:tmdb:441130",
       "venueId": "4star",
@@ -2308,6 +2176,16 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-11-19:20:30:tmdb:483",
+      "venueId": "roxie",
+      "filmKey": "tmdb:483",
+      "date": "2026-11-19",
+      "time": "20:30",
+      "url": "https://roxie.com/film/wild-at-heart/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-11-19:20:30:tmdb:1362422",
       "venueId": "newparkway",
       "filmKey": "tmdb:1362422",
@@ -2950,46 +2828,86 @@
       "url": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/",
       "format": "35mm",
       "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-12-06:13:00:tmdb:1597242",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1597242",
+      "date": "2026-12-06",
+      "time": "13:00",
+      "url": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/",
+      "format": "35mm",
+      "source": "roxie"
+    },
+    {
+      "id": "rafael:2026-12-06:13:00:tmdb:49852",
+      "venueId": "rafael",
+      "filmKey": "tmdb:49852",
+      "date": "2026-12-06",
+      "time": "13:00",
+      "url": "https://cinema.cafilm.org/film/nutcracker",
+      "note": "Stage To Screen",
+      "source": "rafael"
+    },
+    {
+      "id": "bampfa:2026-12-06:14:30:tmdb:11051",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:11051",
+      "date": "2026-12-06",
+      "time": "14:30",
+      "url": "https://bampfa.org/event/last-temptation-christ",
+      "format": "35mm",
+      "note": "Martin Scorsese Pictures",
+      "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-12-06:15:00:tmdb:274710",
+      "venueId": "roxie",
+      "filmKey": "tmdb:274710",
+      "date": "2026-12-06",
+      "time": "15:00",
+      "url": "https://roxie.com/film/welcome-ii-the-terrordome-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-12-06:17:15:tmdb:64",
+      "venueId": "roxie",
+      "filmKey": "tmdb:64",
+      "date": "2026-12-06",
+      "time": "17:15",
+      "url": "https://roxie.com/film/talk-to-her/",
+      "source": "roxie"
+    },
+    {
+      "id": "4star:2026-12-06:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-12-06",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-stephen-steinbrink",
+      "note": "Stephen Steinbrink(Record Release Show)",
+      "source": "4star"
     }
   ],
   "festivals": [
     {
-      "key": "fest:vogue:shorts block",
-      "name": "Shorts Block",
-      "venueId": "vogue",
-      "startDate": "2026-11-07",
-      "endDate": "2026-11-07",
-      "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-sensory-experience-november-7",
+      "key": "fest:castro:30th arab film festival",
+      "name": "The 30th Arab Film Festival",
+      "venueId": "castro",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "url": "https://thecastro.com/events/edward-said-between-worlds",
       "showtimes": 1,
       "sample": [
-        "Sensory Experience"
+        "Edward Said: Between Worlds"
       ],
       "programme": [
         {
-          "date": "2026-11-07",
-          "time": "11:00",
-          "title": "Sensory Experience",
-          "url": "https://voguemovies.com/calendar-of-events/doc-stories-shorts-block-sensory-experience-november-7"
-        }
-      ]
-    },
-    {
-      "key": "fest:4star:studio 8 film festival",
-      "name": "STUDIO 8 FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-11-07",
-      "endDate": "2026-11-07",
-      "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa",
-      "showtimes": 1,
-      "sample": [
-        "Juried Show: Personal Visions (Presented by SF Artists Alumni)"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-07",
-          "time": "14:00",
-          "title": "Juried Show: Personal Visions (Presented by SF Artists Alumni)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/juried-show-sfaa"
+          "date": "2026-11-08",
+          "time": "17:45",
+          "title": "Edward Said: Between Worlds",
+          "url": "https://thecastro.com/events/edward-said-between-worlds"
         }
       ]
     },
@@ -2997,45 +2915,15 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-07",
+      "startDate": "2026-11-08",
       "endDate": "2026-11-12",
-      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882",
-      "showtimes": 22,
+      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883",
+      "showtimes": 17,
       "sample": [
         "Littermates",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-07",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83674"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83675"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83676"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83677"
-        },
-        {
-          "date": "2026-11-07",
-          "time": "22:10",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83882"
-        },
         {
           "date": "2026-11-08",
           "time": "11:30",
@@ -3137,46 +3025,6 @@
           "time": "21:15",
           "title": "Littermates",
           "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
-        }
-      ]
-    },
-    {
-      "key": "fest:bampfa:hong kong cinema rarities and restorations",
-      "name": "Hong Kong Cinema: Rarities and Restorations",
-      "venueId": "bampfa",
-      "startDate": "2026-11-07",
-      "endDate": "2026-11-07",
-      "url": "https://bampfa.org/event/sword",
-      "showtimes": 1,
-      "sample": [
-        "The Sword"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-07",
-          "time": "18:30",
-          "title": "The Sword",
-          "url": "https://bampfa.org/event/sword"
-        }
-      ]
-    },
-    {
-      "key": "fest:castro:30th arab film festival",
-      "name": "The 30th Arab Film Festival",
-      "venueId": "castro",
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-08",
-      "url": "https://thecastro.com/events/edward-said-between-worlds",
-      "showtimes": 1,
-      "sample": [
-        "Edward Said: Between Worlds"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-08",
-          "time": "17:45",
-          "title": "Edward Said: Between Worlds",
-          "url": "https://thecastro.com/events/edward-said-between-worlds"
         }
       ]
     },
