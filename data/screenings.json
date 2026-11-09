@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-11-08T18:09:47.050Z",
+  "generatedAt": "2026-11-09T22:48:44.088Z",
   "films": {
-    "tmdb:664572": {
-      "key": "tmdb:664572",
-      "title": "Los Conductos",
-      "year": 2020,
-      "director": "Camilo Restrepo",
-      "runtime": 70,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/6SvyVHvcTsO0XXIynghi9JRr6KL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tsidJCUMLAssBsuBkpgU2SruS0N.jpg",
-      "tmdbId": 664572,
-      "popularity": 1.7921,
-      "releaseDate": "2020-02-22",
-      "overview": "Pinky is on the run. At night the empty streets smell of the apocalypse and the city seems to be on fire. Narcotics swirl through the veins and the air. Having freed himself from the clutches of a sect led by a certain “padre” and determined to take his fate into his own hands, he is now holed up in an illegal T-shirt factory, surrounded by paints, slogans and heat presses. Pinky is looking for the light at the end of the tunnel, but ghosts are breathing down his neck. He is running for his life, and Colombia is on fire. But Colombia is alive."
-    },
-    "tmdb:94527": {
-      "key": "tmdb:94527",
-      "title": "Everything for Sale",
-      "year": 1969,
-      "director": "Andrzej Wajda",
-      "runtime": 105,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/oPTIKRNJ2rexJS93AjIdBbr2lcA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/c9B2ZkMPrI7TVjHLeTyg8czs6yR.jpg",
-      "tmdbId": 94527,
-      "popularity": 1.0092,
-      "releaseDate": "1969-01-28",
-      "overview": "Wajda's homage to Zbigniew Cybulski, the \"Polish James Dean\" who starred in the director's ASHES AND DIAMONDS and died young. The movie follows the tribulations of a director attempting to make a movie with a Cybulski-like star who never shows up."
-    },
-    "tmdb:81": {
-      "key": "tmdb:81",
-      "title": "Warriors of the Wind",
-      "year": 1984,
-      "director": "Hayao Miyazaki",
-      "runtime": 95,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/z2jsAbXWGdJvadhovznjGg33VND.jpg",
-      "tmdbId": 81,
-      "popularity": 18.542,
-      "releaseDate": "1984-03-11",
-      "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
-    },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
       "title": "The History of Concrete",
@@ -96,6 +54,20 @@
       "popularity": 0.5428,
       "releaseDate": "1985-01-01",
       "overview": "Frenetic and impressionistic, this nocturnal foray through San Francisco's streets (heightened by a stop at a nightclub) delivers a thrill-hit of ebullient adrenaline. The rush of excitement, of anonymity, of adventure, of being alive, of potentially meeting someone new is palpable. Somewhere in the middle of this burst of gorgeous black-and-white, the neon takes on a life of its own, squiggling into infinity. \"This is about living fast and dying peacefully,\" the filmmaker said at the time, which adds another layer of poignancy. - Michael Fox"
+    },
+    "tmdb:81": {
+      "key": "tmdb:81",
+      "title": "Warriors of the Wind",
+      "year": 1984,
+      "director": "Hayao Miyazaki",
+      "runtime": 95,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/z2jsAbXWGdJvadhovznjGg33VND.jpg",
+      "tmdbId": 81,
+      "popularity": 18.542,
+      "releaseDate": "1984-03-11",
+      "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
     },
     "tmdb:4977": {
       "key": "tmdb:4977",
@@ -152,20 +124,6 @@
       "popularity": 6.9955,
       "releaseDate": "2002-12-10",
       "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago."
-    },
-    "tmdb:247": {
-      "key": "tmdb:247",
-      "title": "The Killing",
-      "year": 1956,
-      "director": "Stanley Kubrick",
-      "runtime": 85,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/A6VzUPcADZGYdGHlVdWvpMNDF5d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2EltoldCMsYmP2BXJVGiuNalEWv.jpg",
-      "tmdbId": 247,
-      "popularity": 5.4978,
-      "releaseDate": "1956-06-06",
-      "overview": "Career criminal Johnny Clay recruits a sharpshooter, a crooked police officer, a bartender and a betting teller named George, among others, for one last job before he goes straight and gets married. But when George tells his restless wife about the scheme to steal millions from the racetrack where he works, she hatches a plot of her own."
     },
     "tmdb:483": {
       "key": "tmdb:483",
@@ -447,34 +405,6 @@
       "releaseDate": "1989-03-17",
       "overview": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures."
     },
-    "tmdb:441130": {
-      "key": "tmdb:441130",
-      "title": "Wolfwalkers",
-      "year": 2020,
-      "director": "Tomm Moore, Ross Stewart",
-      "runtime": 102,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/vqGiNbdc2sDwsnivMMYzwAoSSu6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/3zTbERSBLh7waK9811RTKGAcG86.jpg",
-      "tmdbId": 441130,
-      "popularity": 11.6849,
-      "releaseDate": "2020-10-26",
-      "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy."
-    },
-    "tmdb:1599181": {
-      "key": "tmdb:1599181",
-      "title": "Chronovisor",
-      "year": 2026,
-      "director": "Kevin Walker, Jack Auen",
-      "runtime": 99,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/AngfVgLk5EngnbuFpISjvFJkYBz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fpv7UeON9GgkOIjCHQV2LdY3J99.jpg",
-      "tmdbId": 1599181,
-      "popularity": 2.7616,
-      "releaseDate": "2026-09-04",
-      "overview": "A French academic is seduced into a world of untold histories in her scholarly quest to uncover the mystery of a history-capturing camera-like machine created by clandestine Benedictine monks. An academic-noir, armchair mystery in the lineage of Jorge Luis Borges and Umberto Eco."
-    },
     "tmdb:98096": {
       "key": "tmdb:98096",
       "title": "Live Music",
@@ -687,6 +617,20 @@
       "releaseDate": "2005-06-11",
       "overview": "A Polish stewardess who has to spend the night in Copenhagen to board her next flight meets a Danish man who insists on taking her out. The night does not turn out quite like either of them had expected."
     },
+    "tmdb:5825": {
+      "key": "tmdb:5825",
+      "title": "National Lampoon's Christmas Vacation",
+      "year": 1989,
+      "director": "Jeremiah S. Chechik",
+      "runtime": 97,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/klH8ti8LUaEhktnjdHb1RW8Yq6w.jpg",
+      "tmdbId": 5825,
+      "popularity": 11.8729,
+      "releaseDate": "1989-11-30",
+      "overview": "It's Christmastime, and the Griswolds are preparing for a family seasonal celebration. But things never run smoothly for Clark, his wife Ellen, and their two kids. Clark's continual bad luck is worsened by his obnoxious family guests, but he manages to keep going, knowing that his Christmas bonus is due soon."
+    },
     "tmdb:5255": {
       "key": "tmdb:5255",
       "title": "The Polar Express",
@@ -755,20 +699,6 @@
       "popularity": 1.0488,
       "releaseDate": "1994-01-25",
       "overview": "Filmmaker Larry Weinstein stages a wide range of performances in tribute to the compositions of Kurt Weill."
-    },
-    "tmdb:4723": {
-      "key": "tmdb:4723",
-      "title": "Southland Tales",
-      "year": 2006,
-      "director": "Richard Kelly",
-      "runtime": 145,
-      "genre": "Science Fiction",
-      "poster": "https://image.tmdb.org/t/p/w500/7dbIDQ80z4bxiDlAvxRwc5TI44C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/oaT5yMG61XetddVmymGrDVeoCg4.jpg",
-      "tmdbId": 4723,
-      "popularity": 5.9099,
-      "releaseDate": "2007-11-14",
-      "overview": "Set in the futuristic landscape of Los Angeles on July 4, 2008, as it stands on the brink of social, economic and environmental disaster. Boxer Santaros is an action star who's stricken with amnesia. His life intertwines with Krysta Now, an adult film star developing her own reality television project, and Ronald Taverner, a Hermosa Beach police officer who holds the key to a vast conspiracy."
     },
     "tmdb:11587": {
       "key": "tmdb:11587",
@@ -839,20 +769,6 @@
       "popularity": 5.9829,
       "releaseDate": "1989-10-13",
       "overview": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge."
-    },
-    "tmdb:965": {
-      "key": "tmdb:965",
-      "title": "The Magnificent Ambersons",
-      "year": 1942,
-      "director": "Orson Welles",
-      "runtime": 88,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/g5EosvM0delNPkgBDGYYZvJl46n.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pkD7zVlHpBoORTtupteZxiOxaG4.jpg",
-      "tmdbId": 965,
-      "popularity": 4.198,
-      "releaseDate": "1942-07-10",
-      "overview": "The spoiled young heir to the decaying Amberson fortune comes between his widowed mother and the man she has always loved."
     },
     "tmdb:63311": {
       "key": "tmdb:63311",
@@ -950,34 +866,6 @@
       "popularity": 11.4383,
       "releaseDate": "1978-12-08",
       "overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever."
-    },
-    "tmdb:31217": {
-      "key": "tmdb:31217",
-      "title": "The Human Condition I: No Greater Love",
-      "year": 1959,
-      "director": "Masaki Kobayashi",
-      "runtime": 204,
-      "genre": "War",
-      "poster": "https://image.tmdb.org/t/p/w500/q7godavx5XEbeVxEeqi4pmiOKdI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/d9IXxTrra12erdjVXoWUhuTVzTH.jpg",
-      "tmdbId": 31217,
-      "popularity": 8.5739,
-      "releaseDate": "1959-01-15",
-      "overview": "After handing in a report on the treatment of Chinese colonial labor, Kaji is offered the post of labour chief at a large mining operation in Manchuria, which also grants him exemption from military service. He accepts and moves with his newlywed wife Michiko, but when he tries to put his ideas of more humane treatment into practice, he finds himself at odds with scheming officials, cruel foremen, and the military police."
-    },
-    "tmdb:266": {
-      "key": "tmdb:266",
-      "title": "Contempt",
-      "year": 1963,
-      "director": "Jean-Luc Godard",
-      "runtime": 103,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
-      "tmdbId": 266,
-      "popularity": 4.4246,
-      "releaseDate": "1963-10-29",
-      "overview": "Art film producer Jeremy Prokosch, unhappy with the work of his director, hires Fritz Lang (as himself) to direct an adaptation of The Odyssey, but when it seems that the legendary filmmaker is making a picture destined to bomb, he brings in a screenwriter to energise the script. The professional intersects with the personal when a rift develops between the writer and his wife."
     },
     "tmdb:27031": {
       "key": "tmdb:27031",
@@ -1217,34 +1105,6 @@
       "releaseDate": "1988-05-28",
       "overview": "Jesus, a humble Judean carpenter beginning to see that he is the son of God, is drawn into revolutionary action against the Roman occupiers by Judas -- despite his protestations that love, not violence, is the path to salvation. The burden of being the savior of mankind torments Jesus throughout his life, leading him to doubt."
     },
-    "tmdb:7270": {
-      "key": "tmdb:7270",
-      "title": "Matchstick Men",
-      "year": 2003,
-      "director": "Ridley Scott",
-      "runtime": 116,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/cIWQzIoWOvx0piZM0UpiHMhzHWW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/7HiMvoDSYW4fyu4rkmWH6pcKKuF.jpg",
-      "tmdbId": 7270,
-      "popularity": 6.2464,
-      "releaseDate": "2003-09-12",
-      "overview": "A phobic con artist and his protege are on the verge of pulling off a lucrative swindle when the con artist's teenage daughter arrives unexpectedly."
-    },
-    "tmdb:71883": {
-      "key": "tmdb:71883",
-      "title": "Redline",
-      "year": 2009,
-      "director": "Takeshi Koike",
-      "runtime": 102,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/yUkH0y9OsY7J08Dvfzi1P0di559.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/hpiEAclfvNJOYPEIhmVewK3n77c.jpg",
-      "tmdbId": 71883,
-      "popularity": 4.6738,
-      "releaseDate": "2009-08-14",
-      "overview": "A daredevil driver is determined to compete in Redline, the most popular race in the galaxy. The race only occurs every five years, but in order to participate he must overcome the mafia, the government and even love."
-    },
     "tmdb:18671": {
       "key": "tmdb:18671",
       "title": "Gun Crazy",
@@ -1471,138 +1331,6 @@
   },
   "screenings": [
     {
-      "id": "4star:2026-11-08:10:00:tmdb:441130",
-      "venueId": "4star",
-      "filmKey": "tmdb:441130",
-      "date": "2026-11-08",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/wolfwalkers-sun",
-      "note": "Popcorn Palace - FREE!",
-      "source": "4star"
-    },
-    {
-      "id": "alamo:2026-11-08:12:00:tmdb:965",
-      "venueId": "alamo",
-      "filmKey": "tmdb:965",
-      "date": "2026-11-08",
-      "time": "12:00",
-      "url": "https://drafthouse.com/sf/show/the-magnificent-ambersons?cinemaId=0801&sessionId=83857",
-      "source": "alamo"
-    },
-    {
-      "id": "4star:2026-11-08:12:30:tmdb:1599181",
-      "venueId": "4star",
-      "filmKey": "tmdb:1599181",
-      "date": "2026-11-08",
-      "time": "12:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/chronovisor",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-08:13:20:tmdb:664572",
-      "venueId": "roxie",
-      "filmKey": "tmdb:664572",
-      "date": "2026-11-08",
-      "time": "13:20",
-      "url": "https://roxie.com/film/los-conductos/",
-      "source": "roxie"
-    },
-    {
-      "id": "bampfa:2026-11-08:13:30:tmdb:31217",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:31217",
-      "date": "2026-11-08",
-      "time": "13:30",
-      "url": "https://bampfa.org/event/human-condition-no-greater-love",
-      "format": "35mm",
-      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
-      "source": "bampfa"
-    },
-    {
-      "id": "alamo:2026-11-08:14:40:tmdb:4723",
-      "venueId": "alamo",
-      "filmKey": "tmdb:4723",
-      "date": "2026-11-08",
-      "time": "14:40",
-      "url": "https://drafthouse.com/sf/show/southland-tales?cinemaId=0801&sessionId=83858",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-08:15:10:tmdb:94527",
-      "venueId": "roxie",
-      "filmKey": "tmdb:94527",
-      "date": "2026-11-08",
-      "time": "15:10",
-      "url": "https://roxie.com/film/everything-for-sale/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-08:16:30:tmdb:7270",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:7270",
-      "date": "2026-11-08",
-      "time": "16:30",
-      "url": "https://thenewparkway.com/movie/matchstick-men/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-11-08:16:45:tmdb:81",
-      "venueId": "roxie",
-      "filmKey": "tmdb:81",
-      "date": "2026-11-08",
-      "time": "16:45",
-      "url": "https://roxie.com/film/new-people-nausicaa-of-the-valley-of-the-wind/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-08:18:30:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-08",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84088",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-11-08:18:30:tmdb:266",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:266",
-      "date": "2026-11-08",
-      "time": "18:30",
-      "url": "https://bampfa.org/event/contempt",
-      "format": "4K",
-      "note": "Jean-Luc Godard’s Early Films · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "newparkway:2026-11-08:19:05:tmdb:71883",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:71883",
-      "date": "2026-11-08",
-      "time": "19:05",
-      "url": "https://thenewparkway.com/movie/redline/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-11-08:19:40:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-08",
-      "time": "19:40",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "4star:2026-11-08:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-08",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-society-of-rockets",
-      "note": "Society of Rockets",
-      "source": "4star"
-    },
-    {
       "id": "roxie:2026-11-09:20:00:tmdb:1596296",
       "venueId": "roxie",
       "filmKey": "tmdb:1596296",
@@ -1610,6 +1338,15 @@
       "time": "20:00",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-11-09:20:50:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-09",
+      "time": "20:50",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "alamo:2026-11-09:21:40:tmdb:31767",
@@ -1791,6 +1528,15 @@
       "source": "newparkway"
     },
     {
+      "id": "alamo:2026-11-12:15:15:tmdb:4203",
+      "venueId": "alamo",
+      "filmKey": "tmdb:4203",
+      "date": "2026-11-12",
+      "time": "15:15",
+      "url": "https://drafthouse.com/sf/show/women-on-the-verge-of-a-nervous-breakdown?cinemaId=0801&sessionId=84150",
+      "source": "alamo"
+    },
+    {
       "id": "roxie:2026-11-12:18:00:tmdb:81",
       "venueId": "roxie",
       "filmKey": "tmdb:81",
@@ -1878,6 +1624,15 @@
       "source": "roxie"
     },
     {
+      "id": "alamo:2026-11-13:11:45:tmdb:99",
+      "venueId": "alamo",
+      "filmKey": "tmdb:99",
+      "date": "2026-11-13",
+      "time": "11:45",
+      "url": "https://drafthouse.com/sf/show/all-about-my-mother?cinemaId=0801&sessionId=84234",
+      "source": "alamo"
+    },
+    {
       "id": "bampfa:2026-11-13:16:00:tmdb:200976",
       "venueId": "bampfa",
       "filmKey": "tmdb:200976",
@@ -1895,6 +1650,15 @@
       "date": "2026-11-13",
       "time": "18:30",
       "url": "https://drafthouse.com/sf/show/all-about-my-mother?cinemaId=0801&sessionId=83862",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-13:21:30:tmdb:99",
+      "venueId": "alamo",
+      "filmKey": "tmdb:99",
+      "date": "2026-11-13",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/all-about-my-mother?cinemaId=0801&sessionId=84156",
       "source": "alamo"
     },
     {
@@ -1937,6 +1701,25 @@
       "format": "DCP",
       "note": "Yim Soon-rye in Person · In Conversation: Yim Soon-rye, Jinsoo An",
       "source": "bampfa"
+    },
+    {
+      "id": "alamo:2026-11-14:22:00:tmdb:63311",
+      "venueId": "alamo",
+      "filmKey": "tmdb:63311",
+      "date": "2026-11-14",
+      "time": "22:00",
+      "url": "https://drafthouse.com/sf/show/the-skin-i-live-in?cinemaId=0801&sessionId=84177",
+      "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-11-15:11:00:tmdb:219",
+      "venueId": "alamo",
+      "filmKey": "tmdb:219",
+      "date": "2026-11-15",
+      "time": "11:00",
+      "url": "https://drafthouse.com/sf/show/sad-girl-cinema-club-volver?cinemaId=0801&sessionId=84188",
+      "note": "Sad Girl Cinema Club · Pedro Almodóvar and his muse Penélope Cruz’s celebration of female community",
+      "source": "alamo"
     },
     {
       "id": "newparkway:2026-11-15:13:00:tmdb:1213",
@@ -2004,6 +1787,15 @@
       "time": "20:00",
       "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
       "format": "4K",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-11-16:20:20:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-16",
+      "time": "20:20",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
     },
     {
@@ -2124,16 +1916,6 @@
       "format": "35mm",
       "note": "Weird Wednesday · Super sexbots... built to kill!",
       "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-19:18:00:tmdb:247",
-      "venueId": "roxie",
-      "filmKey": "tmdb:247",
-      "date": "2026-11-19",
-      "time": "18:00",
-      "url": "https://roxie.com/film/the-killing-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
     },
     {
       "id": "bampfa:2026-11-19:19:00:tmdb:1629",
@@ -2888,26 +2670,43 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-stephen-steinbrink",
       "note": "Stephen Steinbrink(Record Release Show)",
       "source": "4star"
+    },
+    {
+      "id": "alamo:2026-12-07:16:00:tmdb:5825",
+      "venueId": "alamo",
+      "filmKey": "tmdb:5825",
+      "date": "2026-12-07",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/movie-party-national-lampoons-christmas-vacation?cinemaId=0801&sessionId=83895",
+      "note": "Movie Parties · Celebrate the season like an honorary Griswold",
+      "source": "alamo"
     }
   ],
   "festivals": [
     {
-      "key": "fest:castro:30th arab film festival",
-      "name": "The 30th Arab Film Festival",
-      "venueId": "castro",
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-08",
-      "url": "https://thecastro.com/events/edward-said-between-worlds",
-      "showtimes": 1,
+      "key": "fest:4star:culture and diversity film festival",
+      "name": "CULTURE & DIVERSITY FILM FESTIVAL",
+      "venueId": "4star",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-10",
+      "url": "https://www.4-star-movies.com/calendar-of-events/cdff-mon",
+      "showtimes": 2,
       "sample": [
-        "Edward Said: Between Worlds"
+        "Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
+        "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\""
       ],
       "programme": [
         {
-          "date": "2026-11-08",
-          "time": "17:45",
-          "title": "Edward Said: Between Worlds",
-          "url": "https://thecastro.com/events/edward-said-between-worlds"
+          "date": "2026-11-09",
+          "time": "16:00",
+          "title": "Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
+          "url": "https://www.4-star-movies.com/calendar-of-events/cdff-mon"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "16:00",
+          "title": "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\"",
+          "url": "https://www.4-star-movies.com/calendar-of-events/cdff-tue"
         }
       ]
     },
@@ -2915,45 +2714,15 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-12",
-      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883",
-      "showtimes": 17,
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-18",
+      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83884",
+      "showtimes": 39,
       "sample": [
         "Littermates",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-08",
-          "time": "11:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83678"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "14:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83679"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "18:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83680"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "21:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=83681"
-        },
-        {
-          "date": "2026-11-08",
-          "time": "22:10",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83883"
-        },
         {
           "date": "2026-11-09",
           "time": "15:20",
@@ -3022,36 +2791,171 @@
         },
         {
           "date": "2026-11-12",
+          "time": "15:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84149"
+        },
+        {
+          "date": "2026-11-12",
+          "time": "18:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84143"
+        },
+        {
+          "date": "2026-11-12",
           "time": "21:15",
           "title": "Littermates",
           "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
-        }
-      ]
-    },
-    {
-      "key": "fest:4star:culture and diversity film festival",
-      "name": "CULTURE & DIVERSITY FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-11-09",
-      "endDate": "2026-11-10",
-      "url": "https://www.4-star-movies.com/calendar-of-events/cdff-mon",
-      "showtimes": 2,
-      "sample": [
-        "Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
-        "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\""
-      ],
-      "programme": [
-        {
-          "date": "2026-11-09",
-          "time": "16:00",
-          "title": "Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
-          "url": "https://www.4-star-movies.com/calendar-of-events/cdff-mon"
         },
         {
-          "date": "2026-11-10",
+          "date": "2026-11-12",
+          "time": "21:55",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84147"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "12:25",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84162"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "15:35",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84160"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "18:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84151"
+        },
+        {
+          "date": "2026-11-13",
+          "time": "22:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84155"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "12:25",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84168"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "15:35",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84170"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "18:15",
+          "title": "Littermates",
+          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=84236"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "18:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84166"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "21:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84173"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "12:25",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84186"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "15:35",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84184"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "18:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84180"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "15:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84201"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "16:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84197"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "18:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84191"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "21:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84196"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "14:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84229"
+        },
+        {
+          "date": "2026-11-17",
           "time": "16:00",
-          "title": "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\"",
-          "url": "https://www.4-star-movies.com/calendar-of-events/cdff-tue"
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84202"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "18:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84206"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "22:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84209"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "14:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84232"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "15:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84231"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "18:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84225"
+        },
+        {
+          "date": "2026-11-18",
+          "time": "22:05",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84226"
         }
       ]
     },
