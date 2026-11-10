@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-09T22:48:44.088Z",
+  "generatedAt": "2026-11-10T20:05:53.056Z",
   "films": {
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "tmdb:636": {
       "key": "tmdb:636",
       "title": "THX 1138",
@@ -82,6 +68,20 @@
       "popularity": 9.0953,
       "releaseDate": "2006-10-01",
       "overview": "Dr. Atsuko Chiba is a research psychologist who uses a device called the DC Mini to enter her patients' dreams, wherein she adopts the alter-ego \"Paprika\". When the device is stolen, she must stop rogue elements from merging the dream and waking worlds."
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:198669": {
       "key": "tmdb:198669",
@@ -195,6 +195,20 @@
       "releaseDate": "1988-03-25",
       "overview": "After being dumped by her lover, Pepa finds her life and the lives of those around her spiraling out of control in a deliciously chaotic series of events."
     },
+    "tmdb:30707": {
+      "key": "tmdb:30707",
+      "title": "Star 80",
+      "year": 1983,
+      "director": "Bob Fosse",
+      "runtime": 103,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/b2SkA02fXbZYnV1qjOIQprjXloF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oNppOS0bctF6668pYNy2Ltx3m9W.jpg",
+      "tmdbId": 30707,
+      "popularity": 1.1626,
+      "releaseDate": "1983-11-10",
+      "overview": "Paul Snider is a narcissistic, small time hustler who fancies himself a ladies man. His life changes when he meets Dorothy Stratten working behind the counter of a Dairy Queen. Under his guidance Dorothy grows to fame as a Playboy Playmate. But when Dorothy begins pursuing an acting career, the jealous Paul finds himself elbowed out of the picture by more famous men."
+    },
     "tmdb:5055": {
       "key": "tmdb:5055",
       "title": "Ashes and Diamonds",
@@ -292,6 +306,20 @@
       "popularity": 7.8594,
       "releaseDate": "1987-11-26",
       "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith."
+    },
+    "tmdb:13820": {
+      "key": "tmdb:13820",
+      "title": "Repo Man",
+      "year": 1984,
+      "director": "Alex Cox",
+      "runtime": 92,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/bjuu5UceuVUNUjnOC2fBzL3hZKC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5K5oPo1NJrAVUeaPzcXFH13Xplo.jpg",
+      "tmdbId": 13820,
+      "popularity": 2.3095,
+      "releaseDate": "1984-03-02",
+      "overview": "A down and out young punk gets a job working with a seasoned repo man, but what awaits him in his new career is a series of outlandish adventures revolving around aliens, the CIA, and a most wanted '64 Chevy."
     },
     "tmdb:3766": {
       "key": "tmdb:3766",
@@ -699,6 +727,20 @@
       "popularity": 1.0488,
       "releaseDate": "1994-01-25",
       "overview": "Filmmaker Larry Weinstein stages a wide range of performances in tribute to the compositions of Kurt Weill."
+    },
+    "tmdb:1359": {
+      "key": "tmdb:1359",
+      "title": "American Psycho",
+      "year": 2000,
+      "director": "Mary Harron",
+      "runtime": 102,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+      "tmdbId": 1359,
+      "popularity": 14.3627,
+      "releaseDate": "2000-04-13",
+      "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies."
     },
     "tmdb:11587": {
       "key": "tmdb:11587",
@@ -1331,33 +1373,6 @@
   },
   "screenings": [
     {
-      "id": "roxie:2026-11-09:20:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-09",
-      "time": "20:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-09:20:50:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-09",
-      "time": "20:50",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-11-09:21:40:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-09",
-      "time": "21:40",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84098",
-      "source": "alamo"
-    },
-    {
       "id": "alamo:2026-11-10:14:00:tmdb:31767",
       "venueId": "alamo",
       "filmKey": "tmdb:31767",
@@ -1405,7 +1420,7 @@
       "date": "2026-11-10",
       "time": "18:30",
       "url": "https://cinema.cafilm.org/film/barbara-forever",
-      "note": "Contenders Season — Director Brydie O'Connor in Conversation with",
+      "note": "Contenders Season — Director Brydie O'Connor in Conversation with Randy Myers",
       "source": "rafael"
     },
     {
@@ -1662,11 +1677,11 @@
       "source": "alamo"
     },
     {
-      "id": "newparkway:2026-11-14:12:00:tmdb:996",
+      "id": "newparkway:2026-11-14:11:40:tmdb:996",
       "venueId": "newparkway",
       "filmKey": "tmdb:996",
       "date": "2026-11-14",
-      "time": "12:00",
+      "time": "11:40",
       "url": "https://thenewparkway.com/movie/double-indemnity/",
       "source": "newparkway"
     },
@@ -1703,6 +1718,15 @@
       "source": "bampfa"
     },
     {
+      "id": "newparkway:2026-11-14:22:00:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-14",
+      "time": "22:00",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "alamo:2026-11-14:22:00:tmdb:63311",
       "venueId": "alamo",
       "filmKey": "tmdb:63311",
@@ -1722,11 +1746,11 @@
       "source": "alamo"
     },
     {
-      "id": "newparkway:2026-11-15:13:00:tmdb:1213",
+      "id": "newparkway:2026-11-15:12:30:tmdb:1213",
       "venueId": "newparkway",
       "filmKey": "tmdb:1213",
       "date": "2026-11-15",
-      "time": "13:00",
+      "time": "12:30",
       "url": "https://thenewparkway.com/movie/the-talented-mr-ripley/",
       "source": "newparkway"
     },
@@ -1760,6 +1784,15 @@
       "source": "alamo"
     },
     {
+      "id": "newparkway:2026-11-15:15:20:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-15",
+      "time": "15:20",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-11-15:16:50:tmdb:31767",
       "venueId": "roxie",
       "filmKey": "tmdb:31767",
@@ -1780,6 +1813,15 @@
       "source": "4star"
     },
     {
+      "id": "newparkway:2026-11-15:21:20:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-15",
+      "time": "21:20",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "roxie:2026-11-16:20:00:tmdb:31767",
       "venueId": "roxie",
       "filmKey": "tmdb:31767",
@@ -1797,6 +1839,15 @@
       "time": "20:20",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-11-16:20:45:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-16",
+      "time": "20:45",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "roxie:2026-11-17:18:00:tmdb:53792",
@@ -1907,6 +1958,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-11-18:20:55:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-18",
+      "time": "20:55",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "alamo:2026-11-18:21:30:tmdb:26573",
       "venueId": "alamo",
       "filmKey": "tmdb:26573",
@@ -2007,6 +2067,15 @@
       "url": "https://thenewparkway.com/movie/clueless-pasta-at-the-parkway/",
       "note": "Pasta at the Parkway",
       "source": "newparkway"
+    },
+    {
+      "id": "balboa:2026-11-20:19:30:tmdb:13820",
+      "venueId": "balboa",
+      "filmKey": "tmdb:13820",
+      "date": "2026-11-20",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/repo-man-november-20",
+      "source": "balboa"
     },
     {
       "id": "bampfa:2026-11-20:19:30:tmdb:27511",
@@ -2278,6 +2347,16 @@
       "source": "newparkway"
     },
     {
+      "id": "roxie:2026-11-24:20:40:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-24",
+      "time": "20:40",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-11-24:21:30:tmdb:18910",
       "venueId": "alamo",
       "filmKey": "tmdb:18910",
@@ -2407,6 +2486,15 @@
       "url": "https://www.balboamovies.com/calendar-of-events/the-rocky-horror-picture-show-november-28",
       "note": "Barry Bostwick",
       "source": "balboa"
+    },
+    {
+      "id": "roxie:2026-11-28:23:30:tmdb:30707",
+      "venueId": "roxie",
+      "filmKey": "tmdb:30707",
+      "date": "2026-11-28",
+      "time": "23:30",
+      "url": "https://roxie.com/film/almost-midnights-star-80/",
+      "source": "roxie"
     },
     {
       "id": "4star:2026-11-29:10:00:tmdb:12429",
@@ -2680,6 +2768,16 @@
       "url": "https://drafthouse.com/sf/show/movie-party-national-lampoons-christmas-vacation?cinemaId=0801&sessionId=83895",
       "note": "Movie Parties · Celebrate the season like an honorary Griswold",
       "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-12-08:21:30:tmdb:1359",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1359",
+      "date": "2026-12-08",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-american-psycho-the-king-of-the-full-moon-night?cinemaId=0801&sessionId=83907",
+      "note": "Terror Tuesday · + THE KING OF THE FULL MOON NIGHT · Now if you'll excuse me, I have to return some videotapes",
+      "source": "alamo"
     }
   ],
   "festivals": [
@@ -2687,21 +2785,14 @@
       "key": "fest:4star:culture and diversity film festival",
       "name": "CULTURE & DIVERSITY FILM FESTIVAL",
       "venueId": "4star",
-      "startDate": "2026-11-09",
+      "startDate": "2026-11-10",
       "endDate": "2026-11-10",
-      "url": "https://www.4-star-movies.com/calendar-of-events/cdff-mon",
-      "showtimes": 2,
+      "url": "https://www.4-star-movies.com/calendar-of-events/cdff-tue",
+      "showtimes": 1,
       "sample": [
-        "Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
         "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\""
       ],
       "programme": [
-        {
-          "date": "2026-11-09",
-          "time": "16:00",
-          "title": "Short Films on \"Love, Food & Freedom\" and \"Sports, Dreams & Sailing\"",
-          "url": "https://www.4-star-movies.com/calendar-of-events/cdff-mon"
-        },
         {
           "date": "2026-11-10",
           "time": "16:00",
@@ -2714,39 +2805,15 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-09",
+      "startDate": "2026-11-10",
       "endDate": "2026-11-18",
-      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83884",
-      "showtimes": 39,
+      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83885",
+      "showtimes": 35,
       "sample": [
         "Littermates",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-09",
-          "time": "15:20",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84102"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "18:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84101"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "19:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83884"
-        },
-        {
-          "date": "2026-11-09",
-          "time": "22:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84105"
-        },
         {
           "date": "2026-11-10",
           "time": "18:45",
@@ -2986,12 +3053,18 @@
       "startDate": "2026-11-11",
       "endDate": "2026-11-11",
       "url": "http://arabfilmfestival.org/",
-      "showtimes": 1,
+      "showtimes": 2,
       "sample": [],
       "programme": [
         {
           "date": "2026-11-11",
           "time": "18:00",
+          "title": "Arab Film Festival 2026",
+          "url": "https://roxie.com/film/arab-film-festival-2026/"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "20:00",
           "title": "Arab Film Festival 2026",
           "url": "https://roxie.com/film/arab-film-festival-2026/"
         }
