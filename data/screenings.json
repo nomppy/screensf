@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-11-10T20:05:53.056Z",
+  "generatedAt": "2026-11-11T19:55:37.535Z",
   "films": {
-    "tmdb:636": {
-      "key": "tmdb:636",
-      "title": "THX 1138",
-      "year": 1971,
-      "director": "George Lucas",
-      "runtime": 86,
-      "genre": "Science Fiction",
-      "poster": "https://image.tmdb.org/t/p/w500/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fM9ODwfR7m8fI2g99M9WyhvqXtI.jpg",
-      "tmdbId": 636,
-      "popularity": 3.4791,
-      "releaseDate": "1971-03-11",
-      "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
-    },
-    "tmdb:31767": {
-      "key": "tmdb:31767",
-      "title": "The Devils",
-      "year": 1971,
-      "director": "Ken Russell",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
-      "tmdbId": 31767,
-      "popularity": 5.9565,
-      "releaseDate": "1971-07-16",
-      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
-    },
     "tmdb:425395": {
       "key": "tmdb:425395",
       "title": "Go Like This",
@@ -96,6 +68,20 @@
       "popularity": 1.1079,
       "releaseDate": "1969-08-19",
       "overview": "Włodek is a middle-aged man stuck in a dead-end job at the local library who lives with his harridan wife and critical in-laws in a small apartment. When Włodek draws the interest of a library patron, the beautiful young woman encourages him to strive for better things in his life and professional career. Together, the two take off for a three-day affair, but surprises could await Włodek upon his return home."
+    },
+    "tmdb:31767": {
+      "key": "tmdb:31767",
+      "title": "The Devils",
+      "year": 1971,
+      "director": "Ken Russell",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+      "tmdbId": 31767,
+      "popularity": 5.9565,
+      "releaseDate": "1971-07-16",
+      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
     },
     "tmdb:53792": {
       "key": "tmdb:53792",
@@ -377,19 +363,19 @@
       "releaseDate": "1975-08-14",
       "overview": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man."
     },
-    "tmdb:329": {
-      "key": "tmdb:329",
-      "title": "Jurassic Park",
-      "year": 1993,
-      "director": "Steven Spielberg",
-      "runtime": 127,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4SyDTF02R5BepqSdQmOaNCHObzF.jpg",
-      "tmdbId": 329,
-      "popularity": 11.7047,
-      "releaseDate": "1993-06-11",
-      "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape."
+    "tmdb:582913": {
+      "key": "tmdb:582913",
+      "title": "The Room",
+      "year": 2019,
+      "director": "Christian Volckman",
+      "runtime": 99,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/bWyQwZziHh1DK9F59eqahZD8Upc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/snbRXbkzEpc35mFDlwUg41cN8aw.jpg",
+      "tmdbId": 582913,
+      "popularity": 6.0879,
+      "releaseDate": "2019-09-12",
+      "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
     },
     "tmdb:11216": {
       "key": "tmdb:11216",
@@ -544,24 +530,6 @@
       "releaseDate": "1991-06-05",
       "overview": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth."
     },
-    "tmdb:93465": {
-      "key": "tmdb:93465",
-      "title": "The Chinese Feast",
-      "year": 1995,
-      "director": "Tsui Hark",
-      "runtime": 100,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/hbal71oj7AlzQSlvUeAMXHFM1rz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sDEeZGAE7N44XPJa1fi4yYLTaHb.jpg",
-      "tmdbId": 93465,
-      "popularity": 2.5026,
-      "releaseDate": "1995-01-28",
-      "overview": "Within a few years, petty crook Chiu rises to gang leader. But his professional ambitions are actually quite different: he wants to leave illegality behind and make a career for himself and his lover in Canada... as a chef. However, this craft must first be learned and Chiu's talent in the field of cooking leaves much to be desired."
-    },
-    "t:claudio simonettis goblin performs the live score to tenebre": {
-      "key": "t:claudio simonettis goblin performs the live score to tenebre",
-      "title": "Claudio Simonetti’s Goblin Performs the Live Score to Tenebre"
-    },
     "tmdb:48288": {
       "key": "tmdb:48288",
       "title": "Small Town Gay Bar",
@@ -644,6 +612,20 @@
       "popularity": 2.6583,
       "releaseDate": "2005-06-11",
       "overview": "A Polish stewardess who has to spend the night in Copenhagen to board her next flight meets a Danish man who insists on taking her out. The night does not turn out quite like either of them had expected."
+    },
+    "tmdb:10719": {
+      "key": "tmdb:10719",
+      "title": "Elf",
+      "year": 2003,
+      "director": "Jon Favreau",
+      "runtime": 97,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5nhp41gx49vXjwXuDXJwQrRFsng.jpg",
+      "tmdbId": 10719,
+      "popularity": 10.8683,
+      "releaseDate": "2003-11-07",
+      "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."
     },
     "tmdb:5825": {
       "key": "tmdb:5825",
@@ -756,20 +738,6 @@
       "releaseDate": "1990-08-17",
       "overview": "On the fifteenth anniversary of the exorcism that claimed Father Damien Karras' life, Police Lieutenant Kinderman's world is once again shattered when a boy is found decapitated and savagely crucified."
     },
-    "tmdb:10692": {
-      "key": "tmdb:10692",
-      "title": "Henry: Portrait of a Serial Killer",
-      "year": 1986,
-      "director": "John McNaughton",
-      "runtime": 83,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/diVMzTarVLgjc3jyODyhZMadfwD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nLr8MU3e4YVwdSMpzhtiKRsO79b.jpg",
-      "tmdbId": 10692,
-      "popularity": 3.8305,
-      "releaseDate": "1986-09-24",
-      "overview": "Arriving in Chicago, Henry moves in with ex-con acquaintance Otis and starts schooling him in the ways of the serial killer."
-    },
     "tmdb:9552": {
       "key": "tmdb:9552",
       "title": "The Exorcist",
@@ -866,6 +834,20 @@
       "popularity": 3.9253,
       "releaseDate": "1993-11-21",
       "overview": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
+    },
+    "tmdb:636": {
+      "key": "tmdb:636",
+      "title": "THX 1138",
+      "year": 1971,
+      "director": "George Lucas",
+      "runtime": 86,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fM9ODwfR7m8fI2g99M9WyhvqXtI.jpg",
+      "tmdbId": 636,
+      "popularity": 3.4791,
+      "releaseDate": "1971-03-11",
+      "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
     },
     "tmdb:448491": {
       "key": "tmdb:448491",
@@ -1147,33 +1129,19 @@
       "releaseDate": "1988-05-28",
       "overview": "Jesus, a humble Judean carpenter beginning to see that he is the son of God, is drawn into revolutionary action against the Roman occupiers by Judas -- despite his protestations that love, not violence, is the path to salvation. The burden of being the savior of mankind torments Jesus throughout his life, leading him to doubt."
     },
-    "tmdb:18671": {
-      "key": "tmdb:18671",
-      "title": "Gun Crazy",
-      "year": 1950,
-      "director": "Joseph H. Lewis",
-      "runtime": 87,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/kC1IIitCJTZLwZyuQnKw4zaOaXc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eR9S6iMbk4ycV7DcqvVxFp8lNFV.jpg",
-      "tmdbId": 18671,
-      "popularity": 3.0559,
-      "releaseDate": "1950-01-20",
-      "overview": "Bart Tare, an ex-Army man who has a lifelong fixation with guns, meets a kindred spirit in sharpshooter Annie Starr and goes to work at a carnival alongside her. After upsetting the carnival owner who lusts after Starr, they both get fired. Soon, at Starr's behest, the couple embarks on a crime spree for cash."
-    },
-    "tmdb:36656": {
-      "key": "tmdb:36656",
-      "title": "The Damned Don't Cry",
-      "year": 1950,
-      "director": "Vincent Sherman",
-      "runtime": 103,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/7kIZMJuGDEag4QWSlY1v8jQIDdQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/oMkHp9ExIqtCWEAxWFt543iJs1W.jpg",
-      "tmdbId": 36656,
-      "popularity": 2.1267,
-      "releaseDate": "1950-05-13",
-      "overview": "Fed up with her small-town marriage, a woman goes after the big time and gets mixed up with the mob."
+    "tmdb:71050": {
+      "key": "tmdb:71050",
+      "title": "The First Swallow",
+      "year": 1975,
+      "director": "Nana Mchedlidze",
+      "runtime": 75,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/y5vxxu9gcPD9njV1189iKhjIYY2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/dEe6QIVXqahZ9aoxwb3kCipUvlF.jpg",
+      "tmdbId": 71050,
+      "popularity": 0.4509,
+      "releaseDate": "1975-10-01",
+      "overview": "A film about the first football team to be formed in Georgia, based in Poti at the beginning of XX century."
     },
     "tmdb:996": {
       "key": "tmdb:996",
@@ -1272,6 +1240,20 @@
       "releaseDate": "1995-07-19",
       "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him."
     },
+    "tmdb:9340": {
+      "key": "tmdb:9340",
+      "title": "The Goonies",
+      "year": 1985,
+      "director": "Richard Donner",
+      "runtime": 114,
+      "genre": "Adventure",
+      "poster": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+      "tmdbId": 9340,
+      "popularity": 9.0279,
+      "releaseDate": "1985-06-07",
+      "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first."
+    },
     "tmdb:42077": {
       "key": "tmdb:42077",
       "title": "My Name Is Julia Ross",
@@ -1328,20 +1310,6 @@
       "releaseDate": "1928-05-09",
       "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
     },
-    "tmdb:1596326": {
-      "key": "tmdb:1596326",
-      "title": "Barbara Forever",
-      "year": 2026,
-      "director": "Brydie O'Connor",
-      "runtime": 102,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/kYjCmL8sg17zoKtm5Pb6Cn4H0nB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/mlEsvwfQoNUXC9y7vOSgVkrSL5U.jpg",
-      "tmdbId": 1596326,
-      "popularity": 2.5685,
-      "releaseDate": "2026-09-04",
-      "overview": "An archive-driven exploration of the life, work, and legacy of iconic, pioneering lesbian filmmaker Barbara Hammer."
-    },
     "tmdb:1712": {
       "key": "tmdb:1712",
       "title": "Giant",
@@ -1372,97 +1340,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-11-10:14:00:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-10",
-      "time": "14:00",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84114",
-      "note": "Baby Day",
-      "source": "alamo"
-    },
-    {
-      "id": "vogue:2026-11-10:16:30:tmdb:329",
-      "venueId": "vogue",
-      "filmKey": "tmdb:329",
-      "date": "2026-11-10",
-      "time": "16:30",
-      "url": "https://voguemovies.com/calendar-of-events/jurassic-park-november-10",
-      "format": "3D",
-      "note": "Projected in Digital 3-D",
-      "source": "vogue"
-    },
-    {
-      "id": "roxie:2026-11-10:18:00:tmdb:636",
-      "venueId": "roxie",
-      "filmKey": "tmdb:636",
-      "date": "2026-11-10",
-      "time": "18:00",
-      "url": "https://roxie.com/film/thx-1138-35mm/",
-      "format": "35mm",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-10:18:30:tmdb:18671",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:18671",
-      "date": "2026-11-10",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/gun-crazy-noirvember/",
-      "note": "Noirvember",
-      "source": "newparkway"
-    },
-    {
-      "id": "rafael:2026-11-10:18:30:tmdb:1596326",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1596326",
-      "date": "2026-11-10",
-      "time": "18:30",
-      "url": "https://cinema.cafilm.org/film/barbara-forever",
-      "note": "Contenders Season — Director Brydie O'Connor in Conversation with Randy Myers",
-      "source": "rafael"
-    },
-    {
-      "id": "castro:2026-11-10:19:30:t:claudio simonettis goblin performs the live score to tenebre",
-      "venueId": "castro",
-      "filmKey": "t:claudio simonettis goblin performs the live score to tenebre",
-      "date": "2026-11-10",
-      "time": "19:30",
-      "url": "https://thecastro.com/events/claudio-simonettis-goblin-261110",
-      "note": "Another Planet Entertainment and The Italian Cultural Institute of San Francisco present",
-      "source": "castro"
-    },
-    {
-      "id": "roxie:2026-11-10:20:00:tmdb:31767",
-      "venueId": "roxie",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-10",
-      "time": "20:00",
-      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-10:20:35:tmdb:36656",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:36656",
-      "date": "2026-11-10",
-      "time": "20:35",
-      "url": "https://thenewparkway.com/movie/the-damned-dont-cry-noirvember/",
-      "note": "Noirvember",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-11-10:21:30:tmdb:10692",
-      "venueId": "alamo",
-      "filmKey": "tmdb:10692",
-      "date": "2026-11-10",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-henry-portrait-of-a-serial-killer?cinemaId=0801&sessionId=83860",
-      "note": "Terror Tuesday · An unflinching gaze into a serial killer, newly restored",
-      "source": "alamo"
-    },
     {
       "id": "alamo:2026-11-11:14:15:tmdb:47504",
       "venueId": "alamo",
@@ -2238,6 +2115,16 @@
       "source": "4star"
     },
     {
+      "id": "newparkway:2026-11-22:15:00:tmdb:9340",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:9340",
+      "date": "2026-11-22",
+      "time": "15:00",
+      "url": "https://thenewparkway.com/movie/the-goonies-party-at-the-parkway/",
+      "note": "Party at the Parkway",
+      "source": "newparkway"
+    },
+    {
       "id": "balboa:2026-11-22:15:30:tmdb:45706",
       "venueId": "balboa",
       "filmKey": "tmdb:45706",
@@ -2618,13 +2505,13 @@
       "source": "castro"
     },
     {
-      "id": "4star:2026-12-02:19:30:tmdb:93465",
+      "id": "4star:2026-12-02:19:30:tmdb:98096",
       "venueId": "4star",
-      "filmKey": "tmdb:93465",
+      "filmKey": "tmdb:98096",
       "date": "2026-12-02",
       "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/chinese-feast-hi-nrg",
-      "note": "HI NRG presents:",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-spencer-zahn-vince-guaraldi",
+      "note": "Spencer Zahn, Zach Tenorio & Aaron Steele",
       "source": "4star"
     },
     {
@@ -2698,6 +2585,15 @@
       "url": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/",
       "format": "35mm",
       "source": "roxie"
+    },
+    {
+      "id": "balboa:2026-12-05:23:00:tmdb:582913",
+      "venueId": "balboa",
+      "filmKey": "tmdb:582913",
+      "date": "2026-12-05",
+      "time": "23:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-room-december-5",
+      "source": "balboa"
     },
     {
       "id": "roxie:2026-12-06:13:00:tmdb:1597242",
@@ -2778,26 +2674,50 @@
       "url": "https://drafthouse.com/sf/show/terror-tuesday-american-psycho-the-king-of-the-full-moon-night?cinemaId=0801&sessionId=83907",
       "note": "Terror Tuesday · + THE KING OF THE FULL MOON NIGHT · Now if you'll excuse me, I have to return some videotapes",
       "source": "alamo"
+    },
+    {
+      "id": "alamo:2026-12-09:18:00:tmdb:10719",
+      "venueId": "alamo",
+      "filmKey": "tmdb:10719",
+      "date": "2026-12-09",
+      "time": "18:00",
+      "url": "https://drafthouse.com/sf/show/movie-party-elf-movie-party-sing-along?cinemaId=0801&sessionId=83875",
+      "note": "Movie Parties · Sing-Along Movie Party · A cheerful celebration with themed games & singing loud for all to hear",
+      "source": "alamo"
+    },
+    {
+      "id": "bampfa:2026-12-09:19:00:tmdb:71050",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:71050",
+      "date": "2026-12-09",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/first-swallow",
+      "note": "Georgian Cinema Now: Alexandre Koberidze in Person",
+      "source": "bampfa"
     }
   ],
   "festivals": [
     {
-      "key": "fest:4star:culture and diversity film festival",
-      "name": "CULTURE & DIVERSITY FILM FESTIVAL",
-      "venueId": "4star",
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-10",
-      "url": "https://www.4-star-movies.com/calendar-of-events/cdff-tue",
-      "showtimes": 1,
-      "sample": [
-        "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\""
-      ],
+      "key": "fest:roxie:arab film festival 2026",
+      "name": "Arab Film Festival 2026",
+      "venueId": "roxie",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "url": "http://arabfilmfestival.org/",
+      "showtimes": 2,
+      "sample": [],
       "programme": [
         {
-          "date": "2026-11-10",
-          "time": "16:00",
-          "title": "Films on \"Music, Harmony & Nature\" and \"Mystic Journeys\"",
-          "url": "https://www.4-star-movies.com/calendar-of-events/cdff-tue"
+          "date": "2026-11-11",
+          "time": "18:00",
+          "title": "Arab Film Festival 2026",
+          "url": "https://roxie.com/film/arab-film-festival-2026/"
+        },
+        {
+          "date": "2026-11-11",
+          "time": "20:00",
+          "title": "Arab Film Festival 2026",
+          "url": "https://roxie.com/film/arab-film-festival-2026/"
         }
       ]
     },
@@ -2805,33 +2725,15 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-10",
+      "startDate": "2026-11-11",
       "endDate": "2026-11-18",
-      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83885",
-      "showtimes": 35,
+      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83886",
+      "showtimes": 32,
       "sample": [
         "Littermates",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-10",
-          "time": "18:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84116"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "20:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84117"
-        },
-        {
-          "date": "2026-11-10",
-          "time": "21:45",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83885"
-        },
         {
           "date": "2026-11-11",
           "time": "15:40",
@@ -3027,50 +2929,6 @@
       ]
     },
     {
-      "key": "fest:alamo:fantastic fest presents baby day",
-      "name": "Fantastic Fest Presents · Baby Day",
-      "venueId": "alamo",
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-10",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84115",
-      "showtimes": 1,
-      "sample": [
-        "Wild Horse Nine"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-10",
-          "time": "14:20",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84115"
-        }
-      ]
-    },
-    {
-      "key": "fest:roxie:arab film festival 2026",
-      "name": "Arab Film Festival 2026",
-      "venueId": "roxie",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
-      "url": "http://arabfilmfestival.org/",
-      "showtimes": 2,
-      "sample": [],
-      "programme": [
-        {
-          "date": "2026-11-11",
-          "time": "18:00",
-          "title": "Arab Film Festival 2026",
-          "url": "https://roxie.com/film/arab-film-festival-2026/"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "title": "Arab Film Festival 2026",
-          "url": "https://roxie.com/film/arab-film-festival-2026/"
-        }
-      ]
-    },
-    {
       "key": "fest:balboa:ntbts the fest",
       "name": "NTBTS the Fest",
       "venueId": "balboa",
@@ -3122,9 +2980,9 @@
       "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
       "venueId": "vogue",
       "startDate": "2026-11-13",
-      "endDate": "2026-11-15",
+      "endDate": "2026-11-17",
       "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13",
-      "showtimes": 5,
+      "showtimes": 6,
       "sample": [
         "De Gaulle: Part 1 – Resistance",
         "De la Comédie Française",
@@ -3161,6 +3019,12 @@
           "time": "19:00",
           "title": "Family Quiz",
           "url": "https://voguemovies.com/calendar-of-events/family-quiz-november-15"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:00",
+          "title": "De Gaulle: Part 1 – Resistance",
+          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17"
         }
       ]
     },
@@ -3253,6 +3117,120 @@
           "time": "18:00",
           "title": "Rouge",
           "url": "https://bampfa.org/event/rouge"
+        }
+      ]
+    },
+    {
+      "key": "fest:balboa:ahith fest 2026",
+      "name": "AHITH FEST 2026",
+      "venueId": "balboa",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-deep-dish",
+      "showtimes": 8,
+      "sample": [
+        "Deep Dish + 2 Short Films",
+        "The Crawling + 3 Short Films",
+        "Shorts Film Collection One",
+        "Shorts Film Collection Two ~."
+      ],
+      "programme": [
+        {
+          "date": "2026-12-04",
+          "time": "18:00",
+          "title": "Deep Dish + 2 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-deep-dish",
+          "note": "+ 2 Short Films"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "20:45",
+          "title": "The Crawling + 3 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-crawling",
+          "note": "+ 3 Short Films"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "10:15",
+          "title": "Shorts Film Collection One",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-shorts-collection-1",
+          "note": "Artichoke (14 Minutes)"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "12:30",
+          "title": "Shorts Film Collection Two ~.",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-shorts-collection-2",
+          "note": "The Candle (9 Minutes)"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "15:00",
+          "title": "Short Film Collection Three",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-fest-shorts-collection-3",
+          "note": "Ferry (9 Minutes)"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "21:45",
+          "title": "The Texas Chainsaw Massacre 2",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-texas-chainsaw-massacre-2",
+          "note": "THE SAW IS BACK!"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "12:30",
+          "title": "Short Film Collection 5 (Dark Rainbow)",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-shorts-collection-5",
+          "note": "Bad Dad (12 Minutes)"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "19:45",
+          "title": "Life at Sandy's + 4 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-life-at-sandys",
+          "note": "+ 4 Short Films"
+        }
+      ]
+    },
+    {
+      "key": "fest:balboa:another hole in the head 2026",
+      "name": "Another Hole in the Head 2026",
+      "venueId": "balboa",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-mary-kwon-mary-kwon",
+      "showtimes": 4,
+      "sample": [
+        "AHITH FEST 2026: Mary Kwon Mary Kwon",
+        "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
+        "AHITH FEST 2026: Remy & Bo: Rise of Belladonna",
+        "AHITH FEST 2026: Twice Midnight"
+      ],
+      "programme": [
+        {
+          "date": "2026-12-05",
+          "time": "17:15",
+          "title": "AHITH FEST 2026: Mary Kwon Mary Kwon",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-mary-kwon-mary-kwon"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "19:25",
+          "title": "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-Devil's Disciple: The Night Stalker"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "15:00",
+          "title": "AHITH FEST 2026: Remy & Bo: Rise of Belladonna",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-remy-bo-rise-of-belladonna"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "17:15",
+          "title": "AHITH FEST 2026: Twice Midnight",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-Twice Midnight"
         }
       ]
     },
