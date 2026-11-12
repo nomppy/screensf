@@ -1,18 +1,6 @@
 {
-  "generatedAt": "2026-11-11T19:55:37.535Z",
+  "generatedAt": "2026-11-12T20:33:55.862Z",
   "films": {
-    "tmdb:425395": {
-      "key": "tmdb:425395",
-      "title": "Go Like This",
-      "year": 1985,
-      "director": "Rock Ross",
-      "runtime": 3,
-      "backdrop": "https://roxie.com/wp-content/uploads/2026/10/2-11-e1792604112245.jpg",
-      "tmdbId": 425395,
-      "popularity": 0.5428,
-      "releaseDate": "1985-01-01",
-      "overview": "Frenetic and impressionistic, this nocturnal foray through San Francisco's streets (heightened by a stop at a nightclub) delivers a thrill-hit of ebullient adrenaline. The rush of excitement, of anonymity, of adventure, of being alive, of potentially meeting someone new is palpable. Somewhere in the middle of this burst of gorgeous black-and-white, the neon takes on a life of its own, squiggling into infinity. \"This is about living fast and dying peacefully,\" the filmmaker said at the time, which adds another layer of poignancy. - Michael Fox"
-    },
     "tmdb:81": {
       "key": "tmdb:81",
       "title": "Warriors of the Wind",
@@ -251,20 +239,6 @@
       "releaseDate": "2002-03-15",
       "overview": "Two men share an odd friendship while they care for two women who are both in deep comas."
     },
-    "tmdb:989988": {
-      "key": "tmdb:989988",
-      "title": "New Moon",
-      "year": 2022,
-      "director": "Jérémie Balais, Jeffig Le Bars",
-      "runtime": 11,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/3fPmU1SXHGt5DQfgQOVVkkQovXw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kZIgUWz6iUIgZO4Qdsb6kcrsoyA.jpg",
-      "tmdbId": 989988,
-      "popularity": 1.9933,
-      "releaseDate": "2022-07-16",
-      "overview": "An imaginative surrealist journey of young Jay Jay and his mother Edie. Their inner city dreams are illuminated by the New Moon accompanied by magic of Aretha Franklin playing on a summer's eve on a transistor radio in a backyard in West Philadelphia."
-    },
     "tmdb:9067": {
       "key": "tmdb:9067",
       "title": "Tank Girl",
@@ -348,6 +322,20 @@
       "popularity": 5.7769,
       "releaseDate": "2017-06-22",
       "overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there."
+    },
+    "tmdb:13963": {
+      "key": "tmdb:13963",
+      "title": "The Last Waltz",
+      "year": 1978,
+      "director": "Martin Scorsese",
+      "runtime": 117,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
+      "tmdbId": 13963,
+      "popularity": 2.6165,
+      "releaseDate": "1978-04-26",
+      "overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends."
     },
     "tmdb:36685": {
       "key": "tmdb:36685",
@@ -544,6 +532,20 @@
       "releaseDate": "2007-03-31",
       "overview": "The story of community in the Deep South that is forced to deal with the struggles of ignorance, hypocrisy and oppression."
     },
+    "tmdb:44896": {
+      "key": "tmdb:44896",
+      "title": "Rango",
+      "year": 2011,
+      "director": "Gore Verbinski",
+      "runtime": 107,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg",
+      "tmdbId": 44896,
+      "popularity": 9.7462,
+      "releaseDate": "2011-03-02",
+      "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging Western town of Dirt, the theater-loving lizard suddenly finds himself the newly appointed sheriff. Welcomed as the last hope the town has been waiting for, Rango is forced to play his new role to the hilt and uncover the truth behind a looming water crisis—before his act catches up with him."
+    },
     "tmdb:949423": {
       "key": "tmdb:949423",
       "title": "Pearl",
@@ -585,20 +587,6 @@
       "popularity": 10.5355,
       "releaseDate": "1992-06-19",
       "overview": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader."
-    },
-    "tmdb:47504": {
-      "key": "tmdb:47504",
-      "title": "Little Odessa",
-      "year": 1994,
-      "director": "James Gray",
-      "runtime": 98,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/f7E3jZVWgjzxONUfrCkJRGQJH0t.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eixQk0rpDH3vYamqWw4Bvu3Y635.jpg",
-      "tmdbId": 47504,
-      "popularity": 2.8679,
-      "releaseDate": "1994-10-28",
-      "overview": "Long separated from his family, hitman Joshua returns to Brighton Beach for a contract killing for the Russian Mafia. His abusive father, Arkady, banned him from returning after Joshua committed his first murder. He takes up residence in a hotel, and soon everyone knows he has returned. He goes home to visit his dying mother, Irina, and prepares for the assassination, getting drawn back into the criminal community he left behind."
     },
     "tmdb:369508": {
       "key": "tmdb:369508",
@@ -877,34 +865,6 @@
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
     },
-    "tmdb:11778": {
-      "key": "tmdb:11778",
-      "title": "The Deer Hunter",
-      "year": 1978,
-      "director": "Michael Cimino",
-      "runtime": 183,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/bbGtogDZOg09bm42KIpCXUXICkh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg",
-      "tmdbId": 11778,
-      "popularity": 11.4383,
-      "releaseDate": "1978-12-08",
-      "overview": "Three steelworkers enlist in the army and are sent to Vietnam, one leaving behind a rushed marriage, the others a shared love. What they encounter during the war changes their lives forever."
-    },
-    "tmdb:27031": {
-      "key": "tmdb:27031",
-      "title": "Samurai Rebellion",
-      "year": 1967,
-      "director": "Masaki Kobayashi",
-      "runtime": 121,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
-      "tmdbId": 27031,
-      "popularity": 2.8506,
-      "releaseDate": "1967-05-27",
-      "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
-    },
     "tmdb:8073": {
       "key": "tmdb:8073",
       "title": "Band of Outsiders",
@@ -1003,6 +963,20 @@
       "releaseDate": "1924-12-22",
       "overview": "After a baron steals his scientific discoveries, runs away with his wife, and slaps him in public, a man joins a Parisian circus sideshow as a clown whose act consists of being slapped repeatedly and becomes infatuated with a showgirl colleague whose father intends to marry her off to the baron."
     },
+    "tmdb:27031": {
+      "key": "tmdb:27031",
+      "title": "Samurai Rebellion",
+      "year": 1967,
+      "director": "Masaki Kobayashi",
+      "runtime": 121,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
+      "tmdbId": 27031,
+      "popularity": 2.8506,
+      "releaseDate": "1967-05-27",
+      "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
+    },
     "tmdb:1578": {
       "key": "tmdb:1578",
       "title": "Raging Bull",
@@ -1044,20 +1018,6 @@
       "popularity": 11.8657,
       "releaseDate": "1936-02-05",
       "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..."
-    },
-    "tmdb:13963": {
-      "key": "tmdb:13963",
-      "title": "The Last Waltz",
-      "year": 1978,
-      "director": "Martin Scorsese",
-      "runtime": 117,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/2K7CFH0AIHnGrA4yQjPCoIB5CmQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/noOz8qEQKBJZ7aEk7VboOUsJyR2.jpg",
-      "tmdbId": 13963,
-      "popularity": 2.6165,
-      "releaseDate": "1978-04-26",
-      "overview": "Martin Scorsese's documentary intertwines footage from The Band's incredible farewell tour with probing backstage interviews and featured performances by Eric Clapton, Bob Dylan, Joni Mitchell, Van Morrison, and other rock legends."
     },
     "tmdb:43372": {
       "key": "tmdb:43372",
@@ -1142,6 +1102,20 @@
       "popularity": 0.4509,
       "releaseDate": "1975-10-01",
       "overview": "A film about the first football team to be formed in Georgia, based in Poti at the beginning of XX century."
+    },
+    "tmdb:443033": {
+      "key": "tmdb:443033",
+      "title": "Let the Summer Never Come Again",
+      "year": 2017,
+      "director": "Alexandre Koberidze",
+      "runtime": 202,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/2zvb7FDyk5gjFYYBo1gv2bXEB7k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/mnAywbvOo7wESrTZV2zGQFh8xf4.jpg",
+      "tmdbId": 443033,
+      "popularity": 0.3386,
+      "releaseDate": "2017-02-15",
+      "overview": "A young man leaves his village to go into the city to audition to enter a dance company. He then is involved in illegal activities such as boxing and sleeping with men for money. Unwillingly, he falls in love with a man and suddenly is accepted in and starts dancing in the company. But his life will turn upside down when his lover goes to war and he returns to his village."
     },
     "tmdb:996": {
       "key": "tmdb:996",
@@ -1310,6 +1284,20 @@
       "releaseDate": "1928-05-09",
       "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
     },
+    "tmdb:233": {
+      "key": "tmdb:233",
+      "title": "The Wanderers",
+      "year": 1979,
+      "director": "Philip Kaufman",
+      "runtime": 117,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/dKEBkSlqAxVxTm5pVFtXBRYCniD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/c4hWk3pBYlpukYNFeEq29wpxAO1.jpg",
+      "tmdbId": 233,
+      "popularity": 2.0266,
+      "releaseDate": "1979-07-13",
+      "overview": "The streets of the Bronx are owned by '60s youth gangs where the joy and pain of adolescence is lived. Philip Kaufman tells his take on the novel by Richard Price about the history of the Italian-American gang ‘The Wanderers.’"
+    },
     "tmdb:1712": {
       "key": "tmdb:1712",
       "title": "Giant",
@@ -1324,6 +1312,34 @@
       "releaseDate": "1956-11-08",
       "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
     },
+    "tmdb:655": {
+      "key": "tmdb:655",
+      "title": "Paris, Texas",
+      "year": 1984,
+      "director": "Wim Wenders",
+      "runtime": 145,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
+      "tmdbId": 655,
+      "popularity": 7.5596,
+      "releaseDate": "1984-07-16",
+      "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier."
+    },
+    "tmdb:27064": {
+      "key": "tmdb:27064",
+      "title": "Mishima: A Life in Four Chapters",
+      "year": 1985,
+      "director": "Paul Schrader",
+      "runtime": 121,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/PnwQJeWhmx9wh9wWM0a0YhLmE.jpg",
+      "tmdbId": 27064,
+      "popularity": 3.3085,
+      "releaseDate": "1985-09-20",
+      "overview": "A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970."
+    },
     "tmdb:49852": {
       "key": "tmdb:49852",
       "title": "The Nutcracker",
@@ -1337,88 +1353,23 @@
       "popularity": 2.8044,
       "releaseDate": "2010-11-24",
       "overview": "On Christmas Eve in 1920s Vienna, a young girl named Mary and her brother are visited by their eccentric uncle Albert, who gifts a magical wooden nutcracker that comes to life and takes her to a fantasy world to fight the evil Rat King."
+    },
+    "tmdb:1554": {
+      "key": "tmdb:1554",
+      "title": "Down by Law",
+      "year": 1986,
+      "director": "Jim Jarmusch",
+      "runtime": 106,
+      "genre": "Crime",
+      "poster": "https://image.tmdb.org/t/p/w500/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg",
+      "tmdbId": 1554,
+      "popularity": 2.1549,
+      "releaseDate": "1986-09-20",
+      "overview": "A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans."
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-11-11:14:15:tmdb:47504",
-      "venueId": "alamo",
-      "filmKey": "tmdb:47504",
-      "date": "2026-11-11",
-      "time": "14:15",
-      "url": "https://drafthouse.com/sf/show/little-odessa?cinemaId=0801&sessionId=84131",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-11-11:16:30:tmdb:989988",
-      "venueId": "balboa",
-      "filmKey": "tmdb:989988",
-      "date": "2026-11-11",
-      "time": "16:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/twilight-new-moon-november-11",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
-    },
-    {
-      "id": "roxie:2026-11-11:18:00:tmdb:425395",
-      "venueId": "roxie",
-      "filmKey": "tmdb:425395",
-      "date": "2026-11-11",
-      "time": "18:00",
-      "url": "https://roxie.com/film/rock-ross-go-like-this-16mm/",
-      "format": "16mm",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-11:18:30:tmdb:31767",
-      "venueId": "alamo",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-11",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/ken-russells-the-devils?cinemaId=0801&sessionId=84125",
-      "source": "alamo"
-    },
-    {
-      "id": "operaplaza:2026-11-11:19:00:tmdb:11778",
-      "venueId": "operaplaza",
-      "filmKey": "tmdb:11778",
-      "date": "2026-11-11",
-      "time": "19:00",
-      "url": "https://www.landmarktheatres.com/movies/29714-the-deer-hunter/",
-      "note": "Filmmaker Focus: Robert De Niro",
-      "source": "operaplaza"
-    },
-    {
-      "id": "bampfa:2026-11-11:19:00:tmdb:27031",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:27031",
-      "date": "2026-11-11",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/samurai-rebellion",
-      "format": "35mm",
-      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
-      "source": "bampfa"
-    },
-    {
-      "id": "vogue:2026-11-11:19:30:tmdb:11216",
-      "venueId": "vogue",
-      "filmKey": "tmdb:11216",
-      "date": "2026-11-11",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/cinema-paradiso-november-11",
-      "note": "Theatrical Cut",
-      "source": "vogue"
-    },
-    {
-      "id": "newparkway:2026-11-11:21:00:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-11",
-      "time": "21:00",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
     {
       "id": "alamo:2026-11-12:15:15:tmdb:4203",
       "venueId": "alamo",
@@ -1552,6 +1503,16 @@
       "time": "21:30",
       "url": "https://drafthouse.com/sf/show/all-about-my-mother?cinemaId=0801&sessionId=84156",
       "source": "alamo"
+    },
+    {
+      "id": "rafael:2026-11-14:11:00:tmdb:233",
+      "venueId": "rafael",
+      "filmKey": "tmdb:233",
+      "date": "2026-11-14",
+      "time": "11:00",
+      "url": "https://cinema.cafilm.org/film/the-wanderers",
+      "note": "Mvff Retrospective",
+      "source": "rafael"
     },
     {
       "id": "newparkway:2026-11-14:11:40:tmdb:996",
@@ -1787,6 +1748,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-11-18:18:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-18",
+      "time": "18:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "grandlake:2026-11-18:19:00:tmdb:25768",
       "venueId": "grandlake",
       "filmKey": "tmdb:25768",
@@ -2002,6 +1972,16 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/fantastic-mr-fox-sat-2026",
       "note": "Popcorn Palace - FREE!",
       "source": "4star"
+    },
+    {
+      "id": "rafael:2026-11-21:11:00:tmdb:655",
+      "venueId": "rafael",
+      "filmKey": "tmdb:655",
+      "date": "2026-11-21",
+      "time": "11:00",
+      "url": "https://cinema.cafilm.org/film/paris-texas",
+      "note": "Mvff Retrospective",
+      "source": "rafael"
     },
     {
       "id": "sfmoma:2026-11-21:14:00:tmdb:1547796",
@@ -2305,6 +2285,16 @@
       "source": "bampfa"
     },
     {
+      "id": "balboa:2026-11-27:19:30:tmdb:13963",
+      "venueId": "balboa",
+      "filmKey": "tmdb:13963",
+      "date": "2026-11-27",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-last-waltz-november-27",
+      "note": "The Last Waltz",
+      "source": "balboa"
+    },
+    {
       "id": "4star:2026-11-27:19:30:tmdb:60645",
       "venueId": "4star",
       "filmKey": "tmdb:60645",
@@ -2332,6 +2322,26 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/ponyo-sat-2026",
       "note": "Spirited Away",
       "source": "4star"
+    },
+    {
+      "id": "rafael:2026-11-28:11:00:tmdb:27064",
+      "venueId": "rafael",
+      "filmKey": "tmdb:27064",
+      "date": "2026-11-28",
+      "time": "11:00",
+      "url": "https://cinema.cafilm.org/film/mishima-a-life-in-four-chapters",
+      "note": "Mvff Retrospective",
+      "source": "rafael"
+    },
+    {
+      "id": "balboa:2026-11-28:16:00:tmdb:13963",
+      "venueId": "balboa",
+      "filmKey": "tmdb:13963",
+      "date": "2026-11-28",
+      "time": "16:00",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-last-waltz-november-28",
+      "note": "The Last Waltz",
+      "source": "balboa"
     },
     {
       "id": "roxie:2026-11-28:18:00:tmdb:4203",
@@ -2567,6 +2577,16 @@
       "source": "4star"
     },
     {
+      "id": "rafael:2026-12-05:11:00:tmdb:1554",
+      "venueId": "rafael",
+      "filmKey": "tmdb:1554",
+      "date": "2026-12-05",
+      "time": "11:00",
+      "url": "https://cinema.cafilm.org/film/down-by-law",
+      "note": "Mvff Retrospective",
+      "source": "rafael"
+    },
+    {
       "id": "alamo:2026-12-05:12:00:tmdb:5255",
       "venueId": "alamo",
       "filmKey": "tmdb:5255",
@@ -2694,70 +2714,54 @@
       "url": "https://bampfa.org/event/first-swallow",
       "note": "Georgian Cinema Now: Alexandre Koberidze in Person",
       "source": "bampfa"
+    },
+    {
+      "id": "bampfa:2026-12-10:18:30:tmdb:443033",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:443033",
+      "date": "2026-12-10",
+      "time": "18:30",
+      "url": "https://bampfa.org/event/let-summer-never-come-again",
+      "format": "DCP",
+      "note": "Georgian Cinema Now: Alexandre Koberidze in Person",
+      "source": "bampfa"
+    },
+    {
+      "id": "castro:2026-12-10:19:30:tmdb:44896",
+      "venueId": "castro",
+      "filmKey": "tmdb:44896",
+      "date": "2026-12-10",
+      "time": "19:30",
+      "url": "https://thecastro.com/events/rango-261210",
+      "note": "MOViES FOR MANiACS and Another Planet Entertainment present",
+      "source": "castro"
+    },
+    {
+      "id": "4star:2026-12-10:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-12-10",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-storefront-church",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
     }
   ],
   "festivals": [
     {
-      "key": "fest:roxie:arab film festival 2026",
-      "name": "Arab Film Festival 2026",
-      "venueId": "roxie",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
-      "url": "http://arabfilmfestival.org/",
-      "showtimes": 2,
-      "sample": [],
-      "programme": [
-        {
-          "date": "2026-11-11",
-          "time": "18:00",
-          "title": "Arab Film Festival 2026",
-          "url": "https://roxie.com/film/arab-film-festival-2026/"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "20:00",
-          "title": "Arab Film Festival 2026",
-          "url": "https://roxie.com/film/arab-film-festival-2026/"
-        }
-      ]
-    },
-    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-18",
-      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83886",
-      "showtimes": 32,
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-24",
+      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887",
+      "showtimes": 29,
       "sample": [
         "Littermates",
+        "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-11",
-          "time": "15:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84129"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "18:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84127"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "19:00",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83886"
-        },
-        {
-          "date": "2026-11-11",
-          "time": "22:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84130"
-        },
         {
           "date": "2026-11-12",
           "time": "15:30",
@@ -2925,6 +2929,12 @@
           "time": "22:05",
           "title": "Wild Horse Nine",
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84226"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "19:00",
+          "title": "The Vile",
+          "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239"
         }
       ]
     },
@@ -3125,9 +3135,9 @@
       "name": "AHITH FEST 2026",
       "venueId": "balboa",
       "startDate": "2026-12-04",
-      "endDate": "2026-12-06",
+      "endDate": "2026-12-11",
       "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-deep-dish",
-      "showtimes": 8,
+      "showtimes": 15,
       "sample": [
         "Deep Dish + 2 Short Films",
         "The Crawling + 3 Short Films",
@@ -3190,6 +3200,55 @@
           "title": "Life at Sandy's + 4 Short Films",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-life-at-sandys",
           "note": "+ 4 Short Films"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "20:00",
+          "title": "Starslyderz",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-starslyderz",
+          "note": "20 years later, STARSLYDERZ comes home!"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "19:00",
+          "title": "The Shining Forwards and Backwards + 2 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-The Shining Forwards and Backwards",
+          "note": "You've seen The Shining. You've never seen it like this."
+        },
+        {
+          "date": "2026-12-09",
+          "time": "19:00",
+          "title": "Mad Max: Fury Road (BLACK & CHROME) + 2 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-mad-max-fury-road",
+          "note": "+ 2 Short Films"
+        },
+        {
+          "date": "2026-12-10",
+          "time": "18:45",
+          "title": "Unsavory Elements + 2 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-unsavory-elements",
+          "note": "+ 2 Short Films"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "18:15",
+          "title": "Ripple in a Pond of Blood + 1 Short Film",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-ripple-in-a-pond-of-blood",
+          "note": "+ 1 Short Film"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "19:50",
+          "title": "Variations on Violence + 1 Short Film",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-variations-on-violence",
+          "note": "+ 1 Short Film"
+        },
+        {
+          "date": "2026-12-11",
+          "time": "21:30",
+          "title": "Homebody + 1 Short Film",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-homebody",
+          "note": "+ 1 Short Film"
         }
       ]
     },
@@ -3198,9 +3257,9 @@
       "name": "Another Hole in the Head 2026",
       "venueId": "balboa",
       "startDate": "2026-12-05",
-      "endDate": "2026-12-06",
+      "endDate": "2026-12-07",
       "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-mary-kwon-mary-kwon",
-      "showtimes": 4,
+      "showtimes": 5,
       "sample": [
         "AHITH FEST 2026: Mary Kwon Mary Kwon",
         "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
@@ -3231,6 +3290,12 @@
           "time": "17:15",
           "title": "AHITH FEST 2026: Twice Midnight",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-Twice Midnight"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "18:00",
+          "title": "AHITH FEST 2026: The Ritual of Hausao",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-ritual-of-hausao"
         }
       ]
     },
