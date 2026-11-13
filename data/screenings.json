@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-11-12T20:33:55.862Z",
+  "generatedAt": "2026-11-13T20:10:16.134Z",
   "films": {
-    "tmdb:81": {
-      "key": "tmdb:81",
-      "title": "Warriors of the Wind",
-      "year": 1984,
-      "director": "Hayao Miyazaki",
-      "runtime": 95,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/z2jsAbXWGdJvadhovznjGg33VND.jpg",
-      "tmdbId": 81,
-      "popularity": 18.542,
-      "releaseDate": "1984-03-11",
-      "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth."
-    },
-    "tmdb:4977": {
-      "key": "tmdb:4977",
-      "title": "Paprika",
-      "year": 2006,
-      "director": "Satoshi Kon",
-      "runtime": 90,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/nHJljo2Pi7XimYEgV9hvRchQWmg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/3fgcEjBNrhstYgPlG1c8WT7UpIN.jpg",
-      "tmdbId": 4977,
-      "popularity": 9.0953,
-      "releaseDate": "2006-10-01",
-      "overview": "Dr. Atsuko Chiba is a research psychologist who uses a device called the DC Mini to enter her patients' dreams, wherein she adopts the alter-ego \"Paprika\". When the device is stolen, she must stop rogue elements from merging the dream and waking worlds."
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "tmdb:198669": {
       "key": "tmdb:198669",
       "title": "Hunting Flies",
@@ -70,6 +28,20 @@
       "popularity": 5.9565,
       "releaseDate": "1971-07-16",
       "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:53792": {
       "key": "tmdb:53792",
@@ -239,19 +211,19 @@
       "releaseDate": "2002-03-15",
       "overview": "Two men share an odd friendship while they care for two women who are both in deep comas."
     },
-    "tmdb:9067": {
-      "key": "tmdb:9067",
-      "title": "Tank Girl",
-      "year": 1995,
-      "director": "Rachel Talalay",
-      "runtime": 104,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/qohdY3BcJ98sFneOUAWp0FmH4Z6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/n0hLpeTGnyiHOYjY5MnU1VgeyPM.jpg",
-      "tmdbId": 9067,
-      "popularity": 4.9031,
-      "releaseDate": "1995-03-31",
-      "overview": "After a comet disrupts the rain cycle of Earth, the planet has become a desolate, barren desert by the year 2033. With resources scarce, Kesslee, head of the powerful and evil Water & Power Corporation, the de facto government, has taken control of the water supply. Unwilling to cower under Kesslee's tyrannical rule, a pair of outlaws known as Tank Girl and Jet Girl rise up, joining the mysterious rebel Rippers to destroy the corrupt system."
+    "tmdb:97": {
+      "key": "tmdb:97",
+      "title": "Tron",
+      "year": 1982,
+      "director": "Steven Lisberger",
+      "runtime": 96,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vUmeBHiGp5r2ydd8aEvbNLamTVD.jpg",
+      "tmdbId": 97,
+      "popularity": 5.5869,
+      "releaseDate": "1982-07-09",
+      "overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world and becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment."
     },
     "tmdb:2609": {
       "key": "tmdb:2609",
@@ -364,20 +336,6 @@
       "popularity": 6.0879,
       "releaseDate": "2019-09-12",
       "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
-    },
-    "tmdb:11216": {
-      "key": "tmdb:11216",
-      "title": "Cinema Paradiso",
-      "year": 1988,
-      "director": "Giuseppe Tornatore",
-      "runtime": 124,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/aRgPnx4aPS96f7CnhJH7IG5dN1A.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
-      "tmdbId": 11216,
-      "popularity": 12.5067,
-      "releaseDate": "1988-11-17",
-      "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist."
     },
     "tmdb:433": {
       "key": "tmdb:433",
@@ -837,20 +795,6 @@
       "releaseDate": "1971-03-11",
       "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
     },
-    "tmdb:448491": {
-      "key": "tmdb:448491",
-      "title": "Little Forest",
-      "year": 2018,
-      "director": "Yim Soon-rye",
-      "runtime": 103,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/gKmPuyjmALswSQUF94PWXoAvkKM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/vTw1MjLJfCFzFdq5iElKpjI0LIV.jpg",
-      "tmdbId": 448491,
-      "popularity": 7.4868,
-      "releaseDate": "2018-02-28",
-      "overview": "A young woman leaves the city to return to her hometown in the countryside. Seeking to escape the hustle and bustle of the city, she becomes self-sufficient in a bid to reconnect with nature."
-    },
     "tmdb:1547796": {
       "key": "tmdb:1547796",
       "title": "Baon",
@@ -864,20 +808,6 @@
       "popularity": 1.2725,
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
-    },
-    "tmdb:8073": {
-      "key": "tmdb:8073",
-      "title": "Band of Outsiders",
-      "year": 1964,
-      "director": "Jean-Luc Godard",
-      "runtime": 97,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/9oqyj79xmcypxLajJdefOtrYx64.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kKsy8sCjfOtfHPBT2i8z13bIRij.jpg",
-      "tmdbId": 8073,
-      "popularity": 5.1667,
-      "releaseDate": "1964-08-05",
-      "overview": "Cinephile slackers Franz and Arthur spend their days mimicking the antiheroes of Hollywood noirs and Westerns while pursuing the lovely Odile. The misfit trio upends convention at every turn, be it through choreographed dances in cafés or frolicsome romps through the Louvre. Eventually, their romantic view of outlaws pushes them to plan their own heist, but their inexperience may send them out in a blaze of glory -- which could be just what they want."
     },
     "tmdb:200976": {
       "key": "tmdb:200976",
@@ -906,6 +836,20 @@
       "popularity": 22.5478,
       "releaseDate": "1976-02-09",
       "overview": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city."
+    },
+    "tmdb:448491": {
+      "key": "tmdb:448491",
+      "title": "Little Forest",
+      "year": 2018,
+      "director": "Yim Soon-rye",
+      "runtime": 103,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/gKmPuyjmALswSQUF94PWXoAvkKM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/vTw1MjLJfCFzFdq5iElKpjI0LIV.jpg",
+      "tmdbId": 448491,
+      "popularity": 7.4868,
+      "releaseDate": "2018-02-28",
+      "overview": "A young woman leaves the city to return to her hometown in the countryside. Seeking to escape the hustle and bustle of the city, she becomes self-sufficient in a bid to reconnect with nature."
     },
     "tmdb:34528": {
       "key": "tmdb:34528",
@@ -1116,6 +1060,20 @@
       "popularity": 0.3386,
       "releaseDate": "2017-02-15",
       "overview": "A young man leaves his village to go into the city to audition to enter a dance company. He then is involved in illegal activities such as boxing and sleeping with men for money. Unwillingly, he falls in love with a man and suddenly is accepted in and starts dancing in the company. But his life will turn upside down when his lover goes to war and he returns to his village."
+    },
+    "tmdb:198": {
+      "key": "tmdb:198",
+      "title": "To Be or Not to Be",
+      "year": 1942,
+      "director": "Ernst Lubitsch",
+      "runtime": 99,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/28vvMlh490bxipmhkbYTQissiof.jpg",
+      "tmdbId": 198,
+      "popularity": 2.4801,
+      "releaseDate": "1942-03-06",
+      "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy."
     },
     "tmdb:996": {
       "key": "tmdb:996",
@@ -1370,102 +1328,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-11-12:15:15:tmdb:4203",
-      "venueId": "alamo",
-      "filmKey": "tmdb:4203",
-      "date": "2026-11-12",
-      "time": "15:15",
-      "url": "https://drafthouse.com/sf/show/women-on-the-verge-of-a-nervous-breakdown?cinemaId=0801&sessionId=84150",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-12:18:00:tmdb:81",
-      "venueId": "roxie",
-      "filmKey": "tmdb:81",
-      "date": "2026-11-12",
-      "time": "18:00",
-      "url": "https://roxie.com/film/new-people-nausicaa-of-the-valley-of-the-wind/",
-      "source": "roxie"
-    },
-    {
-      "id": "sfmoma:2026-11-12:18:30:tmdb:448491",
-      "venueId": "sfmoma",
-      "filmKey": "tmdb:448491",
-      "date": "2026-11-12",
-      "time": "18:30",
-      "url": "https://www.sfmoma.org/event/little-forest-film-screening-conversation/",
-      "note": "a special screening of the delightful foodie film \"Little Forest\" followed by a conversation with the filmmaker Yim Soon-Rye.",
-      "source": "sfmoma"
-    },
-    {
-      "id": "alamo:2026-11-12:18:40:tmdb:4203",
-      "venueId": "alamo",
-      "filmKey": "tmdb:4203",
-      "date": "2026-11-12",
-      "time": "18:40",
-      "url": "https://drafthouse.com/sf/show/women-on-the-verge-of-a-nervous-breakdown?cinemaId=0801&sessionId=83859",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-11-12:19:00:tmdb:9067",
-      "venueId": "balboa",
-      "filmKey": "tmdb:9067",
-      "date": "2026-11-12",
-      "time": "19:00",
-      "url": "https://www.balboamovies.com/calendar-of-events/tank-girl-november-12",
-      "note": "Presented as part of",
-      "source": "balboa"
-    },
-    {
-      "id": "bampfa:2026-11-12:19:00:tmdb:8073",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:8073",
-      "date": "2026-11-12",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/band-outsiders",
-      "format": "DCP",
-      "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "vogue:2026-11-12:19:30:tmdb:11216",
-      "venueId": "vogue",
-      "filmKey": "tmdb:11216",
-      "date": "2026-11-12",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/cinema-paradiso-november-12",
-      "note": "Theatrical Cut",
-      "source": "vogue"
-    },
-    {
-      "id": "4star:2026-11-12:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-12",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-school-fair",
-      "note": "Throwin’ Bo’s presents:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-12:20:30:tmdb:4977",
-      "venueId": "roxie",
-      "filmKey": "tmdb:4977",
-      "date": "2026-11-12",
-      "time": "20:30",
-      "url": "https://roxie.com/film/new-people-paprika/",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-12:20:40:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-12",
-      "time": "20:40",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
     {
       "id": "alamo:2026-11-13:11:45:tmdb:99",
       "venueId": "alamo",
@@ -2745,47 +2607,144 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-storefront-church",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "bampfa:2026-12-11:19:30:tmdb:198",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:198",
+      "date": "2026-12-11",
+      "time": "19:30",
+      "url": "https://bampfa.org/event/be-or-not-be",
+      "format": "DCP",
+      "note": "A Touch of Lubitsch: The Hollywood Years",
+      "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-12-11:20:40:tmdb:97",
+      "venueId": "roxie",
+      "filmKey": "tmdb:97",
+      "date": "2026-12-11",
+      "time": "20:40",
+      "url": "https://roxie.com/film/tron-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
     }
   ],
   "festivals": [
     {
+      "key": "fest:balboa:ntbts the fest",
+      "name": "NTBTS the Fest",
+      "venueId": "balboa",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13",
+      "showtimes": 5,
+      "sample": [
+        "Nirvanna the Band the Show Season One",
+        "Nirvanna the Band the Show Season Two",
+        "Nirvanna the Band the Show the Movie",
+        "Back to the Future"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-13",
+          "time": "19:00",
+          "title": "Nirvanna the Band the Show Season One",
+          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "16:00",
+          "title": "Nirvanna the Band the Show Season Two",
+          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-two-november-14"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:30",
+          "title": "Nirvanna the Band the Show the Movie",
+          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-14"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "16:00",
+          "title": "Nirvanna the Band the Show the Movie",
+          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-15"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:00",
+          "title": "Back to the Future",
+          "url": "https://www.balboamovies.com/calendar-of-events/Back to the Future-november-15"
+        }
+      ]
+    },
+    {
+      "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
+      "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
+      "venueId": "vogue",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-17",
+      "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13",
+      "showtimes": 6,
+      "sample": [
+        "De Gaulle: Part 1 – Resistance",
+        "De la Comédie Française",
+        "Women on Trial",
+        "Another Day"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-13",
+          "time": "18:30",
+          "title": "De Gaulle: Part 1 – Resistance",
+          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "15:00",
+          "title": "De la Comédie Française",
+          "url": "https://voguemovies.com/calendar-of-events/de-la-comdie-franaise-november-14"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "19:00",
+          "title": "Women on Trial",
+          "url": "https://voguemovies.com/calendar-of-events/women-on-trial-november-14"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "15:00",
+          "title": "Another Day",
+          "url": "https://voguemovies.com/calendar-of-events/another-day-november-15"
+        },
+        {
+          "date": "2026-11-15",
+          "time": "19:00",
+          "title": "Family Quiz",
+          "url": "https://voguemovies.com/calendar-of-events/family-quiz-november-15"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "19:00",
+          "title": "De Gaulle: Part 1 – Resistance",
+          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17"
+        }
+      ]
+    },
+    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-12",
+      "startDate": "2026-11-13",
       "endDate": "2026-11-24",
-      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887",
-      "showtimes": 29,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84162",
+      "showtimes": 25,
       "sample": [
         "Littermates",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-12",
-          "time": "15:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84149"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "18:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84143"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "21:15",
-          "title": "Littermates",
-          "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=83887"
-        },
-        {
-          "date": "2026-11-12",
-          "time": "21:55",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84147"
-        },
         {
           "date": "2026-11-13",
           "time": "12:25",
@@ -2926,7 +2885,7 @@
         },
         {
           "date": "2026-11-18",
-          "time": "22:05",
+          "time": "22:30",
           "title": "Wild Horse Nine",
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84226"
         },
@@ -2935,106 +2894,6 @@
           "time": "19:00",
           "title": "The Vile",
           "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239"
-        }
-      ]
-    },
-    {
-      "key": "fest:balboa:ntbts the fest",
-      "name": "NTBTS the Fest",
-      "venueId": "balboa",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-15",
-      "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13",
-      "showtimes": 5,
-      "sample": [
-        "Nirvanna the Band the Show Season One",
-        "Nirvanna the Band the Show Season Two",
-        "Nirvanna the Band the Show the Movie",
-        "Back to the Future"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-13",
-          "time": "19:00",
-          "title": "Nirvanna the Band the Show Season One",
-          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "16:00",
-          "title": "Nirvanna the Band the Show Season Two",
-          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-two-november-14"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:30",
-          "title": "Nirvanna the Band the Show the Movie",
-          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-14"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "16:00",
-          "title": "Nirvanna the Band the Show the Movie",
-          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-15"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:00",
-          "title": "Back to the Future",
-          "url": "https://www.balboamovies.com/calendar-of-events/Back to the Future-november-15"
-        }
-      ]
-    },
-    {
-      "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
-      "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
-      "venueId": "vogue",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-17",
-      "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13",
-      "showtimes": 6,
-      "sample": [
-        "De Gaulle: Part 1 – Resistance",
-        "De la Comédie Française",
-        "Women on Trial",
-        "Another Day"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-13",
-          "time": "18:30",
-          "title": "De Gaulle: Part 1 – Resistance",
-          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "15:00",
-          "title": "De la Comédie Française",
-          "url": "https://voguemovies.com/calendar-of-events/de-la-comdie-franaise-november-14"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "19:00",
-          "title": "Women on Trial",
-          "url": "https://voguemovies.com/calendar-of-events/women-on-trial-november-14"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "15:00",
-          "title": "Another Day",
-          "url": "https://voguemovies.com/calendar-of-events/another-day-november-15"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:00",
-          "title": "Family Quiz",
-          "url": "https://voguemovies.com/calendar-of-events/family-quiz-november-15"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:00",
-          "title": "De Gaulle: Part 1 – Resistance",
-          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17"
         }
       ]
     },
@@ -3135,9 +2994,9 @@
       "name": "AHITH FEST 2026",
       "venueId": "balboa",
       "startDate": "2026-12-04",
-      "endDate": "2026-12-11",
+      "endDate": "2026-12-15",
       "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-deep-dish",
-      "showtimes": 15,
+      "showtimes": 22,
       "sample": [
         "Deep Dish + 2 Short Films",
         "The Crawling + 3 Short Films",
@@ -3249,6 +3108,55 @@
           "title": "Homebody + 1 Short Film",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-homebody",
           "note": "+ 1 Short Film"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "12:00",
+          "title": "Short Film Collection Seven",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-short-films-seven",
+          "note": "3:03 AM (4 Minutes)"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "14:00",
+          "title": "Short Film Collection Eight",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-short-films-8",
+          "note": "A diverse collection of non-Feature films from varied genres."
+        },
+        {
+          "date": "2026-12-12",
+          "time": "21:45",
+          "title": "Sleepaway Camp + 1 Short Film (Presented on VHS by Warped VHS & Basement VHS)",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-sleepaway-camp",
+          "note": "SPECIAL EVENT – PHYSICAL MEDIA MARKETPLACE!"
+        },
+        {
+          "date": "2026-12-13",
+          "time": "12:30",
+          "title": "Short Film Collection Ten",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-short-films-10",
+          "note": "A diverse collection of non-Feature films from varied genres."
+        },
+        {
+          "date": "2026-12-13",
+          "time": "17:10",
+          "title": "For Matilda + 1 Short Film",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-for-matilda",
+          "note": "+ 1 Short Film"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "18:30",
+          "title": "The Red-Eyed Monster + 3 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-red-eyed-monster",
+          "note": "+ 3 Short Films"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "18:20",
+          "title": "Blood Secret + 2 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-blood-secret",
+          "note": "+ 2 Short Films"
         }
       ]
     },
@@ -3257,9 +3165,9 @@
       "name": "Another Hole in the Head 2026",
       "venueId": "balboa",
       "startDate": "2026-12-05",
-      "endDate": "2026-12-07",
+      "endDate": "2026-12-13",
       "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-mary-kwon-mary-kwon",
-      "showtimes": 5,
+      "showtimes": 8,
       "sample": [
         "AHITH FEST 2026: Mary Kwon Mary Kwon",
         "AHITH FEST 2026: Devil's Disciple: The Night Stalker",
@@ -3296,6 +3204,24 @@
           "time": "18:00",
           "title": "AHITH FEST 2026: The Ritual of Hausao",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-ritual-of-hausao"
+        },
+        {
+          "date": "2026-12-12",
+          "time": "18:45",
+          "title": "AHITH FEST 2026: Frankenstein (W/ Live Score by Sleepbomb)",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-frankenstein"
+        },
+        {
+          "date": "2026-12-13",
+          "time": "15:00",
+          "title": "AHITH FEST 2026: The Haunting of Pennhurst",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-haunting-of-pennhurst"
+        },
+        {
+          "date": "2026-12-13",
+          "time": "20:00",
+          "title": "AHITH FEST 2026: The King of Black Goo",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-king-of-black-goo"
         }
       ]
     },
