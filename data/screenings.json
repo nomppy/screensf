@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T20:10:16.134Z",
+  "generatedAt": "2026-11-14T18:36:14.972Z",
   "films": {
     "tmdb:198669": {
       "key": "tmdb:198669",
@@ -85,6 +85,20 @@
       "releaseDate": "1990-08-17",
       "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
     },
+    "tmdb:843": {
+      "key": "tmdb:843",
+      "title": "In the Mood for Love",
+      "year": 2000,
+      "director": "Wong Kar-Wai",
+      "runtime": 99,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+      "tmdbId": 843,
+      "popularity": 14.741,
+      "releaseDate": "2000-09-29",
+      "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love."
+    },
     "tmdb:1255": {
       "key": "tmdb:1255",
       "title": "The Host",
@@ -98,6 +112,20 @@
       "popularity": 9.0028,
       "releaseDate": "2006-07-27",
       "overview": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her."
+    },
+    "tmdb:487850": {
+      "key": "tmdb:487850",
+      "title": "Asako I & II",
+      "year": 2018,
+      "director": "Ryusuke Hamaguchi",
+      "runtime": 120,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/nqwfB2GMMjrjAJnQj1hxD97sQXF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/qDKmkuJhxJDLJFuUacWLdmya5TN.jpg",
+      "tmdbId": 487850,
+      "popularity": 2.1903,
+      "releaseDate": "2018-09-01",
+      "overview": "Asako lives in Osaka. She falls in love with Baku, a free-spirit. One day, Baku suddenly disappears. Two years later, Asako now lives in Tokyo and meets Ryohei. He looks just like Baku, but has a completely different personality."
     },
     "tmdb:8220": {
       "key": "tmdb:8220",
@@ -476,6 +504,20 @@
       "releaseDate": "1991-06-05",
       "overview": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth."
     },
+    "tmdb:9571": {
+      "key": "tmdb:9571",
+      "title": "Dazed and Confused",
+      "year": 1993,
+      "director": "Richard Linklater",
+      "runtime": 102,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/msG9awbLhVZwv1Eh9Ge7SofMexW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/iNNm00fWqHnlEI1O0KCTivzcPEw.jpg",
+      "tmdbId": 9571,
+      "popularity": 4.5623,
+      "releaseDate": "1993-09-24",
+      "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge."
+    },
     "tmdb:48288": {
       "key": "tmdb:48288",
       "title": "Small Town Gay Bar",
@@ -517,20 +559,6 @@
       "popularity": 13.876,
       "releaseDate": "2022-09-16",
       "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide."
-    },
-    "tmdb:99": {
-      "key": "tmdb:99",
-      "title": "All About My Mother",
-      "year": 1999,
-      "director": "Pedro Almodóvar",
-      "runtime": 101,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/hjQhzhkGYXPNM96k0mOgob6HMmn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tilClWjFZeUTGJu0pxgF72fvUmN.jpg",
-      "tmdbId": 99,
-      "popularity": 9.027,
-      "releaseDate": "1999-04-16",
-      "overview": "Following the tragic death of her teenage son, Manuela travels from Madrid to Barcelona in an attempt to contact the long-estranged father the boy never knew. She reunites with an old friend, an outspoken transgender sex worker, and befriends a troubled actress and a pregnant, HIV-positive nun."
     },
     "tmdb:364": {
       "key": "tmdb:364",
@@ -809,20 +837,6 @@
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
     },
-    "tmdb:200976": {
-      "key": "tmdb:200976",
-      "title": "Waikiki Brothers",
-      "year": 2001,
-      "director": "Yim Soon-rye",
-      "runtime": 109,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/id9ROvLlzbsmIYvnnks4OUZ12sB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/gs1ADlbXHQv8DSX0Qe3rsetNt7b.jpg",
-      "tmdbId": 200976,
-      "popularity": 2.0336,
-      "releaseDate": "2001-10-27",
-      "overview": "Waikiki Brothers is a band going nowhere. After another depressing gig, the saxophonist quits, leaving the three remaining members to continue on the road. The band ends up at the lead singer's hometown, which was a popular hot spring resort in the '80s, but the return home is filled with reservations of previous and past disappointments, a lost love, unemployment and tragedy."
-    },
     "tmdb:103": {
       "key": "tmdb:103",
       "title": "Taxi Driver",
@@ -1074,6 +1088,20 @@
       "popularity": 2.4801,
       "releaseDate": "1942-03-06",
       "overview": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy."
+    },
+    "tmdb:17077": {
+      "key": "tmdb:17077",
+      "title": "Everlasting Moments",
+      "year": 2008,
+      "director": "Jan Troell",
+      "runtime": 131,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/2gdlWWktx5s5x1KEIBK9IOD083N.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/btlEOyb3XB9lVYkJmv0RNnWtVrS.jpg",
+      "tmdbId": 17077,
+      "popularity": 1.0861,
+      "releaseDate": "2008-09-24",
+      "overview": "In a time of social change and unrest, war and poverty, a young working class woman, Maria, wins a camera in a lottery. The decision to keep it alters her whole life."
     },
     "tmdb:996": {
       "key": "tmdb:996",
@@ -1328,44 +1356,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-11-13:11:45:tmdb:99",
-      "venueId": "alamo",
-      "filmKey": "tmdb:99",
-      "date": "2026-11-13",
-      "time": "11:45",
-      "url": "https://drafthouse.com/sf/show/all-about-my-mother?cinemaId=0801&sessionId=84234",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-11-13:16:00:tmdb:200976",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:200976",
-      "date": "2026-11-13",
-      "time": "16:00",
-      "url": "https://bampfa.org/event/waikiki-brothers",
-      "format": "DCP",
-      "note": "Yim Soon-rye in Person · In Conversation: Yim Soon-rye, Kyu Hyun Kim",
-      "source": "bampfa"
-    },
-    {
-      "id": "alamo:2026-11-13:18:30:tmdb:99",
-      "venueId": "alamo",
-      "filmKey": "tmdb:99",
-      "date": "2026-11-13",
-      "time": "18:30",
-      "url": "https://drafthouse.com/sf/show/all-about-my-mother?cinemaId=0801&sessionId=83862",
-      "source": "alamo"
-    },
-    {
-      "id": "alamo:2026-11-13:21:30:tmdb:99",
-      "venueId": "alamo",
-      "filmKey": "tmdb:99",
-      "date": "2026-11-13",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/all-about-my-mother?cinemaId=0801&sessionId=84156",
-      "source": "alamo"
-    },
     {
       "id": "rafael:2026-11-14:11:00:tmdb:233",
       "venueId": "rafael",
@@ -1808,6 +1798,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-11-20:20:20:tmdb:843",
+      "venueId": "roxie",
+      "filmKey": "tmdb:843",
+      "date": "2026-11-20",
+      "time": "20:20",
+      "url": "https://roxie.com/film/new-people-in-the-mood-for-love/",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-11-20:21:00:tmdb:7452",
       "venueId": "alamo",
       "filmKey": "tmdb:7452",
@@ -1967,6 +1966,15 @@
       "source": "newparkway"
     },
     {
+      "id": "roxie:2026-11-22:15:15:tmdb:487850",
+      "venueId": "roxie",
+      "filmKey": "tmdb:487850",
+      "date": "2026-11-22",
+      "time": "15:15",
+      "url": "https://roxie.com/film/new-people-asako-i-ii/",
+      "source": "roxie"
+    },
+    {
       "id": "balboa:2026-11-22:15:30:tmdb:45706",
       "venueId": "balboa",
       "filmKey": "tmdb:45706",
@@ -1995,6 +2003,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/wnp-film-club-dark-passage",
       "note": "Presented by the WESTERN NEIGHBORHOODS PROJECT FILM CLUB & BAY AREA MOVIES",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-11-22:21:00:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-22",
+      "time": "21:00",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "roxie:2026-11-23:18:00:tmdb:8220",
@@ -2304,6 +2321,15 @@
       "url": "https://drafthouse.com/sf/show/tokyo-godfathers-dubbed?cinemaId=0801&sessionId=83896",
       "note": "Dubbed",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-11-29:18:00:tmdb:843",
+      "venueId": "roxie",
+      "filmKey": "tmdb:843",
+      "date": "2026-11-29",
+      "time": "18:00",
+      "url": "https://roxie.com/film/new-people-in-the-mood-for-love/",
+      "source": "roxie"
     },
     {
       "id": "4star:2026-11-29:20:00:tmdb:1483",
@@ -2628,6 +2654,47 @@
       "url": "https://roxie.com/film/tron-4k-restoration/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "4star:2026-12-12:14:30:tmdb:9571",
+      "venueId": "4star",
+      "filmKey": "tmdb:9571",
+      "date": "2026-12-12",
+      "time": "14:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/dazed-and-confused-book-talk",
+      "note": "Booksmith presents:”",
+      "source": "4star"
+    },
+    {
+      "id": "alamo:2026-12-12:16:00:tmdb:5825",
+      "venueId": "alamo",
+      "filmKey": "tmdb:5825",
+      "date": "2026-12-12",
+      "time": "16:00",
+      "url": "https://drafthouse.com/sf/show/movie-party-national-lampoons-christmas-vacation?cinemaId=0801&sessionId=83908",
+      "note": "Movie Parties · Celebrate the season like an honorary Griswold",
+      "source": "alamo"
+    },
+    {
+      "id": "bampfa:2026-12-12:18:00:tmdb:17077",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:17077",
+      "date": "2026-12-12",
+      "time": "18:00",
+      "url": "https://bampfa.org/event/everlasting-moments",
+      "format": "DCP",
+      "note": "Everlasting Moments: The Cinema of Jan Troell · Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-12-12:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-12-12",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-june-mcdoom",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
     }
   ],
   "festivals": [
@@ -2635,23 +2702,16 @@
       "key": "fest:balboa:ntbts the fest",
       "name": "NTBTS the Fest",
       "venueId": "balboa",
-      "startDate": "2026-11-13",
+      "startDate": "2026-11-14",
       "endDate": "2026-11-15",
-      "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13",
-      "showtimes": 5,
+      "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-two-november-14",
+      "showtimes": 4,
       "sample": [
-        "Nirvanna the Band the Show Season One",
         "Nirvanna the Band the Show Season Two",
         "Nirvanna the Band the Show the Movie",
         "Back to the Future"
       ],
       "programme": [
-        {
-          "date": "2026-11-13",
-          "time": "19:00",
-          "title": "Nirvanna the Band the Show Season One",
-          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-season-one-november-13"
-        },
         {
           "date": "2026-11-14",
           "time": "16:00",
@@ -2682,23 +2742,17 @@
       "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
       "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
       "venueId": "vogue",
-      "startDate": "2026-11-13",
+      "startDate": "2026-11-14",
       "endDate": "2026-11-17",
-      "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13",
-      "showtimes": 6,
+      "url": "https://voguemovies.com/calendar-of-events/de-la-comdie-franaise-november-14",
+      "showtimes": 5,
       "sample": [
-        "De Gaulle: Part 1 – Resistance",
         "De la Comédie Française",
         "Women on Trial",
-        "Another Day"
+        "Another Day",
+        "Family Quiz"
       ],
       "programme": [
-        {
-          "date": "2026-11-13",
-          "time": "18:30",
-          "title": "De Gaulle: Part 1 – Resistance",
-          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-13"
-        },
         {
           "date": "2026-11-14",
           "time": "15:00",
@@ -2732,43 +2786,64 @@
       ]
     },
     {
+      "key": "fest:4star:san francisco underground short film festival 2026",
+      "name": "San Francisco Underground Short Film Festival 2026",
+      "venueId": "4star",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-1",
+      "showtimes": 4,
+      "sample": [
+        "First Program (presented by Media Meltdown)",
+        "Second Program (presented by Media Meltdown)",
+        "Third Program (presented by Media Meltdown)",
+        "Fourth Program (presented by Media Meltdown)"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-14",
+          "time": "14:15",
+          "title": "First Program (presented by Media Meltdown)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-1",
+          "note": "Media Meltdown Movie Madhouse"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "17:00",
+          "title": "Second Program (presented by Media Meltdown)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-2",
+          "note": "Media Meltdown Movie Madhouse"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "20:00",
+          "title": "Third Program (presented by Media Meltdown)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-3",
+          "note": "Media Meltdown Movie Madhouse"
+        },
+        {
+          "date": "2026-11-14",
+          "time": "22:45",
+          "title": "Fourth Program (presented by Media Meltdown)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-3-5s7at",
+          "note": "Media Meltdown Movie Madhouse"
+        }
+      ]
+    },
+    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-13",
+      "startDate": "2026-11-14",
       "endDate": "2026-11-24",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84162",
-      "showtimes": 25,
+      "url": "https://drafthouse.com/sf/show/littermates?cinemaId=0801&sessionId=84236",
+      "showtimes": 21,
       "sample": [
         "Littermates",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-13",
-          "time": "12:25",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84162"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "15:35",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84160"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "18:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84151"
-        },
-        {
-          "date": "2026-11-13",
-          "time": "22:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84155"
-        },
         {
           "date": "2026-11-14",
           "time": "12:25",
@@ -2894,51 +2969,6 @@
           "time": "19:00",
           "title": "The Vile",
           "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239"
-        }
-      ]
-    },
-    {
-      "key": "fest:4star:san francisco underground short film festival 2026",
-      "name": "San Francisco Underground Short Film Festival 2026",
-      "venueId": "4star",
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-14",
-      "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-1",
-      "showtimes": 4,
-      "sample": [
-        "First Program (presented by Media Meltdown)",
-        "Second Program (presented by Media Meltdown)",
-        "Third Program (presented by Media Meltdown)",
-        "Fourth Program (presented by Media Meltdown)"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-14",
-          "time": "14:15",
-          "title": "First Program (presented by Media Meltdown)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-1",
-          "note": "Media Meltdown Movie Madhouse"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "17:00",
-          "title": "Second Program (presented by Media Meltdown)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-2",
-          "note": "Media Meltdown Movie Madhouse"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "20:00",
-          "title": "Third Program (presented by Media Meltdown)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-3",
-          "note": "Media Meltdown Movie Madhouse"
-        },
-        {
-          "date": "2026-11-14",
-          "time": "22:45",
-          "title": "Fourth Program (presented by Media Meltdown)",
-          "url": "https://www.4-star-movies.com/calendar-of-events/sfusff-2026-media-meltdown-3-5s7at",
-          "note": "Media Meltdown Movie Madhouse"
         }
       ]
     },
