@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-15T19:11:46.129Z",
+  "generatedAt": "2026-11-16T22:36:40.475Z",
   "films": {
-    "tmdb:198669": {
-      "key": "tmdb:198669",
-      "title": "Hunting Flies",
-      "year": 1969,
-      "director": "Andrzej Wajda",
-      "runtime": 104,
-      "genre": "Romance",
-      "poster": "https://image.tmdb.org/t/p/w500/pBKUvoARZ8es3WXgM81PDo0tdDt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bGreAeXgzRSqNnbclynL6spZorB.jpg",
-      "tmdbId": 198669,
-      "popularity": 1.1079,
-      "releaseDate": "1969-08-19",
-      "overview": "Włodek is a middle-aged man stuck in a dead-end job at the local library who lives with his harridan wife and critical in-laws in a small apartment. When Włodek draws the interest of a library patron, the beautiful young woman encourages him to strive for better things in his life and professional career. Together, the two take off for a three-day affair, but surprises could await Włodek upon his return home."
-    },
     "tmdb:31767": {
       "key": "tmdb:31767",
       "title": "The Devils",
@@ -421,19 +407,6 @@
       "releaseDate": "1989-03-17",
       "overview": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures."
     },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0169,
-      "releaseDate": "2009-11-20",
-      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
-    },
     "tmdb:19596": {
       "key": "tmdb:19596",
       "title": "Electric Dreams",
@@ -447,6 +420,19 @@
       "popularity": 3.6207,
       "releaseDate": "1984-07-20",
       "overview": "Miles Harding buys a state-of-the-art computer that starts expressing conscious thought and emotion after an interaction with spilled champagne. Things begin getting out of hand when both Miles and Edgar, the computer, fall in love with beautiful neighbor Madeline Robistat."
+    },
+    "tmdb:98096": {
+      "key": "tmdb:98096",
+      "title": "Live Music",
+      "year": 2009,
+      "director": "Yair Landau",
+      "runtime": 6,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
+      "tmdbId": 98096,
+      "popularity": 1.0169,
+      "releaseDate": "2009-11-20",
+      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
     },
     "tmdb:10315": {
       "key": "tmdb:10315",
@@ -671,6 +657,20 @@
       "releaseDate": "1985-03-01",
       "overview": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer."
     },
+    "tmdb:345": {
+      "key": "tmdb:345",
+      "title": "Eyes Wide Shut",
+      "year": 1999,
+      "director": "Stanley Kubrick",
+      "runtime": 159,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+      "tmdbId": 345,
+      "popularity": 22.7868,
+      "releaseDate": "1999-07-16",
+      "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head."
+    },
     "tmdb:26039": {
       "key": "tmdb:26039",
       "title": "Point Blank",
@@ -698,20 +698,6 @@
       "popularity": 14.6569,
       "releaseDate": "2019-12-25",
       "overview": "Four sisters come of age in America in the aftermath of the Civil War."
-    },
-    "tmdb:219": {
-      "key": "tmdb:219",
-      "title": "Volver",
-      "year": 2006,
-      "director": "Pedro Almodóvar",
-      "runtime": 121,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/ljRPzuI1xybiFUGU1uCRdx68h0K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/cLvcOx8RbSUPCbkynKzNIg1zc2g.jpg",
-      "tmdbId": 219,
-      "popularity": 5.7896,
-      "releaseDate": "2006-03-17",
-      "overview": "Three generations of women deal with family secrets while surviving the east wind, fire, insanity, superstition, lies and even death."
     },
     "tmdb:389010": {
       "key": "tmdb:389010",
@@ -796,20 +782,6 @@
       "releaseDate": "1989-10-13",
       "overview": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge."
     },
-    "tmdb:63311": {
-      "key": "tmdb:63311",
-      "title": "The Skin I Live In",
-      "year": 2011,
-      "director": "Pedro Almodóvar",
-      "runtime": 120,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/xa7uCwGYykrf8MMI8iF5dZvNlrG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/oPxTkDKK2NcHcAEADATWiXKOkFw.jpg",
-      "tmdbId": 63311,
-      "popularity": 9.264,
-      "releaseDate": "2011-08-17",
-      "overview": "A brilliant plastic surgeon creates a synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession."
-    },
     "tmdb:13398": {
       "key": "tmdb:13398",
       "title": "Tokyo Godfathers",
@@ -878,20 +850,6 @@
       "popularity": 1.2725,
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
-    },
-    "tmdb:34528": {
-      "key": "tmdb:34528",
-      "title": "The Human Condition II: Road to Eternity",
-      "year": 1959,
-      "director": "Masaki Kobayashi",
-      "runtime": 178,
-      "genre": "War",
-      "poster": "https://image.tmdb.org/t/p/w500/7jfv1C4t06VGenQxf3HbmLVmUHZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4zNC1BtW9uyOKCjbtMZmtu5oGrt.jpg",
-      "tmdbId": 34528,
-      "popularity": 4.2754,
-      "releaseDate": "1959-11-20",
-      "overview": "Kaji, sent to the Japanese army labeled Red, witnesses cruelties in the army and revolts against the abusive treatment against a fellow recruit. He also sees his friend Shinjô defecting to the Russian border, and he ends in the front to fight a lost battle against the Russian tanks division."
     },
     "tmdb:1629": {
       "key": "tmdb:1629",
@@ -1145,20 +1103,6 @@
       "releaseDate": "1932-10-30",
       "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily."
     },
-    "tmdb:1213": {
-      "key": "tmdb:1213",
-      "title": "The Talented Mr. Ripley",
-      "year": 1999,
-      "director": "Anthony Minghella",
-      "runtime": 140,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/51UDa3IuGyiKGe2MgMcLGvJE2Fm.jpg",
-      "tmdbId": 1213,
-      "popularity": 18.6294,
-      "releaseDate": "1999-12-25",
-      "overview": "Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder."
-    },
     "tmdb:36949": {
       "key": "tmdb:36949",
       "title": "99 River Street",
@@ -1384,92 +1328,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-11-15:11:00:tmdb:219",
-      "venueId": "alamo",
-      "filmKey": "tmdb:219",
-      "date": "2026-11-15",
-      "time": "11:00",
-      "url": "https://drafthouse.com/sf/show/sad-girl-cinema-club-volver?cinemaId=0801&sessionId=84188",
-      "note": "Sad Girl Cinema Club · Pedro Almodóvar and his muse Penélope Cruz’s celebration of female community",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-11-15:12:30:tmdb:1213",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1213",
-      "date": "2026-11-15",
-      "time": "12:30",
-      "url": "https://thenewparkway.com/movie/the-talented-mr-ripley/",
-      "source": "newparkway"
-    },
-    {
-      "id": "bampfa:2026-11-15:13:30:tmdb:34528",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:34528",
-      "date": "2026-11-15",
-      "time": "13:30",
-      "url": "https://bampfa.org/event/human-condition-road-eternity",
-      "format": "35mm",
-      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
-      "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-11-15:15:00:tmdb:198669",
-      "venueId": "roxie",
-      "filmKey": "tmdb:198669",
-      "date": "2026-11-15",
-      "time": "15:00",
-      "url": "https://roxie.com/film/hunting-flies-roly-poly/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-15:15:00:tmdb:63311",
-      "venueId": "alamo",
-      "filmKey": "tmdb:63311",
-      "date": "2026-11-15",
-      "time": "15:00",
-      "url": "https://drafthouse.com/sf/show/the-skin-i-live-in?cinemaId=0801&sessionId=83864",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-11-15:15:20:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-15",
-      "time": "15:20",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-11-15:16:50:tmdb:31767",
-      "venueId": "roxie",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-15",
-      "time": "16:50",
-      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "4star:2026-11-15:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-15",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-todd-day-wait",
-      "note": "Todd Day Wait",
-      "source": "4star"
-    },
-    {
-      "id": "newparkway:2026-11-15:21:20:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-15",
-      "time": "21:20",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
     {
       "id": "roxie:2026-11-16:20:00:tmdb:31767",
       "venueId": "roxie",
@@ -1804,6 +1662,16 @@
       "source": "rafael"
     },
     {
+      "id": "alamo:2026-11-21:12:00:tmdb:26039",
+      "venueId": "alamo",
+      "filmKey": "tmdb:26039",
+      "date": "2026-11-21",
+      "time": "12:00",
+      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-point-blank-1967?cinemaId=0801&sessionId=84286",
+      "note": "Queer Film Theory 101 · John Boorman and Lee Marvin bring hardboiled noir into the New Wave",
+      "source": "alamo"
+    },
+    {
       "id": "sfmoma:2026-11-21:14:00:tmdb:1547796",
       "venueId": "sfmoma",
       "filmKey": "tmdb:1547796",
@@ -2009,6 +1877,15 @@
       "url": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/",
       "format": "4K",
       "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-11-23:21:40:tmdb:7452",
+      "venueId": "alamo",
+      "filmKey": "tmdb:7452",
+      "date": "2026-11-23",
+      "time": "21:40",
+      "url": "https://drafthouse.com/sf/show/the-cook-the-thief-his-wife-her-lover?cinemaId=0801&sessionId=84315",
+      "source": "alamo"
     },
     {
       "id": "vogue:2026-11-24:16:30:tmdb:66664",
@@ -2744,101 +2621,32 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-tracey-nelson",
       "note": "Throwin’ Bo’s presents:",
       "source": "4star"
+    },
+    {
+      "id": "alamo:2026-12-14:19:00:tmdb:345",
+      "venueId": "alamo",
+      "filmKey": "tmdb:345",
+      "date": "2026-12-14",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-eyes-wide-shut?cinemaId=0801&sessionId=83909",
+      "note": "Queer Film Theory 101 · Cruise and Kidman ask, \"Why did I get married?\" in Kubrick's chilly final opus",
+      "source": "alamo"
     }
   ],
   "festivals": [
     {
-      "key": "fest:balboa:ntbts the fest",
-      "name": "NTBTS the Fest",
-      "venueId": "balboa",
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-15",
-      "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-15",
-      "showtimes": 2,
-      "sample": [
-        "Nirvanna the Band the Show the Movie",
-        "Back to the Future"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-15",
-          "time": "16:00",
-          "title": "Nirvanna the Band the Show the Movie",
-          "url": "https://www.balboamovies.com/calendar-of-events/nirvanna-the-band-the-show-the-movie-november-15"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:00",
-          "title": "Back to the Future",
-          "url": "https://www.balboamovies.com/calendar-of-events/Back to the Future-november-15"
-        }
-      ]
-    },
-    {
-      "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
-      "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
-      "venueId": "vogue",
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-17",
-      "url": "https://voguemovies.com/calendar-of-events/another-day-november-15",
-      "showtimes": 3,
-      "sample": [
-        "Another Day",
-        "Family Quiz",
-        "De Gaulle: Part 1 – Resistance"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-15",
-          "time": "15:00",
-          "title": "Another Day",
-          "url": "https://voguemovies.com/calendar-of-events/another-day-november-15"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "19:00",
-          "title": "Family Quiz",
-          "url": "https://voguemovies.com/calendar-of-events/family-quiz-november-15"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "19:00",
-          "title": "De Gaulle: Part 1 – Resistance",
-          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17"
-        }
-      ]
-    },
-    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-15",
+      "startDate": "2026-11-16",
       "endDate": "2026-11-24",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84186",
-      "showtimes": 16,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84201",
+      "showtimes": 29,
       "sample": [
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-15",
-          "time": "12:25",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84186"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "15:35",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84184"
-        },
-        {
-          "date": "2026-11-15",
-          "time": "18:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84180"
-        },
         {
           "date": "2026-11-16",
           "time": "15:15",
@@ -2862,18 +2670,6 @@
           "time": "21:45",
           "title": "Wild Horse Nine",
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84196"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "14:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84229"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "16:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84202"
         },
         {
           "date": "2026-11-17",
@@ -2912,6 +2708,114 @@
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84226"
         },
         {
+          "date": "2026-11-19",
+          "time": "12:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84288"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "15:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84247"
+        },
+        {
+          "date": "2026-11-19",
+          "time": "18:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84248"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "12:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84265"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "15:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84259"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "18:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84260"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "21:45",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84262"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "11:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84281"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "14:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84282"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "19:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84275"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "21:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84284"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "12:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84290"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "15:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84291"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "18:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84295"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "21:15",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84355"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "16:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84307"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "19:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84308"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "22:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84312"
+        },
+        {
           "date": "2026-11-24",
           "time": "19:00",
           "title": "The Vile",
@@ -2920,29 +2824,114 @@
       ]
     },
     {
-      "key": "fest:bampfa:hong kong cinema rarities and restorations 4k digital restoration",
-      "name": "Hong Kong Cinema: Rarities and Restorations · 4K Digital Restoration",
-      "venueId": "bampfa",
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-28",
-      "url": "https://bampfa.org/event/just-weather",
-      "showtimes": 2,
+      "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
+      "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
+      "venueId": "vogue",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17",
+      "showtimes": 1,
       "sample": [
-        "Just Like Weather",
-        "Center Stage"
+        "De Gaulle: Part 1 – Resistance"
       ],
       "programme": [
         {
-          "date": "2026-11-15",
-          "time": "18:00",
-          "title": "Just Like Weather",
-          "url": "https://bampfa.org/event/just-weather"
+          "date": "2026-11-17",
+          "time": "19:00",
+          "title": "De Gaulle: Part 1 – Resistance",
+          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents baby day",
+      "name": "Fantastic Fest Presents · Baby Day",
+      "venueId": "alamo",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84229",
+      "showtimes": 2,
+      "sample": [
+        "Wild Horse Nine"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-17",
+          "time": "14:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84229"
         },
         {
-          "date": "2026-11-28",
-          "time": "15:00",
-          "title": "Center Stage",
-          "url": "https://bampfa.org/event/center-stage"
+          "date": "2026-11-17",
+          "time": "16:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84202"
+        }
+      ]
+    },
+    {
+      "key": "fest:vogue:golden gate armenian film festival",
+      "name": "Golden Gate Armenian Film Festival",
+      "venueId": "vogue",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "url": "https://ggaff.art/",
+      "showtimes": 8,
+      "sample": [
+        "Scattered Seeds of the Pomegranate",
+        "A Fire There",
+        "2026 Shorts Program",
+        "The Land of Arto"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-20",
+          "time": "16:30",
+          "title": "Scattered Seeds of the Pomegranate",
+          "url": "https://voguemovies.com/calendar-of-events/scattered-seeds-of-the-pomegranate-november-20"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "19:30",
+          "title": "A Fire There",
+          "url": "https://voguemovies.com/calendar-of-events/a-fire-there-november-20"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "13:30",
+          "title": "2026 Shorts Program",
+          "url": "https://voguemovies.com/calendar-of-events/shorts-program-november-21"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "16:30",
+          "title": "The Land of Arto",
+          "url": "https://voguemovies.com/calendar-of-events/the-land-of-arto-november-21"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "19:30",
+          "title": "A Woman Today",
+          "url": "https://voguemovies.com/calendar-of-events/a-woman-today-november-21"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "13:30",
+          "title": "Poqr Mher",
+          "url": "https://voguemovies.com/calendar-of-events/poqr-mher-november-22"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "16:30",
+          "title": "Outliving Shakespeare",
+          "url": "https://voguemovies.com/calendar-of-events/outliving-shakespeare-november-22",
+          "note": "Shakespeare’s Sins"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "19:30",
+          "title": "Here, Elsewhere",
+          "url": "https://voguemovies.com/calendar-of-events/here-elsewhere-november-22"
         }
       ]
     },
@@ -2967,13 +2956,33 @@
       ]
     },
     {
+      "key": "fest:bampfa:hong kong cinema rarities and restorations 4k digital restoration",
+      "name": "Hong Kong Cinema: Rarities and Restorations · 4K Digital Restoration",
+      "venueId": "bampfa",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "url": "https://bampfa.org/event/center-stage",
+      "showtimes": 1,
+      "sample": [
+        "Center Stage"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-28",
+          "time": "15:00",
+          "title": "Center Stage",
+          "url": "https://bampfa.org/event/center-stage"
+        }
+      ]
+    },
+    {
       "key": "fest:balboa:ahith fest 2026",
       "name": "AHITH FEST 2026",
       "venueId": "balboa",
       "startDate": "2026-12-04",
-      "endDate": "2026-12-15",
+      "endDate": "2026-12-17",
       "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-deep-dish",
-      "showtimes": 22,
+      "showtimes": 30,
       "sample": [
         "Deep Dish + 2 Short Films",
         "The Crawling + 3 Short Films",
@@ -3022,6 +3031,13 @@
           "title": "The Texas Chainsaw Massacre 2",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-texas-chainsaw-massacre-2",
           "note": "THE SAW IS BACK!"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "10:00",
+          "title": "Short Film Collection Four (Strictly Local)",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-shorts-collection-4",
+          "note": "THE CHILDREN (20 Minutes)"
         },
         {
           "date": "2026-12-06",
@@ -3088,6 +3104,13 @@
         },
         {
           "date": "2026-12-12",
+          "time": "10:15",
+          "title": "Short Film Collection Six",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-short-films-6",
+          "note": "Collateral Damage (7 Minutes)"
+        },
+        {
+          "date": "2026-12-12",
           "time": "12:00",
           "title": "Short Film Collection Seven",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-short-films-seven",
@@ -3106,6 +3129,13 @@
           "title": "Sleepaway Camp + 1 Short Film (Presented on VHS by Warped VHS & Basement VHS)",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-sleepaway-camp",
           "note": "SPECIAL EVENT – PHYSICAL MEDIA MARKETPLACE!"
+        },
+        {
+          "date": "2026-12-13",
+          "time": "10:15",
+          "title": "Short Film Collection Nine",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-short-films-9",
+          "note": "A diverse collection of non-Feature films from varied genres."
         },
         {
           "date": "2026-12-13",
@@ -3134,6 +3164,41 @@
           "title": "Blood Secret + 2 Short Films",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-blood-secret",
           "note": "+ 2 Short Films"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "21:00",
+          "title": "The Day the Earth Stood Still — 75th Anniversary Film Presentation",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-day-the-earth-stood-still",
+          "note": "The Day the Earth Stood Still (1951)"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "18:30",
+          "title": "Godmother + 3 Short Films",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-godmother",
+          "note": "+ 3 Short Films"
+        },
+        {
+          "date": "2026-12-16",
+          "time": "21:00",
+          "title": "Friday the 13th Part 2",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-friday-the-13th-part-2",
+          "note": "Before the hockey mask, there was the sack. Jason Voorhees returns to the big screen on 16mm film!"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "18:20",
+          "title": "Sweetest Day + 1 Short Film",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-sweetest-day",
+          "note": "+ 1 Short Film"
+        },
+        {
+          "date": "2026-12-17",
+          "time": "21:00",
+          "title": "The Texas Chain Saw Massacre – Presented by Warped VHS + 1 Short Film",
+          "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-texas-chain-saw-massacre",
+          "note": "Before streaming. Before digital. Before horror became polished. There was VHS — and there was Leatherface."
         }
       ]
     },
