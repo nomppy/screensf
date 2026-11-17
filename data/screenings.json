@@ -1,6 +1,20 @@
 {
-  "generatedAt": "2026-11-16T22:36:40.475Z",
+  "generatedAt": "2026-11-17T21:27:35.723Z",
   "films": {
+    "tmdb:53792": {
+      "key": "tmdb:53792",
+      "title": "Counsellor at Law",
+      "year": 1933,
+      "director": "William Wyler",
+      "runtime": 82,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/6mQ9jFo5qpNGptSe5AJMYAcrnSs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/1UIzcxkGkd2nNjDE5BGTnjumRHH.jpg",
+      "tmdbId": 53792,
+      "popularity": 1.3143,
+      "releaseDate": "1933-12-25",
+      "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
+    },
     "tmdb:31767": {
       "key": "tmdb:31767",
       "title": "The Devils",
@@ -28,20 +42,6 @@
       "popularity": 2.7675,
       "releaseDate": "2026-09-18",
       "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:53792": {
-      "key": "tmdb:53792",
-      "title": "Counsellor at Law",
-      "year": 1933,
-      "director": "William Wyler",
-      "runtime": 82,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/6mQ9jFo5qpNGptSe5AJMYAcrnSs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/1UIzcxkGkd2nNjDE5BGTnjumRHH.jpg",
-      "tmdbId": 53792,
-      "popularity": 1.3143,
-      "releaseDate": "1933-12-25",
-      "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
     },
     "tmdb:1574": {
       "key": "tmdb:1574",
@@ -379,6 +379,20 @@
       "releaseDate": "2019-09-12",
       "overview": "Kate and Matt discover that a part of their house can grant wishes. In the wake of two miscarriages, what they want most is a child."
     },
+    "tmdb:1019939": {
+      "key": "tmdb:1019939",
+      "title": "Hundreds of Beavers",
+      "year": 2022,
+      "director": "Mike Cheslik",
+      "runtime": 108,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/jBg64OA2QEWL0zaOFMoAGipeGjJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/krN2V7leYVBp6dOLzP11sM44eNb.jpg",
+      "tmdbId": 1019939,
+      "popularity": 2.3785,
+      "releaseDate": "2024-01-26",
+      "overview": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers."
+    },
     "tmdb:433": {
       "key": "tmdb:433",
       "title": "Mary Poppins",
@@ -406,6 +420,20 @@
       "popularity": 0.8858,
       "releaseDate": "1989-03-17",
       "overview": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures."
+    },
+    "tmdb:439": {
+      "key": "tmdb:439",
+      "title": "La Dolce Vita",
+      "year": 1960,
+      "director": "Federico Fellini",
+      "runtime": 174,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/dZ2v0DAX4aCZartCzZdg4ZinSW2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg",
+      "tmdbId": 439,
+      "popularity": 3.8116,
+      "releaseDate": "1960-02-05",
+      "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer."
     },
     "tmdb:19596": {
       "key": "tmdb:19596",
@@ -1329,34 +1357,6 @@
   },
   "screenings": [
     {
-      "id": "roxie:2026-11-16:20:00:tmdb:31767",
-      "venueId": "roxie",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-16",
-      "time": "20:00",
-      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-16:20:20:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-16",
-      "time": "20:20",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-16:20:45:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-16",
-      "time": "20:45",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
       "id": "roxie:2026-11-17:18:00:tmdb:53792",
       "venueId": "roxie",
       "filmKey": "tmdb:53792",
@@ -1742,6 +1742,15 @@
       "source": "roxie"
     },
     {
+      "id": "newparkway:2026-11-21:21:50:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-21",
+      "time": "21:50",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
+    },
+    {
       "id": "4star:2026-11-22:10:00:tmdb:10315",
       "venueId": "4star",
       "filmKey": "tmdb:10315",
@@ -1792,11 +1801,11 @@
       "source": "4star"
     },
     {
-      "id": "newparkway:2026-11-22:15:00:tmdb:9340",
+      "id": "newparkway:2026-11-22:14:55:tmdb:9340",
       "venueId": "newparkway",
       "filmKey": "tmdb:9340",
       "date": "2026-11-22",
-      "time": "15:00",
+      "time": "14:55",
       "url": "https://thenewparkway.com/movie/the-goonies-party-at-the-parkway/",
       "note": "Party at the Parkway",
       "source": "newparkway"
@@ -1928,11 +1937,11 @@
       "source": "balboa"
     },
     {
-      "id": "newparkway:2026-11-24:20:10:tmdb:33673",
+      "id": "newparkway:2026-11-24:20:05:tmdb:33673",
       "venueId": "newparkway",
       "filmKey": "tmdb:33673",
       "date": "2026-11-24",
-      "time": "20:10",
+      "time": "20:05",
       "url": "https://thenewparkway.com/movie/his-kind-of-woman-noirvember/",
       "note": "Noirvember",
       "source": "newparkway"
@@ -1966,6 +1975,25 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/peanuts-thanksgiving-wed",
       "note": "Spend Thanksgiving with good ol’ Charlie Brown!",
       "source": "4star"
+    },
+    {
+      "id": "vogue:2026-11-25:19:00:tmdb:439",
+      "venueId": "vogue",
+      "filmKey": "tmdb:439",
+      "date": "2026-11-25",
+      "time": "19:00",
+      "url": "https://voguemovies.com/calendar-of-events/la-dolce-vita-november-25",
+      "note": "La dolce vita",
+      "source": "vogue"
+    },
+    {
+      "id": "newparkway:2026-11-25:21:25:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-25",
+      "time": "21:25",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "alamo:2026-11-25:21:30:tmdb:146790",
@@ -2177,6 +2205,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-11-29:18:40:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-29",
+      "time": "18:40",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-11-29:20:00:tmdb:1483",
       "venueId": "4star",
       "filmKey": "tmdb:1483",
@@ -2256,6 +2293,16 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-spencer-zahn-vince-guaraldi",
       "note": "Spencer Zahn, Zach Tenorio & Aaron Steele",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-12-02:20:35:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-12-02",
+      "time": "20:35",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
     },
     {
       "id": "alamo:2026-12-02:21:30:tmdb:636",
@@ -2631,46 +2678,51 @@
       "url": "https://drafthouse.com/sf/show/queer-film-theory-101-eyes-wide-shut?cinemaId=0801&sessionId=83909",
       "note": "Queer Film Theory 101 · Cruise and Kidman ask, \"Why did I get married?\" in Kubrick's chilly final opus",
       "source": "alamo"
+    },
+    {
+      "id": "balboa:2026-12-15:19:30:tmdb:1019939",
+      "venueId": "balboa",
+      "filmKey": "tmdb:1019939",
+      "date": "2026-12-15",
+      "time": "19:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/hundreds-of-beavers-northwoods-christmas-edition-december-15",
+      "source": "balboa"
     }
   ],
   "festivals": [
     {
+      "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
+      "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
+      "venueId": "vogue",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17",
+      "showtimes": 1,
+      "sample": [
+        "De Gaulle: Part 1 – Resistance"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-17",
+          "time": "19:00",
+          "title": "De Gaulle: Part 1 – Resistance",
+          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17"
+        }
+      ]
+    },
+    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-16",
+      "startDate": "2026-11-17",
       "endDate": "2026-11-24",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84201",
-      "showtimes": 29,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84206",
+      "showtimes": 25,
       "sample": [
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-16",
-          "time": "15:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84201"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "16:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84197"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "18:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84191"
-        },
-        {
-          "date": "2026-11-16",
-          "time": "21:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84196"
-        },
         {
           "date": "2026-11-17",
           "time": "18:15",
@@ -2820,26 +2872,6 @@
           "time": "19:00",
           "title": "The Vile",
           "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239"
-        }
-      ]
-    },
-    {
-      "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
-      "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
-      "venueId": "vogue",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-17",
-      "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17",
-      "showtimes": 1,
-      "sample": [
-        "De Gaulle: Part 1 – Resistance"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-17",
-          "time": "19:00",
-          "title": "De Gaulle: Part 1 – Resistance",
-          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17"
         }
       ]
     },
@@ -3264,6 +3296,26 @@
           "time": "20:00",
           "title": "AHITH FEST 2026: The King of Black Goo",
           "url": "https://www.balboamovies.com/calendar-of-events/ahith-2026-the-king-of-black-goo"
+        }
+      ]
+    },
+    {
+      "key": "fest:4star:co presented by frameline",
+      "name": "Co-presented by FRAMELINE",
+      "venueId": "4star",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "url": "https://www.4-star-movies.com/calendar-of-events/castration-3-5",
+      "showtimes": 1,
+      "sample": [
+        "Castration Movie ⅗ Year of the Hyaena (Co-presented by FRAMELINE)"
+      ],
+      "programme": [
+        {
+          "date": "2026-12-05",
+          "time": "18:30",
+          "title": "Castration Movie ⅗ Year of the Hyaena (Co-presented by FRAMELINE)",
+          "url": "https://www.4-star-movies.com/calendar-of-events/castration-3-5"
         }
       ]
     },
