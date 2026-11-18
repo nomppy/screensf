@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-17T21:27:35.723Z",
+  "generatedAt": "2026-11-18T20:58:47.950Z",
   "films": {
-    "tmdb:53792": {
-      "key": "tmdb:53792",
-      "title": "Counsellor at Law",
-      "year": 1933,
-      "director": "William Wyler",
-      "runtime": 82,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/6mQ9jFo5qpNGptSe5AJMYAcrnSs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/1UIzcxkGkd2nNjDE5BGTnjumRHH.jpg",
-      "tmdbId": 53792,
-      "popularity": 1.3143,
-      "releaseDate": "1933-12-25",
-      "overview": "A successful lawyer struggles to deal with his wife's unfaithfulness and his own hidden past."
-    },
     "tmdb:31767": {
       "key": "tmdb:31767",
       "title": "The Devils",
@@ -266,6 +252,20 @@
       "popularity": 1.0038,
       "releaseDate": "2003-01-19",
       "overview": "A years-in-the-making documentary on the legendary punk band the Ramones. Through a mixture of archival footage, archival and new interviews with all members of the band's various lineups, and new interviews with a number of their contemporaries, the film traces the peaks and valleys the band experienced over the course of its 20-plus year career before disbanding in 1995."
+    },
+    "tmdb:253114": {
+      "key": "tmdb:253114",
+      "title": "Alien Sex Party",
+      "year": 2001,
+      "director": "Paul Sanchez IV",
+      "runtime": 86,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/9lkfUJeuiNZWfBpQpnNzDyAXAQa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/51v4nkVVtpnhNjQa5lOkg5FJxxp.jpg",
+      "tmdbId": 253114,
+      "popularity": 0.4436,
+      "releaseDate": "2003-09-23",
+      "overview": "A comic frenzy filled with sex, music, science fiction, and all combinations thereof... as well as a dildo-festooned Moby. In an adult video store on Christmas Eve, we join Joe (an owner terrified of his own merchandise), Adam (an employee spouting indignation about everything), and Tina (whose unabashed promiscuity lends itself well to the locale)."
     },
     "tmdb:2609": {
       "key": "tmdb:2609",
@@ -616,19 +616,6 @@
       "releaseDate": "1992-06-19",
       "overview": "The monstrous Penguin, who dwells in the sewers beneath Gotham, joins up with corrupt mayoral candidate Max Shreck to topple the Batman once and for all. But when Shreck's timid assistant Selina Kyle finds out, and Shreck tries to kill her, she's transformed into the sexy Catwoman. She teams up with the Penguin and Shreck to destroy Batman, but sparks fly unexpectedly when she confronts the caped crusader."
     },
-    "tmdb:369508": {
-      "key": "tmdb:369508",
-      "title": "In Transit",
-      "year": 2005,
-      "director": "Lisa Aschan",
-      "runtime": 25,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/8u658mslFOjj3SaZYwkU5nq6FYL.jpg",
-      "tmdbId": 369508,
-      "popularity": 2.6583,
-      "releaseDate": "2005-06-11",
-      "overview": "A Polish stewardess who has to spend the night in Copenhagen to board her next flight meets a Danish man who insists on taking her out. The night does not turn out quite like either of them had expected."
-    },
     "tmdb:10719": {
       "key": "tmdb:10719",
       "title": "Elf",
@@ -740,20 +727,6 @@
       "releaseDate": "1994-01-25",
       "overview": "Filmmaker Larry Weinstein stages a wide range of performances in tribute to the compositions of Kurt Weill."
     },
-    "tmdb:1359": {
-      "key": "tmdb:1359",
-      "title": "American Psycho",
-      "year": 2000,
-      "director": "Mary Harron",
-      "runtime": 102,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
-      "tmdbId": 1359,
-      "popularity": 14.3627,
-      "releaseDate": "2000-04-13",
-      "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies."
-    },
     "tmdb:11587": {
       "key": "tmdb:11587",
       "title": "The Exorcist III",
@@ -767,20 +740,6 @@
       "popularity": 6.2521,
       "releaseDate": "1990-08-17",
       "overview": "On the fifteenth anniversary of the exorcism that claimed Father Damien Karras' life, Police Lieutenant Kinderman's world is once again shattered when a boy is found decapitated and savagely crucified."
-    },
-    "tmdb:9552": {
-      "key": "tmdb:9552",
-      "title": "The Exorcist",
-      "year": 1973,
-      "director": "William Friedkin",
-      "runtime": 122,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
-      "tmdbId": 9552,
-      "popularity": 19.8753,
-      "releaseDate": "1973-12-26",
-      "overview": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life."
     },
     "tmdb:18910": {
       "key": "tmdb:18910",
@@ -823,6 +782,20 @@
       "popularity": 5.5472,
       "releaseDate": "2003-12-05",
       "overview": "On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents."
+    },
+    "tmdb:10740": {
+      "key": "tmdb:10740",
+      "title": "Birth",
+      "year": 2004,
+      "director": "Jonathan Glazer",
+      "runtime": 100,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/z70iQ61WqhxETAz8ar2oD8pkIM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ueXO7FqIECtcPbpPSw87hiFlrSA.jpg",
+      "tmdbId": 10740,
+      "popularity": 7.3919,
+      "releaseDate": "2004-10-29",
+      "overview": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy named Sean turns up, saying he is her dead husband reincarnated. At first she ignores the child, but his knowledge of her former husband's life is uncanny, leading her to believe that he might be telling the truth."
     },
     "tmdb:26573": {
       "key": "tmdb:26573",
@@ -1131,33 +1104,19 @@
       "releaseDate": "1932-10-30",
       "overview": "Thief Gaston Monescu and pickpocket Lily are partners in crime and love. Working for perfume company executive Mariette Colet, the two crooks decide to combine their criminal talents to rob their employer. Under the alias of Monsieur Laval, Gaston uses his position as Mariette's personal secretary to become closer to her. However, he takes things too far when he actually falls in love with Mariette, and has to choose between her and Lily."
     },
-    "tmdb:36949": {
-      "key": "tmdb:36949",
-      "title": "99 River Street",
-      "year": 1953,
-      "director": "Phil Karlson",
-      "runtime": 83,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/sJ4kX89iD0Ne8cdlVAFCsAn0kbe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/oKVL30uzSd0IYk5wR3iU2u4gQTk.jpg",
-      "tmdbId": 36949,
-      "popularity": 2.5044,
-      "releaseDate": "1953-08-21",
-      "overview": "A former boxer turned taxi driver earns the scorn of his nagging wife and gets mixed up with jewel thieves."
-    },
-    "tmdb:17058": {
-      "key": "tmdb:17058",
-      "title": "Scarlet Street",
-      "year": 1945,
-      "director": "Fritz Lang",
-      "runtime": 103,
+    "tmdb:9646": {
+      "key": "tmdb:9646",
+      "title": "Here Is Your Life",
+      "year": 1966,
+      "director": "Jan Troell",
+      "runtime": 169,
       "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/eGEDor1BWSQGaLtOntPHUSqNzRC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/g0phljbAcccz7bkSZpFEPVLuIRP.jpg",
-      "tmdbId": 17058,
-      "popularity": 3.7622,
-      "releaseDate": "1945-12-25",
-      "overview": "Cashier and part-time starving artist Christopher Cross is absolutely smitten with the beautiful Kitty March. Kitty plays along, but she's really only interested in Johnny, a two-bit crook. When Kitty and Johnny find out that art dealers are interested in Chris's work, they con him into letting Kitty take credit for the paintings. Cross allows it because he is in love with Kitty, but his love will only let her get away with so much."
+      "poster": "https://image.tmdb.org/t/p/w500/laIqb67aApgE78cPzFQrUSmJI4F.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xrJgyLmQqOcwI1pdRI0U5K8Ypq0.jpg",
+      "tmdbId": 9646,
+      "popularity": 0.9218,
+      "releaseDate": "1966-12-26",
+      "overview": "A working class teenager comes of age in 1910s rural Sweden, moving through a series of jobs and romances that gradually shape his future."
     },
     "tmdb:1362422": {
       "key": "tmdb:1362422",
@@ -1356,56 +1315,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "roxie:2026-11-17:18:00:tmdb:53792",
-      "venueId": "roxie",
-      "filmKey": "tmdb:53792",
-      "date": "2026-11-17",
-      "time": "18:00",
-      "url": "https://roxie.com/film/counsellor-at-law/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-17:18:30:tmdb:36949",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:36949",
-      "date": "2026-11-17",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/99-river-street-noirvember/",
-      "note": "Noirvember",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-11-17:19:00:tmdb:369508",
-      "venueId": "alamo",
-      "filmKey": "tmdb:369508",
-      "date": "2026-11-17",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/live-q-a-in-transit?cinemaId=0801&sessionId=83889",
-      "note": "Live Q&A · With cast & crew Q&As",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-11-17:20:30:tmdb:17058",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:17058",
-      "date": "2026-11-17",
-      "time": "20:30",
-      "url": "https://thenewparkway.com/movie/scarlet-street-noirvember/",
-      "note": "Noirvember",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-11-17:21:30:tmdb:9552",
-      "venueId": "alamo",
-      "filmKey": "tmdb:9552",
-      "date": "2026-11-17",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-the-exorcist-on-35mm?cinemaId=0801&sessionId=82961",
-      "format": "35mm",
-      "note": "Terror Tuesday · The original theatrical cut in 35mm",
-      "source": "alamo"
-    },
     {
       "id": "roxie:2026-11-18:17:45:tmdb:31767",
       "venueId": "roxie",
@@ -2234,6 +2143,16 @@
       "source": "castro"
     },
     {
+      "id": "roxie:2026-12-01:20:40:tmdb:4203",
+      "venueId": "roxie",
+      "filmKey": "tmdb:4203",
+      "date": "2026-12-01",
+      "time": "20:40",
+      "url": "https://roxie.com/film/women-on-the-verge-of-a-nervous-breakdown/",
+      "format": "35mm",
+      "source": "roxie"
+    },
+    {
       "id": "alamo:2026-12-01:21:30:tmdb:11587",
       "venueId": "alamo",
       "filmKey": "tmdb:11587",
@@ -2466,16 +2385,6 @@
       "source": "alamo"
     },
     {
-      "id": "alamo:2026-12-08:21:30:tmdb:1359",
-      "venueId": "alamo",
-      "filmKey": "tmdb:1359",
-      "date": "2026-12-08",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-american-psycho-the-king-of-the-full-moon-night?cinemaId=0801&sessionId=83907",
-      "note": "Terror Tuesday · + THE KING OF THE FULL MOON NIGHT · Now if you'll excuse me, I have to return some videotapes",
-      "source": "alamo"
-    },
-    {
       "id": "alamo:2026-12-09:18:00:tmdb:10719",
       "venueId": "alamo",
       "filmKey": "tmdb:10719",
@@ -2687,54 +2596,63 @@
       "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/hundreds-of-beavers-northwoods-christmas-edition-december-15",
       "source": "balboa"
+    },
+    {
+      "id": "bampfa:2026-12-16:19:00:tmdb:9646",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:9646",
+      "date": "2026-12-16",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/here-your-life",
+      "format": "4K",
+      "note": "Everlasting Moments: The Cinema of Jan Troell · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-12-16:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-12-16",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-robber-robber",
+      "note": "Throwin’ Bo’s presents:",
+      "source": "4star"
+    },
+    {
+      "id": "roxie:2026-12-16:20:30:tmdb:253114",
+      "venueId": "roxie",
+      "filmKey": "tmdb:253114",
+      "date": "2026-12-16",
+      "time": "20:30",
+      "url": "https://roxie.com/film/alien-sex-party/",
+      "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-12-16:21:30:tmdb:10740",
+      "venueId": "alamo",
+      "filmKey": "tmdb:10740",
+      "date": "2026-12-16",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/weird-wednesday-birth?cinemaId=0801&sessionId=83911",
+      "note": "Weird Wednesday · Nicole Kidman's most adventurous role to-date",
+      "source": "alamo"
     }
   ],
   "festivals": [
     {
-      "key": "fest:vogue:playing as part of bay area french film festival nov 13 15 2026",
-      "name": "Playing as part of Bay Area French Film Festival (Nov. 13 -15, 2026)",
-      "venueId": "vogue",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-17",
-      "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17",
-      "showtimes": 1,
-      "sample": [
-        "De Gaulle: Part 1 – Resistance"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-17",
-          "time": "19:00",
-          "title": "De Gaulle: Part 1 – Resistance",
-          "url": "https://voguemovies.com/calendar-of-events/de-gaulle-part-1-resistance-november-17"
-        }
-      ]
-    },
-    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-24",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84206",
-      "showtimes": 25,
+      "startDate": "2026-11-18",
+      "endDate": "2026-12-11",
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84232",
+      "showtimes": 24,
       "sample": [
+        "Red Snow",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-17",
-          "time": "18:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84206"
-        },
-        {
-          "date": "2026-11-17",
-          "time": "22:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84209"
-        },
         {
           "date": "2026-11-18",
           "time": "14:00",
@@ -2872,32 +2790,12 @@
           "time": "19:00",
           "title": "The Vile",
           "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239"
-        }
-      ]
-    },
-    {
-      "key": "fest:alamo:fantastic fest presents baby day",
-      "name": "Fantastic Fest Presents · Baby Day",
-      "venueId": "alamo",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-17",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84229",
-      "showtimes": 2,
-      "sample": [
-        "Wild Horse Nine"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-17",
-          "time": "14:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84229"
         },
         {
-          "date": "2026-11-17",
-          "time": "16:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84202"
+          "date": "2026-12-11",
+          "time": "21:45",
+          "title": "Red Snow",
+          "url": "https://drafthouse.com/sf/show/red-snow?cinemaId=0801&sessionId=84240"
         }
       ]
     },
