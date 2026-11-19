@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-11-18T20:58:47.950Z",
+  "generatedAt": "2026-11-19T21:05:27.477Z",
   "films": {
-    "tmdb:31767": {
-      "key": "tmdb:31767",
-      "title": "The Devils",
-      "year": 1971,
-      "director": "Ken Russell",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
-      "tmdbId": 31767,
-      "popularity": 5.9565,
-      "releaseDate": "1971-07-16",
-      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
-    "tmdb:1574": {
-      "key": "tmdb:1574",
-      "title": "Chicago",
-      "year": 2002,
-      "director": "Rob Marshall",
-      "runtime": 113,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/euxYhuuJjChU755u2YHj0ZPjww3.jpg",
-      "tmdbId": 1574,
-      "popularity": 6.9955,
-      "releaseDate": "2002-12-10",
-      "overview": "Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago."
-    },
     "tmdb:483": {
       "key": "tmdb:483",
       "title": "Wild at Heart",
@@ -99,6 +57,20 @@
       "releaseDate": "2018-09-01",
       "overview": "Asako lives in Osaka. She falls in love with Baku, a free-spirit. One day, Baku suddenly disappears. Two years later, Asako now lives in Tokyo and meets Ryohei. He looks just like Baku, but has a completely different personality."
     },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
+    },
     "tmdb:8220": {
       "key": "tmdb:8220",
       "title": "Dark Habits",
@@ -112,6 +84,20 @@
       "popularity": 2.166,
       "releaseDate": "1983-10-03",
       "overview": "After her drug pusher boyfriend overdoses on heroin, a cabaret singer finds refuge from the authorities in a convent for fallen women."
+    },
+    "tmdb:31767": {
+      "key": "tmdb:31767",
+      "title": "The Devils",
+      "year": 1971,
+      "director": "Ken Russell",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+      "tmdbId": 31767,
+      "popularity": 5.9565,
+      "releaseDate": "1971-07-16",
+      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
     },
     "tmdb:9886": {
       "key": "tmdb:9886",
@@ -267,20 +253,6 @@
       "releaseDate": "2003-09-23",
       "overview": "A comic frenzy filled with sex, music, science fiction, and all combinations thereof... as well as a dildo-festooned Moby. In an adult video store on Christmas Eve, we join Joe (an owner terrified of his own merchandise), Adam (an employee spouting indignation about everything), and Tina (whose unabashed promiscuity lends itself well to the locale)."
     },
-    "tmdb:2609": {
-      "key": "tmdb:2609",
-      "title": "Planes, Trains and Automobiles",
-      "year": 1987,
-      "director": "John Hughes",
-      "runtime": 92,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
-      "tmdbId": 2609,
-      "popularity": 7.8594,
-      "releaseDate": "1987-11-26",
-      "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith."
-    },
     "tmdb:13820": {
       "key": "tmdb:13820",
       "title": "Repo Man",
@@ -434,20 +406,6 @@
       "popularity": 3.8116,
       "releaseDate": "1960-02-05",
       "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer."
-    },
-    "tmdb:19596": {
-      "key": "tmdb:19596",
-      "title": "Electric Dreams",
-      "year": 1984,
-      "director": "Steve Barron",
-      "runtime": 96,
-      "genre": "Romance",
-      "poster": "https://image.tmdb.org/t/p/w500/2XWmN9EXYrHSRDvkAV9VhvngHGn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/bMLQAoEtRMi36wq66qXyJ17yVQd.jpg",
-      "tmdbId": 19596,
-      "popularity": 3.6207,
-      "releaseDate": "1984-07-20",
-      "overview": "Miles Harding buys a state-of-the-art computer that starts expressing conscious thought and emotion after an interaction with spilled champagne. Things begin getting out of hand when both Miles and Edgar, the computer, fall in love with beautiful neighbor Madeline Robistat."
     },
     "tmdb:98096": {
       "key": "tmdb:98096",
@@ -672,6 +630,20 @@
       "releaseDate": "1985-03-01",
       "overview": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer."
     },
+    "tmdb:2609": {
+      "key": "tmdb:2609",
+      "title": "Planes, Trains and Automobiles",
+      "year": 1987,
+      "director": "John Hughes",
+      "runtime": 92,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
+      "tmdbId": 2609,
+      "popularity": 7.8594,
+      "releaseDate": "1987-11-26",
+      "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith."
+    },
     "tmdb:345": {
       "key": "tmdb:345",
       "title": "Eyes Wide Shut",
@@ -726,6 +698,20 @@
       "popularity": 1.0488,
       "releaseDate": "1994-01-25",
       "overview": "Filmmaker Larry Weinstein stages a wide range of performances in tribute to the compositions of Kurt Weill."
+    },
+    "tmdb:1359": {
+      "key": "tmdb:1359",
+      "title": "American Psycho",
+      "year": 2000,
+      "director": "Mary Harron",
+      "runtime": 102,
+      "genre": "Thriller",
+      "poster": "https://image.tmdb.org/t/p/w500/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+      "tmdbId": 1359,
+      "popularity": 14.3627,
+      "releaseDate": "2000-04-13",
+      "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies."
     },
     "tmdb:11587": {
       "key": "tmdb:11587",
@@ -796,20 +782,6 @@
       "popularity": 7.3919,
       "releaseDate": "2004-10-29",
       "overview": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy named Sean turns up, saying he is her dead husband reincarnated. At first she ignores the child, but his knowledge of her former husband's life is uncanny, leading her to believe that he might be telling the truth."
-    },
-    "tmdb:26573": {
-      "key": "tmdb:26573",
-      "title": "Dr. Goldfoot and the Bikini Machine",
-      "year": 1965,
-      "director": "Norman Taurog",
-      "runtime": 88,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/v1NPmkAgQ85fTJAD7cmZ2EcFCvh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8P4YHsHMimLyDEK5EhOPGfjmRwD.jpg",
-      "tmdbId": 26573,
-      "popularity": 2.5336,
-      "releaseDate": "1965-11-06",
-      "overview": "Mad scientist Dr. Goldfoot has invented an army of bikini-clad robots programmed to seek out wealthy men and charm them into signing over their assets. Secret agent Craig Gamble and millionaire Todd Armstrong set out to foil his fiendish plot."
     },
     "tmdb:146790": {
       "key": "tmdb:146790",
@@ -1118,6 +1090,20 @@
       "releaseDate": "1966-12-26",
       "overview": "A working class teenager comes of age in 1910s rural Sweden, moving through a series of jobs and romances that gradually shape his future."
     },
+    "tmdb:62": {
+      "key": "tmdb:62",
+      "title": "2001: A Space Odyssey",
+      "year": 1968,
+      "director": "Stanley Kubrick",
+      "runtime": 149,
+      "genre": "Science Fiction",
+      "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+      "tmdbId": 62,
+      "popularity": 19.1632,
+      "releaseDate": "1968-04-02",
+      "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer."
+    },
     "tmdb:1362422": {
       "key": "tmdb:1362422",
       "title": "Beware! The Devil's Wrath",
@@ -1229,19 +1215,19 @@
       "releaseDate": "1985-12-13",
       "overview": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises."
     },
-    "tmdb:25768": {
-      "key": "tmdb:25768",
-      "title": "Steamboat Bill, Jr.",
-      "year": 1928,
-      "director": "Charles Reisner, Buster Keaton",
-      "runtime": 70,
+    "tmdb:5683": {
+      "key": "tmdb:5683",
+      "title": "Pee-wee's Big Adventure",
+      "year": 1985,
+      "director": "Tim Burton",
+      "runtime": 91,
       "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/zygJMsmXxeyDc1N67OCZc8xtq4I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/kmZjw9hbo8ErovofQvPB21HRyRf.jpg",
-      "tmdbId": 25768,
-      "popularity": 4.5603,
-      "releaseDate": "1928-05-09",
-      "overview": "The just-out-of-college, effete son of a no-nonsense steamboat captain comes to visit his father whom he's not seen since he was a child."
+      "poster": "https://image.tmdb.org/t/p/w500/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8qob0r37GT8YV3lA7pIfcnp0FBQ.jpg",
+      "tmdbId": 5683,
+      "popularity": 2.9289,
+      "releaseDate": "1985-07-26",
+      "overview": "The eccentric and childish Pee-wee Herman embarks on a big adventure when his beloved bicycle is stolen. Armed with information from a fortune-teller and a relentless obsession with his prized possession, Pee-wee encounters a host of odd characters and bizarre situations as he treks across the country to recover his bike."
     },
     "tmdb:1712": {
       "key": "tmdb:1712",
@@ -1315,93 +1301,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "roxie:2026-11-18:17:45:tmdb:31767",
-      "venueId": "roxie",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-18",
-      "time": "17:45",
-      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "roxie:2026-11-18:18:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-18",
-      "time": "18:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
-    {
-      "id": "grandlake:2026-11-18:19:00:tmdb:25768",
-      "venueId": "grandlake",
-      "filmKey": "tmdb:25768",
-      "date": "2026-11-18",
-      "time": "19:00",
-      "url": "http://73279.formovietickets.com:2235/T.ASP?WCI=BT&Page=schedule&SelectedDate=20261118",
-      "source": "grandlake"
-    },
-    {
-      "id": "balboa:2026-11-18:19:30:tmdb:2609",
-      "venueId": "balboa",
-      "filmKey": "tmdb:2609",
-      "date": "2026-11-18",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/planes-trains-and-automobiles-november-20",
-      "format": "35mm",
-      "note": "Presented on 35mm by",
-      "source": "balboa"
-    },
-    {
-      "id": "vogue:2026-11-18:19:30:tmdb:433",
-      "venueId": "vogue",
-      "filmKey": "tmdb:433",
-      "date": "2026-11-18",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/mary-poppins-november-18",
-      "source": "vogue"
-    },
-    {
-      "id": "4star:2026-11-18:19:30:tmdb:19596",
-      "venueId": "4star",
-      "filmKey": "tmdb:19596",
-      "date": "2026-11-18",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/electric-dreams-hi-nrg",
-      "note": "HI NRG presents:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-18:20:20:tmdb:1574",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1574",
-      "date": "2026-11-18",
-      "time": "20:20",
-      "url": "https://roxie.com/film/staff-pick-chicago/",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-18:20:55:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-18",
-      "time": "20:55",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-11-18:21:30:tmdb:26573",
-      "venueId": "alamo",
-      "filmKey": "tmdb:26573",
-      "date": "2026-11-18",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-dr-goldfoot-and-the-bikini-machine?cinemaId=0801&sessionId=83043",
-      "format": "35mm",
-      "note": "Weird Wednesday · Super sexbots... built to kill!",
-      "source": "alamo"
-    },
     {
       "id": "bampfa:2026-11-19:19:00:tmdb:1629",
       "venueId": "bampfa",
@@ -2385,6 +2284,16 @@
       "source": "alamo"
     },
     {
+      "id": "alamo:2026-12-08:21:30:tmdb:1359",
+      "venueId": "alamo",
+      "filmKey": "tmdb:1359",
+      "date": "2026-12-08",
+      "time": "21:30",
+      "url": "https://drafthouse.com/sf/show/terror-tuesday-american-psycho-the-king-of-the-full-moon-night?cinemaId=0801&sessionId=83907",
+      "note": "Terror Tuesday · + THE KING OF THE FULL MOON NIGHT · Now if you'll excuse me, I have to return some videotapes",
+      "source": "alamo"
+    },
+    {
       "id": "alamo:2026-12-09:18:00:tmdb:10719",
       "venueId": "alamo",
       "filmKey": "tmdb:10719",
@@ -2636,6 +2545,26 @@
       "url": "https://drafthouse.com/sf/show/weird-wednesday-birth?cinemaId=0801&sessionId=83911",
       "note": "Weird Wednesday · Nicole Kidman's most adventurous role to-date",
       "source": "alamo"
+    },
+    {
+      "id": "bampfa:2026-12-17:19:00:tmdb:62",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:62",
+      "date": "2026-12-17",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/2001-space-odyssey",
+      "format": "4K",
+      "note": "RoboCoup: Cinema Envisions the Future · 4K Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-12-17:21:00:tmdb:5683",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:5683",
+      "date": "2026-12-17",
+      "time": "21:00",
+      "url": "https://thenewparkway.com/movie/pee-wees-big-adventure/",
+      "source": "newparkway"
     }
   ],
   "festivals": [
@@ -2643,46 +2572,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-18",
+      "startDate": "2026-11-19",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84232",
-      "showtimes": 24,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84247",
+      "showtimes": 19,
       "sample": [
         "Red Snow",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-18",
-          "time": "14:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84232"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "15:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84231"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "18:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84225"
-        },
-        {
-          "date": "2026-11-18",
-          "time": "22:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84226"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "12:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84288"
-        },
         {
           "date": "2026-11-19",
           "time": "15:00",
@@ -3233,6 +3132,26 @@
           "title": "The Arrival + Unarius Mixtape",
           "url": "https://drafthouse.com/sf/show/weird-wednesday-the-arrival-unarius-mixtape?cinemaId=0801&sessionId=83876",
           "note": "Weird Wednesday · A truly spectacular DIY sci-fi lodestone"
+        }
+      ]
+    },
+    {
+      "key": "fest:roxie:14th annual festival",
+      "name": "14th Annual Festival",
+      "venueId": "roxie",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-13",
+      "url": "https://roxie.com/film/14th-festival-of-the-moving-image/",
+      "showtimes": 1,
+      "sample": [
+        "of the Moving Image"
+      ],
+      "programme": [
+        {
+          "date": "2026-12-13",
+          "time": "12:00",
+          "title": "of the Moving Image",
+          "url": "https://roxie.com/film/14th-festival-of-the-moving-image/"
         }
       ]
     }
