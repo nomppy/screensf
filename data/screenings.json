@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-19T21:05:27.477Z",
+  "generatedAt": "2026-11-20T20:51:41.523Z",
   "films": {
-    "tmdb:483": {
-      "key": "tmdb:483",
-      "title": "Wild at Heart",
-      "year": 1990,
-      "director": "David Lynch",
-      "runtime": 125,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg",
-      "tmdbId": 483,
-      "popularity": 8.6766,
-      "releaseDate": "1990-08-17",
-      "overview": "Young lovers Sailor and Lula hit the road to start a new life together away from the wrath of Lula’s deranged, disapproving mother, who has hired a team of hitmen to cut the lovers’ surreal honeymoon short."
-    },
     "tmdb:843": {
       "key": "tmdb:843",
       "title": "In the Mood for Love",
@@ -365,20 +351,6 @@
       "releaseDate": "2024-01-26",
       "overview": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers."
     },
-    "tmdb:433": {
-      "key": "tmdb:433",
-      "title": "Mary Poppins",
-      "year": 1964,
-      "director": "Robert Stevenson",
-      "runtime": 139,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/o4Wsby4ydIXhWmtmfvb451D5Np1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nMXLizoHhVTeh3GjFyUOfNx3b7i.jpg",
-      "tmdbId": 433,
-      "popularity": 9.1964,
-      "releaseDate": "1964-12-17",
-      "overview": "In turn of the century London, a magical nanny employs music and adventure to help two neglected children become closer to their father."
-    },
     "tmdb:66664": {
       "key": "tmdb:66664",
       "title": "Shocking Dark",
@@ -503,6 +475,20 @@
       "popularity": 3.0094,
       "releaseDate": "1991-06-05",
       "overview": "Begotten is the creation myth brought to life, the story of no less than the violent death of God and the (re)birth of nature on a barren earth."
+    },
+    "tmdb:93465": {
+      "key": "tmdb:93465",
+      "title": "The Chinese Feast",
+      "year": 1995,
+      "director": "Tsui Hark",
+      "runtime": 100,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/hbal71oj7AlzQSlvUeAMXHFM1rz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sDEeZGAE7N44XPJa1fi4yYLTaHb.jpg",
+      "tmdbId": 93465,
+      "popularity": 2.5026,
+      "releaseDate": "1995-01-28",
+      "overview": "Within a few years, petty crook Chiu rises to gang leader. But his professional ambitions are actually quite different: he wants to leave illegality behind and make a career for himself and his lover in Canada... as a chef. However, this craft must first be learned and Chiu's talent in the field of cooking leaves much to be desired."
     },
     "tmdb:9571": {
       "key": "tmdb:9571",
@@ -824,20 +810,6 @@
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
     },
-    "tmdb:1629": {
-      "key": "tmdb:1629",
-      "title": "La Chinoise",
-      "year": 1967,
-      "director": "Jean-Luc Godard",
-      "runtime": 96,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/hfGzYErvwi8hB38kCsSNy6OjdPv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5xKuOSej5ZmcDzrXIg6gqHask3o.jpg",
-      "tmdbId": 1629,
-      "popularity": 3.4199,
-      "releaseDate": "1967-08-30",
-      "overview": "A small group of French students are studying Mao, trying to find out their position in the world and how to change the world to a Maoistic community using terrorism."
-    },
     "tmdb:14537": {
       "key": "tmdb:14537",
       "title": "Harakiri",
@@ -1104,32 +1076,19 @@
       "releaseDate": "1968-04-02",
       "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer."
     },
-    "tmdb:1362422": {
-      "key": "tmdb:1362422",
-      "title": "Beware! The Devil's Wrath",
-      "year": 2024,
-      "director": "Craig Meinhart",
-      "runtime": 10,
-      "genre": "Horror",
-      "backdrop": "https://indy-systems.imgix.net/en2vcrtkp3mei241u47hcv8jntr5?fit=crop&w=1000&h=1500&fm=jpeg&auto=format,compress",
-      "tmdbId": 1362422,
-      "popularity": 1.0114,
-      "releaseDate": "2024-09-01",
-      "overview": "A young man is stalked, abducted, and tortured for a crime he may, or may not, have committed. He's subjected to a hallucinatory trip into hell by a vengeful figure in a cloak and hood."
-    },
-    "tmdb:273191": {
-      "key": "tmdb:273191",
-      "title": "Over the Garden Wall",
-      "year": 1934,
-      "director": "John Daumery",
-      "runtime": 65,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/pr1snPkxmWjLkVI1ryxeVhAe61b.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sNFcgDk1mDA7EWOII27eXZ2Xq1y.jpg",
-      "tmdbId": 273191,
-      "popularity": 1.1219,
-      "releaseDate": "1934-06-20",
-      "overview": "An aunt objects to the romance between her niece and a neighbour's nephew, and steps in to put an end to the love affair."
+    "tmdb:1859": {
+      "key": "tmdb:1859",
+      "title": "Ninotchka",
+      "year": 1939,
+      "director": "Ernst Lubitsch",
+      "runtime": 110,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/v4MkgNqZyodYwBDNbZ64MF9tVEL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/AjYX2r2dn1s31A8fDaPPiYRrZ6L.jpg",
+      "tmdbId": 1859,
+      "popularity": 2.4352,
+      "releaseDate": "1939-11-16",
+      "overview": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest."
     },
     "tmdb:9603": {
       "key": "tmdb:9603",
@@ -1229,20 +1188,6 @@
       "releaseDate": "1985-07-26",
       "overview": "The eccentric and childish Pee-wee Herman embarks on a big adventure when his beloved bicycle is stolen. Armed with information from a fortune-teller and a relentless obsession with his prized possession, Pee-wee encounters a host of odd characters and bizarre situations as he treks across the country to recover his bike."
     },
-    "tmdb:1712": {
-      "key": "tmdb:1712",
-      "title": "Giant",
-      "year": 1956,
-      "director": "George Stevens",
-      "runtime": 201,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
-      "tmdbId": 1712,
-      "popularity": 10.5593,
-      "releaseDate": "1956-11-08",
-      "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
-    },
     "tmdb:655": {
       "key": "tmdb:655",
       "title": "Paris, Texas",
@@ -1256,6 +1201,20 @@
       "popularity": 7.5596,
       "releaseDate": "1984-07-16",
       "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier."
+    },
+    "tmdb:1712": {
+      "key": "tmdb:1712",
+      "title": "Giant",
+      "year": 1956,
+      "director": "George Stevens",
+      "runtime": 201,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
+      "tmdbId": 1712,
+      "popularity": 10.5593,
+      "releaseDate": "1956-11-08",
+      "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
     },
     "tmdb:27064": {
       "key": "tmdb:27064",
@@ -1302,76 +1261,6 @@
   },
   "screenings": [
     {
-      "id": "bampfa:2026-11-19:19:00:tmdb:1629",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:1629",
-      "date": "2026-11-19",
-      "time": "19:00",
-      "url": "https://bampfa.org/event/la-chinoise",
-      "format": "DCP",
-      "note": "Jean-Luc Godard’s Early Films · Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "rafael:2026-11-19:19:00:tmdb:1712",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1712",
-      "date": "2026-11-19",
-      "time": "19:00",
-      "url": "https://cinema.cafilm.org/film/giant",
-      "note": "Stage To Screen",
-      "source": "rafael"
-    },
-    {
-      "id": "vogue:2026-11-19:19:30:tmdb:433",
-      "venueId": "vogue",
-      "filmKey": "tmdb:433",
-      "date": "2026-11-19",
-      "time": "19:30",
-      "url": "https://voguemovies.com/calendar-of-events/mary-poppins-november-19",
-      "source": "vogue"
-    },
-    {
-      "id": "4star:2026-11-19:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-19",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-computerwife",
-      "note": "Throwin’ Bo’s presents:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-19:20:30:tmdb:483",
-      "venueId": "roxie",
-      "filmKey": "tmdb:483",
-      "date": "2026-11-19",
-      "time": "20:30",
-      "url": "https://roxie.com/film/wild-at-heart/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-19:20:30:tmdb:1362422",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:1362422",
-      "date": "2026-11-19",
-      "time": "20:30",
-      "url": "https://thenewparkway.com/movie/beware-the-devils-wrath-with-filmmaker-q-a/",
-      "note": "with Filmmaker Q & A",
-      "source": "newparkway"
-    },
-    {
-      "id": "newparkway:2026-11-19:21:00:tmdb:273191",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:273191",
-      "date": "2026-11-19",
-      "time": "21:00",
-      "url": "https://thenewparkway.com/movie/over-the-garden-wall-animation-ko/",
-      "note": "Animation KO",
-      "source": "newparkway"
-    },
-    {
       "id": "bampfa:2026-11-20:16:00:tmdb:14537",
       "venueId": "bampfa",
       "filmKey": "tmdb:14537",
@@ -1399,6 +1288,7 @@
       "date": "2026-11-20",
       "time": "19:30",
       "url": "https://www.balboamovies.com/calendar-of-events/repo-man-november-20",
+      "note": "CANCELLED",
       "source": "balboa"
     },
     {
@@ -1480,6 +1370,15 @@
       "source": "alamo"
     },
     {
+      "id": "balboa:2026-11-21:13:30:tmdb:3766",
+      "venueId": "balboa",
+      "filmKey": "tmdb:3766",
+      "date": "2026-11-21",
+      "time": "13:30",
+      "url": "https://www.balboamovies.com/calendar-of-events/the-lady-from-shanghai-november-21",
+      "source": "balboa"
+    },
+    {
       "id": "sfmoma:2026-11-21:14:00:tmdb:1547796",
       "venueId": "sfmoma",
       "filmKey": "tmdb:1547796",
@@ -1488,15 +1387,6 @@
       "url": "https://www.sfmoma.org/event/baon-stories-and-struggles-of-filipino-migrants/",
       "note": "Film Screening and Conversation — the premiere of \"Baon: Stories and Struggles of Filipino Migrants,\" followed by a conversation featuring the filmmaker,…",
       "source": "sfmoma"
-    },
-    {
-      "id": "balboa:2026-11-21:14:30:tmdb:3766",
-      "venueId": "balboa",
-      "filmKey": "tmdb:3766",
-      "date": "2026-11-21",
-      "time": "14:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-lady-from-shanghai-november-21",
-      "source": "balboa"
     },
     {
       "id": "4star:2026-11-21:14:45:tmdb:13479",
@@ -1832,6 +1722,15 @@
       "format": "DCP",
       "note": "Special Screenings 2026",
       "source": "bampfa"
+    },
+    {
+      "id": "roxie:2026-11-27:17:30:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-27",
+      "time": "17:30",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
     },
     {
       "id": "bampfa:2026-11-27:17:30:tmdb:13963",
@@ -2205,6 +2104,16 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-12-05:21:15:tmdb:1597242",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1597242",
+      "date": "2026-12-05",
+      "time": "21:15",
+      "url": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/",
+      "format": "35mm",
+      "source": "roxie"
+    },
+    {
       "id": "balboa:2026-12-05:23:00:tmdb:582913",
       "venueId": "balboa",
       "filmKey": "tmdb:582913",
@@ -2325,6 +2234,16 @@
       "source": "bampfa"
     },
     {
+      "id": "4star:2026-12-10:19:30:tmdb:93465",
+      "venueId": "4star",
+      "filmKey": "tmdb:93465",
+      "date": "2026-12-10",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/chinese-feast-hi-nrg-g78ps",
+      "note": "HI NRG presents:",
+      "source": "4star"
+    },
+    {
       "id": "castro:2026-12-10:19:30:tmdb:44896",
       "venueId": "castro",
       "filmKey": "tmdb:44896",
@@ -2333,16 +2252,6 @@
       "url": "https://thecastro.com/events/rango-261210",
       "note": "MOViES FOR MANiACS and Another Planet Entertainment present",
       "source": "castro"
-    },
-    {
-      "id": "4star:2026-12-10:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-12-10",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-storefront-church",
-      "note": "Throwin’ Bo’s presents:",
-      "source": "4star"
     },
     {
       "id": "bampfa:2026-12-11:19:30:tmdb:198",
@@ -2565,41 +2474,129 @@
       "time": "21:00",
       "url": "https://thenewparkway.com/movie/pee-wees-big-adventure/",
       "source": "newparkway"
+    },
+    {
+      "id": "newparkway:2026-12-18:18:00:tmdb:10719",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:10719",
+      "date": "2026-12-18",
+      "time": "18:00",
+      "url": "https://thenewparkway.com/movie/elf-pasta-at-the-parkway/",
+      "note": "Pasta at the Parkway",
+      "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-12-18:19:00:tmdb:1859",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:1859",
+      "date": "2026-12-18",
+      "time": "19:00",
+      "url": "https://bampfa.org/event/ninotchka",
+      "format": "DCP",
+      "note": "A Touch of Lubitsch: The Hollywood Years",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-12-18:20:00:tmdb:98096",
+      "venueId": "4star",
+      "filmKey": "tmdb:98096",
+      "date": "2026-12-18",
+      "time": "20:00",
+      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-country-risque-samantha-henson",
+      "note": "Country Risquè",
+      "source": "4star"
+    },
+    {
+      "id": "newparkway:2026-12-18:22:30:tmdb:36685",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:36685",
+      "date": "2026-12-18",
+      "time": "22:30",
+      "url": "https://thenewparkway.com/movie/rocky-horror-picture-show/",
+      "source": "newparkway"
     }
   ],
   "festivals": [
     {
+      "key": "fest:vogue:golden gate armenian film festival",
+      "name": "Golden Gate Armenian Film Festival",
+      "venueId": "vogue",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "url": "https://ggaff.art/",
+      "showtimes": 8,
+      "sample": [
+        "Scattered Seeds of the Pomegranate",
+        "A Fire There",
+        "2026 Shorts Program",
+        "The Land of Arto"
+      ],
+      "programme": [
+        {
+          "date": "2026-11-20",
+          "time": "16:30",
+          "title": "Scattered Seeds of the Pomegranate",
+          "url": "https://voguemovies.com/calendar-of-events/scattered-seeds-of-the-pomegranate-november-20"
+        },
+        {
+          "date": "2026-11-20",
+          "time": "19:30",
+          "title": "A Fire There",
+          "url": "https://voguemovies.com/calendar-of-events/a-fire-there-november-20"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "13:30",
+          "title": "2026 Shorts Program",
+          "url": "https://voguemovies.com/calendar-of-events/shorts-program-november-21"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "16:30",
+          "title": "The Land of Arto",
+          "url": "https://voguemovies.com/calendar-of-events/the-land-of-arto-november-21"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "19:30",
+          "title": "A Woman Today",
+          "url": "https://voguemovies.com/calendar-of-events/a-woman-today-november-21"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "13:30",
+          "title": "Poqr Mher",
+          "url": "https://voguemovies.com/calendar-of-events/poqr-mher-november-22"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "16:30",
+          "title": "Outliving Shakespeare",
+          "url": "https://voguemovies.com/calendar-of-events/outliving-shakespeare-november-22",
+          "note": "Shakespeare’s Sins"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "19:30",
+          "title": "Here, Elsewhere",
+          "url": "https://voguemovies.com/calendar-of-events/here-elsewhere-november-22"
+        }
+      ]
+    },
+    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-19",
+      "startDate": "2026-11-20",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84247",
-      "showtimes": 19,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84259",
+      "showtimes": 16,
       "sample": [
         "Red Snow",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-19",
-          "time": "15:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84247"
-        },
-        {
-          "date": "2026-11-19",
-          "time": "18:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84248"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "12:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84265"
-        },
         {
           "date": "2026-11-20",
           "time": "15:00",
@@ -2695,72 +2692,6 @@
           "time": "21:45",
           "title": "Red Snow",
           "url": "https://drafthouse.com/sf/show/red-snow?cinemaId=0801&sessionId=84240"
-        }
-      ]
-    },
-    {
-      "key": "fest:vogue:golden gate armenian film festival",
-      "name": "Golden Gate Armenian Film Festival",
-      "venueId": "vogue",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-22",
-      "url": "https://ggaff.art/",
-      "showtimes": 8,
-      "sample": [
-        "Scattered Seeds of the Pomegranate",
-        "A Fire There",
-        "2026 Shorts Program",
-        "The Land of Arto"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-20",
-          "time": "16:30",
-          "title": "Scattered Seeds of the Pomegranate",
-          "url": "https://voguemovies.com/calendar-of-events/scattered-seeds-of-the-pomegranate-november-20"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "19:30",
-          "title": "A Fire There",
-          "url": "https://voguemovies.com/calendar-of-events/a-fire-there-november-20"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "13:30",
-          "title": "2026 Shorts Program",
-          "url": "https://voguemovies.com/calendar-of-events/shorts-program-november-21"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "16:30",
-          "title": "The Land of Arto",
-          "url": "https://voguemovies.com/calendar-of-events/the-land-of-arto-november-21"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "19:30",
-          "title": "A Woman Today",
-          "url": "https://voguemovies.com/calendar-of-events/a-woman-today-november-21"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "13:30",
-          "title": "Poqr Mher",
-          "url": "https://voguemovies.com/calendar-of-events/poqr-mher-november-22"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "16:30",
-          "title": "Outliving Shakespeare",
-          "url": "https://voguemovies.com/calendar-of-events/outliving-shakespeare-november-22",
-          "note": "Shakespeare’s Sins"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "19:30",
-          "title": "Here, Elsewhere",
-          "url": "https://voguemovies.com/calendar-of-events/here-elsewhere-november-22"
         }
       ]
     },
