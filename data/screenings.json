@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-20T20:51:41.523Z",
+  "generatedAt": "2026-11-21T19:54:54.955Z",
   "films": {
-    "tmdb:843": {
-      "key": "tmdb:843",
-      "title": "In the Mood for Love",
-      "year": 2000,
-      "director": "Wong Kar-Wai",
-      "runtime": 99,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
-      "tmdbId": 843,
-      "popularity": 14.741,
-      "releaseDate": "2000-09-29",
-      "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love."
-    },
     "tmdb:1255": {
       "key": "tmdb:1255",
       "title": "The Host",
@@ -28,6 +14,20 @@
       "popularity": 9.0028,
       "releaseDate": "2006-07-27",
       "overview": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her."
+    },
+    "tmdb:843": {
+      "key": "tmdb:843",
+      "title": "In the Mood for Love",
+      "year": 2000,
+      "director": "Wong Kar-Wai",
+      "runtime": 99,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+      "tmdbId": 843,
+      "popularity": 14.741,
+      "releaseDate": "2000-09-29",
+      "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love."
     },
     "tmdb:487850": {
       "key": "tmdb:487850",
@@ -155,6 +155,20 @@
       "releaseDate": "2026-11-20",
       "overview": "A concert film documenting Cameron Winter's sold-out performance at Carnegie Hall."
     },
+    "tmdb:11830": {
+      "key": "tmdb:11830",
+      "title": "Tampopo",
+      "year": 1985,
+      "director": "Jūzō Itami",
+      "runtime": 115,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/ArYdSuX3zY9fMsE4LqmBl7xJq5R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/oq8HM9TOSbH54Xy0OBJGzYrtUC7.jpg",
+      "tmdbId": 11830,
+      "popularity": 3.4461,
+      "releaseDate": "1985-11-23",
+      "overview": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life."
+    },
     "tmdb:274710": {
       "key": "tmdb:274710",
       "title": "Welcome II the Terrordome",
@@ -239,19 +253,33 @@
       "releaseDate": "2003-09-23",
       "overview": "A comic frenzy filled with sex, music, science fiction, and all combinations thereof... as well as a dildo-festooned Moby. In an adult video store on Christmas Eve, we join Joe (an owner terrified of his own merchandise), Adam (an employee spouting indignation about everything), and Tina (whose unabashed promiscuity lends itself well to the locale)."
     },
-    "tmdb:13820": {
-      "key": "tmdb:13820",
-      "title": "Repo Man",
-      "year": 1984,
-      "director": "Alex Cox",
-      "runtime": 92,
+    "tmdb:511": {
+      "key": "tmdb:511",
+      "title": "The Promised Land",
+      "year": 1975,
+      "director": "Andrzej Wajda",
+      "runtime": 179,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/pjk8K5MpQJX0XczTC2KOVWNj0lC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/xQa198uEb8DLwQntDwO9jlilXcC.jpg",
+      "tmdbId": 511,
+      "popularity": 1.1673,
+      "releaseDate": "1975-02-21",
+      "overview": "At the turn of the century, Lodz, Poland, was a quick-paced manufacturing center for textiles, replete with cutthroat industrialists and unsafe working conditions. Three young friends, a Pole, a Jew, and a German, pool their money together to build a factory."
+    },
+    "tmdb:850": {
+      "key": "tmdb:850",
+      "title": "A Christmas Story",
+      "year": 1983,
+      "director": "Bob Clark",
+      "runtime": 93,
       "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/bjuu5UceuVUNUjnOC2fBzL3hZKC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5K5oPo1NJrAVUeaPzcXFH13Xplo.jpg",
-      "tmdbId": 13820,
-      "popularity": 2.3095,
-      "releaseDate": "1984-03-02",
-      "overview": "A down and out young punk gets a job working with a seasoned repo man, but what awaits him in his new career is a series of outlandish adventures revolving around aliens, the CIA, and a most wanted '64 Chevy."
+      "poster": "https://image.tmdb.org/t/p/w500/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/feCcRTZNGUop3LnWBLTToYhd03S.jpg",
+      "tmdbId": 850,
+      "popularity": 8.9344,
+      "releaseDate": "1983-11-18",
+      "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s."
     },
     "tmdb:3766": {
       "key": "tmdb:3766",
@@ -379,19 +407,6 @@
       "releaseDate": "1960-02-05",
       "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer."
     },
-    "tmdb:98096": {
-      "key": "tmdb:98096",
-      "title": "Live Music",
-      "year": 2009,
-      "director": "Yair Landau",
-      "runtime": 6,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
-      "tmdbId": 98096,
-      "popularity": 1.0169,
-      "releaseDate": "2009-11-20",
-      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
-    },
     "tmdb:10315": {
       "key": "tmdb:10315",
       "title": "Fantastic Mr. Fox",
@@ -461,6 +476,19 @@
       "popularity": 15.0041,
       "releaseDate": "2008-07-19",
       "overview": "When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea."
+    },
+    "tmdb:98096": {
+      "key": "tmdb:98096",
+      "title": "Live Music",
+      "year": 2009,
+      "director": "Yair Landau",
+      "runtime": 6,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/oXJyr7zNgHTwlAQfMjx7ZlMCyWg.jpg",
+      "tmdbId": 98096,
+      "popularity": 1.0169,
+      "releaseDate": "2009-11-20",
+      "overview": "A crowdsourced animated musical about a rock n' roll guitar that falls in love to the wrong song but ends up with the violin of his dreams."
     },
     "tmdb:1483": {
       "key": "tmdb:1483",
@@ -810,34 +838,6 @@
       "releaseDate": "2019-02-25",
       "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
     },
-    "tmdb:14537": {
-      "key": "tmdb:14537",
-      "title": "Harakiri",
-      "year": 1962,
-      "director": "Masaki Kobayashi",
-      "runtime": 135,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/5konZnIbcAxZjP616Cz5o9bKEfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
-      "tmdbId": 14537,
-      "popularity": 13.2275,
-      "releaseDate": "1962-09-15",
-      "overview": "Down-on-his-luck veteran Tsugumo Hanshirō enters the courtyard of the prosperous House of Iyi. Unemployed, and with no family, he hopes to find a place to commit seppuku—and a worthy second to deliver the coup de grâce in his suicide ritual. The senior counselor for the Iyi clan questions the ronin’s resolve and integrity, suspecting Hanshirō of seeking charity rather than an honorable end. What follows is a pair of interlocking stories which lay bare the difference between honor and respect, and promises to examine the legendary foundations of the Samurai code."
-    },
-    "tmdb:27511": {
-      "key": "tmdb:27511",
-      "title": "He Who Gets Slapped",
-      "year": 1924,
-      "director": "Victor Sjöström",
-      "runtime": 72,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/ue7ce11Y6vEjZXKZeKCBKl6O9Dp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/1Y6bivrnmJPR6OPBZSw7AMGzPD4.jpg",
-      "tmdbId": 27511,
-      "popularity": 2.2402,
-      "releaseDate": "1924-12-22",
-      "overview": "After a baron steals his scientific discoveries, runs away with his wife, and slaps him in public, a man joins a Parisian circus sideshow as a clown whose act consists of being slapped repeatedly and becomes infatuated with a showgirl colleague whose father intends to marry her off to the baron."
-    },
     "tmdb:27031": {
       "key": "tmdb:27031",
       "title": "Samurai Rebellion",
@@ -1090,19 +1090,19 @@
       "releaseDate": "1939-11-16",
       "overview": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest."
     },
-    "tmdb:9603": {
-      "key": "tmdb:9603",
-      "title": "Clueless",
-      "year": 1995,
-      "director": "Amy Heckerling",
-      "runtime": 97,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/65d0MccsiRSPTVicregKQL8owoo.jpg",
-      "tmdbId": 9603,
-      "popularity": 11.6045,
-      "releaseDate": "1995-07-19",
-      "overview": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other. Emboldened by her success, she decides to give hopelessly klutzy new student Tai a makeover. When Tai becomes more popular than she is, Cher realizes that her disapproving ex-stepbrother was right about how misguided she was -- and falls for him."
+    "tmdb:72785": {
+      "key": "tmdb:72785",
+      "title": "The Flight of the Eagle",
+      "year": 1982,
+      "director": "Jan Troell",
+      "runtime": 140,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/azCz5nVSHUuHt3HQ99cZSNf2heA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/cmut591ASCNLH7XemJqjItn1C34.jpg",
+      "tmdbId": 72785,
+      "popularity": 0.8421,
+      "releaseDate": "1982-08-26",
+      "overview": "The Swedish 19th century engineer Salomon August Andrée sets out to become the first man on the north pole. His idea is to launch a polar expedition using a hydrogen balloon, together with two friends. The balloon, \"The Eagle\", takes off from Svalbard in 1897, but the three men are never heard from again."
     },
     "tmdb:9340": {
       "key": "tmdb:9340",
@@ -1188,19 +1188,19 @@
       "releaseDate": "1985-07-26",
       "overview": "The eccentric and childish Pee-wee Herman embarks on a big adventure when his beloved bicycle is stolen. Armed with information from a fortune-teller and a relentless obsession with his prized possession, Pee-wee encounters a host of odd characters and bizarre situations as he treks across the country to recover his bike."
     },
-    "tmdb:655": {
-      "key": "tmdb:655",
-      "title": "Paris, Texas",
-      "year": 1984,
-      "director": "Wim Wenders",
-      "runtime": 145,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/sP27Qm4THyRZyHjHYMfIDtJP6YE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg",
-      "tmdbId": 655,
-      "popularity": 7.5596,
-      "releaseDate": "1984-07-16",
-      "overview": "A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier."
+    "tmdb:1091": {
+      "key": "tmdb:1091",
+      "title": "The Thing",
+      "year": 1982,
+      "director": "John Carpenter",
+      "runtime": 109,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+      "tmdbId": 1091,
+      "popularity": 18.9272,
+      "releaseDate": "1982-06-25",
+      "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
     "tmdb:1712": {
       "key": "tmdb:1712",
@@ -1261,85 +1261,6 @@
   },
   "screenings": [
     {
-      "id": "bampfa:2026-11-20:16:00:tmdb:14537",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:14537",
-      "date": "2026-11-20",
-      "time": "16:00",
-      "url": "https://bampfa.org/event/harakiri",
-      "format": "35mm",
-      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
-      "source": "bampfa"
-    },
-    {
-      "id": "newparkway:2026-11-20:18:00:tmdb:9603",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:9603",
-      "date": "2026-11-20",
-      "time": "18:00",
-      "url": "https://thenewparkway.com/movie/clueless-pasta-at-the-parkway/",
-      "note": "Pasta at the Parkway",
-      "source": "newparkway"
-    },
-    {
-      "id": "balboa:2026-11-20:19:30:tmdb:13820",
-      "venueId": "balboa",
-      "filmKey": "tmdb:13820",
-      "date": "2026-11-20",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/repo-man-november-20",
-      "note": "CANCELLED",
-      "source": "balboa"
-    },
-    {
-      "id": "bampfa:2026-11-20:19:30:tmdb:27511",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:27511",
-      "date": "2026-11-20",
-      "time": "19:30",
-      "url": "https://bampfa.org/event/cinespin",
-      "format": "DCP",
-      "note": "Special Screenings 2026",
-      "source": "bampfa"
-    },
-    {
-      "id": "4star:2026-11-20:20:00:tmdb:98096",
-      "venueId": "4star",
-      "filmKey": "tmdb:98096",
-      "date": "2026-11-20",
-      "time": "20:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/live-music-babehoven",
-      "note": "Throwin’ Bo’s presents:",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-20:20:40:tmdb:843",
-      "venueId": "roxie",
-      "filmKey": "tmdb:843",
-      "date": "2026-11-20",
-      "time": "20:40",
-      "url": "https://roxie.com/film/new-people-in-the-mood-for-love/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-20:21:00:tmdb:7452",
-      "venueId": "alamo",
-      "filmKey": "tmdb:7452",
-      "date": "2026-11-20",
-      "time": "21:00",
-      "url": "https://drafthouse.com/sf/show/the-cook-the-thief-his-wife-her-lover?cinemaId=0801&sessionId=83865",
-      "source": "alamo"
-    },
-    {
-      "id": "newparkway:2026-11-20:22:30:tmdb:36685",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:36685",
-      "date": "2026-11-20",
-      "time": "22:30",
-      "url": "https://thenewparkway.com/movie/rocky-horror-picture-show/",
-      "source": "newparkway"
-    },
-    {
       "id": "4star:2026-11-21:10:00:tmdb:10315",
       "venueId": "4star",
       "filmKey": "tmdb:10315",
@@ -1348,16 +1269,6 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/fantastic-mr-fox-sat-2026",
       "note": "Popcorn Palace - FREE!",
       "source": "4star"
-    },
-    {
-      "id": "rafael:2026-11-21:11:00:tmdb:655",
-      "venueId": "rafael",
-      "filmKey": "tmdb:655",
-      "date": "2026-11-21",
-      "time": "11:00",
-      "url": "https://cinema.cafilm.org/film/paris-texas",
-      "note": "Mvff Retrospective",
-      "source": "rafael"
     },
     {
       "id": "alamo:2026-11-21:12:00:tmdb:26039",
@@ -1931,6 +1842,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-11-30:17:40:tmdb:1596296",
+      "venueId": "roxie",
+      "filmKey": "tmdb:1596296",
+      "date": "2026-11-30",
+      "time": "17:40",
+      "url": "https://roxie.com/film/the-history-of-concrete/",
+      "source": "roxie"
+    },
+    {
       "id": "castro:2026-12-01:19:30:tmdb:48288",
       "venueId": "castro",
       "filmKey": "tmdb:48288",
@@ -2074,6 +1994,15 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-12-04:20:45:tmdb:843",
+      "venueId": "roxie",
+      "filmKey": "tmdb:843",
+      "date": "2026-12-04",
+      "time": "20:45",
+      "url": "https://roxie.com/film/new-people-in-the-mood-for-love/",
+      "source": "roxie"
+    },
+    {
       "id": "rafael:2026-12-05:11:00:tmdb:1554",
       "venueId": "rafael",
       "filmKey": "tmdb:1554",
@@ -2101,6 +2030,15 @@
       "time": "16:00",
       "url": "https://roxie.com/film/cameron-winter-at-carnegie-hall-35mm/",
       "format": "35mm",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-12-05:18:45:tmdb:11830",
+      "venueId": "roxie",
+      "filmKey": "tmdb:11830",
+      "date": "2026-12-05",
+      "time": "18:45",
+      "url": "https://roxie.com/film/new-people-tampopo/",
       "source": "roxie"
     },
     {
@@ -2507,6 +2445,16 @@
       "source": "4star"
     },
     {
+      "id": "roxie:2026-12-18:21:35:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-12-18",
+      "time": "21:35",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "newparkway:2026-12-18:22:30:tmdb:36685",
       "venueId": "newparkway",
       "filmKey": "tmdb:36685",
@@ -2514,6 +2462,45 @@
       "time": "22:30",
       "url": "https://thenewparkway.com/movie/rocky-horror-picture-show/",
       "source": "newparkway"
+    },
+    {
+      "id": "bampfa:2026-12-19:15:00:tmdb:72785",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:72785",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "url": "https://bampfa.org/event/flight-eagle",
+      "format": "DCP",
+      "note": "Everlasting Moments: The Cinema of Jan Troell · Digital Restoration",
+      "source": "bampfa"
+    },
+    {
+      "id": "newparkway:2026-12-19:15:00:tmdb:1091",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1091",
+      "date": "2026-12-19",
+      "time": "15:00",
+      "url": "https://thenewparkway.com/movie/the-thing-space-on-screen/",
+      "note": "Space on Screen",
+      "source": "newparkway"
+    },
+    {
+      "id": "roxie:2026-12-19:15:30:tmdb:511",
+      "venueId": "roxie",
+      "filmKey": "tmdb:511",
+      "date": "2026-12-19",
+      "time": "15:30",
+      "url": "https://roxie.com/film/new-people-the-promised-land/",
+      "source": "roxie"
+    },
+    {
+      "id": "roxie:2026-12-19:18:30:tmdb:850",
+      "venueId": "roxie",
+      "filmKey": "tmdb:850",
+      "date": "2026-12-19",
+      "time": "18:30",
+      "url": "https://roxie.com/film/floating-features-a-christmas-story-1983/",
+      "source": "roxie"
     }
   ],
   "festivals": [
@@ -2521,29 +2508,17 @@
       "key": "fest:vogue:golden gate armenian film festival",
       "name": "Golden Gate Armenian Film Festival",
       "venueId": "vogue",
-      "startDate": "2026-11-20",
+      "startDate": "2026-11-21",
       "endDate": "2026-11-22",
       "url": "https://ggaff.art/",
-      "showtimes": 8,
+      "showtimes": 6,
       "sample": [
-        "Scattered Seeds of the Pomegranate",
-        "A Fire There",
         "2026 Shorts Program",
-        "The Land of Arto"
+        "The Land of Arto",
+        "A Woman Today",
+        "Poqr Mher"
       ],
       "programme": [
-        {
-          "date": "2026-11-20",
-          "time": "16:30",
-          "title": "Scattered Seeds of the Pomegranate",
-          "url": "https://voguemovies.com/calendar-of-events/scattered-seeds-of-the-pomegranate-november-20"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "19:30",
-          "title": "A Fire There",
-          "url": "https://voguemovies.com/calendar-of-events/a-fire-there-november-20"
-        },
         {
           "date": "2026-11-21",
           "time": "13:30",
@@ -2587,34 +2562,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-20",
+      "startDate": "2026-11-21",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84259",
-      "showtimes": 16,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84281",
+      "showtimes": 13,
       "sample": [
         "Red Snow",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-20",
-          "time": "15:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84259"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "18:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84260"
-        },
-        {
-          "date": "2026-11-20",
-          "time": "21:45",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84262"
-        },
         {
           "date": "2026-11-21",
           "time": "11:40",
