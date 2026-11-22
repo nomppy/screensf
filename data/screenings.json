@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-21T19:54:54.955Z",
+  "generatedAt": "2026-11-22T20:02:46.374Z",
   "films": {
-    "tmdb:1255": {
-      "key": "tmdb:1255",
-      "title": "The Host",
-      "year": 2006,
-      "director": "Bong Joon Ho",
-      "runtime": 120,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/dEDLY3KeghKFzks5nTDWdigVikr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/m0wczZyNfWpu5q9wNuhFUGGiLxG.jpg",
-      "tmdbId": 1255,
-      "popularity": 9.0028,
-      "releaseDate": "2006-07-27",
-      "overview": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her."
-    },
     "tmdb:843": {
       "key": "tmdb:843",
       "title": "In the Mood for Love",
@@ -70,6 +56,20 @@
       "popularity": 2.166,
       "releaseDate": "1983-10-03",
       "overview": "After her drug pusher boyfriend overdoses on heroin, a cabaret singer finds refuge from the authorities in a convent for fallen women."
+    },
+    "tmdb:1255": {
+      "key": "tmdb:1255",
+      "title": "The Host",
+      "year": 2006,
+      "director": "Bong Joon Ho",
+      "runtime": 120,
+      "genre": "Horror",
+      "poster": "https://image.tmdb.org/t/p/w500/dEDLY3KeghKFzks5nTDWdigVikr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/m0wczZyNfWpu5q9wNuhFUGGiLxG.jpg",
+      "tmdbId": 1255,
+      "popularity": 9.0028,
+      "releaseDate": "2006-07-27",
+      "overview": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her."
     },
     "tmdb:31767": {
       "key": "tmdb:31767",
@@ -280,20 +280,6 @@
       "popularity": 8.9344,
       "releaseDate": "1983-11-18",
       "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s."
-    },
-    "tmdb:3766": {
-      "key": "tmdb:3766",
-      "title": "The Lady from Shanghai",
-      "year": 1947,
-      "director": "Orson Welles",
-      "runtime": 87,
-      "genre": "Mystery",
-      "poster": "https://image.tmdb.org/t/p/w500/whqdqWavNMSoeXTx1X3DauO1LG6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ehgX2eTBOgqB1Py3vSTKf3LXbEv.jpg",
-      "tmdbId": 3766,
-      "popularity": 3.693,
-      "releaseDate": "1947-12-24",
-      "overview": "A romantic drifter gets caught between a corrupt tycoon and his voluptuous wife."
     },
     "tmdb:45706": {
       "key": "tmdb:45706",
@@ -532,6 +518,20 @@
       "releaseDate": "1993-09-24",
       "overview": "The adventures of a group of Texas teens on their last day of school in 1976, centering on student Randall Floyd, who moves easily among stoners, jocks and geeks. Floyd is a star athlete, but he also likes smoking weed, which presents a conundrum when his football coach demands he sign a \"no drugs\" pledge."
     },
+    "tmdb:17979": {
+      "key": "tmdb:17979",
+      "title": "A Christmas Carol",
+      "year": 2009,
+      "director": "Robert Zemeckis",
+      "runtime": 96,
+      "genre": "Animation",
+      "poster": "https://image.tmdb.org/t/p/w500/xNwlAIdx1Ln28GRiQttUP9Gojy2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/uocpNfrP0Vvnf2UxykXuIR1HNUd.jpg",
+      "tmdbId": 17979,
+      "popularity": 17.398,
+      "releaseDate": "2009-11-04",
+      "overview": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption."
+    },
     "tmdb:48288": {
       "key": "tmdb:48288",
       "title": "Small Town Gay Bar",
@@ -629,20 +629,6 @@
       "popularity": 11.2939,
       "releaseDate": "2004-11-10",
       "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."
-    },
-    "tmdb:91735": {
-      "key": "tmdb:91735",
-      "title": "My Brother's Wedding",
-      "year": 1983,
-      "director": "Charles Burnett",
-      "runtime": 81,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/zNTkmyNtdncmMFHOavpgevwsh6o.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/w9clWe4Ymb7Kt7SB36V7PitVBry.jpg",
-      "tmdbId": 91735,
-      "popularity": 1.3864,
-      "releaseDate": "1985-03-01",
-      "overview": "A young African-American man, living in Los Angeles without direction in his life, reluctantly agrees to be the best man for his brother, an upwardly mobile lawyer."
     },
     "tmdb:2609": {
       "key": "tmdb:2609",
@@ -823,48 +809,6 @@
       "popularity": 3.4791,
       "releaseDate": "1971-03-11",
       "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
-    },
-    "tmdb:1547796": {
-      "key": "tmdb:1547796",
-      "title": "Baon",
-      "year": 2019,
-      "director": "Noel Escondo",
-      "runtime": 12,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/2gATaUFzfswDCElw4lADaY3IkC9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/cVtgWpoejDwF7GGwGSx9uBGmCMa.jpg",
-      "tmdbId": 1547796,
-      "popularity": 1.2725,
-      "releaseDate": "2019-02-25",
-      "overview": "A teacher recalls how his teacher during his elementary years greatly influenced and shaped his life. An official entry for Pista Ng Pelikulang Pilipino 2019 by Gawad Urian Winners Angeli Bayani (Best Actress, 2014), Noel Escondo (Best Short, 2016), KL Carpio (Best Short, 2017)"
-    },
-    "tmdb:27031": {
-      "key": "tmdb:27031",
-      "title": "Samurai Rebellion",
-      "year": 1967,
-      "director": "Masaki Kobayashi",
-      "runtime": 121,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/bKySGFUTgsZyn5i7s5htMVy4Xd2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eE6ysigsKowJfJHgoaSR4GOYJw6.jpg",
-      "tmdbId": 27031,
-      "popularity": 2.8506,
-      "releaseDate": "1967-05-27",
-      "overview": "The mother of a feudal lord's only heir is kidnapped by the lord. Her husband and his samurai father must decide whether to accept the unjust decision, or risk death to rescue her."
-    },
-    "tmdb:1578": {
-      "key": "tmdb:1578",
-      "title": "Raging Bull",
-      "year": 1980,
-      "director": "Martin Scorsese",
-      "runtime": 129,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
-      "tmdbId": 1578,
-      "popularity": 9.0655,
-      "releaseDate": "1980-11-14",
-      "overview": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it."
     },
     "tmdb:34530": {
       "key": "tmdb:34530",
@@ -1104,6 +1048,34 @@
       "releaseDate": "1982-08-26",
       "overview": "The Swedish 19th century engineer Salomon August Andrée sets out to become the first man on the north pole. His idea is to launch a polar expedition using a hydrogen balloon, together with two friends. The balloon, \"The Eagle\", takes off from Svalbard in 1897, but the three men are never heard from again."
     },
+    "tmdb:20334": {
+      "key": "tmdb:20334",
+      "title": "The Shop Around the Corner",
+      "year": 1940,
+      "director": "Ernst Lubitsch",
+      "runtime": 99,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/wqgZSvgoctaadgwUdPYVsksivxn.jpg",
+      "tmdbId": 20334,
+      "popularity": 4.0161,
+      "releaseDate": "1940-01-12",
+      "overview": "Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal."
+    },
+    "tmdb:68": {
+      "key": "tmdb:68",
+      "title": "Brazil",
+      "year": 1985,
+      "director": "Terry Gilliam",
+      "runtime": 143,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/2w09J0KUnVtJvqPYu8N63XjAyCR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9IYyCLf5NNAQFK9pNtqzEU9HWzM.jpg",
+      "tmdbId": 68,
+      "popularity": 6.0342,
+      "releaseDate": "1985-02-20",
+      "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies."
+    },
     "tmdb:9340": {
       "key": "tmdb:9340",
       "title": "The Goonies",
@@ -1260,105 +1232,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "4star:2026-11-21:10:00:tmdb:10315",
-      "venueId": "4star",
-      "filmKey": "tmdb:10315",
-      "date": "2026-11-21",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/fantastic-mr-fox-sat-2026",
-      "note": "Popcorn Palace - FREE!",
-      "source": "4star"
-    },
-    {
-      "id": "alamo:2026-11-21:12:00:tmdb:26039",
-      "venueId": "alamo",
-      "filmKey": "tmdb:26039",
-      "date": "2026-11-21",
-      "time": "12:00",
-      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-point-blank-1967?cinemaId=0801&sessionId=84286",
-      "note": "Queer Film Theory 101 · John Boorman and Lee Marvin bring hardboiled noir into the New Wave",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-11-21:13:30:tmdb:3766",
-      "venueId": "balboa",
-      "filmKey": "tmdb:3766",
-      "date": "2026-11-21",
-      "time": "13:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/the-lady-from-shanghai-november-21",
-      "source": "balboa"
-    },
-    {
-      "id": "sfmoma:2026-11-21:14:00:tmdb:1547796",
-      "venueId": "sfmoma",
-      "filmKey": "tmdb:1547796",
-      "date": "2026-11-21",
-      "time": "14:00",
-      "url": "https://www.sfmoma.org/event/baon-stories-and-struggles-of-filipino-migrants/",
-      "note": "Film Screening and Conversation — the premiere of \"Baon: Stories and Struggles of Filipino Migrants,\" followed by a conversation featuring the filmmaker,…",
-      "source": "sfmoma"
-    },
-    {
-      "id": "4star:2026-11-21:14:45:tmdb:13479",
-      "venueId": "4star",
-      "filmKey": "tmdb:13479",
-      "date": "2026-11-21",
-      "time": "14:45",
-      "url": "https://www.4-star-movies.com/calendar-of-events/peanuts-thanksgiving-sat",
-      "note": "Spend Thanksgiving with good ol’ Charlie Brown!",
-      "source": "4star"
-    },
-    {
-      "id": "bampfa:2026-11-21:15:30:tmdb:27031",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:27031",
-      "date": "2026-11-21",
-      "time": "15:30",
-      "url": "https://bampfa.org/event/samurai-rebellion",
-      "format": "35mm",
-      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
-      "source": "bampfa"
-    },
-    {
-      "id": "alamo:2026-11-21:16:15:tmdb:91735",
-      "venueId": "alamo",
-      "filmKey": "tmdb:91735",
-      "date": "2026-11-21",
-      "time": "16:15",
-      "url": "https://drafthouse.com/sf/show/my-brothers-wedding?cinemaId=0801&sessionId=83866",
-      "source": "alamo"
-    },
-    {
-      "id": "bampfa:2026-11-21:18:30:tmdb:1578",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:1578",
-      "date": "2026-11-21",
-      "time": "18:30",
-      "url": "https://bampfa.org/event/raging-bull",
-      "format": "4K",
-      "note": "Martin Scorsese Pictures · 4K Digital Restoration",
-      "source": "bampfa"
-    },
-    {
-      "id": "roxie:2026-11-21:21:15:tmdb:1255",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1255",
-      "date": "2026-11-21",
-      "time": "21:15",
-      "url": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "newparkway:2026-11-21:21:50:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-21",
-      "time": "21:50",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
     {
       "id": "4star:2026-11-22:10:00:tmdb:10315",
       "venueId": "4star",
@@ -2161,6 +2034,15 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-12-10:18:10:tmdb:843",
+      "venueId": "roxie",
+      "filmKey": "tmdb:843",
+      "date": "2026-12-10",
+      "time": "18:10",
+      "url": "https://roxie.com/film/new-people-in-the-mood-for-love/",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-12-10:18:30:tmdb:443033",
       "venueId": "bampfa",
       "filmKey": "tmdb:443033",
@@ -2501,6 +2383,38 @@
       "time": "18:30",
       "url": "https://roxie.com/film/floating-features-a-christmas-story-1983/",
       "source": "roxie"
+    },
+    {
+      "id": "bampfa:2026-12-20:14:00:tmdb:20334",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:20334",
+      "date": "2026-12-20",
+      "time": "14:00",
+      "url": "https://bampfa.org/event/shop-around-corner",
+      "format": "DCP",
+      "note": "A Touch of Lubitsch: The Hollywood Years · Also screens on Thursday, February 11 (with an introduction).",
+      "source": "bampfa"
+    },
+    {
+      "id": "bampfa:2026-12-20:16:30:tmdb:68",
+      "venueId": "bampfa",
+      "filmKey": "tmdb:68",
+      "date": "2026-12-20",
+      "time": "16:30",
+      "url": "https://bampfa.org/event/brazil",
+      "format": "4K",
+      "note": "RoboCoup: Cinema Envisions the Future · 4K Digital Restoration, Director’s Cut",
+      "source": "bampfa"
+    },
+    {
+      "id": "4star:2026-12-20:19:30:tmdb:17979",
+      "venueId": "4star",
+      "filmKey": "tmdb:17979",
+      "date": "2026-12-20",
+      "time": "19:30",
+      "url": "https://www.4-star-movies.com/calendar-of-events/media-meltdown-movie-madhouse",
+      "note": "A CHRISTMAS CAROL (1999)",
+      "source": "4star"
     }
   ],
   "festivals": [
@@ -2508,35 +2422,16 @@
       "key": "fest:vogue:golden gate armenian film festival",
       "name": "Golden Gate Armenian Film Festival",
       "venueId": "vogue",
-      "startDate": "2026-11-21",
+      "startDate": "2026-11-22",
       "endDate": "2026-11-22",
       "url": "https://ggaff.art/",
-      "showtimes": 6,
+      "showtimes": 3,
       "sample": [
-        "2026 Shorts Program",
-        "The Land of Arto",
-        "A Woman Today",
-        "Poqr Mher"
+        "Poqr Mher",
+        "Outliving Shakespeare",
+        "Here, Elsewhere"
       ],
       "programme": [
-        {
-          "date": "2026-11-21",
-          "time": "13:30",
-          "title": "2026 Shorts Program",
-          "url": "https://voguemovies.com/calendar-of-events/shorts-program-november-21"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "16:30",
-          "title": "The Land of Arto",
-          "url": "https://voguemovies.com/calendar-of-events/the-land-of-arto-november-21"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "19:30",
-          "title": "A Woman Today",
-          "url": "https://voguemovies.com/calendar-of-events/a-woman-today-november-21"
-        },
         {
           "date": "2026-11-22",
           "time": "13:30",
@@ -2562,40 +2457,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-21",
+      "startDate": "2026-11-22",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84281",
-      "showtimes": 13,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84290",
+      "showtimes": 11,
       "sample": [
         "Red Snow",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-21",
-          "time": "11:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84281"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "14:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84282"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "19:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84275"
-        },
-        {
-          "date": "2026-11-21",
-          "time": "21:40",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84284"
-        },
         {
           "date": "2026-11-22",
           "time": "12:15",
@@ -2640,9 +2511,21 @@
         },
         {
           "date": "2026-11-24",
+          "time": "15:20",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84321"
+        },
+        {
+          "date": "2026-11-24",
           "time": "19:00",
           "title": "The Vile",
           "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:30",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84323"
         },
         {
           "date": "2026-12-11",
