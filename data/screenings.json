@@ -1,48 +1,6 @@
 {
-  "generatedAt": "2026-11-22T20:02:46.374Z",
+  "generatedAt": "2026-11-24T00:28:57.751Z",
   "films": {
-    "tmdb:843": {
-      "key": "tmdb:843",
-      "title": "In the Mood for Love",
-      "year": 2000,
-      "director": "Wong Kar-Wai",
-      "runtime": 99,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
-      "tmdbId": 843,
-      "popularity": 14.741,
-      "releaseDate": "2000-09-29",
-      "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love."
-    },
-    "tmdb:487850": {
-      "key": "tmdb:487850",
-      "title": "Asako I & II",
-      "year": 2018,
-      "director": "Ryusuke Hamaguchi",
-      "runtime": 120,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/nqwfB2GMMjrjAJnQj1hxD97sQXF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/qDKmkuJhxJDLJFuUacWLdmya5TN.jpg",
-      "tmdbId": 487850,
-      "popularity": 2.1903,
-      "releaseDate": "2018-09-01",
-      "overview": "Asako lives in Osaka. She falls in love with Baku, a free-spirit. One day, Baku suddenly disappears. Two years later, Asako now lives in Tokyo and meets Ryohei. He looks just like Baku, but has a completely different personality."
-    },
-    "tmdb:1596296": {
-      "key": "tmdb:1596296",
-      "title": "The History of Concrete",
-      "year": 2026,
-      "director": "John Wilson",
-      "runtime": 101,
-      "genre": "Documentary",
-      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
-      "tmdbId": 1596296,
-      "popularity": 2.7675,
-      "releaseDate": "2026-09-18",
-      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
-    },
     "tmdb:8220": {
       "key": "tmdb:8220",
       "title": "Dark Habits",
@@ -84,6 +42,20 @@
       "popularity": 5.9565,
       "releaseDate": "1971-07-16",
       "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
+    },
+    "tmdb:1596296": {
+      "key": "tmdb:1596296",
+      "title": "The History of Concrete",
+      "year": 2026,
+      "director": "John Wilson",
+      "runtime": 101,
+      "genre": "Documentary",
+      "poster": "https://image.tmdb.org/t/p/w500/geoYKcLBlTHfuFLyQy9GHH8M9Hh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2QWJHuCeYyFvDRY5CGJ4nlmaqYn.jpg",
+      "tmdbId": 1596296,
+      "popularity": 2.7675,
+      "releaseDate": "2026-09-18",
+      "overview": "After attending a workshop on how to write and sell a Hallmark movie, filmmaker John Wilson tries to use the same formula to sell a documentary about concrete."
     },
     "tmdb:9886": {
       "key": "tmdb:9886",
@@ -140,6 +112,20 @@
       "popularity": 3.7937,
       "releaseDate": "1958-10-03",
       "overview": "A young academy soldier, Maciek Chelmicki, is ordered to shoot the secretary of the KW PPR. A coincidence causes him to kill someone else. Meeting face to face with his victim, he gets a shock. He faces the necessity of repeating the assassination.  He meets Krystyna, a girl working as a barmaid in the restaurant of the \"Monopol\" hotel. His affection for her makes him even more aware of the senselessness of killing at the end of the war. Loyalty to the oath he took, and thus the obligation to obey the order, tips the scales."
+    },
+    "tmdb:843": {
+      "key": "tmdb:843",
+      "title": "In the Mood for Love",
+      "year": 2000,
+      "director": "Wong Kar-Wai",
+      "runtime": 99,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ffQFnAUm2Uu4RU0nijpjPRf9TBT.jpg",
+      "tmdbId": 843,
+      "popularity": 14.741,
+      "releaseDate": "2000-09-29",
+      "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love."
     },
     "tmdb:1597242": {
       "key": "tmdb:1597242",
@@ -211,6 +197,20 @@
       "releaseDate": "1982-07-09",
       "overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world and becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment."
     },
+    "tmdb:627110": {
+      "key": "tmdb:627110",
+      "title": "Rex: A Dinosaur's Story",
+      "year": 1993,
+      "director": "Haruki Kadokawa",
+      "runtime": 106,
+      "genre": "Family",
+      "poster": "https://image.tmdb.org/t/p/w500/f7EsJ9YCIslx2pf4AGOGe8GfqgJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/AsuFYXE29KwC9csN6BicWRK0xDa.jpg",
+      "tmdbId": 627110,
+      "popularity": 1.0415,
+      "releaseDate": "1993-07-03",
+      "overview": "A young girl befriends an infant T-rex after her paleontologist father nurtures a lair of lost dinosaur eggs."
+    },
     "tmdb:224": {
       "key": "tmdb:224",
       "title": "Man of Marble",
@@ -281,19 +281,33 @@
       "releaseDate": "1983-11-18",
       "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s."
     },
-    "tmdb:45706": {
-      "key": "tmdb:45706",
-      "title": "Tokyo Drifter",
-      "year": 1966,
-      "director": "Seijun Suzuki",
-      "runtime": 83,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xrsqHuS402Msz8yhWbwre2QQYWd.jpg",
-      "tmdbId": 45706,
-      "popularity": 2.48,
-      "releaseDate": "1966-04-10",
-      "overview": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable Tatsuzo the \"Viper\", a ruthless gun-for-hire, to assassinate him. As the Viper trails his target through the countryside, the agile Phoenix Tetsu grows concerned that one of his former associates has betrayed him."
+    "tmdb:258480": {
+      "key": "tmdb:258480",
+      "title": "Carol",
+      "year": 2015,
+      "director": "Todd Haynes",
+      "runtime": 118,
+      "genre": "Romance",
+      "poster": "https://image.tmdb.org/t/p/w500/cJeled7EyPdur6TnCA5GYg0UVna.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/2giW19Qb8Lmyd5XCyVU2avABvhZ.jpg",
+      "tmdbId": 258480,
+      "popularity": 9.1011,
+      "releaseDate": "2015-11-20",
+      "overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman."
+    },
+    "tmdb:65": {
+      "key": "tmdb:65",
+      "title": "8 Mile",
+      "year": 2002,
+      "director": "Curtis Hanson",
+      "runtime": 111,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/7BmQj8qE1FLuLTf7Xjf9sdIHzoa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/jNG7pl0DkN1nzxnbZj4MCGf2VEG.jpg",
+      "tmdbId": 65,
+      "popularity": 8.4474,
+      "releaseDate": "2002-11-08",
+      "overview": "For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit's vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment… is another chance."
     },
     "tmdb:339877": {
       "key": "tmdb:339877",
@@ -393,20 +407,6 @@
       "releaseDate": "1960-02-05",
       "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer."
     },
-    "tmdb:10315": {
-      "key": "tmdb:10315",
-      "title": "Fantastic Mr. Fox",
-      "year": 2009,
-      "director": "Wes Anderson",
-      "runtime": 87,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/bOVr292mwn3jxr1e0NmUPM1rcjo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xRxSLhhjPG2D8l0BXi0KdN4IvPt.jpg",
-      "tmdbId": 10315,
-      "popularity": 15.6707,
-      "releaseDate": "2009-10-14",
-      "overview": "The Fantastic Mr. Fox, bored with his current life, plans a heist against the three local farmers. The farmers, tired of sharing their chickens with the sly fox, seek revenge against him and his family."
-    },
     "tmdb:13479": {
       "key": "tmdb:13479",
       "title": "A Charlie Brown Thanksgiving",
@@ -420,20 +420,6 @@
       "popularity": 3.5954,
       "releaseDate": "1973-11-20",
       "overview": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful."
-    },
-    "tmdb:16227": {
-      "key": "tmdb:16227",
-      "title": "Dark Passage",
-      "year": 1947,
-      "director": "Delmer Daves",
-      "runtime": 106,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/dvwmiD6qQ05gojrFQRaFbdhbNDF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/nFCXzdeJbJiYZF6rvSQnkkHAL7G.jpg",
-      "tmdbId": 16227,
-      "popularity": 2.9278,
-      "releaseDate": "1947-09-05",
-      "overview": "A man convicted of murdering his wife escapes from prison and works with a woman to try and prove his innocence."
     },
     "tmdb:60645": {
       "key": "tmdb:60645",
@@ -560,19 +546,19 @@
       "releaseDate": "2011-03-02",
       "overview": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging Western town of Dirt, the theater-loving lizard suddenly finds himself the newly appointed sheriff. Welcomed as the last hope the town has been waiting for, Rango is forced to play his new role to the hilt and uncover the truth behind a looming water crisis—before his act catches up with him."
     },
-    "tmdb:949423": {
-      "key": "tmdb:949423",
-      "title": "Pearl",
-      "year": 2022,
-      "director": "Ti West",
-      "runtime": 102,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/z5uIG81pXyHKg7cUFIu84Wjn4NS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/fdzpbJ0xdyjMUY4DqN6cOpESA1X.jpg",
-      "tmdbId": 949423,
-      "popularity": 13.876,
-      "releaseDate": "2022-09-16",
-      "overview": "Trapped on her family’s isolated farm, Pearl must tend to her ailing father under the bitter and overbearing watch of her devout mother. Lusting for a glamorous life like she’s seen in the movies, Pearl’s ambitions, temptations, and repressions collide."
+    "tmdb:763329": {
+      "key": "tmdb:763329",
+      "title": "Red Rocket",
+      "year": 2021,
+      "director": "Sean Baker",
+      "runtime": 130,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/345gLhiNpItU1ICx8OxJQwjgPmH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/nRfJFQQ6OUVW4NV7wFzNDu57J3E.jpg",
+      "tmdbId": 763329,
+      "popularity": 2.9106,
+      "releaseDate": "2021-12-10",
+      "overview": "After hitting rock bottom in Los Angeles, former porn star Mikey Saber returns to his hometown in Texas to stay with his estranged wife and mother-in-law. Just as tensions begin to ease, he becomes infatuated with a young doughnut shop worker named Strawberry."
     },
     "tmdb:364": {
       "key": "tmdb:364",
@@ -809,20 +795,6 @@
       "popularity": 3.4791,
       "releaseDate": "1971-03-11",
       "overview": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship."
-    },
-    "tmdb:34530": {
-      "key": "tmdb:34530",
-      "title": "The Human Condition III: A Soldier's Prayer",
-      "year": 1961,
-      "director": "Masaki Kobayashi",
-      "runtime": 190,
-      "genre": "War",
-      "poster": "https://image.tmdb.org/t/p/w500/pag7gyxSFe7vTl6riHfZ5Xci6q7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/h9jZQJ97PM9bumabvl81N6jJvvz.jpg",
-      "tmdbId": 34530,
-      "popularity": 5.7108,
-      "releaseDate": "1961-01-28",
-      "overview": "After the Japanese defeat to the Russians, Kaji leads the last remaining men through Manchuria. Intent on returning to his old life, he faces great odds in a variety of different harrowing circumstances as he and his men sneak behind enemy lines."
     },
     "tmdb:3082": {
       "key": "tmdb:3082",
@@ -1076,20 +1048,6 @@
       "releaseDate": "1985-02-20",
       "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies."
     },
-    "tmdb:9340": {
-      "key": "tmdb:9340",
-      "title": "The Goonies",
-      "year": 1985,
-      "director": "Richard Donner",
-      "runtime": 114,
-      "genre": "Adventure",
-      "poster": "https://image.tmdb.org/t/p/w500/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
-      "tmdbId": 9340,
-      "popularity": 9.0279,
-      "releaseDate": "1985-06-07",
-      "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first."
-    },
     "tmdb:42077": {
       "key": "tmdb:42077",
       "title": "My Name Is Julia Ross",
@@ -1174,20 +1132,6 @@
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
-    "tmdb:1712": {
-      "key": "tmdb:1712",
-      "title": "Giant",
-      "year": 1956,
-      "director": "George Stevens",
-      "runtime": 201,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/h5RRYPVVuHzd7QOJyP5Dsi8J9XZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sm3ErHMXQLaNdo74vbIa1JRXIXS.jpg",
-      "tmdbId": 1712,
-      "popularity": 10.5593,
-      "releaseDate": "1956-11-08",
-      "overview": "Wealthy rancher Bick Benedict and dirt-poor cowboy Jett Rink both woo Leslie Lynnton, a beautiful young woman from Maryland who is new to Texas. She marries Benedict, but she is shocked by the racial bigotry of the White Texans against the local people of Mexican descent. Rink discovers oil on a small plot of land, and while he uses his vast, new wealth to buy all the land surrounding the Benedict ranch, the Benedict's disagreement over prejudice fuels conflict that runs across generations."
-    },
     "tmdb:27064": {
       "key": "tmdb:27064",
       "title": "Mishima: A Life in Four Chapters",
@@ -1232,114 +1176,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "4star:2026-11-22:10:00:tmdb:10315",
-      "venueId": "4star",
-      "filmKey": "tmdb:10315",
-      "date": "2026-11-22",
-      "time": "10:00",
-      "url": "https://www.4-star-movies.com/calendar-of-events/fantastic-mr-fox-sun-2026",
-      "note": "Popcorn Palace - FREE!",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-22:13:00:tmdb:843",
-      "venueId": "roxie",
-      "filmKey": "tmdb:843",
-      "date": "2026-11-22",
-      "time": "13:00",
-      "url": "https://roxie.com/film/new-people-in-the-mood-for-love/",
-      "source": "roxie"
-    },
-    {
-      "id": "rafael:2026-11-22:13:00:tmdb:1712",
-      "venueId": "rafael",
-      "filmKey": "tmdb:1712",
-      "date": "2026-11-22",
-      "time": "13:00",
-      "url": "https://cinema.cafilm.org/film/giant",
-      "note": "Stage To Screen",
-      "source": "rafael"
-    },
-    {
-      "id": "bampfa:2026-11-22:13:30:tmdb:34530",
-      "venueId": "bampfa",
-      "filmKey": "tmdb:34530",
-      "date": "2026-11-22",
-      "time": "13:30",
-      "url": "https://bampfa.org/event/human-condition-soldiers-prayer",
-      "format": "35mm",
-      "note": "The Cinema of Masaki Kobayashi: Midcareer Masterworks",
-      "source": "bampfa"
-    },
-    {
-      "id": "4star:2026-11-22:14:45:tmdb:13479",
-      "venueId": "4star",
-      "filmKey": "tmdb:13479",
-      "date": "2026-11-22",
-      "time": "14:45",
-      "url": "https://www.4-star-movies.com/calendar-of-events/peanuts-thanksgiving-sun",
-      "note": "Spend Thanksgiving with good ol’ Charlie Brown!",
-      "source": "4star"
-    },
-    {
-      "id": "newparkway:2026-11-22:14:55:tmdb:9340",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:9340",
-      "date": "2026-11-22",
-      "time": "14:55",
-      "url": "https://thenewparkway.com/movie/the-goonies-party-at-the-parkway/",
-      "note": "Party at the Parkway",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-11-22:15:15:tmdb:487850",
-      "venueId": "roxie",
-      "filmKey": "tmdb:487850",
-      "date": "2026-11-22",
-      "time": "15:15",
-      "url": "https://roxie.com/film/new-people-asako-i-ii/",
-      "source": "roxie"
-    },
-    {
-      "id": "balboa:2026-11-22:15:30:tmdb:45706",
-      "venueId": "balboa",
-      "filmKey": "tmdb:45706",
-      "date": "2026-11-22",
-      "time": "15:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/tokyo-drifter-november-22",
-      "note": "Tokyo Drifter",
-      "source": "balboa"
-    },
-    {
-      "id": "alamo:2026-11-22:19:00:tmdb:949423",
-      "venueId": "alamo",
-      "filmKey": "tmdb:949423",
-      "date": "2026-11-22",
-      "time": "19:00",
-      "url": "https://drafthouse.com/sf/show/a24-x-alamo-cinema-club-mandatory-bundle-pearl?cinemaId=0801&sessionId=83332",
-      "note": "Alamo Drafthouse x A24 Cinema Club · You axed for it",
-      "source": "alamo"
-    },
-    {
-      "id": "4star:2026-11-22:19:30:tmdb:16227",
-      "venueId": "4star",
-      "filmKey": "tmdb:16227",
-      "date": "2026-11-22",
-      "time": "19:30",
-      "url": "https://www.4-star-movies.com/calendar-of-events/wnp-film-club-dark-passage",
-      "note": "Presented by the WESTERN NEIGHBORHOODS PROJECT FILM CLUB & BAY AREA MOVIES",
-      "source": "4star"
-    },
-    {
-      "id": "roxie:2026-11-22:21:00:tmdb:1596296",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1596296",
-      "date": "2026-11-22",
-      "time": "21:00",
-      "url": "https://roxie.com/film/the-history-of-concrete/",
-      "source": "roxie"
-    },
     {
       "id": "roxie:2026-11-23:18:00:tmdb:8220",
       "venueId": "roxie",
@@ -1975,6 +1811,15 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-12-06:16:00:tmdb:11830",
+      "venueId": "roxie",
+      "filmKey": "tmdb:11830",
+      "date": "2026-12-06",
+      "time": "16:00",
+      "url": "https://roxie.com/film/new-people-tampopo/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-12-06:17:15:tmdb:64",
       "venueId": "roxie",
       "filmKey": "tmdb:64",
@@ -2074,6 +1919,15 @@
       "source": "castro"
     },
     {
+      "id": "roxie:2026-12-10:20:20:tmdb:11830",
+      "venueId": "roxie",
+      "filmKey": "tmdb:11830",
+      "date": "2026-12-10",
+      "time": "20:20",
+      "url": "https://roxie.com/film/new-people-tampopo/",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-12-11:19:30:tmdb:198",
       "venueId": "bampfa",
       "filmKey": "tmdb:198",
@@ -2126,6 +1980,15 @@
       "source": "bampfa"
     },
     {
+      "id": "roxie:2026-12-12:18:40:tmdb:627110",
+      "venueId": "roxie",
+      "filmKey": "tmdb:627110",
+      "date": "2026-12-12",
+      "time": "18:40",
+      "url": "https://roxie.com/film/new-people-rex-a-dinosaurs-story/",
+      "source": "roxie"
+    },
+    {
       "id": "4star:2026-12-12:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -2144,6 +2007,15 @@
       "url": "https://drafthouse.com/sf/show/movie-party-elf-movie-party-sing-along?cinemaId=0801&sessionId=83873",
       "note": "Movie Parties · Sing-Along Movie Party · A cheerful celebration with themed games & singing loud for all to hear",
       "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-12-13:13:00:tmdb:627110",
+      "venueId": "roxie",
+      "filmKey": "tmdb:627110",
+      "date": "2026-12-13",
+      "time": "13:00",
+      "url": "https://roxie.com/film/new-people-rex-a-dinosaurs-story/",
+      "source": "roxie"
     },
     {
       "id": "bampfa:2026-12-13:14:00:tmdb:10436",
@@ -2415,82 +2287,51 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/media-meltdown-movie-madhouse",
       "note": "A CHRISTMAS CAROL (1999)",
       "source": "4star"
+    },
+    {
+      "id": "roxie:2026-12-21:18:00:tmdb:258480",
+      "venueId": "roxie",
+      "filmKey": "tmdb:258480",
+      "date": "2026-12-21",
+      "time": "18:00",
+      "url": "https://roxie.com/film/carol/",
+      "source": "roxie"
+    },
+    {
+      "id": "alamo:2026-12-21:19:00:tmdb:763329",
+      "venueId": "alamo",
+      "filmKey": "tmdb:763329",
+      "date": "2026-12-21",
+      "time": "19:00",
+      "url": "https://drafthouse.com/sf/show/a24-x-alamo-cinema-club-mandatory-bundle-red-rocket?cinemaId=0801&sessionId=84134",
+      "note": "Alamo Drafthouse x A24 Cinema Club · See Sean Baker's Texas tale with an exclusive glass + A24 menu",
+      "source": "alamo"
+    },
+    {
+      "id": "roxie:2026-12-21:20:50:tmdb:65",
+      "venueId": "roxie",
+      "filmKey": "tmdb:65",
+      "date": "2026-12-21",
+      "time": "20:50",
+      "url": "https://roxie.com/film/staff-pick-8-mile/",
+      "source": "roxie"
     }
   ],
   "festivals": [
     {
-      "key": "fest:vogue:golden gate armenian film festival",
-      "name": "Golden Gate Armenian Film Festival",
-      "venueId": "vogue",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "url": "https://ggaff.art/",
-      "showtimes": 3,
-      "sample": [
-        "Poqr Mher",
-        "Outliving Shakespeare",
-        "Here, Elsewhere"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-22",
-          "time": "13:30",
-          "title": "Poqr Mher",
-          "url": "https://voguemovies.com/calendar-of-events/poqr-mher-november-22"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "16:30",
-          "title": "Outliving Shakespeare",
-          "url": "https://voguemovies.com/calendar-of-events/outliving-shakespeare-november-22",
-          "note": "Shakespeare’s Sins"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "19:30",
-          "title": "Here, Elsewhere",
-          "url": "https://voguemovies.com/calendar-of-events/here-elsewhere-november-22"
-        }
-      ]
-    },
-    {
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-22",
+      "startDate": "2026-11-23",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84290",
-      "showtimes": 11,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84307",
+      "showtimes": 16,
       "sample": [
         "Red Snow",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-22",
-          "time": "12:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84290"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "15:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84291"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "18:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84295"
-        },
-        {
-          "date": "2026-11-22",
-          "time": "21:15",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84355"
-        },
         {
           "date": "2026-11-23",
           "time": "16:00",
@@ -2511,12 +2352,6 @@
         },
         {
           "date": "2026-11-24",
-          "time": "15:20",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84321"
-        },
-        {
-          "date": "2026-11-24",
           "time": "19:00",
           "title": "The Vile",
           "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239"
@@ -2528,6 +2363,66 @@
           "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84323"
         },
         {
+          "date": "2026-11-25",
+          "time": "15:10",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84542"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "11:50",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84541"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "11:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84543"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "14:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84544"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "11:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84546"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "14:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84547"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "11:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84548"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "21:40",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84549"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "15:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84551"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "14:00",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84559"
+        },
+        {
           "date": "2026-12-11",
           "time": "21:45",
           "title": "Red Snow",
@@ -2536,22 +2431,22 @@
       ]
     },
     {
-      "key": "fest:bampfa:hong kong cinema rarities and restorations digital restoration",
-      "name": "Hong Kong Cinema: Rarities and Restorations · Digital Restoration",
-      "venueId": "bampfa",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "url": "https://bampfa.org/event/rouge",
+      "key": "fest:alamo:fantastic fest presents baby day",
+      "name": "Fantastic Fest Presents · Baby Day",
+      "venueId": "alamo",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-24",
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84321",
       "showtimes": 1,
       "sample": [
-        "Rouge"
+        "Wild Horse Nine"
       ],
       "programme": [
         {
-          "date": "2026-11-22",
-          "time": "18:00",
-          "title": "Rouge",
-          "url": "https://bampfa.org/event/rouge"
+          "date": "2026-11-24",
+          "time": "15:20",
+          "title": "Wild Horse Nine",
+          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84321"
         }
       ]
     },
