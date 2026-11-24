@@ -1,34 +1,6 @@
 {
-  "generatedAt": "2026-11-24T00:28:57.751Z",
+  "generatedAt": "2026-11-24T22:50:14.490Z",
   "films": {
-    "tmdb:8220": {
-      "key": "tmdb:8220",
-      "title": "Dark Habits",
-      "year": 1983,
-      "director": "Pedro Almodóvar",
-      "runtime": 100,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/AB9cm20W0lGebbI39swUmdYZAV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/njHtlpln6iBMonTkXGI7plRMaIM.jpg",
-      "tmdbId": 8220,
-      "popularity": 2.166,
-      "releaseDate": "1983-10-03",
-      "overview": "After her drug pusher boyfriend overdoses on heroin, a cabaret singer finds refuge from the authorities in a convent for fallen women."
-    },
-    "tmdb:1255": {
-      "key": "tmdb:1255",
-      "title": "The Host",
-      "year": 2006,
-      "director": "Bong Joon Ho",
-      "runtime": 120,
-      "genre": "Horror",
-      "poster": "https://image.tmdb.org/t/p/w500/dEDLY3KeghKFzks5nTDWdigVikr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/m0wczZyNfWpu5q9wNuhFUGGiLxG.jpg",
-      "tmdbId": 1255,
-      "popularity": 9.0028,
-      "releaseDate": "2006-07-27",
-      "overview": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her."
-    },
     "tmdb:31767": {
       "key": "tmdb:31767",
       "title": "The Devils",
@@ -266,6 +238,20 @@
       "popularity": 1.1673,
       "releaseDate": "1975-02-21",
       "overview": "At the turn of the century, Lodz, Poland, was a quick-paced manufacturing center for textiles, replete with cutthroat industrialists and unsafe working conditions. Three young friends, a Pole, a Jew, and a German, pool their money together to build a factory."
+    },
+    "tmdb:9880": {
+      "key": "tmdb:9880",
+      "title": "The Princess Diaries",
+      "year": 2001,
+      "director": "Garry Marshall",
+      "runtime": 115,
+      "genre": "Comedy",
+      "poster": "https://image.tmdb.org/t/p/w500/7axhsbEzFan6HQQ1aMOy7w3CFRx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ktPixrzD9Rbet7Co4uUWxyR9191.jpg",
+      "tmdbId": 9880,
+      "popularity": 9.7136,
+      "releaseDate": "2001-08-03",
+      "overview": "A socially awkward but very bright 15-year-old girl being raised by a single mom discovers that she is the princess of a small European country because of the recent death of her long-absent father, who, unknown to her, was the crown prince of Genovia. She must make a choice between continuing the life of a San Francisco teen or stepping up to the throne."
     },
     "tmdb:850": {
       "key": "tmdb:850",
@@ -644,20 +630,6 @@
       "releaseDate": "1999-07-16",
       "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head."
     },
-    "tmdb:26039": {
-      "key": "tmdb:26039",
-      "title": "Point Blank",
-      "year": 1967,
-      "director": "John Boorman",
-      "runtime": 92,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/xvZc8EvB7tNPHM9VdmNA19EiwqU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/sousyLLi3l14qho6gATKYX7pEyR.jpg",
-      "tmdbId": 26039,
-      "popularity": 5.164,
-      "releaseDate": "1967-08-30",
-      "overview": "After being double-crossed and left for dead, a mysterious man named Walker single-mindedly tries to retrieve the rather inconsequential sum of money that was stolen from him."
-    },
     "tmdb:331482": {
       "key": "tmdb:331482",
       "title": "Little Women",
@@ -726,20 +698,6 @@
       "popularity": 3.8005,
       "releaseDate": "1980-02-29",
       "overview": "Army psychiatrist Colonel Kane is posted to a secluded gothic castle housing a military asylum. With a reserved calm, he indulges the inmates' delusions, allowing them free rein to express their fantasies."
-    },
-    "tmdb:7452": {
-      "key": "tmdb:7452",
-      "title": "The Cook, the Thief, His Wife & Her Lover",
-      "year": 1989,
-      "director": "Peter Greenaway",
-      "runtime": 124,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/15xMqAnFsROopAT66zdRyu2Dtek.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/rzaf3eCT8pVCGvuS7P8g2nPitqC.jpg",
-      "tmdbId": 7452,
-      "popularity": 5.9829,
-      "releaseDate": "1989-10-13",
-      "overview": "When churlish mobster Albert Spica acquires an upscale French restaurant in London, he dines there nightly, effectively scaring off the clientele with his bad manners. His wife, Georgina, is especially disgusted by him, and soon begins an affair with regular guest Michael. Despite their best efforts to keep it secret, Spica learns about their trysts, and he plots a terrible revenge."
     },
     "tmdb:13398": {
       "key": "tmdb:13398",
@@ -1132,6 +1090,20 @@
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
     },
+    "tmdb:10404": {
+      "key": "tmdb:10404",
+      "title": "Raise the Red Lantern",
+      "year": 1991,
+      "director": "Zhang Yimou",
+      "runtime": 125,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
+      "tmdbId": 10404,
+      "popularity": 7.1554,
+      "releaseDate": "1991-10-10",
+      "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained."
+    },
     "tmdb:27064": {
       "key": "tmdb:27064",
       "title": "Mishima: A Life in Four Chapters",
@@ -1176,44 +1148,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "roxie:2026-11-23:18:00:tmdb:8220",
-      "venueId": "roxie",
-      "filmKey": "tmdb:8220",
-      "date": "2026-11-23",
-      "time": "18:00",
-      "url": "https://roxie.com/film/dark-habits/",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-23:18:45:tmdb:26039",
-      "venueId": "alamo",
-      "filmKey": "tmdb:26039",
-      "date": "2026-11-23",
-      "time": "18:45",
-      "url": "https://drafthouse.com/sf/show/queer-film-theory-101-point-blank-1967?cinemaId=0801&sessionId=83867",
-      "note": "Queer Film Theory 101 · John Boorman and Lee Marvin bring hardboiled noir into the New Wave",
-      "source": "alamo"
-    },
-    {
-      "id": "roxie:2026-11-23:20:30:tmdb:1255",
-      "venueId": "roxie",
-      "filmKey": "tmdb:1255",
-      "date": "2026-11-23",
-      "time": "20:30",
-      "url": "https://roxie.com/film/the-host-20th-anniverary-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-23:21:40:tmdb:7452",
-      "venueId": "alamo",
-      "filmKey": "tmdb:7452",
-      "date": "2026-11-23",
-      "time": "21:40",
-      "url": "https://drafthouse.com/sf/show/the-cook-the-thief-his-wife-her-lover?cinemaId=0801&sessionId=84315",
-      "source": "alamo"
-    },
     {
       "id": "vogue:2026-11-24:16:30:tmdb:66664",
       "venueId": "vogue",
@@ -1364,6 +1298,16 @@
       "source": "bampfa"
     },
     {
+      "id": "rafael:2026-11-27:18:45:tmdb:10404",
+      "venueId": "rafael",
+      "filmKey": "tmdb:10404",
+      "date": "2026-11-27",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/raise-the-red-lantern",
+      "format": "4K",
+      "source": "rafael"
+    },
+    {
       "id": "balboa:2026-11-27:19:30:tmdb:13963",
       "venueId": "balboa",
       "filmKey": "tmdb:13963",
@@ -1391,6 +1335,15 @@
       "time": "20:40",
       "url": "https://roxie.com/film/johnny-mnemonic-in-black-and-white/",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-11-27:21:15:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-27",
+      "time": "21:15",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "4star:2026-11-28:10:00:tmdb:12429",
@@ -1444,6 +1397,16 @@
       "source": "bampfa"
     },
     {
+      "id": "rafael:2026-11-28:18:45:tmdb:10404",
+      "venueId": "rafael",
+      "filmKey": "tmdb:10404",
+      "date": "2026-11-28",
+      "time": "18:45",
+      "url": "https://cinema.cafilm.org/film/raise-the-red-lantern",
+      "format": "4K",
+      "source": "rafael"
+    },
+    {
       "id": "4star:2026-11-28:20:00:tmdb:98096",
       "venueId": "4star",
       "filmKey": "tmdb:98096",
@@ -1452,6 +1415,15 @@
       "url": "https://www.4-star-movies.com/calendar-of-events/live-music-stay-out",
       "note": "Stay Out",
       "source": "4star"
+    },
+    {
+      "id": "newparkway:2026-11-28:21:25:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-28",
+      "time": "21:25",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "balboa:2026-11-28:23:00:tmdb:36685",
@@ -1494,11 +1466,11 @@
       "source": "bampfa"
     },
     {
-      "id": "newparkway:2026-11-29:15:00:tmdb:39410",
+      "id": "newparkway:2026-11-29:14:35:tmdb:39410",
       "venueId": "newparkway",
       "filmKey": "tmdb:39410",
       "date": "2026-11-29",
-      "time": "15:00",
+      "time": "14:35",
       "url": "https://thenewparkway.com/movie/mothra/",
       "source": "newparkway"
     },
@@ -1558,6 +1530,15 @@
       "time": "17:40",
       "url": "https://roxie.com/film/the-history-of-concrete/",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-11-30:20:55:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-11-30",
+      "time": "20:55",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "castro:2026-12-01:19:30:tmdb:48288",
@@ -1680,6 +1661,15 @@
       "url": "https://drafthouse.com/sf/show/tokyo-godfathers-subtitled?cinemaId=0801&sessionId=83897",
       "note": "Subtitled",
       "source": "alamo"
+    },
+    {
+      "id": "newparkway:2026-12-03:21:30:tmdb:31767",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:31767",
+      "date": "2026-12-03",
+      "time": "21:30",
+      "url": "https://thenewparkway.com/movie/the-devils/",
+      "source": "newparkway"
     },
     {
       "id": "bampfa:2026-12-04:19:00:tmdb:1598",
@@ -2239,6 +2229,15 @@
       "source": "newparkway"
     },
     {
+      "id": "roxie:2026-12-19:15:05:tmdb:9880",
+      "venueId": "roxie",
+      "filmKey": "tmdb:9880",
+      "date": "2026-12-19",
+      "time": "15:05",
+      "url": "https://roxie.com/film/bay-area-movies-the-princess-diaries/",
+      "source": "roxie"
+    },
+    {
       "id": "roxie:2026-12-19:15:30:tmdb:511",
       "venueId": "roxie",
       "filmKey": "tmdb:511",
@@ -2322,34 +2321,16 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-23",
+      "startDate": "2026-11-24",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84307",
-      "showtimes": 16,
+      "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239",
+      "showtimes": 13,
       "sample": [
         "Red Snow",
         "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-23",
-          "time": "16:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84307"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "19:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84308"
-        },
-        {
-          "date": "2026-11-23",
-          "time": "22:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84312"
-        },
         {
           "date": "2026-11-24",
           "time": "19:00",
