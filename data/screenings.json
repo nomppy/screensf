@@ -1,20 +1,6 @@
 {
-  "generatedAt": "2026-11-24T22:50:14.490Z",
+  "generatedAt": "2026-11-25T22:03:12.551Z",
   "films": {
-    "tmdb:31767": {
-      "key": "tmdb:31767",
-      "title": "The Devils",
-      "year": 1971,
-      "director": "Ken Russell",
-      "runtime": 112,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
-      "tmdbId": 31767,
-      "popularity": 5.9565,
-      "releaseDate": "1971-07-16",
-      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
-    },
     "tmdb:1596296": {
       "key": "tmdb:1596296",
       "title": "The History of Concrete",
@@ -98,6 +84,20 @@
       "popularity": 14.741,
       "releaseDate": "2000-09-29",
       "overview": "In 1960s Hong Kong, two neighbors form an intimate bond after making a discovery about their spouses in this visually stunning tale of unrequited love."
+    },
+    "tmdb:31767": {
+      "key": "tmdb:31767",
+      "title": "The Devils",
+      "year": 1971,
+      "director": "Ken Russell",
+      "runtime": 112,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+      "tmdbId": 31767,
+      "popularity": 5.9565,
+      "releaseDate": "1971-07-16",
+      "overview": "In 1634 France, charismatic Father Urbain Grandier becomes the target of a sexually obsessed nun’s witchcraft accusations, which corrupt church and state officials are all too happy to exploit.​​​​​​​​​​​​​​​​"
     },
     "tmdb:1597242": {
       "key": "tmdb:1597242",
@@ -295,20 +295,6 @@
       "releaseDate": "2002-11-08",
       "overview": "For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit's vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment… is another chance."
     },
-    "tmdb:339877": {
-      "key": "tmdb:339877",
-      "title": "Loving Vincent",
-      "year": 2017,
-      "director": "DK Welchman, Hugh Welchman",
-      "runtime": 95,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/KKrsUGDXZfpeL3ddXTeGibmUHS.jpg",
-      "tmdbId": 339877,
-      "popularity": 5.7769,
-      "releaseDate": "2017-06-22",
-      "overview": "A young man arrives at the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there."
-    },
     "tmdb:13963": {
       "key": "tmdb:13963",
       "title": "The Last Waltz",
@@ -364,20 +350,6 @@
       "popularity": 2.3785,
       "releaseDate": "2024-01-26",
       "overview": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers."
-    },
-    "tmdb:66664": {
-      "key": "tmdb:66664",
-      "title": "Shocking Dark",
-      "year": 1989,
-      "director": "Bruno Mattei",
-      "runtime": 90,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/tztmdSyvfvQBVyzqyh6sKQeJP5g.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/b4oyUTJzHQ4Q2CNoDYtvFJkm29q.jpg",
-      "tmdbId": 66664,
-      "popularity": 0.8858,
-      "releaseDate": "1989-03-17",
-      "overview": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures."
     },
     "tmdb:439": {
       "key": "tmdb:439",
@@ -644,19 +616,6 @@
       "releaseDate": "2019-12-25",
       "overview": "Four sisters come of age in America in the aftermath of the Civil War."
     },
-    "tmdb:389010": {
-      "key": "tmdb:389010",
-      "title": "September Songs: The Music of Kurt Weill",
-      "year": 1994,
-      "director": "Larry Weinstein",
-      "runtime": 91,
-      "genre": "Music",
-      "poster": "https://image.tmdb.org/t/p/w500/9l3jj6wLAiop2TAKRDdf9ZaX372.jpg",
-      "tmdbId": 389010,
-      "popularity": 1.0488,
-      "releaseDate": "1994-01-25",
-      "overview": "Filmmaker Larry Weinstein stages a wide range of performances in tribute to the compositions of Kurt Weill."
-    },
     "tmdb:1359": {
       "key": "tmdb:1359",
       "title": "American Psycho",
@@ -684,20 +643,6 @@
       "popularity": 6.2521,
       "releaseDate": "1990-08-17",
       "overview": "On the fifteenth anniversary of the exorcism that claimed Father Damien Karras' life, Police Lieutenant Kinderman's world is once again shattered when a boy is found decapitated and savagely crucified."
-    },
-    "tmdb:18910": {
-      "key": "tmdb:18910",
-      "title": "The Ninth Configuration",
-      "year": 1980,
-      "director": "William Peter Blatty",
-      "runtime": 118,
-      "genre": "Drama",
-      "poster": "https://image.tmdb.org/t/p/w500/jlQMBckfnLhiCusar62sJ7WCKBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/rflNo8MqOQnkyA4aplRweprlwwe.jpg",
-      "tmdbId": 18910,
-      "popularity": 3.8005,
-      "releaseDate": "1980-02-29",
-      "overview": "Army psychiatrist Colonel Kane is posted to a secluded gothic castle housing a military asylum. With a reserved calm, he indulges the inmates' delusions, allowing them free rein to express their fantasies."
     },
     "tmdb:13398": {
       "key": "tmdb:13398",
@@ -1006,34 +951,6 @@
       "releaseDate": "1985-02-20",
       "overview": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies."
     },
-    "tmdb:42077": {
-      "key": "tmdb:42077",
-      "title": "My Name Is Julia Ross",
-      "year": 1945,
-      "director": "Joseph H. Lewis",
-      "runtime": 65,
-      "genre": "Thriller",
-      "poster": "https://image.tmdb.org/t/p/w500/ofUTB5ojMTr6mndUxVQan5p8p2X.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/gFl2UbHNznIxxsp4kkKX7lB8uGX.jpg",
-      "tmdbId": 42077,
-      "popularity": 1.9485,
-      "releaseDate": "1945-11-08",
-      "overview": "Julia Ross secures employment with a wealthy widow and goes to live at her house. Two days later, she awakens in a different house in different clothes and with a new identity."
-    },
-    "tmdb:33673": {
-      "key": "tmdb:33673",
-      "title": "His Kind of Woman",
-      "year": 1951,
-      "director": "John Farrow",
-      "runtime": 120,
-      "genre": "Crime",
-      "poster": "https://image.tmdb.org/t/p/w500/mB5vCfHE7ootyK96F3IVhLSaJzP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/pOtCuWEVxWrO7bkZiPvirOv27ZT.jpg",
-      "tmdbId": 33673,
-      "popularity": 2.3539,
-      "releaseDate": "1951-08-15",
-      "overview": "Career gambler Dan Milner agrees to a $50,000 deal to leave the USA for Mexico, only to find himself entangled with fellow guests at a luxurious resort and suspecting that the man who hired him may be the deported crime boss Nick Ferraro aiming to re-enter to the USA."
-    },
     "tmdb:39410": {
       "key": "tmdb:39410",
       "title": "Mothra",
@@ -1089,6 +1006,20 @@
       "popularity": 18.9272,
       "releaseDate": "1982-06-25",
       "overview": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims."
+    },
+    "tmdb:1585": {
+      "key": "tmdb:1585",
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "director": "Frank Capra",
+      "runtime": 131,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+      "tmdbId": 1585,
+      "popularity": 15.0195,
+      "releaseDate": "1946-12-20",
+      "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin."
     },
     "tmdb:10404": {
       "key": "tmdb:10404",
@@ -1148,76 +1079,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "vogue:2026-11-24:16:30:tmdb:66664",
-      "venueId": "vogue",
-      "filmKey": "tmdb:66664",
-      "date": "2026-11-24",
-      "time": "16:30",
-      "url": "https://voguemovies.com/calendar-of-events/terminator-2-judgment-day-november-24",
-      "format": "3D",
-      "note": "On Digital 3D",
-      "source": "vogue"
-    },
-    {
-      "id": "newparkway:2026-11-24:18:30:tmdb:42077",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:42077",
-      "date": "2026-11-24",
-      "time": "18:30",
-      "url": "https://thenewparkway.com/movie/my-name-is-julia-ross-noirvember/",
-      "note": "Noirvember",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-11-24:18:45:tmdb:389010",
-      "venueId": "alamo",
-      "filmKey": "tmdb:389010",
-      "date": "2026-11-24",
-      "time": "18:45",
-      "url": "https://drafthouse.com/sf/show/september-songs?cinemaId=0801&sessionId=83868",
-      "source": "alamo"
-    },
-    {
-      "id": "balboa:2026-11-24:19:30:tmdb:339877",
-      "venueId": "balboa",
-      "filmKey": "tmdb:339877",
-      "date": "2026-11-24",
-      "time": "19:30",
-      "url": "https://www.balboamovies.com/calendar-of-events/loving-vincent-november-24",
-      "note": "Presented by Gallery 3630, a series which specializes in cinema about artists.",
-      "source": "balboa"
-    },
-    {
-      "id": "newparkway:2026-11-24:20:05:tmdb:33673",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:33673",
-      "date": "2026-11-24",
-      "time": "20:05",
-      "url": "https://thenewparkway.com/movie/his-kind-of-woman-noirvember/",
-      "note": "Noirvember",
-      "source": "newparkway"
-    },
-    {
-      "id": "roxie:2026-11-24:20:40:tmdb:31767",
-      "venueId": "roxie",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-24",
-      "time": "20:40",
-      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
-      "format": "4K",
-      "source": "roxie"
-    },
-    {
-      "id": "alamo:2026-11-24:21:30:tmdb:18910",
-      "venueId": "alamo",
-      "filmKey": "tmdb:18910",
-      "date": "2026-11-24",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/terror-tuesday-the-ninth-configuration?cinemaId=0801&sessionId=83869",
-      "note": "Terror Tuesday · William Peter Blatty's \"real\" EXORCIST II",
-      "source": "alamo"
-    },
     {
       "id": "4star:2026-11-25:18:15:tmdb:13479",
       "venueId": "4star",
@@ -1918,6 +1779,16 @@
       "source": "roxie"
     },
     {
+      "id": "roxie:2026-12-10:21:00:tmdb:31767",
+      "venueId": "roxie",
+      "filmKey": "tmdb:31767",
+      "date": "2026-12-10",
+      "time": "21:00",
+      "url": "https://roxie.com/film/ken-russells-the-devils-4k-restoration/",
+      "format": "4K",
+      "source": "roxie"
+    },
+    {
       "id": "bampfa:2026-12-11:19:30:tmdb:198",
       "venueId": "bampfa",
       "filmKey": "tmdb:198",
@@ -2314,6 +2185,15 @@
       "time": "20:50",
       "url": "https://roxie.com/film/staff-pick-8-mile/",
       "source": "roxie"
+    },
+    {
+      "id": "newparkway:2026-12-23:15:00:tmdb:1585",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:1585",
+      "date": "2026-12-23",
+      "time": "15:00",
+      "url": "https://thenewparkway.com/movie/its-a-wonderful-life/",
+      "source": "newparkway"
     }
   ],
   "festivals": [
@@ -2321,28 +2201,15 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-24",
+      "startDate": "2026-11-25",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239",
-      "showtimes": 13,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84542",
+      "showtimes": 11,
       "sample": [
         "Red Snow",
-        "The Vile",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-24",
-          "time": "19:00",
-          "title": "The Vile",
-          "url": "https://drafthouse.com/sf/show/the-vile?cinemaId=0801&sessionId=84239"
-        },
-        {
-          "date": "2026-11-24",
-          "time": "21:30",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84323"
-        },
         {
           "date": "2026-11-25",
           "time": "15:10",
@@ -2408,26 +2275,6 @@
           "time": "21:45",
           "title": "Red Snow",
           "url": "https://drafthouse.com/sf/show/red-snow?cinemaId=0801&sessionId=84240"
-        }
-      ]
-    },
-    {
-      "key": "fest:alamo:fantastic fest presents baby day",
-      "name": "Fantastic Fest Presents · Baby Day",
-      "venueId": "alamo",
-      "startDate": "2026-11-24",
-      "endDate": "2026-11-24",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84321",
-      "showtimes": 1,
-      "sample": [
-        "Wild Horse Nine"
-      ],
-      "programme": [
-        {
-          "date": "2026-11-24",
-          "time": "15:20",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84321"
         }
       ]
     },
