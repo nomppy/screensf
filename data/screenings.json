@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:03:12.551Z",
+  "generatedAt": "2026-11-26T22:02:09.508Z",
   "films": {
     "tmdb:1596296": {
       "key": "tmdb:1596296",
@@ -351,34 +351,6 @@
       "releaseDate": "2024-01-26",
       "overview": "In the 19th century, a drunken applejack salesman must go from zero to hero and become North America's greatest fur trapper by defeating hundreds of beavers."
     },
-    "tmdb:439": {
-      "key": "tmdb:439",
-      "title": "La Dolce Vita",
-      "year": 1960,
-      "director": "Federico Fellini",
-      "runtime": 174,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/dZ2v0DAX4aCZartCzZdg4ZinSW2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg",
-      "tmdbId": 439,
-      "popularity": 3.8116,
-      "releaseDate": "1960-02-05",
-      "overview": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer."
-    },
-    "tmdb:13479": {
-      "key": "tmdb:13479",
-      "title": "A Charlie Brown Thanksgiving",
-      "year": 1973,
-      "director": "Bill Melendez, Phil Roman",
-      "runtime": 25,
-      "genre": "Animation",
-      "poster": "https://image.tmdb.org/t/p/w500/xmtGJz3uMqYmA6pEpZgDWMzbX2E.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/xCTW6uzOWasbTivZIeQc2AsEIWr.jpg",
-      "tmdbId": 13479,
-      "popularity": 3.5954,
-      "releaseDate": "1973-11-20",
-      "overview": "Turkey, cranberries, pumpkin pie... and the Peanuts gang to share them with. This is going to be the greatest Thanksgiving ever! The fun begins when Peppermint Patty invites herself and her pals to Charlie Brown's house for a REALLY big turkey party. Good grief! All our hero can cook is cold cereal and maybe toast. Is Charlie Brown doomed? Not when Linus, Snoopy and Woodstock chip in to save the (Thanksgiving) Day. With such good friends, Charlie Brown - and all of us - have so many reasons to be thankful."
-    },
     "tmdb:60645": {
       "key": "tmdb:60645",
       "title": "MC5: A True Testimonial",
@@ -671,19 +643,6 @@
       "popularity": 7.3919,
       "releaseDate": "2004-10-29",
       "overview": "It took Anna 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph, and finally moving on. However, on the night of her engagement party, a young boy named Sean turns up, saying he is her dead husband reincarnated. At first she ignores the child, but his knowledge of her former husband's life is uncanny, leading her to believe that he might be telling the truth."
-    },
-    "tmdb:146790": {
-      "key": "tmdb:146790",
-      "title": "Sudden Fury",
-      "year": 1993,
-      "director": "Craig R. Baxley",
-      "runtime": 98,
-      "genre": "Action",
-      "poster": "https://image.tmdb.org/t/p/w500/bcJflZpjpDEFooOsX4gXGzumo6F.jpg",
-      "tmdbId": 146790,
-      "popularity": 3.9253,
-      "releaseDate": "1993-11-21",
-      "overview": "A teenage boy finds his mother and father murdered in their home but as the story goes on he reveals he knows more than he is letting on."
     },
     "tmdb:636": {
       "key": "tmdb:636",
@@ -1079,45 +1038,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "4star:2026-11-25:18:15:tmdb:13479",
-      "venueId": "4star",
-      "filmKey": "tmdb:13479",
-      "date": "2026-11-25",
-      "time": "18:15",
-      "url": "https://www.4-star-movies.com/calendar-of-events/peanuts-thanksgiving-wed",
-      "note": "Spend Thanksgiving with good ol’ Charlie Brown!",
-      "source": "4star"
-    },
-    {
-      "id": "vogue:2026-11-25:19:00:tmdb:439",
-      "venueId": "vogue",
-      "filmKey": "tmdb:439",
-      "date": "2026-11-25",
-      "time": "19:00",
-      "url": "https://voguemovies.com/calendar-of-events/la-dolce-vita-november-25",
-      "note": "La dolce vita",
-      "source": "vogue"
-    },
-    {
-      "id": "newparkway:2026-11-25:21:25:tmdb:31767",
-      "venueId": "newparkway",
-      "filmKey": "tmdb:31767",
-      "date": "2026-11-25",
-      "time": "21:25",
-      "url": "https://thenewparkway.com/movie/the-devils/",
-      "source": "newparkway"
-    },
-    {
-      "id": "alamo:2026-11-25:21:30:tmdb:146790",
-      "venueId": "alamo",
-      "filmKey": "tmdb:146790",
-      "date": "2026-11-25",
-      "time": "21:30",
-      "url": "https://drafthouse.com/sf/show/weird-wednesday-sudden-fury?cinemaId=0801&sessionId=83871",
-      "note": "Weird Wednesday · The explosive story of an accident that turned into murder!",
-      "source": "alamo"
-    },
     {
       "id": "alamo:2026-11-26:16:00:tmdb:2609",
       "venueId": "alamo",
@@ -2201,27 +2121,15 @@
       "key": "fest:alamo:fantastic fest presents",
       "name": "Fantastic Fest Presents",
       "venueId": "alamo",
-      "startDate": "2026-11-25",
+      "startDate": "2026-11-27",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84542",
-      "showtimes": 11,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84543",
+      "showtimes": 9,
       "sample": [
         "Red Snow",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-25",
-          "time": "15:10",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84542"
-        },
-        {
-          "date": "2026-11-26",
-          "time": "11:50",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84541"
-        },
         {
           "date": "2026-11-27",
           "time": "11:00",
