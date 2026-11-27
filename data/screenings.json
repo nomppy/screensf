@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T22:02:09.508Z",
+  "generatedAt": "2026-11-27T21:44:37.506Z",
   "films": {
     "tmdb:1596296": {
       "key": "tmdb:1596296",
@@ -546,20 +546,6 @@
       "releaseDate": "2004-11-10",
       "overview": "When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."
     },
-    "tmdb:2609": {
-      "key": "tmdb:2609",
-      "title": "Planes, Trains and Automobiles",
-      "year": 1987,
-      "director": "John Hughes",
-      "runtime": 92,
-      "genre": "Comedy",
-      "poster": "https://image.tmdb.org/t/p/w500/fwi2cET87xArJCb8MdbWq2BZO3n.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w780/4f8JBqvWyPObKTrjvJnp9BeOUyY.jpg",
-      "tmdbId": 2609,
-      "popularity": 7.8594,
-      "releaseDate": "1987-11-26",
-      "overview": "An irritable marketing executive, Neal Page, is heading home to Chicago for Thanksgiving when a number of delays force him to travel with a well meaning but overbearing shower curtain ring salesman, Del Griffith."
-    },
     "tmdb:345": {
       "key": "tmdb:345",
       "title": "Eyes Wide Shut",
@@ -980,6 +966,20 @@
       "releaseDate": "1946-12-20",
       "overview": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin."
     },
+    "tmdb:14811": {
+      "key": "tmdb:14811",
+      "title": "Fiddler on the Roof",
+      "year": 1971,
+      "director": "Norman Jewison",
+      "runtime": 181,
+      "genre": "Drama",
+      "poster": "https://image.tmdb.org/t/p/w500/qXIv5P7hUroBgn5lLkRcXYe7W4n.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w780/n1pItGYLcgAh7c0ewjWeXKTjXFT.jpg",
+      "tmdbId": 14811,
+      "popularity": 3.6124,
+      "releaseDate": "1971-11-03",
+      "overview": "In a pre-revolutionary Russia, a poor Jewish milkman struggles with the challenges of a changing world as his daughters fall in love and antisemitism grows."
+    },
     "tmdb:10404": {
       "key": "tmdb:10404",
       "title": "Raise the Red Lantern",
@@ -1038,15 +1038,6 @@
     }
   },
   "screenings": [
-    {
-      "id": "alamo:2026-11-26:16:00:tmdb:2609",
-      "venueId": "alamo",
-      "filmKey": "tmdb:2609",
-      "date": "2026-11-26",
-      "time": "16:00",
-      "url": "https://drafthouse.com/sf/show/planes-trains-automobiles?cinemaId=0801&sessionId=83872",
-      "source": "alamo"
-    },
     {
       "id": "bampfa:2026-11-27:15:30:tmdb:3082",
       "venueId": "bampfa",
@@ -2114,6 +2105,15 @@
       "time": "15:00",
       "url": "https://thenewparkway.com/movie/its-a-wonderful-life/",
       "source": "newparkway"
+    },
+    {
+      "id": "newparkway:2026-12-25:15:00:tmdb:14811",
+      "venueId": "newparkway",
+      "filmKey": "tmdb:14811",
+      "date": "2026-12-25",
+      "time": "15:00",
+      "url": "https://thenewparkway.com/movie/fiddler-on-the-roof/",
+      "source": "newparkway"
     }
   ],
   "festivals": [
@@ -2123,19 +2123,13 @@
       "venueId": "alamo",
       "startDate": "2026-11-27",
       "endDate": "2026-12-11",
-      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84543",
-      "showtimes": 9,
+      "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84544",
+      "showtimes": 8,
       "sample": [
         "Red Snow",
         "Wild Horse Nine"
       ],
       "programme": [
-        {
-          "date": "2026-11-27",
-          "time": "11:00",
-          "title": "Wild Horse Nine",
-          "url": "https://drafthouse.com/sf/show/wild-horse-nine?cinemaId=0801&sessionId=84543"
-        },
         {
           "date": "2026-11-27",
           "time": "14:00",
@@ -2554,6 +2548,32 @@
           "time": "12:00",
           "title": "of the Moving Image",
           "url": "https://roxie.com/film/14th-festival-of-the-moving-image/"
+        }
+      ]
+    },
+    {
+      "key": "fest:alamo:fantastic fest presents new years day celebration pre recorded q and a with francis ford coppola",
+      "name": "Fantastic Fest Presents · New Year's Day Celebration · Pre-recorded Q&A with Francis Ford Coppola",
+      "venueId": "alamo",
+      "startDate": "2027-01-01",
+      "endDate": "2027-01-01",
+      "url": "https://drafthouse.com/sf/show/special-event-megalopolis-new-years-day-celebration?cinemaId=0801&sessionId=83924",
+      "showtimes": 2,
+      "sample": [
+        "Megalopolis"
+      ],
+      "programme": [
+        {
+          "date": "2027-01-01",
+          "time": "16:00",
+          "title": "Megalopolis",
+          "url": "https://drafthouse.com/sf/show/special-event-megalopolis-new-years-day-celebration?cinemaId=0801&sessionId=83924"
+        },
+        {
+          "date": "2027-01-01",
+          "time": "19:40",
+          "title": "Megalopolis",
+          "url": "https://drafthouse.com/sf/show/special-event-megalopolis-new-years-day-celebration?cinemaId=0801&sessionId=83925"
         }
       ]
     }
